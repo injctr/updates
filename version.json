@@ -1,1 +1,8 @@
-[{"version":"1.38","message":"Test","allow":"allow","url":"http://youtube.com/post/UgkxCUqYIe9Zkdxw-kRDVJYbVUlSkhtKJL-8?si=1hWw46BqI1cLQJyC"}]
+[
+  {
+    "version": "1.38",
+    "message": "Test",
+    "allow": "allow",
+    "link": "http://youtube.com/post/UgkxCUqYIe9Zkdxw-kRDVJYbVUlSkhtKJL-8?si=1hWw46BqI1cLQJyC"
+  }
+]
