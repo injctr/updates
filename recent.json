@@ -1,21 +1,13 @@
 [
   {
     "Recent": {
-      "Cyclops": {
-        "img": "https://i.supaimg.com/0dfed781-16e7-48cb-b6db-5acffdcdf77f.jpg",
-        "key": "-OY5YWq75udKiT_oRs4S",
-        "name1": "Cyclops",
-        "name2": "SpongeBob",
-        "role": "Mage",
-        "tag": "https://i.supaimg.com/36775e2c-dd64-4b0e-b353-9c38cd0ae33b.png"
-      },
-      "Gloo": {
-        "img": "https://i.supaimg.com/e0134506-72f7-4dab-9848-168dc3c8df1f.jpg",
-        "key": "-OYA9RzVRrrRzAMriQDo",
-        "name1": "Gloo",
-        "name2": "Patrick",
-        "role": "Tank",
-        "tag": "https://i.supaimg.com/36775e2c-dd64-4b0e-b353-9c38cd0ae33b.png"
+      "Granger": {
+        "img": "https://i.imgur.com/sExfFjN.jpeg",
+        "key": "-OY9dm8n4llMCUciRyGK",
+        "name1": "Granger",
+        "name2": "Cosmic Finality",
+        "role": "Marksman",
+        "tag": "https://i.supaimg.com/56471255-f65b-4dbc-ac15-b66701a8d7d9.png"
       },
       "Benedetta": {
         "img": "https://i.supaimg.com/24c8e6f7-252d-4078-b26d-beca018e5bee.jpg",
@@ -40,14 +32,6 @@
         "name2": "Vessel of Ruin",
         "role": "Marksman",
         "tag": "https://i.supaimg.com/b5750236-2ab1-45d7-968e-ce699d16b1f8.png"
-      },
-      "Granger": {
-        "img": "https://i.imgur.com/sExfFjN.jpeg",
-        "key": "-OY9dm8n4llMCUciRyGK",
-        "name1": "Granger",
-        "name2": "Cosmic Finality",
-        "role": "Marksman",
-        "tag": "https://i.supaimg.com/56471255-f65b-4dbc-ac15-b66701a8d7d9.png"
       }
     }
   }
