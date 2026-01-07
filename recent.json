@@ -3,56 +3,42 @@
     "Recent": {
       "Granger": {
         "img": "https://i.supaimg.com/66ea404e-5210-4bfb-abba-d2cd9b9d1bb3.jpg",
-        "key": "-OY9dm8n4llMCUciRyGK",
-        "name1": "Granger",
         "name2": "Thunder Ascendant",
         "role": "Marksman",
         "tag": "https://i.supaimg.com/1e2a3161-ec6f-46dc-9736-d434d3c5893e.png"
       },
       "Granger": {
         "img": "https://i.imgur.com/sExfFjN.jpeg",
-        "key": "-OY9dm8n4llMCUciRyGK",
-        "name1": "Granger",
         "name2": "Cosmic Finality",
         "role": "Marksman",
         "tag": "https://i.supaimg.com/56471255-f65b-4dbc-ac15-b66701a8d7d9.png"
       },
       "Benedetta": {
         "img": "https://i.supaimg.com/24c8e6f7-252d-4078-b26d-beca018e5bee.jpg",
-        "key": "-OXquIhqM2pBZJgSFVqh",
-        "name1": "Benedetta",
         "name2": "Vessel of Pride",
         "role": "Assassin",
         "tag": "https://i.supaimg.com/b5750236-2ab1-45d7-968e-ce699d16b1f8.png"
       },
       "Cecilion": {
         "img": "https://i.supaimg.com/eef2ccfe-1c04-454f-8681-86fa3b1458df.jpg",
-        "key": "-OY5WA9Prho3gUKxU2zY",
-        "name1": "Cecilion",
         "name2": "Vessel of Gluttony",
         "role": "Mage",
         "tag": "https://i.supaimg.com/b5750236-2ab1-45d7-968e-ce699d16b1f8.png"
       },
       "Clint": {
         "img": "https://i.supaimg.com/917d2a5f-148b-49e7-adbf-569bb16466fd.jpg",
-        "key": "-OY9qItzdHxtiUMjHzbR",
-        "name1": "Clint",
         "name2": "Vessel of Ruin",
         "role": "Marksman",
         "tag": "https://i.supaimg.com/b5750236-2ab1-45d7-968e-ce699d16b1f8.png"
       },
       "Cyclops": {
         "img": "https://i.supaimg.com/0dfed781-16e7-48cb-b6db-5acffdcdf77f.jpg",
-        "key": "-OY5YWq75udKiT_oRs4S",
-        "name1": "Cyclops",
         "name2": "SpongeBob",
         "role": "Mage",
         "tag": "https://i.supaimg.com/36775e2c-dd64-4b0e-b353-9c38cd0ae33b.png"
       },
       "Gloo": {
         "img": "https://i.supaimg.com/e0134506-72f7-4dab-9848-168dc3c8df1f.jpg",
-        "key": "-OYA9RzVRrrRzAMriQDo",
-        "name1": "Gloo",
         "name2": "Patrick",
         "role": "Tank",
         "tag": "https://i.supaimg.com/36775e2c-dd64-4b0e-b353-9c38cd0ae33b.png"
