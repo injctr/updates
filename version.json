@@ -1,6 +1,9 @@
 [
   {
+    "show_task": "yes",
     "version": "1.38",
+    "allow": "allow",
+    "link": "http://youtube.com/post/UgkxCUqYIe9Zkdxw-kRDVJYbVUlSkhtKJL-8?si=1hWw46BqI1cLQJyC",
     "message": "
     🔻January 8, 2026
     Saber Legend Optimized
@@ -17,8 +20,6 @@
     🔻January 6, 2026
     Optimized.
     Bugs fixed.
-    Faster Experience.",
-    "allow": "allow",
-    "link": "http://youtube.com/post/UgkxCUqYIe9Zkdxw-kRDVJYbVUlSkhtKJL-8?si=1hWw46BqI1cLQJyC"
+    Faster Experience."
   }
 ]
