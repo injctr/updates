@@ -2064,7 +2064,11 @@
             "img1": "https://i.supaimg.com/697833da-abbe-4eb5-b044-4a87b06be8ff.jpg",
             "name1": "Codename - Storm",
             "tag1": "https://i.supaimg.com/89d011e3-a8d7-4068-b50f-a84c21b7191a.png",
-            "type1": "Legend"
+            "type1": "Legend",
+            "type_links": {
+              "-ObQiufaoKMzCnXwxAg_": "unavailable",
+              "-ObQiufaoKMzCnXwxAga": "unavailable"
+            }
           },
           "-OXsQIrljZuTwV6Hqj-_": {
             "img1": "https://i.supaimg.com/c027d0fc-0fef-4031-a114-45bb6db09a38.png",
@@ -2749,7 +2753,7 @@
             "type_links": {
               "-O_N1DN0B_YYQarRoXEl": "unavailable",
               "-O_N1DN28bTOyMkrMd_y": "unavailable",
-              "-O_N1DN28bTOyMkrMd_z": "https://www.dropbox.com/scl/fi/atfbf1flcwwamib9jvwo4/Alucard-Legend-Luckybox.zip?rlkey=y4ooottpepg57awmaex5knnkn&st=tco3by78&dl=1",
+              "-O_N1DN28bTOyMkrMd_z": "unavailable",
               "-O_N1DN28bTOyMkrMda-": "unavailable",
               "-O_N1DN3hPwtmutEoays": "https://www.dropbox.com/scl/fi/d0mxnvnnn8ugd2ylfkm8n/Alucard-Starwars-Luckybox.zip?rlkey=sc1atz9f46l0gc6miucz68bzl&st=ahl8skyq&dl=1",
               "-O_N1DN3hPwtmutEoayt": "unavailable"
@@ -2784,7 +2788,7 @@
             }
           },
           "-OXsVhr9ZRQ90b_K9Aop": {
-            "img1": "https://i.supaimg.com/fda65aec-225e-44c1-8bf7-1693f5822491.png",
+            "img1": "https://i.supaimg.com/52522e75-ade1-4044-8e2d-3fb68e307be0.jpg",
             "name1": "Obsidian Blade",
             "tag1": "https://i.supaimg.com/89d011e3-a8d7-4068-b50f-a84c21b7191a.png",
             "type1": "Legend",
@@ -2805,7 +2809,7 @@
             "type_links": {
               "-O_N1QKH64GVuLtaY3fl": "https://www.dropbox.com/scl/fi/yooivpav8rfgguwb0ivym/Alucard-Luckybox-Empire-Agent.zip?rlkey=v5jsp7dwm1l4tnz35uwbyau8n&st=cx4feaon&dl=1",
               "-O_N1QKKvpCvU7usb3zE": "unavailable",
-              "-O_N1QKKvpCvU7usb3zF": "https://www.dropbox.com/scl/fi/n6zh3r3qhoifyzmvqs7lp/Alucard-Legend-Empire-Agent.zip?rlkey=29w8tqa1irm007nxbs0gqg4c6&st=8kshp764&dl=1",
+              "-O_N1QKKvpCvU7usb3zF": "unavailable",
               "-O_N1QKKvpCvU7usb3zG": "https://www.dropbox.com/scl/fi/ybybtuhbv24io7hso3nwd/Alucard-Lightborn-Empire-Agent.zip?rlkey=vog3hilb7eavjx4uks8l74aon&st=yobcxvca&dl=1",
               "-O_N1QKKvpCvU7usb3zH": "https://www.dropbox.com/scl/fi/gbe1uopu1o2afjwxwxtfj/Alucard-Starwars-Empire-Agent.zip?rlkey=wn0ch8w06j498w8gq2d6vvxsv&st=vumvmqvw&dl=1",
               "-O_N1QKKvpCvU7usb3zI": "unavailable"
@@ -2833,7 +2837,7 @@
             "type_links": {
               "-O_N1_OOlHFw9F7yfDYj": "https://www.dropbox.com/scl/fi/knmthk0c2nf655zh6yh2d/Alucard-Luckybox-Starwars.zip?rlkey=fg74g3mj1zxncp9wcps2wnziy&st=5gaksj88&dl=1",
               "-O_N1_OOlHFw9F7yfDYk": "unavailable",
-              "-O_N1_OOlHFw9F7yfDYl": "https://www.dropbox.com/scl/fi/6gpb3499t2k08z1q4wn5r/Alucard-Legend-Starwars.zip?rlkey=vmy0niskqnnhmgrd5qalr14b5&st=9fu95r45&dl=1",
+              "-O_N1_OOlHFw9F7yfDYl": "unavailable",
               "-O_N1_OOlHFw9F7yfDYm": "unavailable",
               "-O_N1_OOlHFw9F7yfDYn": "unavailable",
               "-O_N1_OOlHFw9F7yfDYo": "unavailable"
@@ -2868,7 +2872,7 @@
             "type2": "Valentine"
           },
           "-OYMG2Ce-hG98gdyNZsk": {
-            "img2": "https://i.supaimg.com/fda65aec-225e-44c1-8bf7-1693f5822491.png",
+            "img2": "https://i.supaimg.com/52522e75-ade1-4044-8e2d-3fb68e307be0.jpg",
             "name2": "Obsidian Blade",
             "tag2": "https://i.supaimg.com/89d011e3-a8d7-4068-b50f-a84c21b7191a.png",
             "type2": "Legend"
