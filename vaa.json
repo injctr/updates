@@ -4642,7 +4642,8 @@
             "type1": "Default",
             "type_links": {
               "-O_tn1bxoFp9niscm1ek": "https://www.dropbox.com/scl/fi/z2krq0oj9g3o0dp60ni4y/Fredrinn-Neobeast-Default.zip?rlkey=gn0brtbpjsfk4fxbi8jkkvomq&st=3jka7yvr&dl=1",
-              "-O_tn1byDQsGOITrVQP7": "https://www.dropbox.com/scl/fi/t77rygt7etflou45kqs45/Fredrinn-Allstar-Default.zip?rlkey=huxe5zdpae5p44kxw3jx9itzu&st=r9eovbhp&dl=1"
+              "-O_tn1byDQsGOITrVQP7": "https://www.dropbox.com/scl/fi/t77rygt7etflou45kqs45/Fredrinn-Allstar-Default.zip?rlkey=huxe5zdpae5p44kxw3jx9itzu&st=r9eovbhp&dl=1",
+              "starlight": "https://www.dropbox.com/scl/fi/1hsnede13in9s1mb5eveh/Fredrinn-Starlight-Default.zip?rlkey=l0u7v31z8gzmsfdr9p8mnqgpz&st=799uzlxy&dl=1"
             }
           },
           "-OXxanefq4lZiCafddvU": {
@@ -4652,7 +4653,8 @@
             "type1": "Basic",
             "type_links": {
               "-O_tmz7GjIXB36WNlWFD": "https://www.dropbox.com/scl/fi/95hdogxvc3y4grmwrbio6/Fredrinn-Neobeast-Basic.zip?rlkey=ne284wh3vel62zdy5rzasim6y&st=81yn3oht&dl=1",
-              "-O_tmz7GjIXB36WNlWFE": "https://www.dropbox.com/scl/fi/ro3ftoq7omy5ib6zsiwpq/Fredrinn-Allstar-Basic.zip?rlkey=2pa72tguzi00dvjsdswt9zix2&st=4o0ev29m&dl=1"
+              "-O_tmz7GjIXB36WNlWFE": "https://www.dropbox.com/scl/fi/ro3ftoq7omy5ib6zsiwpq/Fredrinn-Allstar-Basic.zip?rlkey=2pa72tguzi00dvjsdswt9zix2&st=4o0ev29m&dl=1",
+              "starlight": "https://www.dropbox.com/scl/fi/a5v1g68f7y01b4p09ran0/Fredrinn-Starlight-Basic.zip?rlkey=g21bnaz3bowmyyp4pz2f9eqe6&st=2yl5knvv&dl=1"
             }
           },
           "-OXxar8KNxw1uaQ_B96U": {
@@ -4662,7 +4664,8 @@
             "type1": "Elite",
             "type_links": {
               "-O_tn4CPWCckpRfj2VfY": "https://www.dropbox.com/scl/fi/r8r7a1bkvs53ificj6frw/Fredrinn-Neobeast-Elite.zip?rlkey=flwu2y6kaxyzlw2db0ysf2br5&st=4ayi7lkg&dl=1",
-              "-O_tn4CQ6s9dYJZT2Fm4": "https://www.dropbox.com/scl/fi/g8c13fr1cbfak1r0m7p5s/Fredrinn-Allstar-Elite.zip?rlkey=pj1qdmrmyw99esoyvurbf7bkl&st=rfmh3j2g&dl=1"
+              "-O_tn4CQ6s9dYJZT2Fm4": "https://www.dropbox.com/scl/fi/g8c13fr1cbfak1r0m7p5s/Fredrinn-Allstar-Elite.zip?rlkey=pj1qdmrmyw99esoyvurbf7bkl&st=rfmh3j2g&dl=1",
+              "starlight": "https://www.dropbox.com/scl/fi/zoyp087u6p4n7utbutivt/Fredrinn-Starlight-Elite.zip?rlkey=d0ka7ic3y13hkletw5pmlsnt8&st=zvou0hml&dl=1"
             }
           },
           "-OXxb8JpRK1S674w9ihL": {
@@ -4672,7 +4675,8 @@
             "type1": "Neobeast",
             "type_links": {
               "-O_tn9O9Z2KLggdx0INR": "unavailable",
-              "-O_tn9OBfCsjxMXzjKEM": "https://www.dropbox.com/scl/fi/tdfl0shsvu5yhfzfepc8e/Fredrinn-Allstar-Neobeast.zip?rlkey=ireo039kwq5fnz2iymn3yv2bu&st=gzfbtw9d&dl=1"
+              "-O_tn9OBfCsjxMXzjKEM": "https://www.dropbox.com/scl/fi/tdfl0shsvu5yhfzfepc8e/Fredrinn-Allstar-Neobeast.zip?rlkey=ireo039kwq5fnz2iymn3yv2bu&st=gzfbtw9d&dl=1",
+              "starlight": "https://www.dropbox.com/scl/fi/c2lb5xup1wjj7c16f1p2x/Fredrinn-Starlight-Neobeast.zip?rlkey=3ubopyqbrw4phkkfjm39krp5a&st=oipfsuow&dl=1"
             }
           },
           "-OXxbKq2XwXqYVqbYKyX": {
@@ -4682,7 +4686,19 @@
             "type1": "Sparkle",
             "type_links": {
               "-O_tn7_XaoygBeqZSyJb": "https://www.dropbox.com/scl/fi/tla3un7ykjgyzpopyirtc/Fredrinn-Neobeast-Sparkle.zip?rlkey=4yqr50j59wykq7hjluukgz7l2&st=qofredb0&dl=1",
-              "-O_tn7_XaoygBeqZSyJc": "unavailable"
+              "-O_tn7_XaoygBeqZSyJc": "unavailable",
+              "starlight": "https://www.dropbox.com/scl/fi/tk9muhv7vvk08a0d898l1/Fredrinn-Starlight-Sparkle.zip?rlkey=zewibbbpzcl0bod6vy0oq1e3o&st=m5eyampu&dl=1"
+            }
+          },
+          "Starlight": {
+            "img1": "https://i.supaimg.com/b92892ec-a61f-4f69-8951-a417ae5924cf.jpg",
+            "name1": "Royal Marshall",
+            "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
+            "type1": "Starlight",
+            "type_links": {
+              "-O_tn7_XaoygBeqZSyJb": "unavailable",
+              "-O_tn7_XaoygBeqZSyJc": "https://www.dropbox.com/scl/fi/cd9fcw9nnwq4ci3wgx8v1/Fredinn-Neobeast-Starlight.zip?rlkey=jqk2akk7mrjr7qxrow3xgx80t&st=p489cxux&dl=1",
+              "starlight": "unavailable"
             }
           }
         },
@@ -4698,6 +4714,12 @@
             "name2": "SPARKLE Fredrinn",
             "tag2": "https://i.supaimg.com/cc757c51-a3bc-496b-9ffd-ec27b7e1b45e.png",
             "type2": "Sparkle"
+          },
+          "Starlight": {
+            "img2": "https://i.supaimg.com/b92892ec-a61f-4f69-8951-a417ae5924cf.jpg",
+            "name2": "Royal Marshall",
+            "tag2": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
+            "type2": "Starlight"
           }
         },
         "img": "https://i.supaimg.com/31a18bfd-07d5-4eb5-b8ac-48ec79046dd9.png",
