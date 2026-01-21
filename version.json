@@ -1,6 +1,6 @@
 [
   {
-    "notice": "yes",
+    "notice": "no",
     "notice_title": "Maintenance Notice",
     "notice_message": "mess",
     "show_task": "yes",
