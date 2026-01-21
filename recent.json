@@ -1,6 +1,20 @@
 [
   {
     "Recent": {
+      "Lylia": {
+        "img": "https://i.supaimg.com/6e0f0431-3c61-434c-924b-16c43fc8c0c3.png",
+        "name1": "Lylia",
+        "name2": "Phantasmal Revelry",
+        "role": "Mage",
+        "tag": "https://i.supaimg.com/4ecf1a6b-6f18-4e92-b557-128fce501304.png"
+      },
+      "Lancelot": {
+        "img": "https://i.supaimg.com/27e6ba4b-554f-419c-8af5-4d5653158cc1.jpg",
+        "name1": "Lancelot",
+        "name2": "Sword of Devotion",
+        "role": "Assassin",
+        "tag": "https://i.supaimg.com/8fdbfb18-be82-4333-bf79-d8d949cfa562.png"
+      },
       "Oddete": {
         "img": "https://i.supaimg.com/f23befaa-a85d-4c45-9258-958da6584a33.jpg",
         "name1": "Odette",
