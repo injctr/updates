@@ -1,7 +1,7 @@
 [
   {
     "notice": "yes",
-    "notice_title": "title",
+    "notice_title": "Maintenance Notice",
     "notice_message": "mess",
     "show_task": "yes",
     "version": "1.41",
