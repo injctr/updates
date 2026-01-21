@@ -1,5 +1,8 @@
 [
   {
+    "notice": "yes",
+    "notice_title": "title",
+    "notice_message": "mess",
     "show_task": "yes",
     "version": "1.41",
     "allow": "unallow",
