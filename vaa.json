@@ -12120,29 +12120,59 @@
       },
       "Ixia": {
         "Replacements": {
-          "-OY9nYAPZ7t2tsGwUdY5": {
+          "Default": {
             "img1": "https://i.supaimg.com/6ecc1fab-6cc3-4580-b83a-fa7f212b82b9.png",
             "name1": "Archlight Outlaw",
             "tag1": "",
-            "type1": "Default"
+            "type1": "Default",
+            "type_links": {
+              "STARLIGHT": "https://www.dropbox.com/scl/fi/mmkrt6rosdirct8pp0kv8/Ixia-Starlight-Default.zip?rlkey=58fbb45j9bysdbvjijxwhu3g0&st=mf9jymjt&dl=1",
+              "METRO ZERO": "https://www.dropbox.com/scl/fi/ckrbf4h9fv54z1lo2unqj/Ixia-Metro-Zero-Default.zip?rlkey=8hj32wo4hv8y7un883g97ald1&st=p8c050ch&dl=1"
+            }
           },
-          "-OY9nb1vmdlvALBoiZSt": {
+          "Basic": {
             "img1": "https://i.supaimg.com/84936f18-f75d-4303-841a-0bbe59c902ee.png",
             "name1": "Shifting Sand",
             "tag1": "",
-            "type1": "Basic"
+            "type1": "Basic",
+            "type_links": {
+              "STARLIGHT": "https://www.dropbox.com/scl/fi/rltgo1onl6veohjntisxa/Ixia-Starlight-Basic.zip?rlkey=ukvf30k5d7prc0mpecmth47ob&st=3irlgcjg&dl=1",
+              "METRO ZERO": "https://www.dropbox.com/scl/fi/dwjv5spxxs27co759tj65/Ixia-Metro-Zero-Basic.zip?rlkey=neevqxeglq9cfgcwvyo17kiwh&st=7wcg8k2o&dl=1"
+            }
           },
-          "-OY9nfvE-0j2Y9y4lUrl": {
+          "Starlight": {
             "img1": "https://i.supaimg.com/b613fea8-84e7-4a53-9fda-479be1a7a620.png",
             "name1": "Dynamic Streak",
             "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
-            "type1": "Starlight 2024"
+            "type1": "Starlight 2024",
+            "type_links": {
+              "STARLIGHT": "https",
+              "METRO ZERO": "https://www.dropbox.com/scl/fi/l53an7khlhz0povqks17r/Ixia-Metro-Zero-Starlight.zip?rlkey=gnw3ydjhodsl7fnvnpx7dg58c&st=jf7xrzxi&dl=1"
+            }
           },
-          "-OY9nkk3jonVNbX5dEoG": {
+          "Metro Zero": {
             "img1": "https://i.supaimg.com/24b6755b-38e3-4608-a305-8a5e7c20d2bd.jpg",
             "name1": "Invoker's Command",
             "tag1": "https://i.supaimg.com/7adfbdf7-50c4-429f-92e4-5929f8f57719.png",
-            "type1": "Metro Zero"
+            "type1": "Metro Zero",
+            "type_links": {
+              "STARLIGHT": "unavailable",
+              "METRO ZERO": "unavailable"
+            }
+          }
+        },
+        "Skins": {
+          "Starlight": {
+            "img2": "https://i.supaimg.com/b613fea8-84e7-4a53-9fda-479be1a7a620.png",
+            "name2": "Dynamic Streak",
+            "tag2": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
+            "type2": "Starlight 2024"
+          },
+          "Metro Zero": {
+            "img2": "https://i.supaimg.com/24b6755b-38e3-4608-a305-8a5e7c20d2bd.jpg",
+            "name2": "Invoker's Command",
+            "tag2": "https://i.supaimg.com/7adfbdf7-50c4-429f-92e4-5929f8f57719.png",
+            "type2": "Netro Zero"
           }
         },
         "img": "https://i.supaimg.com/6ecc1fab-6cc3-4580-b83a-fa7f212b82b9.png",
