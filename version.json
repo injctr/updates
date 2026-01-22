@@ -1,5 +1,7 @@
 [
   {
+    "live": "yes",
+    "live_link": "no",
     "notice": "no",
     "notice_title": "Maintenance Notice",
     "notice_message": "mess",
