@@ -787,13 +787,20 @@
             "tag1": "",
             "type1": "Default",
             "type_links": {
-              "-OYBzkT1hth7tBgPWAfE": "https://www.dropbox.com/scl/fi/s18wviysgk4den40cvwre/Lancelot-Luckybox-Default.zip?rlkey=6nolkxbno9v1rgirwziqra62n&st=3sy11tbr&dl=1",
-              "-OYBzky6ETPb87971Umd": "https://www.dropbox.com/scl/fi/5ihebbpad72av51fb9ed4/Lancelot-Zodiac-Default.zip?rlkey=rgmrv699m8f7pza332aro5vc4&st=bu99o6zk&dl=1",
-              "-OYBzlP9ZVEnT6TKGgE3": "https://www.dropbox.com/scl/fi/1mp4q6roxca40beguf4t6/Lancelot-Dawning-Default.zip?rlkey=1d3p08mxm2xf7lxy5c0d3sjc3&st=2dmg8tpw&dl=1",
-              "-OYBzlpq1IAc6qGZUY_N": "https://www.dropbox.com/scl/fi/cjqtxtyt6hgrw258o81sy/Lancelot-Champion-Default.zip?rlkey=mrbj9oc5ze6h4vky2fclz7c94&st=8qv996ee&dl=1",
-              "-OYBzmHTF8A027FNyt0o": "unavailable",
-              "-OYBzmjybT4nMzcsffre": "https://www.dropbox.com/scl/fi/p1j62cbmnk452m7aap7wb/Lancelot-Kishin-Default.zip?rlkey=xncu1eziopau187v0p79l2wuo&st=spiahy2v&dl=1",
+              "LUCKYBOX": "https://www.dropbox.com/scl/fi/s18wviysgk4den40cvwre/Lancelot-Luckybox-Default.zip?rlkey=6nolkxbno9v1rgirwziqra62n&st=3sy11tbr&dl=1",
+              "ZODIAC": "https://www.dropbox.com/scl/fi/5ihebbpad72av51fb9ed4/Lancelot-Zodiac-Default.zip?rlkey=rgmrv699m8f7pza332aro5vc4&st=bu99o6zk&dl=1",
+              "DAWNING": "https://www.dropbox.com/scl/fi/1mp4q6roxca40beguf4t6/Lancelot-Dawning-Default.zip?rlkey=1d3p08mxm2xf7lxy5c0d3sjc3&st=2dmg8tpw&dl=1",
+              "CHAMPION": "https://www.dropbox.com/scl/fi/cjqtxtyt6hgrw258o81sy/Lancelot-Champion-Default.zip?rlkey=mrbj9oc5ze6h4vky2fclz7c94&st=8qv996ee&dl=1",
+              "KISHIN": "https://www.dropbox.com/scl/fi/p1j62cbmnk452m7aap7wb/Lancelot-Kishin-Default.zip?rlkey=xncu1eziopau187v0p79l2wuo&st=spiahy2v&dl=1",
               "VALENTINE": "https://www.dropbox.com/scl/fi/jrjzg56gqtm5ox5fn9p0s/Lancelot-Valentine-Default.zip?rlkey=njo7obg5ggtf73dxn5scy4q3o&st=odjwi3wv&dl=1"
+            },
+            "scripts": { 
+              "LUCKYBOX": "https://rshrt.com/QI3qD",
+              "ZODIAC": "https://rshrt.com/bEP",
+              "DAWNING": "https://rshrt.com/1VSe6w1r",
+              "CHAMPION": "https://rshrt.com/t4dUPX",
+              "KISHIN": "https://rshrt.com/RDyur",
+              "VALENTINE": "https://rshrt.com/Qlk"
             }
           },
           "-OXqjMTQvqlkj9bx_Ru4": {
@@ -806,9 +813,16 @@
               "-OYBzr8y6d8gWOq8hWM1": "https://www.dropbox.com/scl/fi/4zb3q3zee2673g8imdurc/Lancelot-Zodiac-Basic.zip?rlkey=9g1az8sz362xokor3egz0exwm&st=ta43reag&dl=1",
               "-OYBzrYO-7W4RldQ9NXW": "https://www.dropbox.com/scl/fi/rmmau9rl9yzb04e912iib/Lancelot-Dawning-Basic.zip?rlkey=2jir7wkwyoybkybhmywi71emm&st=87tu487o&dl=1",
               "-OYBzryRNmtX9Q_h-qbZ": "https://www.dropbox.com/scl/fi/xfnggfybpshe41cp8y9l5/Lancelot-Champion-Basic.zip?rlkey=rc5jeoppybu2i1xi1vmecvkoa&st=xjoy5nn9&dl=1",
-              "-OYBzwd2y5JSc6ncqIs0": "unavailable",
               "-OYBzx28pkN1LyQsdoVn": "https://www.dropbox.com/scl/fi/n4952cz4q2bqnegkixgjm/Lancelot-Kishin-Basic.zip?rlkey=c0p7g42aemmd3iiylro0gr6ft&st=jj2fwfej&dl=1",
-              "VALENTINE": "https://www.dropbox.com/scl/fi/600qt2idiet62plq2wh2z/Lancelot-Valentine-Basic.zip?rlkey=5i1bpnq6s6391phje7xmfcx48&st=hk3k4jf1&dl=0"
+              "VALENTINE": "https://www.dropbox.com/scl/fi/600qt2idiet62plq2wh2z/Lancelot-Valentine-Basic.zip?rlkey=5i1bpnq6s6391phje7xmfcx48&st=hk3k4jf1&dl=1"
+            },
+            "scripts": { 
+              "LUCKYBOX": "https://rshrt.com/m2tOU",
+              "ZODIAC": "https://rshrt.com/mu1v22",
+              "DAWNING": "https://rshrt.com/7KuD7",
+              "CHAMPION": "https://rshrt.com/faeU",
+              "KISHIN": "https://rshrt.com/YB9",
+              "VALENTINE": "https://rshrt.com/FGXbt"
             }
           },
           "-OXqjUkCgRyDkmgfpx74": {
@@ -821,9 +835,16 @@
               "-OYC-7yq8FfCARGsJiWR": "https://www.dropbox.com/scl/fi/t84rn1lolvli8tkxm0p2c/Lancelot-Zodiac-Christmas.zip?rlkey=qt206yhqel5cj89thkkwgvjvx&st=srzvp8na&dl=1",
               "-OYC-8PzGv97V12DtHzQ": "https://www.dropbox.com/scl/fi/vht22yd2cjnce94j3a9y8/Lancelot-Dawning-Christmas.zip?rlkey=6s4aurgqe191bq66oqllqu35e&st=smunn8ag&dl=1",
               "-OYC-8rU29Nq7gw1Va2h": "https://www.dropbox.com/scl/fi/gsru9i7d8dgouxkidi8ee/Lancelot-Champion-Christmas.zip?rlkey=l9sbx0lqdkr2xv49qqe6krhet&st=v8orm4h8&dl=1",
-              "-OYC-9ZVbJ-7gXpMA5CM": "unavailable",
               "-OYC-AEuUaKEtOdqfUvB": "https://www.dropbox.com/scl/fi/vns5n48tho9gxohjhbw3u/Lancelot-Kishin-Christmas.zip?rlkey=u6p7v87ergljg0npzht1np30w&st=c0xz3986&dl=1",
               "VALENTINE": "https://www.dropbox.com/scl/fi/n8yg7o6bgn55ghve73vi3/Lancelot-Valentine-Christmas.zip?rlkey=qglotd8e8gxkqu5f5q4ny7c54&st=3we9gdq3&dl=1"
+            },
+            "scripts": { 
+              "LUCKYBOX": "https://rshrt.com/hkOA",
+              "ZODIAC": "https://rshrt.com/16c898",
+              "DAWNING": "https://rshrt.com/vzRLV",
+              "CHAMPION": "https://rshrt.com/6r3dgp8n",
+              "KISHIN": "https://rshrt.com/4YRz",
+              "VALENTINE": "https://rshrt.com/vEnxA"
             }
           },
           "-OXqjaQePyF3_RiDsiGa": {
@@ -836,9 +857,16 @@
               "-OYC-FA-4BY60xuMYtLG": "https://www.dropbox.com/scl/fi/jh2r5of725h55eyewn8ma/Lancelot-Zodiac-Luckybox.zip?rlkey=vwdtym7wi6hte3hhdjeei4wgu&st=7wlguf5g&dl=1",
               "-OYC-Fy31W6kLdgUhaL6": "https://www.dropbox.com/scl/fi/k4wpgfx466o9scfpt44e6/Lancelot-Dawning-Luckybox.zip?rlkey=b8cyqadk29x94vcbnh0tudimo&st=5mflphru&dl=1",
               "-OYC-GiJSqVVcQOjRKZ1": "https://www.dropbox.com/scl/fi/qp29z533x3drrmt9zu0tb/Lancelot-Champion-Luckybox.zip?rlkey=xfb3o80h8vgdoudl88ai4x8hk&st=bqsa5f43&dl=1",
-              "-OYC-oWDv_ZUYClblGRI": "unavailable",
               "-OYC-pQv4e5IwomJPtcc": "https://www.dropbox.com/scl/fi/cdak3jyxvdhgs1m5ab2zs/Lancelot-Kishin-Luckybox.zip?rlkey=gg9a6mb4w6woo6iexgf2orymn&st=xivika3p&dl=1",
               "VALENTINE": "https://www.dropbox.com/scl/fi/sg336jiesg9ybfkpz6b2n/Lancelot-Valentine-Luckybox.zip?rlkey=fubn0gkufenjuvfxfjc4at703&st=ohv9tm6q&dl=1"
+            },
+            "scripts": { 
+              "LUCKYBOX": "unavailable",
+              "ZODIAC": "https://rshrt.com/s27CoLm",
+              "DAWNING": "https://rshrt.com/Ygjr",
+              "CHAMPION": "https://rshrt.com/fU9O",
+              "KISHIN": "https://rshrt.com/pIA0",
+              "VALENTINE": "https://rshrt.com/O573vX"
             }
           },
           "-OXqjjs4vUgZsqv8FxxJ": {
@@ -851,9 +879,16 @@
               "-OYC-zY6pCi07va4_z8j": "https://www.dropbox.com/scl/fi/71x2rmjccf6n2fcp3l2em/Lancelot-Zodiac-Starlight.zip?rlkey=tmlcadesk27pfhkdi77dnsxbc&st=bulcw4ph&dl=1",
               "-OYC0-Cx341dkhBzX9q9": "https://www.dropbox.com/scl/fi/6ysyl54fva6bcmmt287f6/Lancelot-Dawning-Starlight.zip?rlkey=0s8f6iuspznbhwtekbglgts7d&st=m0s5ayra&dl=1",
               "-OYC00ASDEWwkWVpQCCu": "https://www.dropbox.com/scl/fi/zsre4flu7w9m0hyl6wtwe/Lancelot-Champion-Starlight.zip?rlkey=4fv2j19wvvb4hbpcildh5jgph&st=ps7adsjt&dl=1",
-              "-OYC013XNRBu_So3LAUh": "unavailable",
               "-OYC021VW5avYRB6w76Q": "https://www.dropbox.com/scl/fi/0ks0xes9fr0jujmno34uo/Lancelot-Kishin-Starlight.zip?rlkey=eks5o9khpfwsgx06lgrblwe8a&st=55d0vllt&dl=1",
               "VALENTINE": "https://www.dropbox.com/scl/fi/6oehe1qqkxyu5lenz7jyi/Lancelot-Valentine-Starlight.zip?rlkey=4odjx52uu4r2tk3x4t2osfex8&st=yr5a2xcu&dl=1"
+            },
+            "scripts": { 
+              "LUCKYBOX": "https://rshrt.com/zKcrcp4H",
+              "ZODIAC": "https://rshrt.com/tG8YNW",
+              "DAWNING": "https://rshrt.com/jKlXntK",
+              "CHAMPION": "https://rshrt.com/LdggMQ",
+              "KISHIN": "https://rshrt.com/kXm8Okxq",
+              "VALENTINE": "https://rshrt.com/e7ECjho"
             }
           },
           "-OXqjpStEJjUmP23Tqby": {
@@ -866,9 +901,16 @@
               "-OYC0AcGSc-QSWIS-iA6": "unavailable",
               "-OYC0Bn827L4X2Pec8wr": "https://www.dropbox.com/scl/fi/842zo71kovp14irao8kch/Lancelot-Dawning-Zodiac.zip?rlkey=egkmuw4tespjkxv5k7l5lv24g&st=arlltwls&dl=1",
               "-OYC0DAWCMx_v3VJhs_F": "https://www.dropbox.com/scl/fi/zbk8mz00qavhov85moibt/Lancelot-Champion-Zodiac.zip?rlkey=sa49u4oifsbgak5qlcgth0krv&st=3jcrr5u1&dl=1",
-              "-OYC0ED2ScGMlftFjekk": "unavailable",
               "-OYC0FIrI4_0R32sEaWR": "https://www.dropbox.com/scl/fi/dxq6s2m2t2xj0rzpc59jx/Lancelot-Kishin-Zodiac.zip?rlkey=dt7ziyytf1r0v04h1mfmu6xr0&st=x3m9ep77&dl=1",
               "VALENTINE": "https://www.dropbox.com/scl/fi/nu26826s7yu106qxc1nmp/Lancelot-Valentine-Zodiac.zip?rlkey=te1n2lzlbb83f57qjdumw7pdj&st=3h082cmp&dl=1"
+            },
+            "scripts": { 
+              "LUCKYBOX": "https://rshrt.com/Fe53",
+              "ZODIAC": "unavailable",
+              "DAWNING": "https://rshrt.com/YbAW",
+              "CHAMPION": "https://rshrt.com/gZjm6RVr",
+              "KISHIN": "https://rshrt.com/h7KRWl9d",
+              "VALENTINE": "https://rshrt.com/4US1webo"
             }
           },
           "-OXqjvAF0TbpxFWShQAm": {
@@ -881,9 +923,16 @@
               "-OYC0PLufK5ewqrBZ-3m": "https://www.dropbox.com/scl/fi/szac7bt9bk0v7atlq49cx/Lancelot-Zodiac-Epic.zip?rlkey=o4ynpt3nh4km9rbh9f7zrrs7d&st=4f2evp7s&dl=1",
               "-OYC0QLwiPWK0UudKdZ6": "https://www.dropbox.com/scl/fi/r2qii59svs0ow5brdw452/Lancelot-Dawning-Epic.zip?rlkey=334ai1s18x491z8rp76sftr09&st=gtk8age4&dl=1",
               "-OYC0RQBGuDo7UOeJTSD": "https://www.dropbox.com/scl/fi/dtodiwwlexfx9qr1crbnj/Lancelot-Champion-Epic.zip?rlkey=vkwxbpcxav1gpvafpk7qvses3&st=s1y2k9jp&dl=1",
-              "-OYC0Sf6jgmkmMvVsyDn": "unavailable",
               "-OYC0Twjv1KLhEaiu2tB": "https://www.dropbox.com/scl/fi/ac53tt0i8acq6pyqmkigl/Lancelot-Kishin-Epic.zip?rlkey=2yzrk97g39qqcqxu1n04cgb28&st=ooeu1d0h&dl=1",
               "VALENTINE": "https://www.dropbox.com/scl/fi/o8ana0ys99iob57h29dg9/Lancelot-Valentine-Epic.zip?rlkey=ai02miqhqarsjmlwv0yec1l3o&st=438by2zc&dl=1"
+            },
+            "scripts": { 
+              "LUCKYBOX": "https://rshrt.com/wcGcyS",
+              "ZODIAC": "https://rshrt.com/oyj2",
+              "DAWNING": "https://rshrt.com/vIVt8lo",
+              "CHAMPION": "https://rshrt.com/1d4fiHn",
+              "KISHIN": "https://rshrt.com/Vsr7vA7C",
+              "VALENTINE": "https://rshrt.com/IbJv2U6"
             }
           },
           "-OXqk2MjEdN8Sa_H2V82": {
@@ -896,8 +945,15 @@
               "-OYC0eAKA96MmFe5Eta9": "https://www.dropbox.com/scl/fi/j3kdd1jy56oegdn9mjdcw/Lancelot-Zodiac-Dawning.zip?rlkey=rrs66awopvmqgbytyqh8dmzs1&st=x7jmyrax&dl=1",
               "-OYC0s532BngI2BNCDpv": "unavailable",
               "-OYC0tIYzqMbHCmxxpsQ": "https://www.dropbox.com/scl/fi/37u11s4fmq551ckdmtv84/Lancelot-Champion-Dawning.zip?rlkey=t6qd2ktdf506e3w6bvxed277w&st=kwz1vpac&dl=1",
-              "-OYC0ulE5cyb2_I9sjHx": "unavailable",
               "-OYC0wYxDqwQEC3yx956": "https://www.dropbox.com/scl/fi/kqujjdzx77smp2zc24e63/Lancelot-Kishin-Dawning.zip?rlkey=pdbtvo83geduc6q821vnog82b&st=9qvijzeg&dl=1",
+              "VALENTINE": "unavailable"
+            },
+            "scripts": { 
+              "LUCKYBOX": "https://rshrt.com/Sfp",
+              "ZODIAC": "https://rshrt.com/edo5i",
+              "DAWNING": "unavailable",
+              "CHAMPION": "https://rshrt.com/NGX",
+              "KISHIN": "https://rshrt.com/Jctp",
               "VALENTINE": "unavailable"
             }
           },
@@ -911,9 +967,16 @@
               "-OYC19c7Ki7AOx2v6MkJ": "https://www.dropbox.com/scl/fi/e1zakuzsebnz8kucd98lb/Lancelot-Zodiac-Champion.zip?rlkey=hepoeztuoqoyjxx4lf0cjoebx&st=1plrfwjg&dl=1",
               "-OYC1BYlBfISwtLPD-eT": "https://www.dropbox.com/scl/fi/fzo8xvatauds9nubnjpnj/Lancelot-Dawning-Champion.zip?rlkey=7athuwl5fkrudqdabz3iax34p&st=1rht5wnv&dl=1",
               "-OYC1D3LzJAFktkgFxq_": "unavailable",
-              "-OYC1EhSdMRw6ksDC_Ey": "unavailable",
               "-OYC1GKFP-kyaRpw5l2e": "https://www.dropbox.com/scl/fi/y4mwiyq4kcnnu3kilh01u/Lancelot-Kishin-Champion.zip?rlkey=s8otk5ad0gpgpbgutoktshjwz&st=rmd5mai1&dl=1",
               "VALENTINE": "https://www.dropbox.com/scl/fi/j0cq6pr9mie0nrpwp3b0h/Lancelot-Valentine-Champion.zip?rlkey=yi2g1x4j2w081mngmwj1n268h&st=gcsuzb5x&dl=1"
+            },
+            "scripts": { 
+              "LUCKYBOX": "https://rshrt.com/oZPl",
+              "ZODIAC": "https://rshrt.com/dYzzSmI",
+              "DAWNING": "https://rshrt.com/0lw",
+              "CHAMPION": "unavailable",
+              "KISHIN": "https://rshrt.com/dee0",
+              "VALENTINE": "https://rshrt.com/L70w"
             }
           },
           "-OXqkLIRTSC6pu2In_NC": {
@@ -926,9 +989,16 @@
               "-OYC1RqbYGkvDTKddepE": "https://www.dropbox.com/scl/fi/33ma0xzhngykp8sar51v1/Lancelot-Zodiac-Dragon.zip?rlkey=w7q42ztrc9g28jvgdjitrqbhj&st=lwpsit7j&dl=1",
               "-OYC1TvPZ9j5a1IWT2fH": "https://www.dropbox.com/scl/fi/71t36z0j7oh4ftq7mr6sb/Lancelot-Dawning-Dragon-Tamer.zip?rlkey=o8fs9b2rmhm4i3mb54ug2x0w2&st=j8hixwtk&dl=1",
               "-OYC1VoLPcsJb6fNAWFv": "https://www.dropbox.com/scl/fi/3mruc3hwvdlzz95b5y7w2/Lancelot-Champion-Dragon.zip?rlkey=vhbup9k7539bvsa81n72xm8z0&st=5byxs357&dl=1",
-              "-OYC1YHIdCzvxdLjkpAX": "unavailable",
               "-OYC1_2jA6kYIO4H0hRa": "https://www.dropbox.com/scl/fi/28ff9o7k5vnfyt74smdll/Lancelot-Kishin-Dragon-Tamer.zip?rlkey=rbz0a9t78lm5kibhvv25wi2wc&st=kr7pa0n0&dl=1",
               "VALENTINE": "https://www.dropbox.com/scl/fi/209drpegu53mepo755kbg/Lancelot-Valentine-Dragon.zip?rlkey=bwqxm9ilhb6q0ukjvxzgfmxpv&st=0dnbl1ri&dl=1"
+            },
+            "scripts": { 
+              "LUCKYBOX": "https://rshrt.com/nbcma",
+              "ZODIAC": "https://rshrt.com/wgAd1",
+              "DAWNING": "https://rshrt.com/MNXLxgb",
+              "CHAMPION": "https://rshrt.com/7ixF",
+              "KISHIN": "https://rshrt.com/vNHs2err",
+              "VALENTINE": "https://rshrt.com/r06"
             }
           },
           "-OXqkPtT860j2oLrAI4w": {
@@ -941,9 +1011,16 @@
               "-OYC1uVan07inl1OcoDP": "https://www.dropbox.com/scl/fi/tmjc4v2s3v7jzh9hpmcqu/Lancelot-Zodiac-Elite.zip?rlkey=a2ha7xpwayusep14akh4s8pgu&st=ic527r8n&dl=1",
               "-OYC1wu7uA_FH_p5i9oA": "https://www.dropbox.com/scl/fi/lbjy6i39gxwa02n6ahczd/Lancelot-Dawning-Elite.zip?rlkey=j9309b4oqekcsdbwg94djm4g5&st=gzh6cor2&dl=1",
               "-OYC1ywDNMvT4B2N-Aj7": "https://www.dropbox.com/scl/fi/myb4svxvdlhr1p1h5wc06/Lancelot-Champion-Elite.zip?rlkey=3lip0buqnm5v9nficcox5s2x5&st=66hdes3t&dl=1",
-              "-OYC20DLJQaE8SpX_3fR": "unavailable",
               "-OYC22U0YPJ4Qz820ppY": "https://www.dropbox.com/scl/fi/maw470uqhzze3dd1iw3ve/Lancelot-Kishin-Elite.zip?rlkey=x0cm0vle9gc2hnvhih6pxn8rb&st=u7trftyf&dl=1",
               "VALENTINE": "https://www.dropbox.com/scl/fi/aj72daec5ymjmmk8xw4qz/Lancelot-Valentine-Elite.zip?rlkey=1vpvhli7k7yceiro6i0t5nczc&st=13j7u62a&dl=1"
+            },
+            "scripts": { 
+              "LUCKYBOX": "https://rshrt.com/EzFB04C",
+              "ZODIAC": "https://rshrt.com/HoLHi",
+              "DAWNING": "https://rshrt.com/kzZdDZPw",
+              "CHAMPION": "https://rshrt.com/ypaiNR",
+              "KISHIN": "https://rshrt.com/atky",
+              "VALENTINE": "https://rshrt.com/T6dyPGsC"
             }
           },
           "-OXqkh0gQlRaTvumFjQy": {
@@ -956,8 +1033,15 @@
               "-OYC2IVAaF-Xw9hLpeOT": "https://www.dropbox.com/scl/fi/tdwwf8ezj0dj1mtx5rizk/Lancelot-Zodiac-Kishin.zip?rlkey=1hb4ac8khjhgtfqdmz2aj9uo7&st=rvzkdggg&dl=1",
               "-OYC2Kx6-8rjqAl7SrNn": "https://www.dropbox.com/scl/fi/z0cumpawm3ri45niczanw/Lancelot-Dawning-Kishin.zip?rlkey=3z77m62lmfgopxoj63woggvzj&st=2mc0bbya&dl=1",
               "-OYC2NZBvDfkzqV43OSZ": "unavailable",
-              "-OYC2PoUSZVYMTBXMMrW": "unavailable",
               "-OYC2S78RyJ2lzdBICRa": "unavailable",
+              "VALENTINE": "unavailable"
+            },
+            "scripts": { 
+              "LUCKYBOX": "https://rshrt.com/r0hxnaY",
+              "ZODIAC": "https://rshrt.com/ih99b",
+              "DAWNING": "https://rshrt.com/UGBl0M3A",
+              "CHAMPION": "unavailable",
+              "KISHIN": "unavailable",
               "VALENTINE": "unavailable"
             }
           }
@@ -986,12 +1070,6 @@
             "name2": "Bren Esports",
             "tag2": "https://i.supaimg.com/1589abc4-551e-4dbb-932f-5bb1c0162372.png",
             "type2": "Champion"
-          },
-          "-OYBz_bHT1eg38A-OKt6": {
-            "img2": "https://i.supaimg.com/1f57f8d3-c891-4459-866e-aa42a1c9bc7a.png",
-            "name2": "Empyrean Flame",
-            "tag2": "https://i.supaimg.com/b212be91-7e5f-40d8-b7f7-10dacc317b3d.png",
-            "type2": "Dragon Tamer"
           },
           "-OYBzgjGVs_NtEgCrLV5": {
             "img2": "https://i.supaimg.com/dda02061-d160-41ae-be62-0ce01426b1ab.png",
