@@ -4838,7 +4838,7 @@
             "type1": "Default",
             "type_links": {
               "-ObQoR_Yl3R-Vws-hWCA": "https://www.dropbox.com/scl/fi/ykrfmird44m51857i2rfj/Thamuz-Kungfu-Default.zip?rlkey=57w8jkn9ijx60g6fktjr9iicy&st=l8xqh932&dl=1",
-              "-ObQoR_ZEIP7msaUj72S": "unavailable"
+              "ELEVEN": "https://www.dropbox.com/scl/fi/m639qxmmxkqhqx1vryran/Thamuz-11.11-Default.zip?rlkey=mtikg0uslssnrl045a9t8cq6r&st=0ju7euig&dl=1"
             }
           },
           "-OXxa5_n5messnrNwxJ8": {
@@ -4847,8 +4847,8 @@
             "tag1": "",
             "type1": "Basic",
             "type_links": {
-              "-ObQoPp_6XTSp6XLoj1X": "unavailable",
-              "-ObQoPpfLAxtwdSjAxrF": "https://www.dropbox.com/scl/fi/7j1h55vzqset14tuyhigu/Thamuz-Kungfu-Basic.zip?rlkey=crga6wuih35vj5969hmd6hmap&st=e34z65ya&dl=1"
+              "-ObQoPp_6XTSp6XLoj1X": "https://www.dropbox.com/scl/fi/7j1h55vzqset14tuyhigu/Thamuz-Kungfu-Basic.zip?rlkey=crga6wuih35vj5969hmd6hmap&st=e34z65ya&dl=1",
+              "-ObQoPpfLAxtwdSjAxrF": "https://www.dropbox.com/scl/fi/oemjthjbx5xodf14u7m29/Thamuz-11.11-Basic.zip?rlkey=wv8heullf5ci0xd1bd9z6mt1j&st=htk1fc9x&dl=1"
             }
           },
           "-OXxaA8u3F9_pSoURDml": {
@@ -4858,7 +4858,7 @@
             "type1": "Elite",
             "type_links": {
               "-ObQoTxwE_twtioBrAjR": "https://www.dropbox.com/scl/fi/quzltiw6am4dpig6pkpoj/Thamuz-Kungfu-Elite.zip?rlkey=l9kyix8npv5vc8vhdi8fbm3rd&st=h0tdlrxv&dl=1",
-              "-ObQoTy-N048klehZwIY": "unavailable"
+              "-ObQoTy-N048klehZwIY": "https://www.dropbox.com/scl/fi/mxkoro4nqhcuzjiblhmxc/Thamuz-11.11-Elite.zip?rlkey=9l9esyw3bgyovtqt9d39mcewk&st=bco4zp4v&dl=1"
             }
           },
           "-OXxaHb7R-RZmLXVBGFL": {
@@ -4868,7 +4868,7 @@
             "type1": "Special",
             "type_links": {
               "-ObQoWA8NidqWLsgZuRU": "https://www.dropbox.com/scl/fi/tqml2c3kbeunzpjzelrhx/Thamuz-Kungfu-Special.zip?rlkey=mkj3xnjwvwhxnptpy6rmbpf76&st=qmxnyn4v&dl=1",
-              "-ObQoWAABneqvkD0Em0p": "unavailable"
+              "-ObQoWAABneqvkD0Em0p": "https://www.dropbox.com/scl/fi/mz140gv4jq7mj16j7i69d/Thamuz-11.11-Special.zip?rlkey=pu8r3wqyegbb8qzf5flkvbdtm&st=2mkl4z7v&dl=1"
             }
           },
           "-OXxaPLl0Mpzl33yFKGR": {
@@ -4878,7 +4878,7 @@
             "type1": "Kung Fu Panda",
             "type_links": {
               "-ObQo_kCZh-mk-WOwao3": "unavailable",
-              "-ObQo_kENtgEJcksUti3": "unavailable"
+              "-ObQo_kENtgEJcksUti3": "https://www.dropbox.com/scl/fi/de3fe52t3hl031tzq9va5/Thamuz-11.11-Kung-Fu.zip?rlkey=8mz8zz17sw1ejc3m0fg3euukz&st=3apjojxm&dl=1"
             }
           },
           "-OXxaU0Glr983KPYNOhE": {
@@ -4888,7 +4888,7 @@
             "type1": "Starlight 2023",
             "type_links": {
               "-ObQoYxIey0OY-jBKY89": "https://www.dropbox.com/scl/fi/ecpzlewdm58y4jlxp8w7d/Thamuz-Kungfu-Starlight.zip?rlkey=p7mffqqz4hjxthyrw1g4i7g1m&st=nns094hf&dl=1",
-              "-ObQoYxIey0OY-jBKY8A": "unavailable"
+              "-ObQoYxIey0OY-jBKY8A": "https://www.dropbox.com/scl/fi/sh0dxg7eh1wwu1jnalikx/Thamuz-11.11-Starlight.zip?rlkey=2y1iphei0jvb88pzkd1ojnhpx&st=fq47mlza&dl=1"
             }
           }
         },
@@ -4900,10 +4900,10 @@
             "type2": "Kung Fu Panda"
           },
           "-OYMNeEPlqQTJpurBHT7": {
-            "img2": "https://i.supaimg.com/c20e8907-90c3-4762-aaed-280bc5d28829.png",
-            "name2": "Sanctified Flame",
-            "tag2": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
-            "type2": "Starlight 2023"
+            "img2": "https://i.supaimg.com/a65da93e-d466-4fc1-937a-bb2ca550029b.jpg",
+            "name2": "The Annihilator",
+            "tag2": "https://i.supaimg.com/19394161-cc30-494c-a906-b49f710cf674.png",
+            "type2": "11.11"
           }
         },
         "img": "https://i.supaimg.com/c2ead755-7d21-45fc-8032-38f6087fa25f.png",
@@ -10215,11 +10215,7 @@
             "type_links": {
               "-OYPMHGT8Utl3mcrTXmX": "https://www.dropbox.com/scl/fi/ig30y7lg5n3ttcv7m2jik/Layla-Aspirants-Default.zip?rlkey=9540ond5bz8oa5y2qknd2mgnc&st=yycxh313&dl=1",
               "-OYPMHGVKZgVuhlhkJq0": "unavailable",
-              "-OYPMHGVKZgVuhlhkJq1": "https://www.dropbox.com/scl/fi/z1o2z7kfwq9bmelei51s8/Layla-Collector-Default.zip?rlkey=kjjt3x02fil7spewstvws8ojb&st=nycxn9iy&dl=1",
-              "-OYPMUBS4JHvi_b4sskM": "unavailable",
-              "-OYPMXnlWgcRyVSAsCui": "unavailable",
-              "-OYPMXnmX65OlMMVtoDM": "unavailable",
-              "-OYPMXnmX65OlMMVtoDN": "unavailable"
+              "-OYPMHGVKZgVuhlhkJq1": "https://www.dropbox.com/scl/fi/z1o2z7kfwq9bmelei51s8/Layla-Collector-Default.zip?rlkey=kjjt3x02fil7spewstvws8ojb&st=nycxn9iy&dl=1"
             }
           },
           "-OY6sxaFE090lSCBMEVJ": {
@@ -10229,12 +10225,8 @@
             "type1": "Basic 1",
             "type_links": {
               "-OYPMKVd--LoUboemkGM": "https://www.dropbox.com/scl/fi/ul7b4qkej68lb7hgtdkn3/Layla-Aspirants-Basic.zip?rlkey=3xyrwkew9ivfxb4u23r9vfgwv&st=hqex876p&dl=1",
-              "-OYPMKVem2zMKQKWZFgB": "unavailable",
-              "-OYPMKVem2zMKQKWZFgC": "https://www.dropbox.com/scl/fi/j9jwqp9q414kkuf6crap6/Layla-Collector-Basic.zip?rlkey=ntpxkr1tdtbjd7wg46j5gapgp&st=bzs2qks1&dl=1",
-              "-OYPMZaFuioVShdQ3TI4": "unavailable",
-              "-OYPMZaFuioVShdQ3TI5": "unavailable",
-              "-OYPMZaFuioVShdQ3TI6": "unavailable",
-              "-OYPMZaFuioVShdQ3TI7": "unavailable"
+              "-OYPMKVem2zMKQKWZFgB": "https://www.dropbox.com/scl/fi/ijt8xjbp5jgzekmf3v4i8/Layla-Legend-Basic.zip?rlkey=louaf13fuql82owe58uu9s3ux&st=2tocto6k&dl=1",
+              "-OYPMKVem2zMKQKWZFgC": "https://www.dropbox.com/scl/fi/j9jwqp9q414kkuf6crap6/Layla-Collector-Basic.zip?rlkey=ntpxkr1tdtbjd7wg46j5gapgp&st=bzs2qks1&dl=1"
             }
           },
           "-OY6t1OMjYmQ7X2yANTq": {
@@ -10244,12 +10236,8 @@
             "type1": "Starlight 2017",
             "type_links": {
               "-OYPMbyz_rAwr6oVZ2pB": "https://www.dropbox.com/scl/fi/ilxpovgck7sj040syqili/Layla-Aspirants-Old-Starlight.zip?rlkey=lco9krmubcat5m3467ut27epu&st=thi2jt5q&dl=1",
-              "-OYPMbz-hXLX27UQ8SAf": "unavailable",
-              "-OYPMbz-hXLX27UQ8SAg": "https://www.dropbox.com/scl/fi/l4dnxcy9bvyc9cr9l7wxz/Layla-Collector-Old-Starlight.zip?rlkey=bvr1d82npfpqdra04njqr1l7g&st=itals1rt&dl=1",
-              "-OYPMbz-hXLX27UQ8SAh": "unavailable",
-              "-OYPMbz-hXLX27UQ8SAi": "unavailable",
-              "-OYPMbz-hXLX27UQ8SAj": "unavailable",
-              "-OYPMbz-hXLX27UQ8SAk": "unavailable"
+              "-OYPMbz-hXLX27UQ8SAf": "https://www.dropbox.com/scl/fi/xc5bzqem2nj24iothncn8/Layla-Legend-Old-Starlight.zip?rlkey=ydyx6hln879202vfnlcc4gxhp&st=80kwjb88&dl=1",
+              "-OYPMbz-hXLX27UQ8SAg": "https://www.dropbox.com/scl/fi/l4dnxcy9bvyc9cr9l7wxz/Layla-Collector-Old-Starlight.zip?rlkey=bvr1d82npfpqdra04njqr1l7g&st=itals1rt&dl=1"
             }
           },
           "-OY6t5iofXnjmagOGMYR": {
@@ -10259,12 +10247,8 @@
             "type1": "Valentine",
             "type_links": {
               "-OYPMeJtlHcdRlQNjt1u": "https://www.dropbox.com/scl/fi/en91ic8vpmwp2db6n1wz8/Layla-Aspirants-Valentine.zip?rlkey=bzp1yjvz2baa34q05vvo0qo1k&st=mhu8bpev&dl=1",
-              "-OYPMeJuL7gfyXcw97jZ": "unavailable",
-              "-OYPMeJuL7gfyXcw97j_": "https://www.dropbox.com/scl/fi/jc3al1t9awx22j22yshjl/Layla-Collector-Valentine.zip?rlkey=9zvp851fbcv60lsx4ystbai4o&st=yfjeqyxg&dl=1",
-              "-OYPMeJuL7gfyXcw97ja": "unavailable",
-              "-OYPMeJuL7gfyXcw97jb": "unavailable",
-              "-OYPMeJuL7gfyXcw97jc": "unavailable",
-              "-OYPMeJuL7gfyXcw97jd": "unavailable"
+              "-OYPMeJuL7gfyXcw97jZ": "https://www.dropbox.com/scl/fi/njoe6536dtiptitzd3k2v/Layla-Legend-Valentine.zip?rlkey=1bw3fdqi09nzl5a06eb2wjaxv&st=gwqzponq&dl=1",
+              "-OYPMeJuL7gfyXcw97j_": "https://www.dropbox.com/scl/fi/jc3al1t9awx22j22yshjl/Layla-Collector-Valentine.zip?rlkey=9zvp851fbcv60lsx4ystbai4o&st=yfjeqyxg&dl=1"
             }
           },
           "-OY6tGa_gWiE7FVkHIU9": {
@@ -10274,12 +10258,8 @@
             "type1": "Basic 2",
             "type_links": {
               "-OYPNWP57a2Q60CbK_Gw": "https://www.dropbox.com/scl/fi/87jb6oo412yj8qrt5hkzd/Layla-Aspirants-Blue-Spectre.zip?rlkey=cntfjd3a7dzf31lrs6yi9600f&st=j5pvh5gp&dl=1",
-              "-OYPNWP57a2Q60CbK_Gx": "unavailable",
-              "-OYPNWP57a2Q60CbK_Gy": "https://www.dropbox.com/scl/fi/o0qkrvh9bl5k7frbxd213/Layla-Collector-Blue-Spectre.zip?rlkey=ho84chk4jggo0m4z09la3ljdh&st=t7sp7pdi&dl=1",
-              "-OYPNWP57a2Q60CbK_Gz": "unavailable",
-              "-OYPNWP57a2Q60CbK_H-": "unavailable",
-              "-OYPNWP57a2Q60CbK_H0": "unavailable",
-              "-OYPNWP57a2Q60CbK_H1": "unavailable"
+              "-OYPNWP57a2Q60CbK_Gx": "https://www.dropbox.com/scl/fi/kpdsqpdfw2cfaowpd4p4j/Layla-Legend-Blue-Specre.zip?rlkey=x6nld67ybc0smx70kkd63cls9&st=l87p2lc5&dl=1",
+              "-OYPNWP57a2Q60CbK_Gy": "https://www.dropbox.com/scl/fi/o0qkrvh9bl5k7frbxd213/Layla-Collector-Blue-Spectre.zip?rlkey=ho84chk4jggo0m4z09la3ljdh&st=t7sp7pdi&dl=1"
             }
           },
           "-OY6tR8SVy0xCtIyn2l9": {
@@ -10289,12 +10269,8 @@
             "type1": "Basic 3",
             "type_links": {
               "-OYPMgCd2vl6rfbuuRQb": "https://www.dropbox.com/scl/fi/b9p145b6dfaugp3x5phdu/Layla-Aspirants-Classic.zip?rlkey=1rpo06edp2uma446z8vm9zp59&st=xdtynw4a&dl=1",
-              "-OYPMgCe_-JRgn-bSkVR": "unavailable",
-              "-OYPMgCe_-JRgn-bSkVS": "https://www.dropbox.com/scl/fi/zkhaqpjgh2wjkxz59xttq/Layla-Collector-Classic.zip?rlkey=w4qbrw8r52agas1fegr0kpbbs&st=bl13u75n&dl=1",
-              "-OYPMgCe_-JRgn-bSkVT": "unavailable",
-              "-OYPMgCe_-JRgn-bSkVU": "unavailable",
-              "-OYPMgCe_-JRgn-bSkVV": "unavailable",
-              "-OYPMgCfQy4nAb74rUxk": "unavailable"
+              "-OYPMgCe_-JRgn-bSkVR": "https://www.dropbox.com/scl/fi/urq8hm1mxr04meuit92a4/Layla-Legend-Classic-Malefic.zip?rlkey=91ayqehwpxbvsea6vkd29ob5d&st=emkcrhg2&dl=1",
+              "-OYPMgCe_-JRgn-bSkVS": "https://www.dropbox.com/scl/fi/zkhaqpjgh2wjkxz59xttq/Layla-Collector-Classic.zip?rlkey=w4qbrw8r52agas1fegr0kpbbs&st=bl13u75n&dl=1"
             }
           },
           "-OY6tYRIpl9USfsIhwz3": {
@@ -10304,12 +10280,8 @@
             "type1": "S.A.B.E.R.",
             "type_links": {
               "-OYPMi5jqIo4pXCNdi1U": "https://www.dropbox.com/scl/fi/ccbunrqdbz5w5kh39b75x/Layla-Aspirants-SABER.zip?rlkey=kk2fi743qflecld60hwf0zm56&st=afrabhhq&dl=1",
-              "-OYPMi5jqIo4pXCNdi1V": "unavailable",
-              "-OYPMi5k5fzUDbARqqo1": "https://www.dropbox.com/scl/fi/tk7r8ak2vrp6itcjznugf/Layla-Collector-SABER.zip?rlkey=jjg7gujb1k5z1pakcqg32aq7h&st=dqw2jcsf&dl=1",
-              "-OYPMi5k5fzUDbARqqo2": "unavailable",
-              "-OYPMi5k5fzUDbARqqo3": "unavailable",
-              "-OYPMi5k5fzUDbARqqo4": "unavailable",
-              "-OYPMi5k5fzUDbARqqo5": "unavailable"
+              "-OYPMi5jqIo4pXCNdi1V": "https://www.dropbox.com/scl/fi/0fdjhs5jkjikof77p5oy4/Layla-Legend-S.A.B.E.R.zip?rlkey=jybqpl0zwdqp9rpziw55t4ggm&st=p0wrukfw&dl=1",
+              "-OYPMi5k5fzUDbARqqo1": "https://www.dropbox.com/scl/fi/tk7r8ak2vrp6itcjznugf/Layla-Collector-SABER.zip?rlkey=jjg7gujb1k5z1pakcqg32aq7h&st=dqw2jcsf&dl=1"
             }
           },
           "-OY6td70FTvmIwZVIFzB": {
@@ -10319,12 +10291,8 @@
             "type1": "Blazing Bounties",
             "type_links": {
               "-OYPNP4qr9XXSqQyDWfb": "unavailable",
-              "-OYPNP4yOKsC7XJA5tHO": "unavailable",
-              "-OYPNP4yOKsC7XJA5tHP": "https://www.dropbox.com/scl/fi/qx06ls115xjs6ekcsp5vs/Layla-Collector-Blazing.zip?rlkey=22yggab3o6h36st6zleasq9ur&st=gt141hmp&dl=1",
-              "-OYPNP4yOKsC7XJA5tHQ": "unavailable",
-              "-OYPNP4yOKsC7XJA5tHR": "unavailable",
-              "-OYPNP4zWesqe9OY0tY2": "unavailable",
-              "-OYPNP4zWesqe9OY0tY3": "unavailable"
+              "-OYPNP4yOKsC7XJA5tHO": "https://www.dropbox.com/scl/fi/6jiimbkj0w357f7ba5inm/Layla-Legend-Blazing.zip?rlkey=wyt89r32keaq7sh2h72qsezwl&st=owfji92v&dl=1",
+              "-OYPNP4yOKsC7XJA5tHP": "https://www.dropbox.com/scl/fi/qx06ls115xjs6ekcsp5vs/Layla-Collector-Blazing.zip?rlkey=22yggab3o6h36st6zleasq9ur&st=gt141hmp&dl=1"
             }
           },
           "-OY6tibKS3PXW_ky13xz": {
@@ -10334,12 +10302,8 @@
             "type1": "The Aspirants",
             "type_links": {
               "-OYPNaax4cxvFAGlXzdd": "unavailable",
-              "-OYPNaay0592KQqVjjwZ": "unavailable",
-              "-OYPNaay0592KQqVjjw_": "https://www.dropbox.com/scl/fi/b9p2i8sabsorvbmospj47/Layla-Collector-Aspirants.zip?rlkey=sv73bp39i4ax9kmnh1zpouexd&st=lq51a2xw&dl=1",
-              "-OYPNaay0592KQqVjjwa": "unavailable",
-              "-OYPNaay0592KQqVjjwb": "unavailable",
-              "-OYPNaay0592KQqVjjwc": "unavailable",
-              "-OYPNaay0592KQqVjjwd": "unavailable"
+              "-OYPNaay0592KQqVjjwZ": "https://www.dropbox.com/scl/fi/ejpsfo5x4eb7lrj2uw48n/Layla-Legend-Aspirants.zip?rlkey=fetxzo8qmnud3ckq773xkp35q&st=yc46i77i&dl=1",
+              "-OYPNaay0592KQqVjjw_": "https://www.dropbox.com/scl/fi/b9p2i8sabsorvbmospj47/Layla-Collector-Aspirants.zip?rlkey=sv73bp39i4ax9kmnh1zpouexd&st=lq51a2xw&dl=1"
             }
           },
           "-OY6tpBRE1RHj3P7jfAW": {
@@ -10349,12 +10313,8 @@
             "type1": "Starlight 2023",
             "type_links": {
               "-OYPNcHWbk5E4XylsEx1": "https://www.dropbox.com/scl/fi/pqd6fjj3bc16uwcqdywlp/Layla-Aspirants-New-Starlight.zip?rlkey=lgevqyl9tvipion7yr2jv872h&st=mqmeiv6w&dl=1",
-              "-OYPNcHXsLznpwkVcN3a": "unavailable",
-              "-OYPNcHXsLznpwkVcN3b": "https://www.dropbox.com/scl/fi/ry7qmko1ax4c8saem7nmi/Layla-Collector-New-Starlight.zip?rlkey=d055cqdzl31h7c085kcp8bf04&st=4y6fg8z5&dl=1",
-              "-OYPNcHXsLznpwkVcN3c": "unavailable",
-              "-OYPNcHXsLznpwkVcN3d": "unavailable",
-              "-OYPNcHXsLznpwkVcN3e": "unavailable",
-              "-OYPNcHXsLznpwkVcN3f": "unavailable"
+              "-OYPNcHXsLznpwkVcN3a": "https://www.dropbox.com/scl/fi/iht2r2wy6o19or8sxwtuy/Layla-Legend-New-Starlight.zip?rlkey=ak0d2qqpw42syyei0wnud2uf0&st=0ae3n7zb&dl=1",
+              "-OYPNcHXsLznpwkVcN3b": "https://www.dropbox.com/scl/fi/ry7qmko1ax4c8saem7nmi/Layla-Collector-New-Starlight.zip?rlkey=d055cqdzl31h7c085kcp8bf04&st=4y6fg8z5&dl=1"
             }
           },
           "-OY6ttedgIP_nBZOVeWx": {
@@ -10364,12 +10324,8 @@
             "type1": "Collector",
             "type_links": {
               "-OYPNdhUHtjyPp_6Jak7": "https://www.dropbox.com/scl/fi/ptxag8kbcwrqxf80dpnu0/Layla-Aspirants-Collector.zip?rlkey=m3zwlcy0p3uq54jynd0t7u5zm&st=aywwwyya&dl=1",
-              "-OYPNdhYIFOYW7nmXara": "unavailable",
-              "-OYPNdhYIFOYW7nmXarb": "unavailable",
-              "-OYPNdhYIFOYW7nmXarc": "unavailable",
-              "-OYPNdhZLP-b-V_UyTGq": "unavailable",
-              "-OYPNdhZLP-b-V_UyTGr": "unavailable",
-              "-OYPNdhZLP-b-V_UyTGs": "unavailable"
+              "-OYPNdhYIFOYW7nmXara": "https://www.dropbox.com/scl/fi/u5zmey8ggqepvxxo81ekr/Layla-Legend-Collector.zip?rlkey=o2e32sol50s77g7enhb3hc1tz&st=n213rca2&dl=1",
+              "-OYPNdhYIFOYW7nmXarb": "unavailable"
             }
           }
         },
@@ -10381,10 +10337,10 @@
             "type2": "The Aspirants"
           },
           "-OYPMWauNzdAXtbd_7XE": {
-            "img2": "https://i.supaimg.com/9f9e1d80-f27b-4923-8487-e9585d794e09.png",
-            "name2": "Twilight Waltz",
-            "tag2": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
-            "type2": "Starlight 2023"
+            "img2": "https://i.supaimg.com/567ce7ac-0186-4a5f-9de0-a049f4671756.jpg",
+            "name2": "The Beacon",
+            "tag2": "https://i.supaimg.com/89d011e3-a8d7-4068-b50f-a84c21b7191a.png",
+            "type2": "Legend"
           },
           "-OYPMXAkBrFeVxmxSrOW": {
             "img2": "https://i.supaimg.com/9a504a74-6da4-4084-98a8-5355734f502b.png",
