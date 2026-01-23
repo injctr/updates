@@ -43,20 +43,6 @@
         "role": "Assassin",
         "tag": "https://i.supaimg.com/89d011e3-a8d7-4068-b50f-a84c21b7191a.png"
       },
-      "Sun": {
-        "img": "https://i.supaimg.com/7f5af776-4b81-4dbc-9ebe-da48f6f4bb5f.jpg",
-        "name1": "Sun",
-        "name2": "Queller of Chaos",
-        "role": "Fighter",
-        "tag": "https://i.supaimg.com/a1d36586-5a86-4cca-a345-b5f81383efc6.png"
-      },
-      "Granger": {
-        "img": "https://i.supaimg.com/e2df6fa3-25e6-475b-8afe-64ea8ce096d5.jpg",
-        "name1": "Granger",
-        "name2": "Thunder Ascendant",
-        "role": "Marksman",
-        "tag": "https://i.supaimg.com/1e2a3161-ec6f-46dc-9736-d434d3c5893e.png"
-      },
       "Benedetta": {
         "img": "https://i.supaimg.com/24c8e6f7-252d-4078-b26d-beca018e5bee.jpg",
         "name1": "Benedetta",
