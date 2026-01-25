@@ -2,9 +2,9 @@
   {
     "live": "ye",
     "live_link": "https://vt.tiktok.com/ZSHo3c5r845pa-YQAkr/",
-    "notice": "no",
+    "notice": "yes",
     "notice_title": "Maintenance Notice",
-    "notice_message": "mess",
+    "notice_message": "This app is under maintenance. Please try again later.",
     "show_task": "yes",
     "version": "1.43",
     "allow": "unallow",
