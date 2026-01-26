@@ -1,783 +1,783 @@
 [
   {
     "Assassin": {
-      "Fanny": {
+      "001 Fanny": {
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero171-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021141015",
+        "name": "Fanny",
         "Backups": {
-          "-OYfuhBrZxLrzzeTSR-0": "unavailable",
-          "-OYfuhBt5zC8uotNwfNz": "unavailable",
-          "-OYfuhBt5zC8uotNwfO-": "unavailablenh",
-          "-OYfuhBt5zC8uotNwfO0": "unavailable",
-          "-OYfuhBt5zC8uotNwfO1": "me",
-          "-OYfuhBt5zC8uotNwfO2": "unavailable",
-          "-OYfuhBuySE2daa6skD4": "unavailable",
-          "-OYfuhBuySE2daa6skD5": "unavailable",
-          "-OYfuhBuySE2daa6skD6": "unavailable",
-          "-OYfuhBuySE2daa6skD7": "unavailable",
-          "-OYfuhBuySE2daa6skD8": "unavailable",
-          "-OYfuhBuySE2daa6skD9": "unavailable"
+          "01 DEFAULT": "unavailable",
+          "02 ELITE": "unavailable",
+          "03 SEASON": "unavailable",
+          "04 LUCKYBOX": "unavailable",
+          "05 STARLIGHT": "me",
+          "06 SUMMER": "unavailable",
+          "07 LIGHTBORN": "unavailable",
+          "08 CHRISTMAS": "unavailable",
+          "09 TOPUP": "unavailable",
+          "10 ASPIRANTS": "unavailable",
+          "11 AOT": "unavailable",
+          "12 PACE": "unavailable"
         },
         "Replacements": {
-          "Default": {
+          "01 DEFAULT": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero171-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021141015",
             "name1": "Blade Dancer",
             "tag1": "",
             "type1": "Default",
             "type_links": {
-              "luckybox": "https://github.com/injctr/Part2/raw/refs/heads/main/Wanwan/Fanny%20Luckybox%20-%20Default.zip",
-              "summer": "https://www.dropbox.com/scl/fi/jy1rhpbwmrr27fjr0v3wg/Fanny-Summer-Default.zip?rlkey=ki6xgj6y29bqwk4gu1r0c2yty&st=7f5exor9&dl=1",
-              "lightborn": "https://www.dropbox.com/scl/fi/yhid6usdzvo4ooiusdfbb/Fanny-Lightborn-Default.zip?rlkey=2goktcqwfvh3qgw48vmnb4z5b&st=n930gcok&dl=1",
-              "christmas": "https://www.dropbox.com/scl/fi/19ulaa2id7biu0noqipps/Fanny-Christmas-Default.zip?rlkey=10zqtp4msl0zofzdgfw28df81&st=5jr2jjee&dl=1",
-              "aspirants": "https://www.dropbox.com/scl/fi/85e6ldda2tztkgzrh8vji/Fanny-Aspirants-Default.zip?rlkey=qe7ygyz6pgzmtbc4a6frqnz92&st=4g3j55zi&dl=1",
-              "valentine": "https://www.dropbox.com/scl/fi/5bgl5i19rthm9ph3azbsx/Fanny-Valentine-Default.zip?rlkey=lua8lshcwkiv0000nu1nyrjsc&st=aa4j18td&dl=1",
-              "aot": "https://www.dropbox.com/scl/fi/tv5flq923skj80do35l9p/Fanny-AOT-Default.zip?rlkey=3tjupq7reoz40lql7s53h5nws&st=nhz2067x&dl=1",
-              "pace": "unavailable",
-              "LEGEND": "https://www.dropbox.com/scl/fi/953e40z1fhz6m6kwjvy8m/Fanny-Legend-Default.zip?rlkey=sovl4t6243jd1272vyziw54zr&st=zi8q5ow7&dl=1"
+              "01 LUCKYBOX": "https://github.com/injctr/Part2/raw/refs/heads/main/Wanwan/Fanny%20Luckybox%20-%20Default.zip",
+              "02 SUMMER": "https://www.dropbox.com/scl/fi/jy1rhpbwmrr27fjr0v3wg/Fanny-Summer-Default.zip?rlkey=ki6xgj6y29bqwk4gu1r0c2yty&st=7f5exor9&dl=1",
+              "03 LIGHTBORN": "https://www.dropbox.com/scl/fi/yhid6usdzvo4ooiusdfbb/Fanny-Lightborn-Default.zip?rlkey=2goktcqwfvh3qgw48vmnb4z5b&st=n930gcok&dl=1",
+              "04 CHRISTMAS": "https://www.dropbox.com/scl/fi/19ulaa2id7biu0noqipps/Fanny-Christmas-Default.zip?rlkey=10zqtp4msl0zofzdgfw28df81&st=5jr2jjee&dl=1",
+              "05 ASPIRANTS": "https://www.dropbox.com/scl/fi/85e6ldda2tztkgzrh8vji/Fanny-Aspirants-Default.zip?rlkey=qe7ygyz6pgzmtbc4a6frqnz92&st=4g3j55zi&dl=1",
+              "06 VALENTINE": "https://www.dropbox.com/scl/fi/5bgl5i19rthm9ph3azbsx/Fanny-Valentine-Default.zip?rlkey=lua8lshcwkiv0000nu1nyrjsc&st=aa4j18td&dl=1",
+              "07 AOT": "https://www.dropbox.com/scl/fi/tv5flq923skj80do35l9p/Fanny-AOT-Default.zip?rlkey=3tjupq7reoz40lql7s53h5nws&st=nhz2067x&dl=1",
+              "08 PACE": "unavailable",
+              "09 LEGEND": "https://www.dropbox.com/scl/fi/953e40z1fhz6m6kwjvy8m/Fanny-Legend-Default.zip?rlkey=sovl4t6243jd1272vyziw54zr&st=zi8q5ow7&dl=1"
             },
             "scripts": { 
-              "luckybox": "https://rshrt.com/YjL",
-              "summer": "https://rshrt.com/UIZt",
-              "lightborn": "https://rshrt.com/FFesOlU",
-              "christmas": "https://rshrt.com/6vEE",
-              "aspirants": "https://rshrt.com/xVgPuW",
-              "valentine": "https://rshrt.com/yv9Y",
-              "aot": "https://rshrt.com/QwUFq",
-              "pace": "unavailable",
-              "LEGEND": "https://rshrt.com/JpnmH"
+              "01 LUCKYBOX": "https://rshrt.com/YjL",
+              "02 SUMMER": "https://rshrt.com/UIZt",
+              "03 LIGHTBORN": "https://rshrt.com/FFesOlU",
+              "04 CHRISTMAS": "https://rshrt.com/6vEE",
+              "05 ASPIRANTS": "https://rshrt.com/xVgPuW",
+              "06 VALENTINE": "https://rshrt.com/yv9Y",
+              "07 AOT": "https://rshrt.com/QwUFq",
+              "08 PACE": "unavailable",
+              "09 LEGEND": "https://rshrt.com/JpnmH"
             }
           },
-          "Elite-": {
+          "02 ELITE": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero172-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164702",
             "name1": "Campus Youth",
             "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
             "type1": "Elite",
             "type_links": {
-              "-OYPEKftdArbjdiQubvF": "https://www.dropbox.com/scl/fi/qcvzl3o041dwi17kctew2/Fanny-Luckybox-Elite.zip?rlkey=by3mtaamzcxoaozowco9j2g24&st=miy59x4l&dl=1",
-              "-OYPEKftdArbjdiQubvG": "unavailable",
-              "-OYPEKftdArbjdiQubvH": "https://www.dropbox.com/scl/fi/jhc8tzn5nt5aep5aezjhc/Fanny-Lightborn-Elite.zip?rlkey=o97mhzyjekdcrtqya1yecgyl9&st=dahjrjlm&dl=1",
-              "-OYPEKftdArbjdiQubvI": "https://www.dropbox.com/scl/fi/tu5mu3lldjm3x4pyu8jjz/Fanny-Christmas-Elite.zip?rlkey=6ru3k6kvjogh840yyg2w10f3u&st=wpoflqb5&dl=1",
-              "-OYPEKftdArbjdiQubvJ": "https://www.dropbox.com/scl/fi/4tdtog8armxgfrpaidv7d/Fanny-Aspirants-Elite.zip?rlkey=9u8v0h0iitppvbnxe5c6dufzi&st=597nbdvl&dl=1",
-              "-OYPEKftdArbjdiQubvK": "https://www.dropbox.com/scl/fi/leh8zk1im661eh58iz6rq/Fanny-Valentine-Elite.zip?rlkey=bwa4afg6gimqgsgbgakbpicyd&st=cxzn3w09&dl=1",
-              "-OYPEKftdArbjdiQubvL": "https://www.dropbox.com/scl/fi/h3ak98m6r4n5j5ah520fy/Fanny-AOT-Elite.zip?rlkey=ck59onn4eml5u1czat8fzdpxb&st=y91jaywq&dl=1",
-              "-OYPEKftdArbjdiQubvM": "https://www.dropbox.com/scl/fi/6kp4nlrtnramffyftdbe4/Fanny-Legend-Elite.zip?rlkey=wjo904o8m41n9me1tcwv9j87n&st=4jzm83he&dl=1",
-              "LEGEND": "https://www.dropbox.com/scl/fi/6kp4nlrtnramffyftdbe4/Fanny-Legend-Elite.zip?rlkey=wjo904o8m41n9me1tcwv9j87n&st=v51jyjf0&dl=1"
+              "01 LUCKYBOX": "https://www.dropbox.com/scl/fi/qcvzl3o041dwi17kctew2/Fanny-Luckybox-Elite.zip?rlkey=by3mtaamzcxoaozowco9j2g24&st=miy59x4l&dl=1",
+              "02 SUMMER": "unavailable",
+              "03 LIGHTBORN": "https://www.dropbox.com/scl/fi/jhc8tzn5nt5aep5aezjhc/Fanny-Lightborn-Elite.zip?rlkey=o97mhzyjekdcrtqya1yecgyl9&st=dahjrjlm&dl=1",
+              "04 ELITE": "https://www.dropbox.com/scl/fi/tu5mu3lldjm3x4pyu8jjz/Fanny-Christmas-Elite.zip?rlkey=6ru3k6kvjogh840yyg2w10f3u&st=wpoflqb5&dl=1",
+              "05 ASPIRANTS": "https://www.dropbox.com/scl/fi/4tdtog8armxgfrpaidv7d/Fanny-Aspirants-Elite.zip?rlkey=9u8v0h0iitppvbnxe5c6dufzi&st=597nbdvl&dl=1",
+              "06 VALENTINE": "https://www.dropbox.com/scl/fi/leh8zk1im661eh58iz6rq/Fanny-Valentine-Elite.zip?rlkey=bwa4afg6gimqgsgbgakbpicyd&st=cxzn3w09&dl=1",
+              "07 AOT": "https://www.dropbox.com/scl/fi/h3ak98m6r4n5j5ah520fy/Fanny-AOT-Elite.zip?rlkey=ck59onn4eml5u1czat8fzdpxb&st=y91jaywq&dl=1",
+              "08 PACE": "unavailable",
+              "09 LEGEND": "https://www.dropbox.com/scl/fi/6kp4nlrtnramffyftdbe4/Fanny-Legend-Elite.zip?rlkey=wjo904o8m41n9me1tcwv9j87n&st=v51jyjf0&dl=1"
             },
             "scripts": { 
-              "luckybox": "https://rshrt.com/BfLH",
-              "summer": "unavailable",
-              "lightborn": "https://rshrt.com/KFNyo",
-              "christmas": "https://rshrt.com/MkHn4y",
-              "aspirants": "https://rshrt.com/iG1H",
-              "valentine": "https://rshrt.com/iwI4",
-              "aot": "https://rshrt.com/OLHR",
-              "pace": "unavailable",
-              "LEGEND": "https://rshrt.com/MFMQ3"
+              "01 LUCKYBOX": "https://rshrt.com/BfLH",
+              "02 SUMMER": "unavailable",
+              "03 LIGHTBORN": "https://rshrt.com/KFNyo",
+              "04 CHRISTMAS": "https://rshrt.com/MkHn4y",
+              "05 ASPIRANTS": "https://rshrt.com/iG1H",
+              "06 VALENTINE": "https://rshrt.com/iwI4",
+              "07 AOT": "https://rshrt.com/OLHR",
+              "08 PACE": "unavailable",
+              "09 LEGEND": "https://rshrt.com/MFMQ3"
             }
           },
-          "Season": {
+          "03 SEASON": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero173-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164703",
             "name1": "Punk Princess",
             "tag1": "https://i.supaimg.com/baa0d2aa-2fc1-4063-8495-d3d3ece367af.png",
             "type1": "Season 3",
             "type_links": {
-              "-OYPABKlvs-3D9YlljAo": "https://www.dropbox.com/scl/fi/trjsa1myr17dj12elp0gt/Fanny-Luckybox-Season.zip?rlkey=72bucz1kngp5kegpm9jhsn91u&st=fz52aazl&dl=1",
-              "-OYPACnfpTub5UkAen9e": "unavailable",
-              "-OYPACng4S7MShmFoUHW": "https://www.dropbox.com/scl/fi/r0rr752pkuiqoqs3mad92/Fanny-Lightborn-Season.zip?rlkey=1jsnmy4s02nutk69fj2zqhsfh&st=ehdip6js&dl=1",
-              "-OYPACng4S7MShmFoUHX": "https://www.dropbox.com/scl/fi/7hytln7xv87djysdiwc3e/Fanny-Christmas-Season.zip?rlkey=jddjmo1m64zl23o9kzyd8jn1k&st=lw20mjrm&dl=1",
-              "-OYPACng4S7MShmFoUHY": "https://www.dropbox.com/scl/fi/i9c14jcbv72jlszlok1fl/Fanny-Aspirants-Season.zip?rlkey=wggapi4umy7br5hmq95xr740n&st=f5w554tu&dl=1",
-              "-OYPACng4S7MShmFoUHZ": "https://www.dropbox.com/scl/fi/yeinwu6ofj862hqrpe865/Fanny-Valentine-Season.zip?rlkey=0n2005zzc3lybrhqhxqoimak3&st=aortgass&dl=1",
-              "-OYPACng4S7MShmFoUH_": "https://www.dropbox.com/scl/fi/29u7jqpj60wej9b4m5doq/Fanny-AOT-Season.zip?rlkey=dxw50qlzkd3csrgdqv7a2ho2z&st=4vjsubpk&dl=1",
-              "-OYPACng4S7MShmFoUHa": "unavailable",
-              "LEGEND": "https://www.dropbox.com/scl/fi/hny2mfuygokcdkqhmaxi6/Fanny-Legend-Season.zip?rlkey=v2zqclkdhscdl1nbhpo3hvnfd&st=5uj65274&dl=1"
+              "01 LUCKYBOX": "https://www.dropbox.com/scl/fi/trjsa1myr17dj12elp0gt/Fanny-Luckybox-Season.zip?rlkey=72bucz1kngp5kegpm9jhsn91u&st=fz52aazl&dl=1",
+              "02 SUMMER": "unavailable",
+              "03 LIGHTBORN": "https://www.dropbox.com/scl/fi/r0rr752pkuiqoqs3mad92/Fanny-Lightborn-Season.zip?rlkey=1jsnmy4s02nutk69fj2zqhsfh&st=ehdip6js&dl=1",
+              "04 CHRISTMAS": "https://www.dropbox.com/scl/fi/7hytln7xv87djysdiwc3e/Fanny-Christmas-Season.zip?rlkey=jddjmo1m64zl23o9kzyd8jn1k&st=lw20mjrm&dl=1",
+              "05 ASPIRANTS": "https://www.dropbox.com/scl/fi/i9c14jcbv72jlszlok1fl/Fanny-Aspirants-Season.zip?rlkey=wggapi4umy7br5hmq95xr740n&st=f5w554tu&dl=1",
+              "06 VALENTINE": "https://www.dropbox.com/scl/fi/yeinwu6ofj862hqrpe865/Fanny-Valentine-Season.zip?rlkey=0n2005zzc3lybrhqhxqoimak3&st=aortgass&dl=1",
+              "07 AOT": "https://www.dropbox.com/scl/fi/29u7jqpj60wej9b4m5doq/Fanny-AOT-Season.zip?rlkey=dxw50qlzkd3csrgdqv7a2ho2z&st=4vjsubpk&dl=1",
+              "08 PACE": "unavailable",
+              "09 LEGEND": "https://www.dropbox.com/scl/fi/hny2mfuygokcdkqhmaxi6/Fanny-Legend-Season.zip?rlkey=v2zqclkdhscdl1nbhpo3hvnfd&st=5uj65274&dl=1"
             },
             "scripts": { 
-              "luckybox": "https://rshrt.com/ZcSmfRsg",
-              "summer": "unavailable",
-              "lightborn": "https://rshrt.com/mlbWYKb",
-              "christmas": "https://rshrt.com/URWN",
-              "aspirants": "https://rshrt.com/byqgd",
-              "valentine": "https://rshrt.com/yKSbY",
-              "aot": "https://rshrt.com/RzPwBLo",
-              "pace": "unavailable",
-              "LEGEND": "https://rshrt.com/DopW"
+              "01 LUCKYBOX": "https://rshrt.com/ZcSmfRsg",
+              "02 SUMMER": "unavailable",
+              "03 LIGHTBORN": "https://rshrt.com/mlbWYKb",
+              "04 CHRISTMAS": "https://rshrt.com/URWN",
+              "05 ASPIRANTS": "https://rshrt.com/byqgd",
+              "06 VALENTINE": "https://rshrt.com/yKSbY",
+              "07 AOT": "https://rshrt.com/RzPwBLo",
+              "08 PACE": "unavailable",
+              "09 LEGEND": "https://rshrt.com/DopW"
             }
           },
-          "Luckybox": {
+          "04 LUCKYBOX": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero174-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164704",
             "name1": "Skylark",
             "tag1": "https://i.supaimg.com/92fafc3f-bc67-4413-8903-d41b5d6d119d.png",
             "type1": "Luckybox",
             "type_links": {
-              "-OYPAl8Ar4j3TdEQqI9W": "unavailable",
-              "-OYPAl8EAIcSmIkz4WHd": "unavailable",
-              "-OYPAl8EAIcSmIkz4WHe": "unavailable",
-              "-OYPAl8EAIcSmIkz4WHf": "unavailable",
-              "-OYPAl8EAIcSmIkz4WHg": "https://www.dropbox.com/scl/fi/72t8k5cjemfv1q074rs1l/Fanny-Aspirants-Luckybox.zip?rlkey=zlamt9svntg3adevttfxsh9e4&st=ziim92t4&dl=1",
-              "-OYPAl8EAIcSmIkz4WHh": "unavailable",
-              "-OYPAl8FF4Ais8_zOaVk": "https://www.dropbox.com/scl/fi/lp9gvms3q4obvjyrwjx0e/Fanny-AOT-Luckybox.zip?rlkey=hm1f387rrd3uc4prfxv4iavji&st=7k6821e8&dl=1",
-              "-OYPAl8FF4Ais8_zOaVl": "unavailable",
-              "LEGEND": "https://www.dropbox.com/scl/fi/tuehtnex2uyjxzz8lsmjh/Fanny-Legend-Luckybox.zip?rlkey=74rdxoqvuydpa7pz15w4b9eha&st=6krovwqi&dl=1"
+              "01 LUCKYBOX": "unavailable",
+              "02 SUMMER": "unavailable",
+              "03 LIGHTBORN": "unavailable",
+              "04 CHRISTMAS": "unavailable",
+              "05 ASPIRANTS": "https://www.dropbox.com/scl/fi/72t8k5cjemfv1q074rs1l/Fanny-Aspirants-Luckybox.zip?rlkey=zlamt9svntg3adevttfxsh9e4&st=ziim92t4&dl=1",
+              "06 VALENTINE": "unavailable",
+              "07 AOT": "https://www.dropbox.com/scl/fi/lp9gvms3q4obvjyrwjx0e/Fanny-AOT-Luckybox.zip?rlkey=hm1f387rrd3uc4prfxv4iavji&st=7k6821e8&dl=1",
+              "08 PACE": "unavailable",
+              "09 LEGEND": "https://www.dropbox.com/scl/fi/tuehtnex2uyjxzz8lsmjh/Fanny-Legend-Luckybox.zip?rlkey=74rdxoqvuydpa7pz15w4b9eha&st=6krovwqi&dl=1"
             },
             "scripts": { 
-              "luckybox": "unavailable",
-              "summer": "unavailable",
-              "lightborn": "unavailable",
-              "christmas": "unavailable",
-              "aspirants": "https://rshrt.com/UGwLgM",
-              "valentine": "unavailable",
-              "aot": "https://rshrt.com/j2alNz",
-              "pace": "unavailable",
-              "LEGEND": "https://rshrt.com/VzTfp"
+              "01 LUCKYBOX": "unavailable",
+              "02 SUMMER": "unavailable",
+              "03 LIGHTBORN": "unavailable",
+              "04 CHRISTMAS": "unavailable",
+              "05 ASPIRANTS": "https://rshrt.com/UGwLgM",
+              "06 VALENTINE": "unavailable",
+              "07 AOT": "https://rshrt.com/j2alNz",
+              "08 PACE": "unavailable",
+              "09 LEGEND": "https://rshrt.com/VzTfp"
             }
           },
-          "Starlight": {
+          "05 STARLIGHT": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero175-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164705",
             "name1": "Royal Cavalry",
             "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
             "type1": "Starlight 2018",
             "type_links": {
-              "-OYPAoApfGL3RiaLhjYO": "https://www.dropbox.com/scl/fi/p7njl0mdhcukwr2nm3hv0/Fanny-Luckybox-Starlight.zip?rlkey=14o6i753zjc2irsyjvfubyaik&st=yrtnkk13&dl=1",
-              "-OYPAoAqk-amuPKNayTp": "unavailable",
-              "-OYPAoAqk-amuPKNayTq": "https://www.dropbox.com/scl/fi/lnkwvt07juopdftt8psss/Fanny-Lightborn-Starlight.zip?rlkey=xazz5sypp6d0ixxqffl84couk&st=eugr2xeu&dl=1",
-              "-OYPAoAqk-amuPKNayTr": "https://www.dropbox.com/scl/fi/7euiya7cdi26bo4zppbpj/Fanny-Christmas-Starlight.zip?rlkey=vbhpqfuxvru6vw497obv31er2&st=oadynahu&dl=1",
-              "-OYPAoAqk-amuPKNayTs": "https://www.dropbox.com/scl/fi/ygrawtb8942c4bq9evjxf/Fanny-Aspirants-Starlight.zip?rlkey=pfslx4xennmrhgy23oeadlmoy&st=hsdd4h6q&dl=1",
-              "-OYPAoAqk-amuPKNayTt": "https://www.dropbox.com/scl/fi/u7gyhptfo228tbd5uj31o/Fanny-Valentine-Starlight.zip?rlkey=mvrpzh0ckrpksyndfsbvui535&st=9gmsqfce&dl=1",
-              "-OYPAoAqk-amuPKNayTu": "https://www.dropbox.com/scl/fi/4zk335fzg51oz6hszl1ed/Fanny-AOT-Starlight.zip?rlkey=xnm1dj7ja8xo2flqcb1ahb38g&st=lr4vsklu&dl=1",
-              "-OYPAoAqk-amuPKNayTv": "unavailable",
-              "LEGEND": "https://www.dropbox.com/scl/fi/sf76xkcmn9lbojw1v0fjr/Fanny-Legend-Starlight.zip?rlkey=nrpskbu9k9ga20k02xj7uh76h&st=9b0kuurd&dl=1"
+              "01 LUCKYBOX": "https://www.dropbox.com/scl/fi/p7njl0mdhcukwr2nm3hv0/Fanny-Luckybox-Starlight.zip?rlkey=14o6i753zjc2irsyjvfubyaik&st=yrtnkk13&dl=1",
+              "02 SUMMER": "unavailable",
+              "03 LIGHTBORN": "https://www.dropbox.com/scl/fi/lnkwvt07juopdftt8psss/Fanny-Lightborn-Starlight.zip?rlkey=xazz5sypp6d0ixxqffl84couk&st=eugr2xeu&dl=1",
+              "04 CHRISTMAS": "https://www.dropbox.com/scl/fi/7euiya7cdi26bo4zppbpj/Fanny-Christmas-Starlight.zip?rlkey=vbhpqfuxvru6vw497obv31er2&st=oadynahu&dl=1",
+              "05 ASPIRANTS": "https://www.dropbox.com/scl/fi/ygrawtb8942c4bq9evjxf/Fanny-Aspirants-Starlight.zip?rlkey=pfslx4xennmrhgy23oeadlmoy&st=hsdd4h6q&dl=1",
+              "06 VALENTINE": "https://www.dropbox.com/scl/fi/u7gyhptfo228tbd5uj31o/Fanny-Valentine-Starlight.zip?rlkey=mvrpzh0ckrpksyndfsbvui535&st=9gmsqfce&dl=1",
+              "07 AOT": "https://www.dropbox.com/scl/fi/4zk335fzg51oz6hszl1ed/Fanny-AOT-Starlight.zip?rlkey=xnm1dj7ja8xo2flqcb1ahb38g&st=lr4vsklu&dl=1",
+              "08 AOT": "unavailable",
+              "09 LEGEND": "https://www.dropbox.com/scl/fi/sf76xkcmn9lbojw1v0fjr/Fanny-Legend-Starlight.zip?rlkey=nrpskbu9k9ga20k02xj7uh76h&st=9b0kuurd&dl=1"
             },
             "scripts": { 
-              "luckybox": "https://rshrt.com/T7v",
-              "summer": "unavailable",
-              "lightborn": "https://rshrt.com/pZHUYF",
-              "christmas": "https://rshrt.com/TYvFOg",
-              "aspirants": "https://rshrt.com/0bmiz",
-              "valentine": "https://rshrt.com/CTN5",
-              "aot": "https://rshrt.com/oEBK4zId",
-              "pace": "unavailable",
-              "LEGEND": "https://rshrt.com/y9ZXcN"
+              "01 LUCKYBOX": "https://rshrt.com/T7v",
+              "02 SUMMER": "unavailable",
+              "03 LIGHTBORN": "https://rshrt.com/pZHUYF",
+              "04 CHRISTMAS": "https://rshrt.com/TYvFOg",
+              "05 ASPIRANTS": "https://rshrt.com/0bmiz",
+              "06 VALENTINE": "https://rshrt.com/CTN5",
+              "07 AOT": "https://rshrt.com/oEBK4zId",
+              "08 PACE": "unavailable",
+              "09 LEGEND": "https://rshrt.com/y9ZXcN"
             }
           },
-          "Summer": {
+          "06 SUMMER": {
             "img1": "https://i.supaimg.com/ec9b4af6-c1cf-471e-8d42-c9253920ec75.jpg",
             "name1": "Summer Rescue",
             "tag1": "https://i.supaimg.com/bbcebe6d-4db4-451e-97bd-35c31bae9765.png",
             "type1": "Summer",
             "type_links": {
-              "-OYPApUC3JSMdHDk3H1U": "https://www.dropbox.com/scl/fi/15zgbongjt80xy7ixxdrc/Fanny-Luckybox-Summer.zip?rlkey=sbr4sivju24hnf794mszlgw1a&st=6txo9byd&dl=1",
-              "-OYPApUC3JSMdHDk3H1V": "unavailable",
-              "-OYPApUC3JSMdHDk3H1W": "https://www.dropbox.com/scl/fi/3uh2hkyg8viebpkgv38a5/Fanny-Lightborn-Summer.zip?rlkey=q9qfbbtquluklhkqn5ga7nboy&st=rck550wk&dl=1",
-              "-OYPApUC3JSMdHDk3H1X": "https://www.dropbox.com/scl/fi/9j4hn16nhoxmgxo47kaix/Fanny-Christmas-Summer.zip?rlkey=9r88vbgz6df8i8c63j0xw1jgr&st=2o8cs6bv&dl=1",
-              "-OYPApUC3JSMdHDk3H1Y": "https://www.dropbox.com/scl/fi/tqfrsp7ar26urg2533p7c/Fanny-Aspirants-Summer.zip?rlkey=8hht7u65s53eb293trw3sbjgv&st=54l4r4wp&dl=1",
-              "-OYPApUC3JSMdHDk3H1Z": "https://www.dropbox.com/scl/fi/1q2jitxdjiptdcsdg2w89/Fanny-Valentine-Summer.zip?rlkey=w6hna2zp1uhl76ctmd6roqd0m&st=mh9firj7&dl=1",
-              "-OYPApUC3JSMdHDk3H1_": "https://www.dropbox.com/scl/fi/p1erotcoox8isyrstcaws/Fanny-AOT-Summer.zip?rlkey=wdxyfvmk2ts334jod4kgdpb2u&st=n12fbbmj&dl=1",
-              "-OYPApUC3JSMdHDk3H1a": "unavailable",
-              "LEGEND": "https://www.dropbox.com/scl/fi/ou1xirrgcj4bi69kqb1hm/Fanny-Legend-Summer.zip?rlkey=857no7pbd239vlhoaol8kblzh&st=t3gcmzen&dl=1"
+              "01 LUCKYBOX": "https://www.dropbox.com/scl/fi/15zgbongjt80xy7ixxdrc/Fanny-Luckybox-Summer.zip?rlkey=sbr4sivju24hnf794mszlgw1a&st=6txo9byd&dl=1",
+              "02 SUMMER": "unavailable",
+              "03 LIGHTBORN": "https://www.dropbox.com/scl/fi/3uh2hkyg8viebpkgv38a5/Fanny-Lightborn-Summer.zip?rlkey=q9qfbbtquluklhkqn5ga7nboy&st=rck550wk&dl=1",
+              "04 CHRISTMAS": "https://www.dropbox.com/scl/fi/9j4hn16nhoxmgxo47kaix/Fanny-Christmas-Summer.zip?rlkey=9r88vbgz6df8i8c63j0xw1jgr&st=2o8cs6bv&dl=1",
+              "05 ASPIRANTS": "https://www.dropbox.com/scl/fi/tqfrsp7ar26urg2533p7c/Fanny-Aspirants-Summer.zip?rlkey=8hht7u65s53eb293trw3sbjgv&st=54l4r4wp&dl=1",
+              "06 VALENTINE": "https://www.dropbox.com/scl/fi/1q2jitxdjiptdcsdg2w89/Fanny-Valentine-Summer.zip?rlkey=w6hna2zp1uhl76ctmd6roqd0m&st=mh9firj7&dl=1",
+              "07 AOT": "https://www.dropbox.com/scl/fi/p1erotcoox8isyrstcaws/Fanny-AOT-Summer.zip?rlkey=wdxyfvmk2ts334jod4kgdpb2u&st=n12fbbmj&dl=1",
+              "08 PACE": "unavailable",
+              "09 LEGEND": "https://www.dropbox.com/scl/fi/ou1xirrgcj4bi69kqb1hm/Fanny-Legend-Summer.zip?rlkey=857no7pbd239vlhoaol8kblzh&st=t3gcmzen&dl=1"
             },
             "scripts": { 
-              "luckybox": "https://rshrt.com/YRFFnn7",
-              "summer": "unavailable",
-              "lightborn": "https://rshrt.com/cPSpI",
-              "christmas": "https://rshrt.com/Wo0tIYhI",
-              "aspirants": "https://rshrt.com/HpIqN7i",
-              "valentine": "https://rshrt.com/CtSg",
-              "aot": "https://rshrt.com/PuwF",
-              "pace": "unavailable",
-              "LEGEND": "https://rshrt.com/yJHY"
+              "01 LUCKYBOX": "https://rshrt.com/YRFFnn7",
+              "02 SUMMER": "unavailable",
+              "03 LIGHTBORN": "https://rshrt.com/cPSpI",
+              "04 CHRISTMAS": "https://rshrt.com/Wo0tIYhI",
+              "05 ASPIRANTS": "https://rshrt.com/HpIqN7i",
+              "06 VALENTINE": "https://rshrt.com/CtSg",
+              "07 AOT": "https://rshrt.com/PuwF",
+              "08 PACE": "unavailable",
+              "09 LEGEND": "https://rshrt.com/yJHY"
             }
           },
-          "Lightborn": {
+          "07 LIGHTBORN": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero177-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164707",
             "name1": "Lightborn - Ranger",
             "tag1": "https://i.supaimg.com/69a7a5dd-6136-442a-b82c-c5bd54dbac46.png",
             "type1": "Lightborn",
             "type_links": {
-              "-OYPArMjFJPDRYIPvJHn": "https://www.dropbox.com/scl/fi/tzt4pro3n3njqdgue03so/Fanny-Luckybox-Lightborn.zip?rlkey=b7omz6lhvmmj811j3gbgvkn2n&st=yddtw5ta&dl=1",
-              "-OYPArMkGk8qk6GXFiVH": "unavailable",
-              "-OYPArMkGk8qk6GXFiVI": "unavailable",
-              "-OYPArMkGk8qk6GXFiVJ": "https://www.dropbox.com/scl/fi/ysv3946v6m9bswdcpw7vl/Fanny-Christmas-Lightborn.zip?rlkey=ax35p1rgw7ogkpyf6ts3m622x&st=d8gyvo7y&dl=1",
-              "-OYPArMlNkp9ZE9e_k1r": "https://www.dropbox.com/scl/fi/0z4b8njekb3dsdq7i6uir/Fanny-Aspirants-Lightborn.zip?rlkey=xbdel6tgteq9a8gigfouirn0a&st=ckv35nz9&dl=1",
-              "-OYPArMlNkp9ZE9e_k1s": "https://www.dropbox.com/scl/fi/xmg9oxw16t2zplzvb26y9/Fanny-Valentine-Lightborn.zip?rlkey=q4xtoljkft9ndhhexjh86fn5a&st=wj6iy9ul&dl=1",
-              "-OYPArMlNkp9ZE9e_k1t": "https://www.dropbox.com/scl/fi/6ieu4hc6qz48q3gchbkpc/Fanny-AOT-Lightborn.zip?rlkey=xe1hnlvr879tdx5lguwnd9bsj&st=sq9zdwsm&dl=1",
-              "-OYPArMlNkp9ZE9e_k1u": "unavailable",
-              "LEGEND": "https://www.dropbox.com/scl/fi/mas4808kg18kwr1f1ofcm/Fanny-Legend-Lightborn.zip?rlkey=67osdsxomhdqi60bbsqkyul9y&st=o1gtsho1&dl=1"
+              "01 LUCKYBOX": "https://www.dropbox.com/scl/fi/tzt4pro3n3njqdgue03so/Fanny-Luckybox-Lightborn.zip?rlkey=b7omz6lhvmmj811j3gbgvkn2n&st=yddtw5ta&dl=1",
+              "02 SUMMER": "unavailable",
+              "03 LIGHTBORN": "unavailable",
+              "04 CHRISTMAS": "https://www.dropbox.com/scl/fi/ysv3946v6m9bswdcpw7vl/Fanny-Christmas-Lightborn.zip?rlkey=ax35p1rgw7ogkpyf6ts3m622x&st=d8gyvo7y&dl=1",
+              "05 ASPIRANTS": "https://www.dropbox.com/scl/fi/0z4b8njekb3dsdq7i6uir/Fanny-Aspirants-Lightborn.zip?rlkey=xbdel6tgteq9a8gigfouirn0a&st=ckv35nz9&dl=1",
+              "06 VALENTINE": "https://www.dropbox.com/scl/fi/xmg9oxw16t2zplzvb26y9/Fanny-Valentine-Lightborn.zip?rlkey=q4xtoljkft9ndhhexjh86fn5a&st=wj6iy9ul&dl=1",
+              "07 AOT": "https://www.dropbox.com/scl/fi/6ieu4hc6qz48q3gchbkpc/Fanny-AOT-Lightborn.zip?rlkey=xe1hnlvr879tdx5lguwnd9bsj&st=sq9zdwsm&dl=1",
+              "08 PACE": "unavailable",
+              "09 LEGEND": "https://www.dropbox.com/scl/fi/mas4808kg18kwr1f1ofcm/Fanny-Legend-Lightborn.zip?rlkey=67osdsxomhdqi60bbsqkyul9y&st=o1gtsho1&dl=1"
             },
             "scripts": { 
-              "luckybox": "https://rshrt.com/heXWdQ",
-              "summer": "unavailable",
-              "lightborn": "unavailable",
-              "christmas": "https://rshrt.com/XNZ",
-              "aspirants": "https://rshrt.com/qbW8d",
-              "valentine": "https://rshrt.com/xJUu",
-              "aot": "https://rshrt.com/J2PRtJ",
-              "pace": "unavailable",
-              "LEGEND": "https://rshrt.com/F5I"
+              "01 LUCKYBOX": "https://rshrt.com/heXWdQ",
+              "02 SUMMER": "unavailable",
+              "03 LIGHTBORN": "unavailable",
+              "04 CHRISTMAS": "https://rshrt.com/XNZ",
+              "05 ASPIRANTS": "https://rshrt.com/qbW8d",
+              "06 VALENTINE": "https://rshrt.com/xJUu",
+              "07 AOT": "https://rshrt.com/J2PRtJ",
+              "08 PACE": "unavailable",
+              "09 LEGEND": "https://rshrt.com/F5I"
             }
           },
-          "Christmas": {
+          "08 CHRISTMAS": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero178-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164708",
             "name1": "Christmas Carnival",
             "tag1": "https://i.supaimg.com/3ecf7426-2dc7-43fe-ba77-d698e4d38341.png",
             "type1": "Christmas",
             "type_links": {
-              "-OYPAuMzdLF0FuPlxhFg": "https://www.dropbox.com/scl/fi/nq639tettg4mo2iuhm196/Fanny-Luckybox-Christmas.zip?rlkey=8paptaqgx45qu3lwy73e0y1p9&st=jm833xwe&dl=1",
-              "-OYPAuN-wKls0Jg0PpCt": "unavailable",
-              "-OYPAuN-wKls0Jg0PpCu": "unavailable",
-              "-OYPAuN-wKls0Jg0PpCv": "unavailable",
-              "-OYPAuN-wKls0Jg0PpCw": "https://www.dropbox.com/scl/fi/to6yofzsa07vi5ejt6x48/Fanny-Aspirants-Christmas.zip?rlkey=jz1ib9b9x6ngrxsdeul8qdjld&st=97up9jh2&dl=1",
-              "-OYPAuN-wKls0Jg0PpCx": "unavailable",
-              "-OYPAuN-wKls0Jg0PpCy": "https://www.dropbox.com/scl/fi/1qx7yhcseebvpcqc29d74/Fanny-AOT-Christmas.zip?rlkey=zzaynpo8am66z0h3f1z5doxs5&st=2mtvcqtg&dl=1",
-              "-OYPAuN-wKls0Jg0PpCz": "unavailable",
-              "LEGEND": "https://www.dropbox.com/scl/fi/ztxa41pjwwora0j6sq3k0/Fanny-Legend-Christmas.zip?rlkey=9837qr1dwusbhurujuktvnsez&st=vxvh9zbd&dl=1"
+              "01 LUCKYBOX": "https://www.dropbox.com/scl/fi/nq639tettg4mo2iuhm196/Fanny-Luckybox-Christmas.zip?rlkey=8paptaqgx45qu3lwy73e0y1p9&st=jm833xwe&dl=1",
+              "02 SUMMER": "unavailable",
+              "03 LIGHTBORN": "unavailable",
+              "04 CHRISTMAS": "unavailable",
+              "05 ASPIRANTS": "https://www.dropbox.com/scl/fi/to6yofzsa07vi5ejt6x48/Fanny-Aspirants-Christmas.zip?rlkey=jz1ib9b9x6ngrxsdeul8qdjld&st=97up9jh2&dl=1",
+              "06 VALENTINE": "unavailable",
+              "07 AOT": "https://www.dropbox.com/scl/fi/1qx7yhcseebvpcqc29d74/Fanny-AOT-Christmas.zip?rlkey=zzaynpo8am66z0h3f1z5doxs5&st=2mtvcqtg&dl=1",
+              "08 PACE": "unavailable",
+              "09 LEGEND": "https://www.dropbox.com/scl/fi/ztxa41pjwwora0j6sq3k0/Fanny-Legend-Christmas.zip?rlkey=9837qr1dwusbhurujuktvnsez&st=vxvh9zbd&dl=1"
             },
             "scripts": { 
-              "luckybox": "https://rshrt.com/deds",
-              "summer": "unavailable",
-              "lightborn": "unavailable",
-              "christmas": "unavailable",
-              "aspirants": "https://rshrt.com/x2s",
-              "valentine": "unavailable",
-              "aot": "https://rshrt.com/mXjx9t",
-              "pace": "unavailable",
-              "LEGEND": "https://rshrt.com/ZbR1v"
+              "01 LUCKYBOX": "https://rshrt.com/deds",
+              "02 SUMMER": "unavailable",
+              "03 LIGHTBORN": "unavailable",
+              "04 CHRISTMAS": "unavailable",
+              "05 ASPIRANTS": "https://rshrt.com/x2s",
+              "06 VALENTINE": "unavailable",
+              "07 AOT": "https://rshrt.com/mXjx9t",
+              "08 PACE": "unavailable",
+              "09 LEGEND": "https://rshrt.com/ZbR1v"
             }
           },
-          "Topup": {
+          "09 TOPUP": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Hero179-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164709",
             "name1": "Imperial Warrior",
             "tag1": "",
             "type1": "S22 First Recharge",
             "type_links": {
-              "-OYPAy65b2UDaZWNkjVG": "https://www.dropbox.com/scl/fi/qs2h413a9w69lnckbp40a/Fanny-Luckybox-Imp.-Warrior.zip?rlkey=sodwo951dodye9wullh7gnoh5&st=wsiq2oem&dl=1",
-              "-OYPAy66sDA_F_v28QqN": "unavailable",
-              "-OYPAy66sDA_F_v28QqO": "https://www.dropbox.com/scl/fi/4q6sxhgvhhf1sjpqi6ibn/Fanny-Lightborn-Imp.-Warrior.zip?rlkey=mbxrlyw2cse447fynd4o45w37&st=q7ujgxjl&dl=1",
-              "-OYPAy66sDA_F_v28QqP": "https://www.dropbox.com/scl/fi/ll14vo6j7aedto6chv406/Fanny-Christmas-Imperial-Warrior.zip?rlkey=a2uo7xmu8nxfdf7sk5nk86y6p&st=ecz018n6&dl=1",
-              "-OYPAy66sDA_F_v28QqQ": "https://www.dropbox.com/scl/fi/2h42hskoyrbfydwhixgn8/Fanny-Aspirants-Imp.-Warrior.zip?rlkey=byf89t3qnjihf93phm0gzdmgx&st=zvq95zcy&dl=1",
-              "-OYPAy66sDA_F_v28QqR": "https://www.dropbox.com/scl/fi/ror2e8312pynzoa3ddurm/Fanny-Valentine-Imperial-Warrior.zip?rlkey=kbfmpcyfukr801p6yirz1sxvp&st=bkbyigcq&dl=1",
-              "-OYPAy66sDA_F_v28QqS": "https://www.dropbox.com/scl/fi/jk2g54jpfwczv0i8kw08e/Fanny-AOT-Imp.-Warrior.zip?rlkey=bftm6ijll6sfbzrnc22vwol7l&st=3rwmzjq7&dl=1",
-              "-OYPAy66sDA_F_v28QqT": "unavailable",
-              "LEGEND": "https://www.dropbox.com/scl/fi/igfphswrth0ydc4ktxn6w/Fanny-Legend-Imperial.zip?rlkey=xnegh2cpxnk6v0rgr6bv0t42a&st=hzoo7y9u&dl=1"
+              "01 LUCKYBOX": "https://www.dropbox.com/scl/fi/qs2h413a9w69lnckbp40a/Fanny-Luckybox-Imp.-Warrior.zip?rlkey=sodwo951dodye9wullh7gnoh5&st=wsiq2oem&dl=1",
+              "02 SUMMER": "unavailable",
+              "03 LIGHTBORN": "https://www.dropbox.com/scl/fi/4q6sxhgvhhf1sjpqi6ibn/Fanny-Lightborn-Imp.-Warrior.zip?rlkey=mbxrlyw2cse447fynd4o45w37&st=q7ujgxjl&dl=1",
+              "04 CHRISTMAS": "https://www.dropbox.com/scl/fi/ll14vo6j7aedto6chv406/Fanny-Christmas-Imperial-Warrior.zip?rlkey=a2uo7xmu8nxfdf7sk5nk86y6p&st=ecz018n6&dl=1",
+              "05 ASPIRANTS": "https://www.dropbox.com/scl/fi/2h42hskoyrbfydwhixgn8/Fanny-Aspirants-Imp.-Warrior.zip?rlkey=byf89t3qnjihf93phm0gzdmgx&st=zvq95zcy&dl=1",
+              "06 VALENTINE": "https://www.dropbox.com/scl/fi/ror2e8312pynzoa3ddurm/Fanny-Valentine-Imperial-Warrior.zip?rlkey=kbfmpcyfukr801p6yirz1sxvp&st=bkbyigcq&dl=1",
+              "07 AOT": "https://www.dropbox.com/scl/fi/jk2g54jpfwczv0i8kw08e/Fanny-AOT-Imp.-Warrior.zip?rlkey=bftm6ijll6sfbzrnc22vwol7l&st=3rwmzjq7&dl=1",
+              "08 PACE": "unavailable",
+              "09 LEGEND": "https://www.dropbox.com/scl/fi/igfphswrth0ydc4ktxn6w/Fanny-Legend-Imperial.zip?rlkey=xnegh2cpxnk6v0rgr6bv0t42a&st=hzoo7y9u&dl=1"
             },
             "scripts": { 
-              "luckybox": "https://rshrt.com/P5B3",
-              "summer": "unavailable",
-              "lightborn": "https://rshrt.com/UjoCmi",
-              "christmas": "https://rshrt.com/QtjL",
-              "aspirants": "https://rshrt.com/Ci7j",
-              "valentine": "https://rshrt.com/THDrO7Z",
-              "aot": "https://rshrt.com/sLdW",
-              "pace": "unavailable",
-              "LEGEND": "https://rshrt.com/jJROGgk"
+              "01 LUCKYBOX": "https://rshrt.com/P5B3",
+              "02 SUMMER": "unavailable",
+              "03 LIGHTBORN": "https://rshrt.com/UjoCmi",
+              "04 CHRISTMAS": "https://rshrt.com/QtjL",
+              "05 ASPIRANTS": "https://rshrt.com/Ci7j",
+              "06 VALENTINE": "https://rshrt.com/THDrO7Z",
+              "07 AOT": "https://rshrt.com/sLdW",
+              "08 PACE": "unavailable",
+              "09 LEGEND": "https://rshrt.com/jJROGgk"
             }
           },
-          "Aspirants": {
+          "10 ASPIRANTS": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero101710-portrait.png/revision/latest/scale-to-width-down/150?cb=20220714031230",
             "name1": "Blade of Kibou",
             "tag1": "https://i.supaimg.com/9e12716d-a6ec-4592-8502-3a5c1c8d57bd.png",
             "type1": "The Aspirants",
             "type_links": {
-              "-OYPB2O-ryHBgVx5Ce3B": "unavailable",
-              "-OYPB2O-ryHBgVx5Ce3C": "unavailable",
-              "-OYPB2O06u9Qla7TMlxe": "unavailable",
-              "-OYPB2O06u9Qla7TMlxf": "unavailable",
-              "-OYPB2O1cVFSArgU-GWI": "unavailable",
-              "-OYPB2O1cVFSArgU-GWJ": "unavailable",
-              "-OYPB2O1cVFSArgU-GWK": "https://www.dropbox.com/scl/fi/0nx5xyigzrvf50l99ig9b/Fanny-AOT-Aspirants.zip?rlkey=y68mudlmzr0ur88xdwu0m13cs&st=0cfhcg1s&dl=1",
-              "-OYPB2O1cVFSArgU-GWL": "unavailable",
-              "LEGEND": "https://www.dropbox.com/scl/fi/sacr18vjkk7bpk8mcrmxu/Fanny-Legend-Aspirants.zip?rlkey=mc4rxyov8obewg00uj4t12iyj&st=oi08vjtz&dl=1"
+              "01 LUCKYBOX": "unavailable",
+              "02 SUMMER": "unavailable",
+              "03 LIGHTBORN": "unavailable",
+              "04 CHRISTMAS": "unavailable",
+              "05 ASPIRANTS": "unavailable",
+              "06 VALENTINE": "unavailable",
+              "07 AOT": "https://www.dropbox.com/scl/fi/0nx5xyigzrvf50l99ig9b/Fanny-AOT-Aspirants.zip?rlkey=y68mudlmzr0ur88xdwu0m13cs&st=0cfhcg1s&dl=1",
+              "08 PACE": "unavailable",
+              "09 LEGEND": "https://www.dropbox.com/scl/fi/sacr18vjkk7bpk8mcrmxu/Fanny-Legend-Aspirants.zip?rlkey=mc4rxyov8obewg00uj4t12iyj&st=oi08vjtz&dl=1"
             },
             "scripts": { 
-              "luckybox": "unavailable",
-              "summer": "unavailable",
-              "lightborn": "unavailable",
-              "christmas": "unavailable",
-              "aspirants": "unavailable",
-              "valentine": "unavailable",
-              "aot": "https://rshrt.com/UkvB",
-              "pace": "unavailable",
-              "LEGEND": "https://rshrt.com/77jG5"
+              "01 LUCKYBOX": "unavailable",
+              "02 SUMMER": "unavailable",
+              "03 LIGHTBORN": "unavailable",
+              "04 CHRISTMAS": "unavailable",
+              "05 ASPIRANTS": "unavailable",
+              "06 VALENTINE": "unavailable",
+              "07 AOT": "https://rshrt.com/UkvB",
+              "08 PACE": "unavailable",
+              "09 LEGEND": "https://rshrt.com/77jG5"
             }
           },
-          "Valentine": {
+          "11 VALENTINE": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero101711-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035453",
             "name1": "Heart Afloat",
             "tag1": "https://i.supaimg.com/10e40386-9b0a-4369-9f84-746246e272d9.png",
             "type1": "Valentine",
             "type_links": {
-              "-OYPBB3fHnT1bs55dfrf": "https://www.dropbox.com/scl/fi/64vepipfdnp9xa31i8kb1/Fanny-Luckybox-Valentine.zip?rlkey=dg947iuu93uzwzrjawhh8uzlv&st=95kqfcjf&dl=1",
-              "-OYPBB3fHnT1bs55dfrg": "unavailable",
-              "-OYPBB3fHnT1bs55dfrh": "unavailable",
-              "-OYPBB3fHnT1bs55dfri": "unavailable",
-              "-OYPBB3gt_kuT2vreh0d": "https://www.dropbox.com/scl/fi/0folre6k2msy8x3ig19zd/Fanny-Aspirants-Valentine.zip?rlkey=39206ml6o2o3i0hj5km2lzxzd&st=lcfwg57m&dl=1",
-              "-OYPBB3gt_kuT2vreh0e": "unavailable",
-              "-OYPBB3gt_kuT2vreh0f": "https://www.dropbox.com/scl/fi/uh00hugml3sibep17b4bo/Fanny-AOT-Valentine.zip?rlkey=m2jus7ct9q4u61uvyd67h93ug&st=2cbzs4lr&dl=1",
-              "-OYPBB3gt_kuT2vreh0g": "unavailable",
-              "LEGEND": "https://www.dropbox.com/scl/fi/ssbgurn3w9ywvni2qyohc/Fanny-Legend-Valentine.zip?rlkey=68f5do3076pa9eawems6p8m5f&st=dqy6izkj&dl=1"
+              "01 LUCKYBOX": "https://www.dropbox.com/scl/fi/64vepipfdnp9xa31i8kb1/Fanny-Luckybox-Valentine.zip?rlkey=dg947iuu93uzwzrjawhh8uzlv&st=95kqfcjf&dl=1",
+              "02 SUMMER": "unavailable",
+              "03 LIGHTBORN": "unavailable",
+              "04 CHRISTMAS": "unavailable",
+              "05 ASPIRANTS": "https://www.dropbox.com/scl/fi/0folre6k2msy8x3ig19zd/Fanny-Aspirants-Valentine.zip?rlkey=39206ml6o2o3i0hj5km2lzxzd&st=lcfwg57m&dl=1",
+              "06 VALENTINE": "unavailable",
+              "07 AOT": "https://www.dropbox.com/scl/fi/uh00hugml3sibep17b4bo/Fanny-AOT-Valentine.zip?rlkey=m2jus7ct9q4u61uvyd67h93ug&st=2cbzs4lr&dl=1",
+              "08 PACE": "unavailable",
+              "09 LEGEND": "https://www.dropbox.com/scl/fi/ssbgurn3w9ywvni2qyohc/Fanny-Legend-Valentine.zip?rlkey=68f5do3076pa9eawems6p8m5f&st=dqy6izkj&dl=1"
             },
             "scripts": { 
-              "luckybox": "https://rshrt.com/yfBTmY",
-              "summer": "unavailable",
-              "lightborn": "unavailable",
-              "christmas": "unavailable",
-              "aspirants": "https://rshrt.com/kK9h7m",
-              "valentine": "unavailable",
-              "aot": "https://rshrt.com/CQSaAnSI",
-              "pace": "unavailable",
-              "LEGEND": "https://rshrt.com/GUMwtlI4"
+              "01 LUCKYBOX": "https://rshrt.com/yfBTmY",
+              "02 SUMMER": "unavailable",
+              "03 LIGHTBORN": "unavailable",
+              "04 CHRISTMAS": "unavailable",
+              "05 ASPIRANTS": "https://rshrt.com/kK9h7m",
+              "06 VALENTINE": "unavailable",
+              "07 AOT": "https://rshrt.com/CQSaAnSI",
+              "08 PACE": "unavailable",
+              "09 LEGEND": "https://rshrt.com/GUMwtlI4"
             }
           },
-          "AOT": {
+          "12 AOT": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero101712-portrait.png/revision/latest/scale-to-width-down/150?cb=20240127074733",
             "name1": "Mikasa",
             "tag1": "https://i.supaimg.com/2d707216-3615-407e-9eea-7d62bfb403be.png",
             "type1": "Attack on Titan",
             "type_links": {
-              "-OYPBIZ9E4x-8UIdiGkF": "unavailable",
-              "-OYPBIZAHEmIXDNJ1Gwx": "unavailable",
-              "-OYPBIZAHEmIXDNJ1Gwy": "unavailable",
-              "-OYPBIZAHEmIXDNJ1Gwz": "unavailable",
-              "-OYPBIZAHEmIXDNJ1Gx-": "https://www.dropbox.com/scl/fi/bfcp4wii4qjoof6bn1mth/Fanny-Aspirants-AOT.zip?rlkey=ht2goan0zm3x1xde8l3osxvjn&st=qqmnx9t0&dl=1",
-              "-OYPBIZBEsoEzbzLLiu5": "unavailable",
-              "-OYPBIZBEsoEzbzLLiu6": "unavailable",
-              "-OYPBIZBEsoEzbzLLiu7": "unavailable",
-              "LEGEND": "https://www.dropbox.com/scl/fi/ggzxnqjmuesnwudb9crff/Fanny-Legend-AOT.zip?rlkey=zf5trh1madn2hqgtqennfbgd8&st=3zym3anq&dl=1"
+              "01 LUCKYBOX": "unavailable",
+              "02 SUMMER": "unavailable",
+              "03 LIGHTBORN": "unavailable",
+              "04 CHRISTMAS": "unavailable",
+              "05 ASPIRANTS": "https://www.dropbox.com/scl/fi/bfcp4wii4qjoof6bn1mth/Fanny-Aspirants-AOT.zip?rlkey=ht2goan0zm3x1xde8l3osxvjn&st=qqmnx9t0&dl=1",
+              "06 VALENTINE": "unavailable",
+              "07 AOT": "unavailable",
+              "08 PAGE": "unavailable",
+              "09 LEGEND": "https://www.dropbox.com/scl/fi/ggzxnqjmuesnwudb9crff/Fanny-Legend-AOT.zip?rlkey=zf5trh1madn2hqgtqennfbgd8&st=3zym3anq&dl=1"
             },
             "scripts": { 
-              "luckybox": "unavailable",
-              "summer": "unavailable",
-              "lightborn": "unavailable",
-              "christmas": "unavailable",
-              "aspirants": "https://rshrt.com/nEu",
-              "valentine": "unavailable",
-              "aot": "unavailable",
-              "pace": "unavailable",
-              "LEGEND": "https://rshrt.com/HLxx8"
+              "01 LUCKYBOX": "unavailable",
+              "02 SUMMER": "unavailable",
+              "03 LIGHTBORN": "unavailable",
+              "04 CHRISTMAS": "unavailable",
+              "05 ASPIRANTS": "https://rshrt.com/nEu",
+              "06 VALENTINE": "unavailable",
+              "07 AOT": "unavailable",
+              "08 PACE": "unavailable",
+              "09 LEGEND": "https://rshrt.com/HLxx8"
             }
           },
-          "PACE": {
+          "13 PACE": {
             "img1": "https://i.supaimg.com/561487ac-3bf8-4c69-80c1-2fd201a42a37.jpg",
             "name1": "P.ACE Fanny",
             "tag1": "https://i.supaimg.com/608ca7bd-9326-4fe8-a88a-71a97ef7e97a.png",
             "type1": "P.Ace",
             "type_links": {
-              "-Of7pAL1dIgyPfFCHWTe": "unavailable",
-              "-Of7pAL26K8BhtGMC4Cj": "unavailable",
-              "-Of7pAL26K8BhtGMC4Ck": "unavailable",
-              "-Of7pAL26K8BhtGMC4Cl": "unavailable",
-              "-Of7pAL26K8BhtGMC4Cm": "unavailable",
-              "-Of7pAL26K8BhtGMC4Cn": "unavailable",
-              "-Of7pAL26K8BhtGMC4Co": "https://www.dropbox.com/scl/fi/qvl3t8cjrm2solz1f3zcz/Fanny-AOT-P.-Ace.zip?rlkey=s2ddut0cqiroijjaon6dx46a3&st=66bwkf0r&dl=1",
-              "-Of7pAL26K8BhtGMC4Cp": "unavailable",
-              "LEGEND": "https://www.dropbox.com/scl/fi/rnt0azu4zz76slgxcm0n0/Fanny-Legend-PACE.zip?rlkey=nzlrv4e4kbbabchjy9ed3td5o&st=tzs9b3ot&dl=1"
+              "01 LUCKYBOX": "unavailable",
+              "02 SUMMER": "unavailable",
+              "03 LIGHTBORN": "unavailable",
+              "04 CHRISTMAS": "unavailable",
+              "05 ASPIRANTS": "unavailable",
+              "06 VALENTINE": "unavailable",
+              "07 AOT": "https://www.dropbox.com/scl/fi/qvl3t8cjrm2solz1f3zcz/Fanny-AOT-P.-Ace.zip?rlkey=s2ddut0cqiroijjaon6dx46a3&st=66bwkf0r&dl=1",
+              "08 PACE": "unavailable",
+              "09 LEGEND": "https://www.dropbox.com/scl/fi/rnt0azu4zz76slgxcm0n0/Fanny-Legend-PACE.zip?rlkey=nzlrv4e4kbbabchjy9ed3td5o&st=tzs9b3ot&dl=1"
             },
             "scripts": { 
-              "luckybox": "unavailable",
-              "summer": "unavailable",
-              "lightborn": "unavailable",
-              "christmas": "unavailable",
-              "aspirants": "unavailable",
-              "valentine": "unavailable",
-              "aot": "https://rshrt.com/dCqy5",
-              "pace": "unavailable",
-              "LEGEND": "https://rshrt.com/TzQ"
+              "01 LUCKYBOX": "unavailable",
+              "02 SUMMER": "unavailable",
+              "03 LIGHTBORN": "unavailable",
+              "04 CHRISTMAS": "unavailable",
+              "05 ASPIRANTS": "unavailable",
+              "06 VALENTINE": "unavailable",
+              "07 AOT": "https://rshrt.com/dCqy5",
+              "08 PACE": "unavailable",
+              "09 LEGEND": "https://rshrt.com/TzQ"
             }
           }
         },
         "Skins": {
-          "-OYFWpxGqNOv7fMLFHZ3": {
+          "01 LUCKYBOX": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero174-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164704",
             "name2": "Skylark",
             "tag2": "https://i.supaimg.com/92fafc3f-bc67-4413-8903-d41b5d6d119d.png",
             "type2": "Luckybox"
           },
-          "-OYHPMqbJTQRaIPKoLpj": {
+          "02 SUMMER": {
             "img2": "https://i.supaimg.com/ec9b4af6-c1cf-471e-8d42-c9253920ec75.jpg",
             "name2": "Summer Rescue",
             "tag2": "https://i.supaimg.com/bbcebe6d-4db4-451e-97bd-35c31bae9765.png",
             "type2": "Summer"
           },
-          "-OYHPPm4OLT6ZmG3wBhI": {
+          "03 LIGHTBORN": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero177-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164707",
             "name2": "Lightborn - Ranger",
             "tag2": "https://i.supaimg.com/69a7a5dd-6136-442a-b82c-c5bd54dbac46.png",
             "type2": "Lightborn"
           },
-          "-OYHPSxZeQLyYfhIpit1": {
+          "04 CHRISTMAS": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero178-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164708",
             "name2": "Christmas Carnival",
             "tag2": "https://i.supaimg.com/3ecf7426-2dc7-43fe-ba77-d698e4d38341.png",
             "type2": "Christmas"
           },
-          "-OYHPcAXloH6x4A4psMF": {
+          "05 ASPIRANTS": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero101710-portrait.png/revision/latest/scale-to-width-down/150?cb=20220714031230",
             "name2": "Blade of Kibou",
             "tag2": "https://i.supaimg.com/9e12716d-a6ec-4592-8502-3a5c1c8d57bd.png",
             "type2": "The Aspirants"
           },
-          "-OYHPfeiN8lMJzbyuPeX": {
+          "06 VALENTINE": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero101711-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035453",
             "name2": "Heart Afloat",
             "tag2": "https://i.supaimg.com/10e40386-9b0a-4369-9f84-746246e272d9.png",
             "type2": "Valentine"
           },
-          "-OYHPilKN8zb7_fldGJz": {
+          "07 AOT": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero101712-portrait.png/revision/latest/scale-to-width-down/150?cb=20240127074733",
             "name2": "Mikasa",
             "tag2": "https://i.supaimg.com/2d707216-3615-407e-9eea-7d62bfb403be.png",
             "type2": "Attack on Titan"
           },
-          "-Of7okBSrBhu7BlwjYSa": {
+          "08 PACE": {
             "img2": "https://i.supaimg.com/561487ac-3bf8-4c69-80c1-2fd201a42a37.jpg",
             "name2": "P.ACE Fanny",
             "tag2": "https://i.supaimg.com/608ca7bd-9326-4fe8-a88a-71a97ef7e97a.png",
             "type2": "P.Ace"
           },
-          "Legend": {
+          "09 LEGEND": {
             "img2": "https://i.supaimg.com/67711c59-0169-4174-8c05-d51f4b9a1bd2.jpg",
             "name2": "Galactic Starhawk",
             "tag2": "https://i.supaimg.com/89d011e3-a8d7-4068-b50f-a84c21b7191a.png",
             "type2": "Legend"
           }
-        },
-        "img": "https://i.supaimg.com/5f2010f3-cdda-47bf-b604-bd39f822bfd3.png",
-        "name": "Fanny"
+        }
       },
-      "Gusion": {
+      "002 Gusion": {
+        "img": "https://i.supaimg.com/e3d28436-3bcf-48b9-998d-4faf64a1b2dd.png",
+        "name": "Gusion",
         "Replacements": {
-          "Default": {
+          "01 DEFAULT": {
             "img1": "https://i.supaimg.com/e3d28436-3bcf-48b9-998d-4faf64a1b2dd.png",
             "name1": "Holy Blade",
             "tag1": "",
             "type1": "Default",
             "type_links": {
-              "-Oa8Sh8TaYYGOctJw92G": "https://www.dropbox.com/scl/fi/uxsphwak5zuczzclio96p/Gusion-KOF-Default.zip?rlkey=5cbwqhnblpp2h3lgsxx7wwt8y&st=esflsxqs&dl=1",
-              "-Oa8Sh8TaYYGOctJw92H": "https://www.dropbox.com/scl/fi/vnpmucfduak1iaiotwfkb/Gusion-Legend-Default.zip?rlkey=lkn3cuzz2vjfftpqakh3rshml&st=b5xuwd3w&dl=1",
-              "-Oa8Sh8TaYYGOctJw92I": "https://www.dropbox.com/scl/fi/05gxv4l24lhask6w7u747/Gusion-Collector-Default.zip?rlkey=om798rr4hewtl7vostzi3lv22&st=vfn2zksz&dl=1",
-              "NewCollector": "https://www.dropbox.com/scl/fi/litdgq8w5uiuvvzmxykbq/Gusion-Collector-Default.zip?rlkey=fw9t3f0hv0p7xjt97dvahflvy&st=r7246i6o&dl=1",
-              "-Oa8Sh8TaYYGOctJw92J": "https://www.dropbox.com/scl/fi/gadlgwgtkeqocx0l0ukuw/Gusion-11.11-Default.zip?rlkey=hnzkuqqs5sj8zmmu8fwc10tn6&st=daxch1ku&dl=1",
-              "-Oa8Sh8Ujzs2dULhv5UP": "https://www.dropbox.com/scl/fi/vrawi5mx6zpoqso8kzcfo/Gusion-Starlight-Spider-Default.zip?rlkey=f482hwezm6w6uvtjps84264dl&st=ki5gfu6a&dl=1",
-              "-Of7DJ2MjV7vy8w9qI4M": "https://www.dropbox.com/scl/fi/siftzmrewv3vosaji6vck/Gusion-Old-Starlight-Default.zip?rlkey=53vctkzpej2i5faq35w212u0d&st=sxqznvr3&dl=1"
+              "01 KOF": "https://www.dropbox.com/scl/fi/uxsphwak5zuczzclio96p/Gusion-KOF-Default.zip?rlkey=5cbwqhnblpp2h3lgsxx7wwt8y&st=esflsxqs&dl=1",
+              "02 LEGEND": "https://www.dropbox.com/scl/fi/vnpmucfduak1iaiotwfkb/Gusion-Legend-Default.zip?rlkey=lkn3cuzz2vjfftpqakh3rshml&st=b5xuwd3w&dl=1",
+              "03 OLD_COLLECTOR": "https://www.dropbox.com/scl/fi/05gxv4l24lhask6w7u747/Gusion-Collector-Default.zip?rlkey=om798rr4hewtl7vostzi3lv22&st=vfn2zksz&dl=1",
+              "04 NEW_COLLECTOR": "https://www.dropbox.com/scl/fi/litdgq8w5uiuvvzmxykbq/Gusion-Collector-Default.zip?rlkey=fw9t3f0hv0p7xjt97dvahflvy&st=r7246i6o&dl=1",
+              "05 ELEVEN": "https://www.dropbox.com/scl/fi/gadlgwgtkeqocx0l0ukuw/Gusion-11.11-Default.zip?rlkey=hnzkuqqs5sj8zmmu8fwc10tn6&st=daxch1ku&dl=1",
+              "06 NEW_STARLIGHT": "https://www.dropbox.com/scl/fi/vrawi5mx6zpoqso8kzcfo/Gusion-Starlight-Spider-Default.zip?rlkey=f482hwezm6w6uvtjps84264dl&st=ki5gfu6a&dl=1",
+              "07 OLD_STARLIGHT": "https://www.dropbox.com/scl/fi/siftzmrewv3vosaji6vck/Gusion-Old-Starlight-Default.zip?rlkey=53vctkzpej2i5faq35w212u0d&st=sxqznvr3&dl=1"
             },
             "scripts": {
-              "KOF": "https://rshrt.com/sd8",
-              "LEGEND": "https://rshrt.com/4D6",
-              "OLD_COLLECTOR": "https://rshrt.com/9Dsabh",
-              "NEW_COLLECTOR": "https://rshrt.com/0bZfh",
-              "ELEVEN": "https://rshrt.com/giV",
-              "NEW_STARLIGHT": "https://rshrt.com/GqJp35m",
-              "OLD_STARLIGHT": "https://rshrt.com/kIxJ1oG6"
+              "01 KOF": "https://rshrt.com/sd8",
+              "02 LEGEND": "https://rshrt.com/4D6",
+              "03 OLD_COLLECTOR": "https://rshrt.com/9Dsabh",
+              "04 NEW_COLLECTOR": "https://rshrt.com/0bZfh",
+              "05 ELEVEN": "https://rshrt.com/giV",
+              "06 NEW_STARLIGHT": "https://rshrt.com/GqJp35m",
+              "07 OLD_STARLIGHT": "https://rshrt.com/kIxJ1oG6"
             }
           },
-          "Basic": {
+          "02 Basic": {
             "img1": "https://i.supaimg.com/845858a8-6c16-4c4d-9c48-ebc590b21c4f.png",
             "name1": "Moonlight Sonata",
             "tag1": "",
             "type1": "Basic",
             "type_links": {
-              "-Oa8SZd4YpmPC4YxUPsl": "https://www.dropbox.com/scl/fi/0byp9qg0m3s7cwjbsqze0/Gusion-KOF-Basic.zip?rlkey=rdsar06cspun6tsccmmd1twyt&st=4lgmxpdu&dl=1",
-              "-Oa8SZd4YpmPC4YxUPsm": "https://www.dropbox.com/scl/fi/eukid9njem2nmagejlzkm/Gusion-Legend-Basic.zip?rlkey=kf1rbjiysgtcas0nxgkgs6ni1&st=4ys21sum&dl=1",
-              "-Oa8SZd4YpmPC4YxUPsn": "https://www.dropbox.com/scl/fi/d4t9tdufunapawpzoengh/Gusion-Collector-Basic.zip?rlkey=atck9p2doxoavfvmf5z2yoxjv&st=o9fmkakh&dl=1",
-              "NewCollector": "https://www.dropbox.com/scl/fi/qosnw8dmvc8qwf6lrqj77/Gusion-Collector-Basic.zip?rlkey=obtdfxuy8txxmjl5jyxw2gwx2&st=hvu6m2d8&dl=1",
-              "-Oa8SZd4YpmPC4YxUPso": "https://www.dropbox.com/scl/fi/klp4hpjzyde9m62qq416x/Gusion-11.11-Basic.zip?rlkey=ifdrjldfvkcw1qbmm9j84aa5l&st=sp7hazyq&dl=1",
-              "-Oa8SZd5uxASqEQelGPO": "https://www.dropbox.com/scl/fi/rf4hwsi8r1hz2fm0dbfrj/Gusion-Starlight-Spider-Basic.zip?rlkey=9t1t9zcon54xiiasqrofr2zrk&st=17tbdb9t&dl=1",
-              "-Of7DEnywq7-OwodaA4-": "https://www.dropbox.com/scl/fi/4vsm20hjykvpz29n51by3/Gusion-Old-Starlight-Basic.zip?rlkey=4u3f9sxjmrzp5rhs3tw5w3ynu&st=nu7393sa&dl=1"
+"01 KOF": "https://www.dropbox.com/scl/fi/0byp9qg0m3s7cwjbsqze0/Gusion-KOF-Basic.zip?rlkey=rdsar06cspun6tsccmmd1twyt&st=4lgmxpdu&dl=1",
+"02 LEGEND": "https://www.dropbox.com/scl/fi/eukid9njem2nmagejlzkm/Gusion-Legend-Basic.zip?rlkey=kf1rbjiysgtcas0nxgkgs6ni1&st=4ys21sum&dl=1",
+"03 OLD_COLLECTOR": "https://www.dropbox.com/scl/fi/d4t9tdufunapawpzoengh/Gusion-Collector-Basic.zip?rlkey=atck9p2doxoavfvmf5z2yoxjv&st=o9fmkakh&dl=1",
+"04 NEW_COLLECTOR": "https://www.dropbox.com/scl/fi/qosnw8dmvc8qwf6lrqj77/Gusion-Collector-Basic.zip?rlkey=obtdfxuy8txxmjl5jyxw2gwx2&st=hvu6m2d8&dl=1",
+"05 ELEVEN": "https://www.dropbox.com/scl/fi/klp4hpjzyde9m62qq416x/Gusion-11.11-Basic.zip?rlkey=ifdrjldfvkcw1qbmm9j84aa5l&st=sp7hazyq&dl=1",
+"06 NEW_STARLIGHT": "https://www.dropbox.com/scl/fi/rf4hwsi8r1hz2fm0dbfrj/Gusion-Starlight-Spider-Basic.zip?rlkey=9t1t9zcon54xiiasqrofr2zrk&st=17tbdb9t&dl=1",
+"07 OLD_STARLIGHT": "https://www.dropbox.com/scl/fi/4vsm20hjykvpz29n51by3/Gusion-Old-Starlight-Basic.zip?rlkey=4u3f9sxjmrzp5rhs3tw5w3ynu&st=nu7393sa&dl=1"
             },
             "scripts": {
-              "KOF": "https://rshrt.com/iQsfMIv",
-              "LEGEND": "https://rshrt.com/7DO3",
-              "OLD_COLLECTOR": "https://rshrt.com/YqnLStyT",
-              "NEW_COLLECTOR": "https://rshrt.com/V9Uxr",
-              "ELEVEN": "https://rshrt.com/BJQ8K9V",
-              "NEW_STARLIGHT": "https://rshrt.com/5eycpCm",
-              "OLD_STARLIGHT": "https://rshrt.com/0Mp5XU"
+"01 KOF": "https://rshrt.com/iQsfMIv",
+"02 LEGEND": "https://rshrt.com/7DO3",
+"03 OLD_COLLECTOR": "https://rshrt.com/YqnLStyT",
+"04 NEW_COLLECTOR": "https://rshrt.com/V9Uxr",
+"05 ELEVEN": "https://rshrt.com/BJQ8K9V",
+"06 NEW_STARLIGHT": "https://rshrt.com/5eycpCm",
+"07 OLD_STARLIGHT": "https://rshrt.com/0Mp5XU"
             }
           },
-          "Elite": {
+          "03 Elite": {
             "img1": "https://i.supaimg.com/81fc64e7-bcc4-4232-a6ff-5645749e3646.png",
             "name1": "Hairstylist",
             "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
             "type1": "Elite",
             "type_links": {
-              "-Oa8Smjplwn4FkT3zyHf": "https://www.dropbox.com/scl/fi/690mn97chk3ov793j3zog/Gusion-KOF-Elite.zip?rlkey=cxsvxg7k4fp9q4zh4fc20zdvf&st=p1bja5jw&dl=1",
-              "-Oa8SmjqagyGkITK6a8j": "https://www.dropbox.com/scl/fi/bnio8qmmksunb9tirx1qb/Gusion-Legend-Elite.zip?rlkey=hejyhcv294lyu5qyp7j0uar0g&st=ikcoqfqi&dl=1",
-              "-Oa8SmjqagyGkITK6a8k": "https://www.dropbox.com/scl/fi/o9hrb3qfea8wfcjzyusyt/Gusion-Collector-Elite.zip?rlkey=cjdedb5uvtzakm31oabr0swgn&st=3qjqr6v1&dl=1",
-              "NewCollector": "https://www.dropbox.com/scl/fi/iiy4iyys682e4jj9qud3d/Gusion-Collector-Elite.zip?rlkey=m5k0ucwhj9j5mujgjzntivjfj&st=9fa2eio8&dl=1",
-              "-Oa8SmjqagyGkITK6a8l": "unavailable",
-              "-Oa8SmjqagyGkITK6a8m": "unavailable",
-              "OldStar": "unavailable"
+"01 KOF": "https://www.dropbox.com/scl/fi/690mn97chk3ov793j3zog/Gusion-KOF-Elite.zip?rlkey=cxsvxg7k4fp9q4zh4fc20zdvf&st=p1bja5jw&dl=1",
+"02 LEGEND": "https://www.dropbox.com/scl/fi/bnio8qmmksunb9tirx1qb/Gusion-Legend-Elite.zip?rlkey=hejyhcv294lyu5qyp7j0uar0g&st=ikcoqfqi&dl=1",
+"03 OLD_COLLECTOR": "https://www.dropbox.com/scl/fi/o9hrb3qfea8wfcjzyusyt/Gusion-Collector-Elite.zip?rlkey=cjdedb5uvtzakm31oabr0swgn&st=3qjqr6v1&dl=1",
+"04 NEW_COLLECTOR": "https://www.dropbox.com/scl/fi/iiy4iyys682e4jj9qud3d/Gusion-Collector-Elite.zip?rlkey=m5k0ucwhj9j5mujgjzntivjfj&st=9fa2eio8&dl=1",
+"05 ELEVEN": "unavailable",
+"06 NEW_STARLIGHT": "unavailable",
+"07 OLD_STARLIGHT": "unavailable"
             },
             "scripts": {
-              "KOF": "https://rshrt.com/RtA2AE",
-              "LEGEND": "https://rshrt.com/rPK7BHIA",
-              "OLD_COLLECTOR": "https://rshrt.com/xF3",
-              "NEW_COLLECTOR": "https://rshrt.com/6AAuP8",
-              "ELEVEN": "unavailable",
-              "NEW_STARLIGHT": "unavailable",
-              "OLD_STARLIGHT": "unavailable"
+"01 KOF": "https://rshrt.com/RtA2AE",
+"02 LEGEND": "https://rshrt.com/rPK7BHIA",
+"03 OLD_COLLECTOR": "https://rshrt.com/xF3",
+"04 NEW_COLLECTOR": "https://rshrt.com/6AAuP8",
+"05 ELEVEN": "unavailable",
+"06 NEW_STARLIGHT": "unavailable",
+"07 OLD_STARLIGHT": "unavailable"
             }
           },
-          "Starlight 2018": {
+          "04 Starlight": {
             "img1": "https://i.supaimg.com/3c404798-a1b5-4d95-af3f-2308e5946596.png",
             "name1": "Cyber Ops",
             "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
             "type1": "Starlight 2018",
             "type_links": {
-              "-Oa8TJPIAzimlZT61mXM": "https://www.dropbox.com/scl/fi/bkblybvsh7hzzijgib3v4/Gusion-KOF-Old-Starlight.zip?rlkey=97cmwd9aafnjv9oo2xqkhjvgb&st=9pfonl2j&dl=1",
-              "-Oa8TJPLdExRvKJJUcfQ": "https://www.dropbox.com/scl/fi/ytpmxs979m6doi9q4ijej/Gusion-Legend-Old-Starlight.zip?rlkey=tzb8pravfobc4vpwd39gx9tuh&st=7t0ydpkt&dl=1",
-              "-Oa8TJPLdExRvKJJUcfR": "https://www.dropbox.com/scl/fi/zadh0bttl9km22x5c0dfd/Gusion-Collector-Old-Starlight.zip?rlkey=51cgxh8amgh64i71rcf8c2n3p&st=jqgcmv1n&dl=1",
-              "NewCollector": "https://www.dropbox.com/scl/fi/9xhzmxvkx8ayk5e3zhqx8/Gusion-Collector-Old-Starlight.zip?rlkey=ku6n75ve1kywyd0kgsivigy2q&st=glkya3pt&dl=1",
-              "-Oa8TJPLdExRvKJJUcfS": "https://www.dropbox.com/scl/fi/8cvcpjc9zkmmldw44np7n/Gusion-11.11-Old-Starlight.zip?rlkey=augqh2s0szvfqisutcp9dg3gd&st=q2qitkrd&dl=1",
-              "-Oa8TJPLdExRvKJJUcfT": "unavailable",
-              "OldStar": "unavailable"
+"01 KOF": "https://www.dropbox.com/scl/fi/bkblybvsh7hzzijgib3v4/Gusion-KOF-Old-Starlight.zip?rlkey=97cmwd9aafnjv9oo2xqkhjvgb&st=9pfonl2j&dl=1",
+"02 LEGEND": "https://www.dropbox.com/scl/fi/ytpmxs979m6doi9q4ijej/Gusion-Legend-Old-Starlight.zip?rlkey=tzb8pravfobc4vpwd39gx9tuh&st=7t0ydpkt&dl=1",
+"03 OLD_COLLECTOR": "https://www.dropbox.com/scl/fi/zadh0bttl9km22x5c0dfd/Gusion-Collector-Old-Starlight.zip?rlkey=51cgxh8amgh64i71rcf8c2n3p&st=jqgcmv1n&dl=1",
+"04 NEW_COLLECTOR": "https://www.dropbox.com/scl/fi/9xhzmxvkx8ayk5e3zhqx8/Gusion-Collector-Old-Starlight.zip?rlkey=ku6n75ve1kywyd0kgsivigy2q&st=glkya3pt&dl=1",
+"05 ELEVEN": "https://www.dropbox.com/scl/fi/8cvcpjc9zkmmldw44np7n/Gusion-11.11-Old-Starlight.zip?rlkey=augqh2s0szvfqisutcp9dg3gd&st=q2qitkrd&dl=1",
+"06 NEW_STARLIGHT": "unavailable",
+"07 OLD_STARLIGHT": "unavailable"
             },
             "scripts": {
-              "KOF": "https://rshrt.com/fZgRA2xE",
-              "LEGEND": "https://rshrt.com/hwXqie2",
-              "OLD_COLLECTOR": "https://rshrt.com/S6Tli",
-              "NEW_COLLECTOR": "https://rshrt.com/H1TTooMh",
-              "ELEVEN": "https://rshrt.com/QBuKKem",
-              "NEW_STARLIGHT": "unavailable",
-              "OLD_STARLIGHT": "unavailable"
+"01 KOF": "https://rshrt.com/fZgRA2xE",
+"02 LEGEND": "https://rshrt.com/hwXqie2",
+"03 OLD_COLLECTOR": "https://rshrt.com/S6Tli",
+"04 NEW_COLLECTOR": "https://rshrt.com/H1TTooMh",
+"05 ELEVEN": "https://rshrt.com/QBuKKem",
+"06 NEW_STARLIGHT": "unavailable",
+"07 OLD_STARLIGHT": "unavailable"
             }
           },
-          "Valentine": {
+          "05 Valentine": {
             "img1": "https://i.supaimg.com/a8beb25e-becd-48e6-a72a-036d52bf2c1e.png",
             "name1": "Dangerous Liaison",
             "tag1": "https://i.supaimg.com/10e40386-9b0a-4369-9f84-746246e272d9.png",
             "type1": "Valentine",
             "type_links": {
-              "-Oa8TTAtS9O4tLqBYmoo": "https://www.dropbox.com/scl/fi/hl5uf7ijpgla0500poz9a/Gusion-KOF-Valentine.zip?rlkey=rmtyraopeujbj34ivlb75lpps&st=vhns615o&dl=1",
-              "-Oa8TTAuGVzzhTkRxVGJ": "https://www.dropbox.com/scl/fi/qzf40gff0sbatyw60kwqj/Gusion-Legend-Valentine.zip?rlkey=co0k6vvuwd0r5u0qh1k009ku5&st=8rsf1xva&dl=1",
-              "-Oa8TTAuGVzzhTkRxVGK": "https://www.dropbox.com/scl/fi/bg0zkws6qq4j9l8x8ha1o/Gusion-Collector-Valentine.zip?rlkey=sagh095jj5rfpxwbtkolosuap&st=mtzx39y2&dl=1",
-              "NewCollector": "https://www.dropbox.com/scl/fi/m4hl64cm2o825wgdpo7ic/Gusion-Collector-Valentine.zip?rlkey=pm12j7vdi5c43aj0x98222lfm&st=sg05651q&dl=1",
-              "-Oa8TTAuGVzzhTkRxVGL": "https://www.dropbox.com/scl/fi/dnzaxpumokcko7fqv3pfe/Gusion-11.11-Valentine.zip?rlkey=5lymzuhlhejyssll82d3801ej&st=iq55p46i&dl=1",
-              "-Oa8TTAuGVzzhTkRxVGM": "unavailable",
-              "OldStar": "unavailable"
+"01 KOF": "https://www.dropbox.com/scl/fi/hl5uf7ijpgla0500poz9a/Gusion-KOF-Valentine.zip?rlkey=rmtyraopeujbj34ivlb75lpps&st=vhns615o&dl=1",
+"02 LEGEND": "https://www.dropbox.com/scl/fi/qzf40gff0sbatyw60kwqj/Gusion-Legend-Valentine.zip?rlkey=co0k6vvuwd0r5u0qh1k009ku5&st=8rsf1xva&dl=1",
+"03 OLD_COLLECTOR": "https://www.dropbox.com/scl/fi/bg0zkws6qq4j9l8x8ha1o/Gusion-Collector-Valentine.zip?rlkey=sagh095jj5rfpxwbtkolosuap&st=mtzx39y2&dl=1",
+"04 NEW_COLLECTOR": "https://www.dropbox.com/scl/fi/m4hl64cm2o825wgdpo7ic/Gusion-Collector-Valentine.zip?rlkey=pm12j7vdi5c43aj0x98222lfm&st=sg05651q&dl=1",
+"05 ELEVEN": "https://www.dropbox.com/scl/fi/dnzaxpumokcko7fqv3pfe/Gusion-11.11-Valentine.zip?rlkey=5lymzuhlhejyssll82d3801ej&st=iq55p46i&dl=1",
+"06 NEW_STARLIGHT": "unavailable",
+"07 OLD_STARLIGHT": "unavailable"
             },
             "scripts": {
-              "KOF": "https://rshrt.com/gPNDC",
-              "LEGEND": "https://rshrt.com/e6UstVL",
-              "OLD_COLLECTOR": "https://rshrt.com/srpD",
-              "NEW_COLLECTOR": "https://rshrt.com/qQEiIIF",
-              "ELEVEN": "https://rshrt.com/0lbpDnM",
-              "NEW_STARLIGHT": "unavailable",
-              "OLD_STARLIGHT": "unavailable"
+"01 KOF": "https://rshrt.com/gPNDC",
+"02 LEGEND": "https://rshrt.com/e6UstVL",
+"03 OLD_COLLECTOR": "https://rshrt.com/srpD",
+"04 NEW_COLLECTOR": "https://rshrt.com/qQEiIIF",
+"05 ELEVEN": "https://rshrt.com/0lbpDnM",
+"06 NEW_STARLIGHT": "unavailable",
+"07 OLD_STARLIGHT": "unavailable"
             }
           },
-          "VENOM": {
+          "06 VENOM": {
             "img1": "https://i.supaimg.com/2e85183c-c159-4673-8ae9-93a3a7dc0ac8.png",
             "name1": "V.E.N.O.M. Emperor Scorpion",
             "tag1": "https://i.supaimg.com/86422ed2-4db0-49ca-ab4a-ab1d460a1fb8.png",
             "type1": "V.E.N.O.M.",
             "type_links": {
-              "-Oa8TcweQsNPYSIiUoRj": "https://www.dropbox.com/scl/fi/ehpom280kbgy3itu9ex93/Gusion-Legend-11.11.zip?rlkey=3qz714der7ish8ayfu50opef1&st=xy2xez4l&dl=1",
-              "-Oa8TcweQsNPYSIiUoRk": "https://www.dropbox.com/scl/fi/g46s1yamqh9dmzfh8e0j3/Gusion-Legend-Venom.zip?rlkey=rhep8denn6tdje1hp41jfq9wa&st=vdaqxxjz&dl=1",
-              "-Oa8TcweQsNPYSIiUoRl": "https://www.dropbox.com/scl/fi/smkl36aq7kc2fn5wjsxv3/Gusion-Collector-VENOM.zip?rlkey=7153f4ngjitcpmqxibry94uls&st=tvv9u977&dl=1",
-              "NewCollector": "https://www.dropbox.com/scl/fi/n7fd25x2my6n2qi9jm1an/Gusion-Collector-Venom.zip?rlkey=5pqqrqdcfwt5n6ff84g98qvlr&st=q1z87ohw&dl=1",
-              "-Oa8TcweQsNPYSIiUoRm": "https://www.dropbox.com/scl/fi/aqgiyv9bd4fwdkspp9i20/Gusion-11.11-VENOM.zip?rlkey=9mu1a8uc7z8fmas8pw09rmbpm&st=6bekdcwi&dl=1",
-              "-Oa8TcweQsNPYSIiUoRn": "unavailable",
-              "OldStar": "unavailable"
+"01 KOF": "https://www.dropbox.com/scl/fi/ehpom280kbgy3itu9ex93/Gusion-Legend-11.11.zip?rlkey=3qz714der7ish8ayfu50opef1&st=xy2xez4l&dl=1",
+"02 LEGEND": "https://www.dropbox.com/scl/fi/g46s1yamqh9dmzfh8e0j3/Gusion-Legend-Venom.zip?rlkey=rhep8denn6tdje1hp41jfq9wa&st=vdaqxxjz&dl=1",
+"03 OLD_COLLECTOR": "https://www.dropbox.com/scl/fi/smkl36aq7kc2fn5wjsxv3/Gusion-Collector-VENOM.zip?rlkey=7153f4ngjitcpmqxibry94uls&st=tvv9u977&dl=1",
+"04 NEW_COLLECTOR": "https://www.dropbox.com/scl/fi/n7fd25x2my6n2qi9jm1an/Gusion-Collector-Venom.zip?rlkey=5pqqrqdcfwt5n6ff84g98qvlr&st=q1z87ohw&dl=1",
+"05 ELEVEN": "https://www.dropbox.com/scl/fi/aqgiyv9bd4fwdkspp9i20/Gusion-11.11-VENOM.zip?rlkey=9mu1a8uc7z8fmas8pw09rmbpm&st=6bekdcwi&dl=1",
+"06 NEW_STARLIGHT": "unavailable",
+"07 OLD_STARLIGHT": "unavailable"
             },
             "scripts": {
-              "KOF": "https://rshrt.com/rQK",
-              "LEGEND": "https://rshrt.com/rN7g8eE",
-              "OLD_COLLECTOR": "https://rshrt.com/Hk38IwpN",
-              "NEW_COLLECTOR": "https://rshrt.com/hiSq0RB",
-              "ELEVEN": "https://rshrt.com/94GC",
-              "NEW_STARLIGHT": "unavailable",
-              "OLD_STARLIGHT": "unavailable"
+"01 KOF": "https://rshrt.com/rQK",
+"02 LEGEND": "https://rshrt.com/rN7g8eE",
+"03 OLD_COLLECTOR": "https://rshrt.com/Hk38IwpN",
+"04 NEW_COLLECTOR": "https://rshrt.com/hiSq0RB",
+"05 ELEVEN": "https://rshrt.com/94GC",
+"06 NEW_STARLIGHT": "unavailable",
+"07 OLD_STARLIGHT": "unavailable"
             }
           },
-          "KOF": {
+          "07 KOF": {
             "img1": "https://i.supaimg.com/62c6f0fe-0154-4ad0-8f80-99613c685c91.png",
             "name1": "K'",
             "tag1": "https://i.supaimg.com/c5563b15-1742-4fbf-9852-274b29a20c63.png",
             "type1": "KOF",
             "type_links": {
-              "-Oa8TrmUoIKNRxUACDDS": "unavailable",
-              "-Oa8TrmUoIKNRxUACDDT": "https://www.dropbox.com/scl/fi/ndiax5vra5dululkz98i1/Gusion-Legend-KOF.zip?rlkey=dvxd8anmiut4sx4fjxi9ropk5&st=pju65ktj&dl=1",
-              "-Oa8TrmUoIKNRxUACDDU": "https://www.dropbox.com/scl/fi/yq84h13nbrtuv1xtxpxlf/Gusion-Collector-KOF.zip?rlkey=i1guasin3l92znou1fr97pjdo&st=dsya4f66&dl=1",
-              "NewCollector": "unavailable",
-              "-Oa8TrmV9XkC-2W4OFes": "https://www.dropbox.com/scl/fi/csi03ocw9xqx3u596xbv8/Gusion-11.11-KOF.zip?rlkey=5mr6xywxqidhxrwyqbzika3w9&st=rz2ozt84&dl=1",
-              "-Oa8TrmV9XkC-2W4OFet": "unavailable",
-              "OldStar": "unavailable"
+"01 KOF": "unavailable",
+"02 LEGEND": "https://www.dropbox.com/scl/fi/ndiax5vra5dululkz98i1/Gusion-Legend-KOF.zip?rlkey=dvxd8anmiut4sx4fjxi9ropk5&st=pju65ktj&dl=1",
+"03 OLD_LEGEND": "https://www.dropbox.com/scl/fi/yq84h13nbrtuv1xtxpxlf/Gusion-Collector-KOF.zip?rlkey=i1guasin3l92znou1fr97pjdo&st=dsya4f66&dl=1",
+"04 NEW_COLLECTOR": "unavailable",
+"05 ELEVEN": "https://www.dropbox.com/scl/fi/csi03ocw9xqx3u596xbv8/Gusion-11.11-KOF.zip?rlkey=5mr6xywxqidhxrwyqbzika3w9&st=rz2ozt84&dl=1",
+"06 NEW_STARLIGHT": "unavailable",
+"07 OLD_STARLIGHT": "unavailable"
             },
             "scripts": {
-              "KOF": "unavailable",
-              "LEGEND": "https://rshrt.com/7NVdA8n",
-              "OLD_COLLECTOR": "https://rshrt.com/S9Tsqem",
-              "NEW_COLLECTOR": "unavailable",
-              "ELEVEN": "https://rshrt.com/KiXq",
-              "NEW_STARLIGHT": "unavailable",
-              "OLD_STARLIGHT": "unavailable"
+"01 KOF": "unavailable",
+"02 LEGEND": "https://rshrt.com/7NVdA8n",
+"03 OLD_COLLECTOR": "https://rshrt.com/S9Tsqem",
+"04 NEW_COLLECTOR": "unavailable",
+"05 ELEVEN": "https://rshrt.com/KiXq",
+"06 NEW_STARLIGHT": "unavailable",
+"07 OLD_STARLIGHT": "unavailable"
             }
           },
-          "Legend": {
+          "08 Legend": {
             "img1": "https://i.supaimg.com/1cd97df9-d754-460c-868c-efe23f21b718.png",
             "name1": "Cosmic Gleam",
             "tag1": "https://i.supaimg.com/89d011e3-a8d7-4068-b50f-a84c21b7191a.png",
             "type1": "Legend",
             "type_links": {
-              "-Oa8T3RO7SwRFVNfDkfH": "https://www.dropbox.com/scl/fi/9tskr5ftp8xxq2nu24yzu/Gusion-KOF-Legend.zip?rlkey=3ayx9urrk6rhbos02pt1bi0ou&st=0xogzrth&dl=1",
-              "-Oa8T3RO7SwRFVNfDkfI": "unavailable",
-              "-Oa8T3RO7SwRFVNfDkfJ": "https://www.dropbox.com/scl/fi/emn5hycldcwd38d3tf87u/Gusion-Collector-Legend.zip?rlkey=li965cmzp5imd8axsg9fw3zir&st=m1cd40dj&dl=1",
-              "NewCollector": "unavailable",
-              "-Oa8T3RO7SwRFVNfDkfK": "https://www.dropbox.com/scl/fi/djtynxh1ij3rmjr23487a/Gusion-11.11-Legend.zip?rlkey=pgfdc1vdljsr7r676pfyd10jj&st=z6mmdtdt&dl=1",
-              "-Oa8T3RO7SwRFVNfDkfL": "unavailable",
-              "OldStar": "unavailable"
+"01 KOF": "https://www.dropbox.com/scl/fi/9tskr5ftp8xxq2nu24yzu/Gusion-KOF-Legend.zip?rlkey=3ayx9urrk6rhbos02pt1bi0ou&st=0xogzrth&dl=1",
+"02 LEGEND": "unavailable",
+"03 OLD_COLLECTOR": "https://www.dropbox.com/scl/fi/emn5hycldcwd38d3tf87u/Gusion-Collector-Legend.zip?rlkey=li965cmzp5imd8axsg9fw3zir&st=m1cd40dj&dl=1",
+"04 NEW_COLLECTOR": "unavailable",
+"05 ELEVEN": "https://www.dropbox.com/scl/fi/djtynxh1ij3rmjr23487a/Gusion-11.11-Legend.zip?rlkey=pgfdc1vdljsr7r676pfyd10jj&st=z6mmdtdt&dl=1",
+"06 NEW_STARLIGHT": "unavailable",
+"07 OLD_STARLIGHT": "unavailable"
             },
             "scripts": {
-              "KOF": "https://rshrt.com/dIU",
-              "LEGEND": "unavailable",
-              "OLD_COLLECTOR": "https://rshrt.com/sXbZ3HHi",
-              "NEW_COLLECTOR": "unavailable",
-              "ELEVEN": "https://rshrt.com/NDIIV",
-              "NEW_STARLIGHT": "unavailable",
-              "OLD_STARLIGHT": "unavailable"
+"01 KOF": "https://rshrt.com/dIU",
+"02 LEGEND": "unavailable",
+"03 OLD_COLLECTOR": "https://rshrt.com/sXbZ3HHi",
+"04 NEW_COLLECTOR": "unavailable",
+"05 ELEVEN": "https://rshrt.com/NDIIV",
+"06 NEW_STARLIGHT": "unavailable",
+"07 OLD_STARLIGHT": "unavailable"
             }
           },
-          "Collector": {
+          "09 Collector": {
             "img1": "https://i.supaimg.com/f14907bb-7c36-4190-b39a-46afcf33d93d.jpg",
             "name1": "Night Owl",
             "tag1": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
             "type1": "Collector",
             "type_links": {
-              "-Oa8ScXQvAjxWBrBtdSA": "https://www.dropbox.com/scl/fi/k6pr2sgxeqgedaod7usl1/Gusion-KOF-Collector.zip?rlkey=nr7m18icair21cw1gnyad0ger&st=hvjds9t5&dl=1",
-              "-Oa8ScXRFcsVJ16RfROP": "https://www.dropbox.com/scl/fi/94ntnglsefem6w98pzc52/Gusion-Legend-Collector.zip?rlkey=k2feszyqoijm1vl26capgsiln&st=ej11ycls&dl=1",
-              "-Oa8ScXRFcsVJ16RfROQ": "unavailable",
-              "NewCollector": "unavailable",
-              "-Oa8ScXRFcsVJ16RfROR": "https://www.dropbox.com/scl/fi/1khm4jtdgbc3zwdsj2e4x/Gusion-11.11-Collector.zip?rlkey=9teoc06sgdsj5y18yfcj0z4vj&st=pbs95w3j&dl=1",
-              "-Oa8ScXRFcsVJ16RfROS": "unavailable",
-              "OldStar": "unavailable"
+"01 KOF": "https://www.dropbox.com/scl/fi/k6pr2sgxeqgedaod7usl1/Gusion-KOF-Collector.zip?rlkey=nr7m18icair21cw1gnyad0ger&st=hvjds9t5&dl=1",
+"02 LEGEND": "https://www.dropbox.com/scl/fi/94ntnglsefem6w98pzc52/Gusion-Legend-Collector.zip?rlkey=k2feszyqoijm1vl26capgsiln&st=ej11ycls&dl=1",
+"03 OLD_COLLECTOR": "unavailable",
+"04 NEW_COLLECTOR": "unavailable",
+"05 ELEVEN": "https://www.dropbox.com/scl/fi/1khm4jtdgbc3zwdsj2e4x/Gusion-11.11-Collector.zip?rlkey=9teoc06sgdsj5y18yfcj0z4vj&st=pbs95w3j&dl=1",
+"06 NEW_STARLIGHT": "unavailable",
+"07 OLD_STARLIGHT": "unavailable"
             },
             "scripts": {
-              "KOF": "https://rshrt.com/fUml",
-              "LEGEND": "https://rshrt.com/1HKMh",
-              "OLD_COLLECTOR": "unavailable",
-              "NEW_COLLECTOR": "unavailable",
-              "ELEVEN": "https://rshrt.com/mkXuGL",
-              "NEW_STARLIGHT": "unavailable",
-              "OLD_STARLIGHT": "unavailable"
+"01 KOF": "https://rshrt.com/fUml",
+"02 LEGEND": "https://rshrt.com/1HKMh",
+"03 OLD_COLLECTOR": "unavailable",
+"04 NEW_COLLECTOR": "unavailable",
+"05 ELEVEN": "https://rshrt.com/mkXuGL",
+"06 NEW_STARLIGHT": "unavailable",
+"07 OLD_STARLIGHT": "unavailable"
             }
           },
-          "Epic": {
+          "10 Epic": {
             "img1": "https://i.supaimg.com/ca012275-a566-4b27-8eb0-2d7c9c11fbba.png",
             "name1": "Soul Revelation",
             "tag1": "https://i.supaimg.com/c14ee52a-ba69-4367-b954-f3b4a306e953.png",
             "type1": "Epic",
             "type_links": {
-              "-Oa8SspVMOU_8Mzdei2b": "https://www.dropbox.com/scl/fi/r2brcu7oaff5j2w85mrf3/Gusion-KOF-Epic.zip?rlkey=9oa8zs1cxozyqamm2atg83amn&st=4gk4gfjx&dl=1",
-              "-Oa8SspVMOU_8Mzdei2c": "https://www.dropbox.com/scl/fi/0n3pbgxgrchgwjbao11rr/Gusion-Legend-Epic.zip?rlkey=om2s7am4ctxn9fraawiasb0o1&st=2oy2xxkf&dl=1",
-              "-Oa8SspVMOU_8Mzdei2d": "https://www.dropbox.com/scl/fi/pjkfcuaym6d88zpvhidh0/Gusion-Collector-Epic.zip?rlkey=p05zlm24iwvmr3jwnax59jm4h&st=k7hged2q&dl=1",
-              "NewCollector": "https://www.dropbox.com/scl/fi/bvrhog8rxh6xqkv94whci/Gusion-Collector-Epic.zip?rlkey=x8h51noqi8iukzdxv8ixgajxf&st=1vd0ozf8&dl=1",
-              "-Oa8SspVMOU_8Mzdei2e": "https://www.dropbox.com/scl/fi/ruabhldkqtsm8twgrubql/Gusion-11.11-Epic.zip?rlkey=4bjb1pvyvbnzy98gcvk1edrej&st=3fxzbdet&dl=1",
-              "-Oa8SspVMOU_8Mzdei2f": "unavailable",
-              "OldStar": "unavailable"
+"01 KOF": "https://www.dropbox.com/scl/fi/r2brcu7oaff5j2w85mrf3/Gusion-KOF-Epic.zip?rlkey=9oa8zs1cxozyqamm2atg83amn&st=4gk4gfjx&dl=1",
+"02 LEGEND": "https://www.dropbox.com/scl/fi/0n3pbgxgrchgwjbao11rr/Gusion-Legend-Epic.zip?rlkey=om2s7am4ctxn9fraawiasb0o1&st=2oy2xxkf&dl=1",
+"03 OLD_COLLECTOR": "https://www.dropbox.com/scl/fi/pjkfcuaym6d88zpvhidh0/Gusion-Collector-Epic.zip?rlkey=p05zlm24iwvmr3jwnax59jm4h&st=k7hged2q&dl=1",
+"04 NEW_COLLECTOR": "https://www.dropbox.com/scl/fi/bvrhog8rxh6xqkv94whci/Gusion-Collector-Epic.zip?rlkey=x8h51noqi8iukzdxv8ixgajxf&st=1vd0ozf8&dl=1",
+"05 ELEVEN": "https://www.dropbox.com/scl/fi/ruabhldkqtsm8twgrubql/Gusion-11.11-Epic.zip?rlkey=4bjb1pvyvbnzy98gcvk1edrej&st=3fxzbdet&dl=1",
+"06 NEW_STARLIGHT": "unavailable",
+"07 OLD_STARLIGHT": "unavailable"
             },
             "scripts": {
-              "KOF": "https://rshrt.com/LJnWYm9",
-              "LEGEND": "https://rshrt.com/L2ZOSr",
-              "OLD_COLLECTOR": "https://rshrt.com/mbmF9",
-              "NEW_COLLECTOR": "https://rshrt.com/qxOTbP7",
-              "ELEVEN": "https://rshrt.com/C0ie7TAP",
-              "NEW_STARLIGHT": "unavailable",
-              "OLD_STARLIGHT": "unavailable"
+"01 KOF": "https://rshrt.com/LJnWYm9",
+"02 LEGEND": "https://rshrt.com/L2ZOSr",
+"03 OLD_COLLECTOR": "https://rshrt.com/mbmF9",
+"04 NEW_COLLECTOR": "https://rshrt.com/qxOTbP7",
+"05 ELEVEN": "https://rshrt.com/C0ie7TAP",
+"06 NEW_STARLIGHT": "unavailable",
+"07 OLD_STARLIGHT": "unavailable"
             }
           },
-          "Eleven-": {
+          "11 Eleven": {
             "img1": "https://i.supaimg.com/030af33f-00e5-4866-ba7b-06f83d7ec560.png",
             "name1": "Dimension Walker",
             "tag1": "https://i.supaimg.com/19394161-cc30-494c-a906-b49f710cf674.png",
             "type1": "11.11",
             "type_links": {
-              "-Oa8SVoay0X36ZNLtWhA": "https://www.dropbox.com/scl/fi/9i1n093jrjfzsqhynsa4l/Gusion-KOF-11.11.zip?rlkey=98kv8qtt7xz7zhy0buxm6aalc&st=eojikihv&dl=1",
-              "-Oa8SVoay0X36ZNLtWhB": "https://www.dropbox.com/scl/fi/ehpom280kbgy3itu9ex93/Gusion-Legend-11.11.zip?rlkey=3qz714der7ish8ayfu50opef1&st=xy2xez4l&dl=1",
-              "-Oa8SVobO3W3mGv7D792": "https://www.dropbox.com/scl/fi/c8z28ma0m99sqhmvgiakk/Gusion-Collector-11.11.zip?rlkey=m1ekc1kti2hv887slb6uvs7gz&st=cqsrpb09&dl=1",
-              "NewCollector": "unavailable",
-              "-Oa8SVobO3W3mGv7D793": "unavailable",
-              "-Oa8SVobO3W3mGv7D794": "unavailable",
-              "OldStar": "unavailable"
+"01 KOF": "https://www.dropbox.com/scl/fi/9i1n093jrjfzsqhynsa4l/Gusion-KOF-11.11.zip?rlkey=98kv8qtt7xz7zhy0buxm6aalc&st=eojikihv&dl=1",
+"02 LEGEND": "https://www.dropbox.com/scl/fi/ehpom280kbgy3itu9ex93/Gusion-Legend-11.11.zip?rlkey=3qz714der7ish8ayfu50opef1&st=xy2xez4l&dl=1",
+"03 OLD_COLLECTOR": "https://www.dropbox.com/scl/fi/c8z28ma0m99sqhmvgiakk/Gusion-Collector-11.11.zip?rlkey=m1ekc1kti2hv887slb6uvs7gz&st=cqsrpb09&dl=1",
+"04 NEW_COLLECTOR": "unavailable",
+"05 ELEVEN": "unavailable",
+"06 NEW_STARLIGHT": "unavailable",
+"07 OLD_STARLIGHT": "unavailable"
             },
             "scripts": {
-              "KOF": "https://rshrt.com/kWGE",
-              "LEGEND": "https://rshrt.com/rQK",
-              "OLD_COLLECTOR": "https://rshrt.com/20Xx",
-              "NEW_COLLECTOR": "unavailable",
-              "ELEVEN": "unavailable",
-              "NEW_STARLIGHT": "unavailable",
-              "OLD_STARLIGHT": "unavailable"
+"01 KOF": "https://rshrt.com/kWGE",
+"02 LEGEND": "https://rshrt.com/rQK",
+"03 OLD_COLLECTOR": "https://rshrt.com/20Xx",
+"04 NEW_COLLECTOR": "unavailable",
+"05 ELEVEN": "unavailable",
+"06 NEW_STARLIGHT": "unavailable",
+"07 OLD_STARLIGHT": "unavailable"
             }
           },
-          "Starlight 2024": {
+          "12 Starlight": {
             "img1": "https://i.supaimg.com/46849c0e-46a0-4c74-9398-e2ccfe51ecfe.png",
             "name1": "Desert Spider",
             "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
             "type1": "Starlight 2024",
             "type_links": {
-              "-Oa8TApeTG8UYU9DoTCg": "https://www.dropbox.com/scl/fi/sgoufokfp539acvypsulg/Gusion-KOF-New-Starlight.zip?rlkey=wcpsunagbc09tog4kxwh0h6ps&st=fz2gfle0&dl=1",
-              "-Oa8TApf5T2hpWxoG3bJ": "https://www.dropbox.com/scl/fi/9t2gjcl7wmopbkc2nzidd/Gusion-Legend-New-Starlight.zip?rlkey=a32ua4wd63u2b3sl2vp88vt91&st=ujibhkai&dl=1",
-              "-Oa8TApf5T2hpWxoG3bK": "https://www.dropbox.com/scl/fi/h2fwbtvkmcbv84bfgbyvg/Gusion-Collector-New-Starlight.zip?rlkey=li44jrbe6xvz2m8qpnhzffkrh&st=04jkdz44&dl=1",
-              "NewCollector": "https://www.dropbox.com/scl/fi/qqtgt4nb63zbv23qnooev/Gusion-Collector-New-Starlight.zip?rlkey=wiqn2ynaqdnqn88w2qoguvj5w&st=aig3o2fi&dl=1",
-              "-Oa8TApf5T2hpWxoG3bL": "https://www.dropbox.com/scl/fi/lwx9srbkb5jzf0b9t8cs6/Gusion-11.11-New-Starlight.zip?rlkey=795w4sr613hgwq5kohldgzmya&st=glackuua&dl=1",
-              "-Oa8TApf5T2hpWxoG3bM": "unavailable",
-              "OldStar": "unavailable"
+"01 KOF": "https://www.dropbox.com/scl/fi/sgoufokfp539acvypsulg/Gusion-KOF-New-Starlight.zip?rlkey=wcpsunagbc09tog4kxwh0h6ps&st=fz2gfle0&dl=1",
+"02 LEGEND": "https://www.dropbox.com/scl/fi/9t2gjcl7wmopbkc2nzidd/Gusion-Legend-New-Starlight.zip?rlkey=a32ua4wd63u2b3sl2vp88vt91&st=ujibhkai&dl=1",
+"03 OLD_COLLECTOR": "https://www.dropbox.com/scl/fi/h2fwbtvkmcbv84bfgbyvg/Gusion-Collector-New-Starlight.zip?rlkey=li44jrbe6xvz2m8qpnhzffkrh&st=04jkdz44&dl=1",
+"04 NEW_COLLECTOR": "https://www.dropbox.com/scl/fi/qqtgt4nb63zbv23qnooev/Gusion-Collector-New-Starlight.zip?rlkey=wiqn2ynaqdnqn88w2qoguvj5w&st=aig3o2fi&dl=1",
+"05 ELEVEN": "https://www.dropbox.com/scl/fi/lwx9srbkb5jzf0b9t8cs6/Gusion-11.11-New-Starlight.zip?rlkey=795w4sr613hgwq5kohldgzmya&st=glackuua&dl=1",
+"06 NEW_STARLIGHT": "unavailable",
+"07 OLD_STARLIGHT": "unavailable"
             },
             "scripts": {
-              "KOF": "https://rshrt.com/QuZ",
-              "LEGEND": "https://rshrt.com/IBsFja",
-              "OLD_COLLECTOR": "https://rshrt.com/yPdKGfZ",
-              "NEW_COLLECTOR": "https://rshrt.com/wQZrmtF0",
-              "ELEVEN": "https://rshrt.com/CrRU",
-              "NEW_STARLIGHT": "unavailable",
-              "OLD_STARLIGHT": "unavailable"
+"01 KOF": "https://rshrt.com/QuZ",
+"02 LEGEND": "https://rshrt.com/IBsFja",
+"03 OLD_COLLECTOR": "https://rshrt.com/yPdKGfZ",
+"04 NEW_COLLECTOR": "https://rshrt.com/wQZrmtF0",
+"05 ELEVEN": "https://rshrt.com/CrRU",
+"06 NEW_STARLIGHT": "unavailable",
+"07 OLD_STARLIGHT": "unavailable"
             }
           }
         },
         "Skins": {
-          "-OYHQ1GTVC0kAAm-AxCc": {
+          "01 KOF": {
             "img2": "https://i.supaimg.com/62c6f0fe-0154-4ad0-8f80-99613c685c91.png",
             "name2": "K'",
             "tag2": "https://i.supaimg.com/c5563b15-1742-4fbf-9852-274b29a20c63.png",
             "type2": "KOF"
           },
-          "-OYHQ8w8q0B3LArGM40y": {
+          "02 LEGEND": {
             "img2": "https://i.supaimg.com/1cd97df9-d754-460c-868c-efe23f21b718.png",
             "name2": "Cosmic Gleam",
             "tag2": "https://i.supaimg.com/89d011e3-a8d7-4068-b50f-a84c21b7191a.png",
             "type2": "Legend"
           },
-          "OldCollector": {
+          "03 OLD_COLLECTOR": {
             "img2": "https://i.supaimg.com/4b004715-7ca2-49ca-b50d-990d1826a283.png",
             "name2": "Old\nNight Owl",
             "tag2": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
             "type2": "Collector1"
           },
-          "NewCollector": {
+          "04 NEW_COLLECTOR": {
             "img2": "https://i.supaimg.com/f14907bb-7c36-4190-b39a-46afcf33d93d.jpg",
             "name2": "Night Owl",
             "tag2": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
             "type2": "Collector2"
           },
-          "-OYHQIHywR1pwm7g8nld": {
+          "05 ELEVEN": {
             "img2": "https://i.supaimg.com/030af33f-00e5-4866-ba7b-06f83d7ec560.png",
             "name2": "Dimension Walker",
             "tag2": "https://i.supaimg.com/19394161-cc30-494c-a906-b49f710cf674.png",
             "type2": "11.11"
           },
-          "-OYHQLWU13kLJFHOwu0u": {
+          "06 NEW_STARLIGHT": {
             "img2": "https://i.supaimg.com/46849c0e-46a0-4c74-9398-e2ccfe51ecfe.png",
             "name2": "Desert Spider",
             "tag2": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
             "type2": "Starlight 2024"
           },
-          "-Of7D7-gNx-PKYQv2pu-": {
+          "07 OLD_STARLIGHT": {
             "img2": "https://i.supaimg.com/3c404798-a1b5-4d95-af3f-2308e5946596.png",
             "name2": "Cyber Ops",
             "tag2": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
             "type2": "Starlight 2018"
           }
-        },
-        "img": "https://i.supaimg.com/e3d28436-3bcf-48b9-998d-4faf64a1b2dd.png",
-        "name": "Gusion"
+        }
       },
       "Lancelot": {
         "Replacements": {
@@ -6953,7 +6953,8 @@
               "-ObDc7La2gnvII3etgtc": "unavailable",
               "-ObDc7La2gnvII3etgtd": "https://www.dropbox.com/scl/fi/dnizcyy4kk8u80ledfjb5/Kagura-Annual-Default.zip?rlkey=ekrpk3nrbz7t1a8zratmo0gaf&st=uzeuhy7l&dl=1",
               "-ObDc7La2gnvII3etgte": "https://www.dropbox.com/scl/fi/7g2mqueuoyfg98cjp03ij/Kagura-Exorcist-Default.zip?rlkey=67suhkcmkimwzy69b2ei18srg&st=xfyioo15&dl=1",
-              "-ObDc7La2gnvII3etgtf": "https://www.dropbox.com/scl/fi/5xb07pege8y2y4tm57paw/Kagura-BTC-Default.zip?rlkey=y9wd9nbet7gigum2ixg07mg0h&st=wm5jfe9q&dl=1"
+              "-ObDc7La2gnvII3etgtf": "https://www.dropbox.com/scl/fi/5xb07pege8y2y4tm57paw/Kagura-BTC-Default.zip?rlkey=y9wd9nbet7gigum2ixg07mg0h&st=wm5jfe9q&dl=1",
+              "NEW_LUCKYBOX": "https://www.dropbox.com/scl/fi/pwi4qrw9gbfcxkdm93u17/Kagura-Luckybox-Default.zip?rlkey=eyjug4iae1i6ebegcfgrkj668&st=gs41y8io&dl=1"
             }
           },
           "-OY5GgSxNol8mM0en0jv": {
@@ -6966,7 +6967,8 @@
               "-ObDbuXhPILJUgp4sFBh": "unavailable",
               "-ObDbuXhPILJUgp4sFBi": "https://www.dropbox.com/scl/fi/jmr0oj3ircb7tgfdb70kb/Kagura-Annual-Basic.zip?rlkey=b2rd22q1vxj4ztxlstu4i60dp&st=lto2pmsv&dl=1",
               "-ObDbuXhPILJUgp4sFBj": "https://www.dropbox.com/scl/fi/2fimnpm08n4nrmji4kxmk/Kagura-Exorcist-Basic.zip?rlkey=hkxpugha7dwsk3qcomaik1moe&st=x8zkojlz&dl=1",
-              "-ObDbuXhPILJUgp4sFBk": "https://www.dropbox.com/scl/fi/8qgdd97z4mj4wwu4xyocn/Kagura-BTC-Basic.zip?rlkey=wieqnzqopq5h3w5diy5ga8qqg&st=okc5b3oy&dl=1"
+              "-ObDbuXhPILJUgp4sFBk": "https://www.dropbox.com/scl/fi/8qgdd97z4mj4wwu4xyocn/Kagura-BTC-Basic.zip?rlkey=wieqnzqopq5h3w5diy5ga8qqg&st=okc5b3oy&dl=1",
+              "NEW_LUCKYBOX": "https://www.dropbox.com/scl/fi/2ztfhw2g0sn97z6ff5tws/Kagura-Luckybox-Basic.zip?rlkey=easmvq766fsrnalbsjbppiit6&st=i8leklyj&dl=1"
             }
           },
           "-OY5GkRgsJhlFCXheTqf": {
@@ -6979,7 +6981,8 @@
               "-ObDcSEMO2Wl_hX4I8qH": "unavailable",
               "-ObDcSEMO2Wl_hX4I8qI": "https://www.dropbox.com/scl/fi/pi0yvctys3wcxfkf8s2hv/Kagura-Annual-Special.zip?rlkey=qlv4wr9xb1lvd0kkw9w1g6ipq&st=jp43yvn4&dl=1",
               "-ObDcSEMO2Wl_hX4I8qJ": "https://www.dropbox.com/scl/fi/0wbtc8ia2qfz5id2wijoy/Kagura-Exorcist-Special-Cherry.zip?rlkey=ubd451leepw5uth9fg10a5lux&st=2gfdzrgs&dl=1",
-              "-ObDcSEN03q2ZBKn9huj": "https://www.dropbox.com/scl/fi/e5thh74rflkt9yhruqr9o/Kagura-BTC-Special.zip?rlkey=v96z567ncbfi8e995xjtzkh40&st=m6e46tc6&dl=1"
+              "-ObDcSEN03q2ZBKn9huj": "https://www.dropbox.com/scl/fi/e5thh74rflkt9yhruqr9o/Kagura-BTC-Special.zip?rlkey=v96z567ncbfi8e995xjtzkh40&st=m6e46tc6&dl=1",
+              "NEW_LUCKYBOX": "https://www.dropbox.com/scl/fi/lbqe3omc9plgd4juo5cx7/Kagura-Luckybox-Special-Cherry-Witch.zip?rlkey=hw2xu5vr08ura1mf9fso1sqzq&st=a4jmj0e5&dl=1"
             }
           },
           "-OY5Goj3hkkIJotx15gD": {
@@ -6992,7 +6995,8 @@
               "-ObDciV8PUOdHdgPaDEx": "unavailable",
               "-ObDciV8PUOdHdgPaDEy": "https://www.dropbox.com/scl/fi/r6698yn73v7jq03imsi56/Kagura-Annual-Summer.zip?rlkey=pq17h1iszubgmkcp9tgla4ufg&st=xcbuyjcw&dl=1",
               "-ObDciV8PUOdHdgPaDEz": "https://www.dropbox.com/scl/fi/6dvuxln0696ac556qlqzj/Kagura-Exorcist-Summer.zip?rlkey=t4zw2n8zoeknrdozpq8jjf83d&st=m7gqdyla&dl=1",
-              "-ObDciV8PUOdHdgPaDF-": "https://www.dropbox.com/scl/fi/czcvi6lunten4mnykkjee/Kagura-BTC-Summer.zip?rlkey=r94nq9u91c36k4ic88rjirc45&st=8sq803cc&dl=1"
+              "-ObDciV8PUOdHdgPaDF-": "https://www.dropbox.com/scl/fi/czcvi6lunten4mnykkjee/Kagura-BTC-Summer.zip?rlkey=r94nq9u91c36k4ic88rjirc45&st=8sq803cc&dl=1",
+              "NEW_LUCKYBOX": "https://www.dropbox.com/scl/fi/8ignvzvv5ol8xdfwlrrre/Kagura-Luckybox-Summer.zip?rlkey=sadkdxtmhtew8699g2hbvpwtb&st=i3mhoxa4&dl=1"
             }
           },
           "-OY5Gt6B4VkfLtK4kLUE": {
@@ -7005,7 +7009,8 @@
               "-ObDdHGa_qjLJoFi--xM": "unavailable",
               "-ObDdHGa_qjLJoFi--xN": "https://www.dropbox.com/scl/fi/zzg1lury6udctwoqtjla0/Kagura-Annual-Luckybox.zip?rlkey=xrrg7lkqg8i6spi019zm5ulef&st=nz75mbyd&dl=1",
               "-ObDdHGa_qjLJoFi--xO": "https://www.dropbox.com/scl/fi/lzpduywoikmj06gcslqkc/Kagura-Exorcist-Luckybox.zip?rlkey=jxi1jcea3i8amdws7khyx8b3b&st=3m6nj2cp&dl=1",
-              "-ObDdHGbUNf4kkt7kGEl": "https://www.dropbox.com/scl/fi/ge16lmgf0x9eafrunrncg/Kagura-BTC-Luckybox.zip?rlkey=3wbe6ehr3wjxvazf2vklqbnlz&st=is6lj1ox&dl=1"
+              "-ObDdHGbUNf4kkt7kGEl": "https://www.dropbox.com/scl/fi/ge16lmgf0x9eafrunrncg/Kagura-BTC-Luckybox.zip?rlkey=3wbe6ehr3wjxvazf2vklqbnlz&st=is6lj1ox&dl=1",
+              "NEW_LUCKYBOX": "unavailable"
             }
           },
           "-OY5GyGwpkmjJ4ozUQBJ": {
@@ -7018,7 +7023,8 @@
               "-ObDcZoXcNaAcYqliZTX": "unavailable",
               "-ObDcZoYzltH3MgYVP6z": "https://www.dropbox.com/scl/fi/lggv6egv8m55341e9wc02/Kagura-Annual-Starlight.zip?rlkey=sx5zte2lbnwq69mdul1et1cp8&st=ynlx3r7j&dl=1",
               "-ObDcZoYzltH3MgYVP7-": "https://www.dropbox.com/scl/fi/ccb8w6edqdqh8u50dy4kz/Kagura-Exorcist-Starlight.zip?rlkey=evd1cpzge6qvz83ke60btcikt&st=vy5okvkv&dl=1",
-              "-ObDcZoYzltH3MgYVP70": "https://www.dropbox.com/scl/fi/l3ytw3l517d56urv08qvh/Kagura-BTC-Starlight.zip?rlkey=rwn8jh8h22e7mkz6f3pfcqv3p&st=srvq8uwx&dl=1"
+              "-ObDcZoYzltH3MgYVP70": "https://www.dropbox.com/scl/fi/l3ytw3l517d56urv08qvh/Kagura-BTC-Starlight.zip?rlkey=rwn8jh8h22e7mkz6f3pfcqv3p&st=srvq8uwx&dl=1",
+              "NEW_LUCKYBOX": "https://www.dropbox.com/scl/fi/llyks113tlyjadt6qeg6p/Kagura-Luckybox-Starlight.zip?rlkey=eweabo7dvakz75gr3sqz0aydu&st=eavlsz5q&dl=1"
             }
           },
           "-OY5H2sStjuq6zBIf1v2": {
@@ -7031,7 +7037,8 @@
               "-ObDbnOr1PFnpUKor55q": "unavailable",
               "-ObDbnOthL2vS5FZrRHA": "unavailable",
               "-ObDbnOthL2vS5FZrRHB": "https://www.dropbox.com/scl/fi/dscohfc36vyhrux4031si/Kagura-Exorcist-Annual-Star.zip?rlkey=xxq7027r4pgh9j9eljj9egmm4&st=w7xo2h0y&dl=1",
-              "-ObDbnOthL2vS5FZrRHC": "unavailable"
+              "-ObDbnOthL2vS5FZrRHC": "unavailable",
+              "NEW_LUCKYBOX": "https://www.dropbox.com/scl/fi/k71ki6xgeiuqsnkgb553x/Kagura-Luckybox-Annual-Star.zip?rlkey=0co1lkmmq4wh3mg3zgfne126q&st=4idybj8v&dl=1"
             }
           },
           "-OY5H8y_HRvyDz30pM_M": {
@@ -7044,7 +7051,8 @@
               "-ObDcLhooUF6zhnCpI2V": "unavailable",
               "-ObDcLhooUF6zhnCpI2W": "https://www.dropbox.com/scl/fi/9pq67frdawzvav933k0zl/Kagura-Annual-Exorcist.zip?rlkey=bvh28rcr93qeq0s40bm6oxwqh&st=r9l4awdb&dl=1",
               "-ObDcLhpSAuR06v5-woZ": "unavailable",
-              "-ObDcLhpSAuR06v5-wo_": "https://www.dropbox.com/scl/fi/vv8abkebodn67hpuk2avs/Kagura-BTC-Exorcist.zip?rlkey=jfsydc80fy6isgfu4w8lgkyg5&st=7izbjj9f&dl=1"
+              "-ObDcLhpSAuR06v5-wo_": "https://www.dropbox.com/scl/fi/vv8abkebodn67hpuk2avs/Kagura-BTC-Exorcist.zip?rlkey=jfsydc80fy6isgfu4w8lgkyg5&st=7izbjj9f&dl=1",
+              "NEW_LUCKYBOX": "https://www.dropbox.com/scl/fi/iomtoyx3t3r2ivtehj13b/Kagura-Luckybox-Exorcists.zip?rlkey=uhdr0awi66q06lwjtaqsddhr8&st=9rzs6r4t&dl=1"
             }
           },
           "-OY5HXnbc5Txgr4EgMsB": {
@@ -7057,7 +7065,8 @@
               "-ObDc3JEkxmoIRjDEy95": "unavailable",
               "-ObDc3JEkxmoIRjDEy96": "https://www.dropbox.com/scl/fi/arb5rg2c84fwrgqn2m8pm/Kagura-Annual-BTC.zip?rlkey=c10dbbxfr7aly9c2oschwfyn4&st=rxcvchqm&dl=1",
               "-ObDc3JEkxmoIRjDEy97": "https://www.dropbox.com/scl/fi/v5z0kg1jm8xnyashp158r/Kagura-Exorcist-BTC.zip?rlkey=zazeyo7qm13einq2q317suuf3&st=yykktdx4&dl=1",
-              "-ObDc3JFZV1vi3SU9Ze3": "unavailable"
+              "-ObDc3JFZV1vi3SU9Ze3": "unavailable",
+              "NEW_LUCKYBOX": "unavailable"
             }
           },
           "-OY5HdV-bTc1NjiZ28r-": {
@@ -7070,7 +7079,22 @@
               "-ObDcCuGlpEHWSKghjAb": "unavailable",
               "-ObDcCuHQjSQOPFJk_rp": "https://www.dropbox.com/scl/fi/getcztma1riq2jiqn8y7b/Kagura-Annual-Epic.zip?rlkey=3bjpxh5bsukqajmjdwuxpxn34&st=axjrqifh&dl=1",
               "-ObDcCuHQjSQOPFJk_rq": "https://www.dropbox.com/scl/fi/47qhkgqv9oy6lvsqcl47b/Kagura-Exorcist-Epic.zip?rlkey=8m5spigc58vqdnnxz1fd48mf0&st=4hm0y3d7&dl=1",
-              "-ObDcCuHQjSQOPFJk_rr": "https://www.dropbox.com/scl/fi/c141lb0z4vx2pc2qccq2u/Kagura-BTC-Epic.zip?rlkey=v651y7b7kqew621ld32ojwqqg&st=5p26rr5h&dl=1"
+              "-ObDcCuHQjSQOPFJk_rr": "https://www.dropbox.com/scl/fi/c141lb0z4vx2pc2qccq2u/Kagura-BTC-Epic.zip?rlkey=v651y7b7kqew621ld32ojwqqg&st=5p26rr5h&dl=1",
+              "NEW_LUCKYBOX": "https://www.dropbox.com/scl/fi/zv0dq50dsd7tnyvssnte6/Kagura-Luckybox-Epic.zip?rlkey=ji0gyyfcg5ksph9iv6lvdugxt&st=34sktbfb&dl=1"
+            }
+          },
+          "Special": {
+            "img1": "https://i.supaimg.com/4d6cea63-70d0-4a05-9d92-b4cdce4c3d92.jpg",
+            "name1": "Lady Parasol",
+            "tag1": "https://i.supaimg.com/7aef5066-a2a7-4965-8c68-ed45269d028b.png",
+            "type1": "Special",
+            "type_links": {
+              "-ObDcSEL1lCvmQfowwBT": "unavailable",
+              "-ObDcSEMO2Wl_hX4I8qH": "unavailable",
+              "-ObDcSEMO2Wl_hX4I8qI": "unavailable",
+              "-ObDcSEMO2Wl_hX4I8qJ": "unavailable",
+              "-ObDcSEN03q2ZBKn9huj": "unavailable",
+              "NEW_LUCKYBOX": "https://www.dropbox.com/scl/fi/h56a2iudxay7dtdg0nua9/Kagura-Luckybox-Special-Lady-Parasol.zip?rlkey=9rcu532ypxi8jez7kwnc81vav&st=gf6z3krf&dl=1"
             }
           }
         },
@@ -7078,6 +7102,12 @@
           "-OYMcr95uE52ZU-iHqOO": {
             "img2": "https://i.supaimg.com/231e0173-37ef-4276-bb3b-49b738110625.png",
             "name2": "Dragon Maiden",
+            "tag2": "https://i.supaimg.com/92fafc3f-bc67-4413-8903-d41b5d6d119d.png",
+            "type2": "Luckybox"
+          },
+          "NEW_LUCKYBOX": {
+            "img2": "https://i.supaimg.com/f4376c87-a4d3-49a7-bda9-bc574fc0a584.jpg",
+            "name2": "Revamp\nDragon Maiden",
             "tag2": "https://i.supaimg.com/92fafc3f-bc67-4413-8903-d41b5d6d119d.png",
             "type2": "Luckybox"
           },
