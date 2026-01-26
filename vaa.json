@@ -1,7 +1,7 @@
 [
   {
     "Assassin": {
-      "001 Fanny": {
+      "Fanny": {
         "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero171-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021141015",
         "name": "Fanny",
         "Backups": {
@@ -441,7 +441,7 @@
           }
         }
       },
-      "002 Gusion": {
+      "Gusion": {
         "img": "https://i.supaimg.com/e3d28436-3bcf-48b9-998d-4faf64a1b2dd.png",
         "name": "Gusion",
         "Replacements": {
