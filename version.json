@@ -2,9 +2,9 @@
   {
     "live": "ye",
     "live_link": "https://vt.tiktok.com/ZSHo3c5r845pa-YQAkr/",
-    "notice": "no",
+    "notice": "yes",
     "notice_title": "Maintenance Notice",
-    "notice_message": "This is currently under maintenance, optimizing and fixing bugs. Please try again tomorrow. \n\n Ito ay pansamantalang inaayus at ino-optimize. Muling subukan bukas.",
+    "notice_message": "This is currently under maintenance, optimizing and fixing bugs. Please try again later. \n\n Ito ay pansamantalang inaayus at ino-optimize. Muling subukan mamaya.",
     "show_task": "yes",
     "version": "1.43",
     "allow": "unallow",
