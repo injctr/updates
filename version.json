@@ -5,7 +5,7 @@
     "notice": "yes",
     "notice_title": "Maintenance Notice",
     "notice_message": "This is currently under maintenance, optimizing and fixing bugs. Please try again later. \n\n Ito ay pansamantalang inaayus at ino-optimize. Muling subukan mamaya.",
-    "show_task": "yes",
+    "show_task": "no",
     "version": "1.43",
     "allow": "unallow",
     "link": "https://play.google.com/store/apps/details?id=com.vinzzmltools",
