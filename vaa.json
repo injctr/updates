@@ -5,18 +5,18 @@
         "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero171-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021141015",
         "name": "Fanny",
         "Backups": {
-          "01 DEFAULT": "unavailable",
-          "02 ELITE": "unavailable",
-          "03 SEASON": "unavailable",
-          "04 LUCKYBOX": "unavailable",
+          "01 DEFAULT"  : "unavailable",
+          "02 ELITE"    : "unavailable",
+          "03 SEASON"   : "unavailable",
+          "04 LUCKYBOX" : "unavailable",
           "05 STARLIGHT": "me",
-          "06 SUMMER": "unavailable",
+          "06 SUMMER"   : "unavailable",
           "07 LIGHTBORN": "unavailable",
           "08 CHRISTMAS": "unavailable",
-          "09 TOPUP": "unavailable",
+          "09 TOPUP"    : "unavailable",
           "10 ASPIRANTS": "unavailable",
-          "11 AOT": "unavailable",
-          "12 PACE": "unavailable"
+          "11 AOT"      : "unavailable",
+          "12 PACE"     : "unavailable"
         },
         "Replacements": {
           "01 DEFAULT": {
@@ -35,16 +35,16 @@
               "08 PACE": "unavailable",
               "09 LEGEND": "https://github.com/injctr/large/raw/main/Fanny/Legend/Fanny%20Legend%20-%20Default.zip"
             },
-            "scripts": { 
-              "01 LUCKYBOX": "https://rshrt.com/YjL",
-              "02 SUMMER": "https://rshrt.com/UIZt",
+            "scripts": {
+              "01 LUCKYBOX" : "https://rshrt.com/YjL",
+              "02 SUMMER"   : "https://rshrt.com/UIZt",
               "03 LIGHTBORN": "https://rshrt.com/FFesOlU",
               "04 CHRISTMAS": "https://rshrt.com/6vEE",
               "05 ASPIRANTS": "https://rshrt.com/xVgPuW",
               "06 VALENTINE": "https://rshrt.com/yv9Y",
-              "07 AOT": "https://rshrt.com/QwUFq",
-              "08 PACE": "unavailable",
-              "09 LEGEND": "https://rshrt.com/JpnmH"
+              "07 AOT"      : "https://rshrt.com/QwUFq",
+              "08 PACE"     : "unavailable",
+              "09 LEGEND"   : "https://rshrt.com/JpnmH"
             }
           },
           "02 ELITE": {
@@ -63,16 +63,16 @@
               "08 PACE": "unavailable",
               "09 LEGEND": "https://github.com/injctr/large/raw/main/Fanny/Legend/Fanny%20Legend%20-%20Elite.zip"
             },
-            "scripts": { 
-              "01 LUCKYBOX": "https://rshrt.com/BfLH",
-              "02 SUMMER": "unavailable",
+            "scripts": {
+              "01 LUCKYBOX" : "https://rshrt.com/BfLH",
+              "02 SUMMER"   : "unavailable",
               "03 LIGHTBORN": "https://rshrt.com/KFNyo",
               "04 CHRISTMAS": "https://rshrt.com/MkHn4y",
               "05 ASPIRANTS": "https://rshrt.com/iG1H",
               "06 VALENTINE": "https://rshrt.com/iwI4",
-              "07 AOT": "https://rshrt.com/OLHR",
-              "08 PACE": "unavailable",
-              "09 LEGEND": "https://rshrt.com/MFMQ3"
+              "07 AOT"      : "https://rshrt.com/OLHR",
+              "08 PACE"     : "unavailable",
+              "09 LEGEND"   : "https://rshrt.com/MFMQ3"
             }
           },
           "03 SEASON": {
@@ -91,16 +91,16 @@
               "08 PACE": "unavailable",
               "09 LEGEND": "https://github.com/injctr/large/raw/main/Fanny/Legend/Fanny%20Legend%20-%20Season.zip"
             },
-            "scripts": { 
-              "01 LUCKYBOX": "https://rshrt.com/ZcSmfRsg",
-              "02 SUMMER": "unavailable",
+            "scripts": {
+              "01 LUCKYBOX" : "https://rshrt.com/ZcSmfRsg",
+              "02 SUMMER"   : "unavailable",
               "03 LIGHTBORN": "https://rshrt.com/mlbWYKb",
               "04 CHRISTMAS": "https://rshrt.com/URWN",
               "05 ASPIRANTS": "https://rshrt.com/byqgd",
               "06 VALENTINE": "https://rshrt.com/yKSbY",
-              "07 AOT": "https://rshrt.com/RzPwBLo",
-              "08 PACE": "unavailable",
-              "09 LEGEND": "https://rshrt.com/DopW"
+              "07 AOT"      : "https://rshrt.com/RzPwBLo",
+              "08 PACE"     : "unavailable",
+              "09 LEGEND"   : "https://rshrt.com/DopW"
             }
           },
           "04 LUCKYBOX": {
@@ -119,16 +119,16 @@
               "08 PACE": "unavailable",
               "09 LEGEND": "https://github.com/injctr/large/raw/main/Fanny/Legend/Fanny%20Legend%20-%20Luckybox.zip"
             },
-            "scripts": { 
-              "01 LUCKYBOX": "unavailable",
-              "02 SUMMER": "unavailable",
+            "scripts": {
+              "01 LUCKYBOX" : "unavailable",
+              "02 SUMMER"   : "unavailable",
               "03 LIGHTBORN": "unavailable",
               "04 CHRISTMAS": "unavailable",
               "05 ASPIRANTS": "https://rshrt.com/UGwLgM",
               "06 VALENTINE": "unavailable",
-              "07 AOT": "https://rshrt.com/j2alNz",
-              "08 PACE": "unavailable",
-              "09 LEGEND": "https://rshrt.com/VzTfp"
+              "07 AOT"      : "https://rshrt.com/j2alNz",
+              "08 PACE"     : "unavailable",
+              "09 LEGEND"   : "https://rshrt.com/VzTfp"
             }
           },
           "05 STARLIGHT": {
@@ -147,16 +147,16 @@
               "08 AOT": "unavailable",
               "09 LEGEND": "https://github.com/injctr/large/raw/main/Fanny/Legend/Fanny%20Legend%20-%20Starlight.zip"
             },
-            "scripts": { 
-              "01 LUCKYBOX": "https://rshrt.com/T7v",
-              "02 SUMMER": "unavailable",
+            "scripts": {
+              "01 LUCKYBOX" : "https://rshrt.com/T7v",
+              "02 SUMMER"   : "unavailable",
               "03 LIGHTBORN": "https://rshrt.com/pZHUYF",
               "04 CHRISTMAS": "https://rshrt.com/TYvFOg",
               "05 ASPIRANTS": "https://rshrt.com/0bmiz",
               "06 VALENTINE": "https://rshrt.com/CTN5",
-              "07 AOT": "https://rshrt.com/oEBK4zId",
-              "08 PACE": "unavailable",
-              "09 LEGEND": "https://rshrt.com/y9ZXcN"
+              "07 AOT"      : "https://rshrt.com/oEBK4zId",
+              "08 PACE"     : "unavailable",
+              "09 LEGEND"   : "https://rshrt.com/y9ZXcN"
             }
           },
           "06 SUMMER": {
@@ -175,16 +175,16 @@
               "08 PACE": "unavailable",
               "09 LEGEND": "https://github.com/injctr/large/raw/main/Fanny/Legend/Fanny%20Legend%20-%20Summer.zip"
             },
-            "scripts": { 
-              "01 LUCKYBOX": "https://rshrt.com/YRFFnn7",
-              "02 SUMMER": "unavailable",
+            "scripts": {
+              "01 LUCKYBOX" : "https://rshrt.com/YRFFnn7",
+              "02 SUMMER"   : "unavailable",
               "03 LIGHTBORN": "https://rshrt.com/cPSpI",
               "04 CHRISTMAS": "https://rshrt.com/Wo0tIYhI",
               "05 ASPIRANTS": "https://rshrt.com/HpIqN7i",
               "06 VALENTINE": "https://rshrt.com/CtSg",
-              "07 AOT": "https://rshrt.com/PuwF",
-              "08 PACE": "unavailable",
-              "09 LEGEND": "https://rshrt.com/yJHY"
+              "07 AOT"      : "https://rshrt.com/PuwF",
+              "08 PACE"     : "unavailable",
+              "09 LEGEND"   : "https://rshrt.com/yJHY"
             }
           },
           "07 LIGHTBORN": {
@@ -203,16 +203,16 @@
               "08 PACE": "unavailable",
               "09 LEGEND": "https://github.com/injctr/large/raw/main/Fanny/Legend/Fanny%20Legend%20-%20Lightborn.zip"
             },
-            "scripts": { 
-              "01 LUCKYBOX": "https://rshrt.com/heXWdQ",
-              "02 SUMMER": "unavailable",
+            "scripts": {
+              "01 LUCKYBOX" : "https://rshrt.com/heXWdQ",
+              "02 SUMMER"   : "unavailable",
               "03 LIGHTBORN": "unavailable",
               "04 CHRISTMAS": "https://rshrt.com/XNZ",
               "05 ASPIRANTS": "https://rshrt.com/qbW8d",
               "06 VALENTINE": "https://rshrt.com/xJUu",
-              "07 AOT": "https://rshrt.com/J2PRtJ",
-              "08 PACE": "unavailable",
-              "09 LEGEND": "https://rshrt.com/F5I"
+              "07 AOT"      : "https://rshrt.com/J2PRtJ",
+              "08 PACE"     : "unavailable",
+              "09 LEGEND"   : "https://rshrt.com/F5I"
             }
           },
           "08 CHRISTMAS": {
@@ -231,16 +231,16 @@
               "08 PACE": "unavailable",
               "09 LEGEND": "https://github.com/injctr/large/raw/main/Fanny/Legend/Fanny%20Legend%20-%20Christmas.zip"
             },
-            "scripts": { 
-              "01 LUCKYBOX": "https://rshrt.com/deds",
-              "02 SUMMER": "unavailable",
+            "scripts": {
+              "01 LUCKYBOX" : "https://rshrt.com/deds",
+              "02 SUMMER"   : "unavailable",
               "03 LIGHTBORN": "unavailable",
               "04 CHRISTMAS": "unavailable",
               "05 ASPIRANTS": "https://rshrt.com/x2s",
               "06 VALENTINE": "unavailable",
-              "07 AOT": "https://rshrt.com/mXjx9t",
-              "08 PACE": "unavailable",
-              "09 LEGEND": "https://rshrt.com/ZbR1v"
+              "07 AOT"      : "https://rshrt.com/mXjx9t",
+              "08 PACE"     : "unavailable",
+              "09 LEGEND"   : "https://rshrt.com/ZbR1v"
             }
           },
           "09 TOPUP": {
@@ -259,16 +259,16 @@
               "08 PACE": "unavailable",
               "09 LEGEND": "https://github.com/injctr/large/raw/main/Fanny/Legend/Fanny%20Legend%20-%20Imperial.zip"
             },
-            "scripts": { 
-              "01 LUCKYBOX": "https://rshrt.com/P5B3",
-              "02 SUMMER": "unavailable",
+            "scripts": {
+              "01 LUCKYBOX" : "https://rshrt.com/P5B3",
+              "02 SUMMER"   : "unavailable",
               "03 LIGHTBORN": "https://rshrt.com/UjoCmi",
               "04 CHRISTMAS": "https://rshrt.com/QtjL",
               "05 ASPIRANTS": "https://rshrt.com/Ci7j",
               "06 VALENTINE": "https://rshrt.com/THDrO7Z",
-              "07 AOT": "https://rshrt.com/sLdW",
-              "08 PACE": "unavailable",
-              "09 LEGEND": "https://rshrt.com/jJROGgk"
+              "07 AOT"      : "https://rshrt.com/sLdW",
+              "08 PACE"     : "unavailable",
+              "09 LEGEND"   : "https://rshrt.com/jJROGgk"
             }
           },
           "10 ASPIRANTS": {
@@ -287,16 +287,16 @@
               "08 PACE": "unavailable",
               "09 LEGEND": "https://github.com/injctr/large/raw/main/Fanny/Legend/Fanny%20Legend%20-%20Aspirants.zip"
             },
-            "scripts": { 
-              "01 LUCKYBOX": "unavailable",
-              "02 SUMMER": "unavailable",
+            "scripts": {
+              "01 LUCKYBOX" : "unavailable",
+              "02 SUMMER"   : "unavailable",
               "03 LIGHTBORN": "unavailable",
               "04 CHRISTMAS": "unavailable",
               "05 ASPIRANTS": "unavailable",
               "06 VALENTINE": "unavailable",
-              "07 AOT": "https://rshrt.com/UkvB",
-              "08 PACE": "unavailable",
-              "09 LEGEND": "https://rshrt.com/77jG5"
+              "07 AOT"      : "https://rshrt.com/UkvB",
+              "08 PACE"     : "unavailable",
+              "09 LEGEND"   : "https://rshrt.com/77jG5"
             }
           },
           "11 VALENTINE": {
@@ -315,16 +315,16 @@
               "08 PACE": "unavailable",
               "09 LEGEND": "https://github.com/injctr/large/raw/main/Fanny/Legend/Fanny%20Legend%20-%20Valentine.zip"
             },
-            "scripts": { 
-              "01 LUCKYBOX": "https://rshrt.com/yfBTmY",
-              "02 SUMMER": "unavailable",
+            "scripts": {
+              "01 LUCKYBOX" : "https://rshrt.com/yfBTmY",
+              "02 SUMMER"   : "unavailable",
               "03 LIGHTBORN": "unavailable",
               "04 CHRISTMAS": "unavailable",
               "05 ASPIRANTS": "https://rshrt.com/kK9h7m",
               "06 VALENTINE": "unavailable",
-              "07 AOT": "https://rshrt.com/CQSaAnSI",
-              "08 PACE": "unavailable",
-              "09 LEGEND": "https://rshrt.com/GUMwtlI4"
+              "07 AOT"      : "https://rshrt.com/CQSaAnSI",
+              "08 PACE"     : "unavailable",
+              "09 LEGEND"   : "https://rshrt.com/GUMwtlI4"
             }
           },
           "12 AOT": {
@@ -343,16 +343,16 @@
               "08 PAGE": "unavailable",
               "09 LEGEND": "https://github.com/injctr/large/raw/main/Fanny/Legend/Fanny%20Legend%20-%20AOT.zip"
             },
-            "scripts": { 
-              "01 LUCKYBOX": "unavailable",
-              "02 SUMMER": "unavailable",
+            "scripts": {
+              "01 LUCKYBOX" : "unavailable",
+              "02 SUMMER"   : "unavailable",
               "03 LIGHTBORN": "unavailable",
               "04 CHRISTMAS": "unavailable",
               "05 ASPIRANTS": "https://rshrt.com/nEu",
               "06 VALENTINE": "unavailable",
-              "07 AOT": "unavailable",
-              "08 PACE": "unavailable",
-              "09 LEGEND": "https://rshrt.com/HLxx8"
+              "07 AOT"      : "unavailable",
+              "08 PACE"     : "unavailable",
+              "09 LEGEND"   : "https://rshrt.com/HLxx8"
             }
           },
           "13 PACE": {
@@ -371,16 +371,16 @@
               "08 PACE": "unavailable",
               "09 LEGEND": "https://github.com/injctr/large/raw/main/Fanny/Legend/Fanny%20Legend%20-%20PACE.zip"
             },
-            "scripts": { 
-              "01 LUCKYBOX": "unavailable",
-              "02 SUMMER": "unavailable",
+            "scripts": {
+              "01 LUCKYBOX" : "unavailable",
+              "02 SUMMER"   : "unavailable",
               "03 LIGHTBORN": "unavailable",
               "04 CHRISTMAS": "unavailable",
               "05 ASPIRANTS": "unavailable",
               "06 VALENTINE": "unavailable",
-              "07 AOT": "https://rshrt.com/dCqy5",
-              "08 PACE": "unavailable",
-              "09 LEGEND": "https://rshrt.com/TzQ"
+              "07 AOT"      : "https://rshrt.com/dCqy5",
+              "08 PACE"     : "unavailable",
+              "09 LEGEND"   : "https://rshrt.com/TzQ"
             }
           }
         },
@@ -460,11 +460,11 @@
               "07 OLD_STARLIGHT": "https://www.dropbox.com/scl/fi/siftzmrewv3vosaji6vck/Gusion-Old-Starlight-Default.zip?rlkey=53vctkzpej2i5faq35w212u0d&st=sxqznvr3&dl=1"
             },
             "scripts": {
-              "01 KOF": "https://rshrt.com/sd8",
-              "02 LEGEND": "https://rshrt.com/4D6",
+              "01 KOF"          : "https://rshrt.com/sd8",
+              "02 LEGEND"       : "https://rshrt.com/4D6",
               "03 OLD_COLLECTOR": "https://rshrt.com/9Dsabh",
               "04 NEW_COLLECTOR": "https://rshrt.com/0bZfh",
-              "05 ELEVEN": "https://rshrt.com/giV",
+              "05 ELEVEN"       : "https://rshrt.com/giV",
               "06 NEW_STARLIGHT": "https://rshrt.com/GqJp35m",
               "07 OLD_STARLIGHT": "https://rshrt.com/kIxJ1oG6"
             }
@@ -475,22 +475,22 @@
             "tag1": "",
             "type1": "Basic",
             "type_links": {
-"01 KOF": "https://www.dropbox.com/scl/fi/0byp9qg0m3s7cwjbsqze0/Gusion-KOF-Basic.zip?rlkey=rdsar06cspun6tsccmmd1twyt&st=4lgmxpdu&dl=1",
-"02 LEGEND": "https://www.dropbox.com/scl/fi/eukid9njem2nmagejlzkm/Gusion-Legend-Basic.zip?rlkey=kf1rbjiysgtcas0nxgkgs6ni1&st=4ys21sum&dl=1",
-"03 OLD_COLLECTOR": "https://www.dropbox.com/scl/fi/d4t9tdufunapawpzoengh/Gusion-Collector-Basic.zip?rlkey=atck9p2doxoavfvmf5z2yoxjv&st=o9fmkakh&dl=1",
-"04 NEW_COLLECTOR": "https://www.dropbox.com/scl/fi/qosnw8dmvc8qwf6lrqj77/Gusion-Collector-Basic.zip?rlkey=obtdfxuy8txxmjl5jyxw2gwx2&st=hvu6m2d8&dl=1",
-"05 ELEVEN": "https://www.dropbox.com/scl/fi/klp4hpjzyde9m62qq416x/Gusion-11.11-Basic.zip?rlkey=ifdrjldfvkcw1qbmm9j84aa5l&st=sp7hazyq&dl=1",
-"06 NEW_STARLIGHT": "https://www.dropbox.com/scl/fi/rf4hwsi8r1hz2fm0dbfrj/Gusion-Starlight-Spider-Basic.zip?rlkey=9t1t9zcon54xiiasqrofr2zrk&st=17tbdb9t&dl=1",
-"07 OLD_STARLIGHT": "https://www.dropbox.com/scl/fi/4vsm20hjykvpz29n51by3/Gusion-Old-Starlight-Basic.zip?rlkey=4u3f9sxjmrzp5rhs3tw5w3ynu&st=nu7393sa&dl=1"
+              "01 KOF": "https://www.dropbox.com/scl/fi/0byp9qg0m3s7cwjbsqze0/Gusion-KOF-Basic.zip?rlkey=rdsar06cspun6tsccmmd1twyt&st=4lgmxpdu&dl=1",
+              "02 LEGEND": "https://www.dropbox.com/scl/fi/eukid9njem2nmagejlzkm/Gusion-Legend-Basic.zip?rlkey=kf1rbjiysgtcas0nxgkgs6ni1&st=4ys21sum&dl=1",
+              "03 OLD_COLLECTOR": "https://www.dropbox.com/scl/fi/d4t9tdufunapawpzoengh/Gusion-Collector-Basic.zip?rlkey=atck9p2doxoavfvmf5z2yoxjv&st=o9fmkakh&dl=1",
+              "04 NEW_COLLECTOR": "https://www.dropbox.com/scl/fi/qosnw8dmvc8qwf6lrqj77/Gusion-Collector-Basic.zip?rlkey=obtdfxuy8txxmjl5jyxw2gwx2&st=hvu6m2d8&dl=1",
+              "05 ELEVEN": "https://www.dropbox.com/scl/fi/klp4hpjzyde9m62qq416x/Gusion-11.11-Basic.zip?rlkey=ifdrjldfvkcw1qbmm9j84aa5l&st=sp7hazyq&dl=1",
+              "06 NEW_STARLIGHT": "https://www.dropbox.com/scl/fi/rf4hwsi8r1hz2fm0dbfrj/Gusion-Starlight-Spider-Basic.zip?rlkey=9t1t9zcon54xiiasqrofr2zrk&st=17tbdb9t&dl=1",
+              "07 OLD_STARLIGHT": "https://www.dropbox.com/scl/fi/4vsm20hjykvpz29n51by3/Gusion-Old-Starlight-Basic.zip?rlkey=4u3f9sxjmrzp5rhs3tw5w3ynu&st=nu7393sa&dl=1"
             },
             "scripts": {
-"01 KOF": "https://rshrt.com/iQsfMIv",
-"02 LEGEND": "https://rshrt.com/7DO3",
-"03 OLD_COLLECTOR": "https://rshrt.com/YqnLStyT",
-"04 NEW_COLLECTOR": "https://rshrt.com/V9Uxr",
-"05 ELEVEN": "https://rshrt.com/BJQ8K9V",
-"06 NEW_STARLIGHT": "https://rshrt.com/5eycpCm",
-"07 OLD_STARLIGHT": "https://rshrt.com/0Mp5XU"
+              "01 KOF"          : "https://rshrt.com/iQsfMIv",
+              "02 LEGEND"       : "https://rshrt.com/7DO3",
+              "03 OLD_COLLECTOR": "https://rshrt.com/YqnLStyT",
+              "04 NEW_COLLECTOR": "https://rshrt.com/V9Uxr",
+              "05 ELEVEN"       : "https://rshrt.com/BJQ8K9V",
+              "06 NEW_STARLIGHT": "https://rshrt.com/5eycpCm",
+              "07 OLD_STARLIGHT": "https://rshrt.com/0Mp5XU"
             }
           },
           "03 Elite": {
@@ -499,22 +499,22 @@
             "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
             "type1": "Elite",
             "type_links": {
-"01 KOF": "https://www.dropbox.com/scl/fi/690mn97chk3ov793j3zog/Gusion-KOF-Elite.zip?rlkey=cxsvxg7k4fp9q4zh4fc20zdvf&st=p1bja5jw&dl=1",
-"02 LEGEND": "https://www.dropbox.com/scl/fi/bnio8qmmksunb9tirx1qb/Gusion-Legend-Elite.zip?rlkey=hejyhcv294lyu5qyp7j0uar0g&st=ikcoqfqi&dl=1",
-"03 OLD_COLLECTOR": "https://www.dropbox.com/scl/fi/o9hrb3qfea8wfcjzyusyt/Gusion-Collector-Elite.zip?rlkey=cjdedb5uvtzakm31oabr0swgn&st=3qjqr6v1&dl=1",
-"04 NEW_COLLECTOR": "https://www.dropbox.com/scl/fi/iiy4iyys682e4jj9qud3d/Gusion-Collector-Elite.zip?rlkey=m5k0ucwhj9j5mujgjzntivjfj&st=9fa2eio8&dl=1",
-"05 ELEVEN": "unavailable",
-"06 NEW_STARLIGHT": "unavailable",
-"07 OLD_STARLIGHT": "unavailable"
+              "01 KOF": "https://www.dropbox.com/scl/fi/690mn97chk3ov793j3zog/Gusion-KOF-Elite.zip?rlkey=cxsvxg7k4fp9q4zh4fc20zdvf&st=p1bja5jw&dl=1",
+              "02 LEGEND": "https://www.dropbox.com/scl/fi/bnio8qmmksunb9tirx1qb/Gusion-Legend-Elite.zip?rlkey=hejyhcv294lyu5qyp7j0uar0g&st=ikcoqfqi&dl=1",
+              "03 OLD_COLLECTOR": "https://www.dropbox.com/scl/fi/o9hrb3qfea8wfcjzyusyt/Gusion-Collector-Elite.zip?rlkey=cjdedb5uvtzakm31oabr0swgn&st=3qjqr6v1&dl=1",
+              "04 NEW_COLLECTOR": "https://www.dropbox.com/scl/fi/iiy4iyys682e4jj9qud3d/Gusion-Collector-Elite.zip?rlkey=m5k0ucwhj9j5mujgjzntivjfj&st=9fa2eio8&dl=1",
+              "05 ELEVEN": "unavailable",
+              "06 NEW_STARLIGHT": "unavailable",
+              "07 OLD_STARLIGHT": "unavailable"
             },
             "scripts": {
-"01 KOF": "https://rshrt.com/RtA2AE",
-"02 LEGEND": "https://rshrt.com/rPK7BHIA",
-"03 OLD_COLLECTOR": "https://rshrt.com/xF3",
-"04 NEW_COLLECTOR": "https://rshrt.com/6AAuP8",
-"05 ELEVEN": "unavailable",
-"06 NEW_STARLIGHT": "unavailable",
-"07 OLD_STARLIGHT": "unavailable"
+              "01 KOF"          : "https://rshrt.com/RtA2AE",
+              "02 LEGEND"       : "https://rshrt.com/rPK7BHIA",
+              "03 OLD_COLLECTOR": "https://rshrt.com/xF3",
+              "04 NEW_COLLECTOR": "https://rshrt.com/6AAuP8",
+              "05 ELEVEN"       : "unavailable",
+              "06 NEW_STARLIGHT": "unavailable",
+              "07 OLD_STARLIGHT": "unavailable"
             }
           },
           "04 Starlight": {
@@ -523,22 +523,22 @@
             "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
             "type1": "Starlight 2018",
             "type_links": {
-"01 KOF": "https://www.dropbox.com/scl/fi/bkblybvsh7hzzijgib3v4/Gusion-KOF-Old-Starlight.zip?rlkey=97cmwd9aafnjv9oo2xqkhjvgb&st=9pfonl2j&dl=1",
-"02 LEGEND": "https://www.dropbox.com/scl/fi/ytpmxs979m6doi9q4ijej/Gusion-Legend-Old-Starlight.zip?rlkey=tzb8pravfobc4vpwd39gx9tuh&st=7t0ydpkt&dl=1",
-"03 OLD_COLLECTOR": "https://www.dropbox.com/scl/fi/zadh0bttl9km22x5c0dfd/Gusion-Collector-Old-Starlight.zip?rlkey=51cgxh8amgh64i71rcf8c2n3p&st=jqgcmv1n&dl=1",
-"04 NEW_COLLECTOR": "https://www.dropbox.com/scl/fi/9xhzmxvkx8ayk5e3zhqx8/Gusion-Collector-Old-Starlight.zip?rlkey=ku6n75ve1kywyd0kgsivigy2q&st=glkya3pt&dl=1",
-"05 ELEVEN": "https://www.dropbox.com/scl/fi/8cvcpjc9zkmmldw44np7n/Gusion-11.11-Old-Starlight.zip?rlkey=augqh2s0szvfqisutcp9dg3gd&st=q2qitkrd&dl=1",
-"06 NEW_STARLIGHT": "unavailable",
-"07 OLD_STARLIGHT": "unavailable"
+              "01 KOF": "https://www.dropbox.com/scl/fi/bkblybvsh7hzzijgib3v4/Gusion-KOF-Old-Starlight.zip?rlkey=97cmwd9aafnjv9oo2xqkhjvgb&st=9pfonl2j&dl=1",
+              "02 LEGEND": "https://www.dropbox.com/scl/fi/ytpmxs979m6doi9q4ijej/Gusion-Legend-Old-Starlight.zip?rlkey=tzb8pravfobc4vpwd39gx9tuh&st=7t0ydpkt&dl=1",
+              "03 OLD_COLLECTOR": "https://www.dropbox.com/scl/fi/zadh0bttl9km22x5c0dfd/Gusion-Collector-Old-Starlight.zip?rlkey=51cgxh8amgh64i71rcf8c2n3p&st=jqgcmv1n&dl=1",
+              "04 NEW_COLLECTOR": "https://www.dropbox.com/scl/fi/9xhzmxvkx8ayk5e3zhqx8/Gusion-Collector-Old-Starlight.zip?rlkey=ku6n75ve1kywyd0kgsivigy2q&st=glkya3pt&dl=1",
+              "05 ELEVEN": "https://www.dropbox.com/scl/fi/8cvcpjc9zkmmldw44np7n/Gusion-11.11-Old-Starlight.zip?rlkey=augqh2s0szvfqisutcp9dg3gd&st=q2qitkrd&dl=1",
+              "06 NEW_STARLIGHT": "unavailable",
+              "07 OLD_STARLIGHT": "unavailable"
             },
             "scripts": {
-"01 KOF": "https://rshrt.com/fZgRA2xE",
-"02 LEGEND": "https://rshrt.com/hwXqie2",
-"03 OLD_COLLECTOR": "https://rshrt.com/S6Tli",
-"04 NEW_COLLECTOR": "https://rshrt.com/H1TTooMh",
-"05 ELEVEN": "https://rshrt.com/QBuKKem",
-"06 NEW_STARLIGHT": "unavailable",
-"07 OLD_STARLIGHT": "unavailable"
+              "01 KOF"          : "https://rshrt.com/fZgRA2xE",
+              "02 LEGEND"       : "https://rshrt.com/hwXqie2",
+              "03 OLD_COLLECTOR": "https://rshrt.com/S6Tli",
+              "04 NEW_COLLECTOR": "https://rshrt.com/H1TTooMh",
+              "05 ELEVEN"       : "https://rshrt.com/QBuKKem",
+              "06 NEW_STARLIGHT": "unavailable",
+              "07 OLD_STARLIGHT": "unavailable"
             }
           },
           "05 Valentine": {
@@ -547,22 +547,22 @@
             "tag1": "https://i.supaimg.com/10e40386-9b0a-4369-9f84-746246e272d9.png",
             "type1": "Valentine",
             "type_links": {
-"01 KOF": "https://www.dropbox.com/scl/fi/hl5uf7ijpgla0500poz9a/Gusion-KOF-Valentine.zip?rlkey=rmtyraopeujbj34ivlb75lpps&st=vhns615o&dl=1",
-"02 LEGEND": "https://www.dropbox.com/scl/fi/qzf40gff0sbatyw60kwqj/Gusion-Legend-Valentine.zip?rlkey=co0k6vvuwd0r5u0qh1k009ku5&st=8rsf1xva&dl=1",
-"03 OLD_COLLECTOR": "https://www.dropbox.com/scl/fi/bg0zkws6qq4j9l8x8ha1o/Gusion-Collector-Valentine.zip?rlkey=sagh095jj5rfpxwbtkolosuap&st=mtzx39y2&dl=1",
-"04 NEW_COLLECTOR": "https://www.dropbox.com/scl/fi/m4hl64cm2o825wgdpo7ic/Gusion-Collector-Valentine.zip?rlkey=pm12j7vdi5c43aj0x98222lfm&st=sg05651q&dl=1",
-"05 ELEVEN": "https://www.dropbox.com/scl/fi/dnzaxpumokcko7fqv3pfe/Gusion-11.11-Valentine.zip?rlkey=5lymzuhlhejyssll82d3801ej&st=iq55p46i&dl=1",
-"06 NEW_STARLIGHT": "unavailable",
-"07 OLD_STARLIGHT": "unavailable"
+              "01 KOF": "https://www.dropbox.com/scl/fi/hl5uf7ijpgla0500poz9a/Gusion-KOF-Valentine.zip?rlkey=rmtyraopeujbj34ivlb75lpps&st=vhns615o&dl=1",
+              "02 LEGEND": "https://www.dropbox.com/scl/fi/qzf40gff0sbatyw60kwqj/Gusion-Legend-Valentine.zip?rlkey=co0k6vvuwd0r5u0qh1k009ku5&st=8rsf1xva&dl=1",
+              "03 OLD_COLLECTOR": "https://www.dropbox.com/scl/fi/bg0zkws6qq4j9l8x8ha1o/Gusion-Collector-Valentine.zip?rlkey=sagh095jj5rfpxwbtkolosuap&st=mtzx39y2&dl=1",
+              "04 NEW_COLLECTOR": "https://www.dropbox.com/scl/fi/m4hl64cm2o825wgdpo7ic/Gusion-Collector-Valentine.zip?rlkey=pm12j7vdi5c43aj0x98222lfm&st=sg05651q&dl=1",
+              "05 ELEVEN": "https://www.dropbox.com/scl/fi/dnzaxpumokcko7fqv3pfe/Gusion-11.11-Valentine.zip?rlkey=5lymzuhlhejyssll82d3801ej&st=iq55p46i&dl=1",
+              "06 NEW_STARLIGHT": "unavailable",
+              "07 OLD_STARLIGHT": "unavailable"
             },
             "scripts": {
-"01 KOF": "https://rshrt.com/gPNDC",
-"02 LEGEND": "https://rshrt.com/e6UstVL",
-"03 OLD_COLLECTOR": "https://rshrt.com/srpD",
-"04 NEW_COLLECTOR": "https://rshrt.com/qQEiIIF",
-"05 ELEVEN": "https://rshrt.com/0lbpDnM",
-"06 NEW_STARLIGHT": "unavailable",
-"07 OLD_STARLIGHT": "unavailable"
+              "01 KOF"          : "https://rshrt.com/gPNDC",
+              "02 LEGEND"       : "https://rshrt.com/e6UstVL",
+              "03 OLD_COLLECTOR": "https://rshrt.com/srpD",
+              "04 NEW_COLLECTOR": "https://rshrt.com/qQEiIIF",
+              "05 ELEVEN"       : "https://rshrt.com/0lbpDnM",
+              "06 NEW_STARLIGHT": "unavailable",
+              "07 OLD_STARLIGHT": "unavailable"
             }
           },
           "06 VENOM": {
@@ -571,22 +571,22 @@
             "tag1": "https://i.supaimg.com/86422ed2-4db0-49ca-ab4a-ab1d460a1fb8.png",
             "type1": "V.E.N.O.M.",
             "type_links": {
-"01 KOF": "https://www.dropbox.com/scl/fi/ehpom280kbgy3itu9ex93/Gusion-Legend-11.11.zip?rlkey=3qz714der7ish8ayfu50opef1&st=xy2xez4l&dl=1",
-"02 LEGEND": "https://www.dropbox.com/scl/fi/g46s1yamqh9dmzfh8e0j3/Gusion-Legend-Venom.zip?rlkey=rhep8denn6tdje1hp41jfq9wa&st=vdaqxxjz&dl=1",
-"03 OLD_COLLECTOR": "https://www.dropbox.com/scl/fi/smkl36aq7kc2fn5wjsxv3/Gusion-Collector-VENOM.zip?rlkey=7153f4ngjitcpmqxibry94uls&st=tvv9u977&dl=1",
-"04 NEW_COLLECTOR": "https://www.dropbox.com/scl/fi/n7fd25x2my6n2qi9jm1an/Gusion-Collector-Venom.zip?rlkey=5pqqrqdcfwt5n6ff84g98qvlr&st=q1z87ohw&dl=1",
-"05 ELEVEN": "https://www.dropbox.com/scl/fi/aqgiyv9bd4fwdkspp9i20/Gusion-11.11-VENOM.zip?rlkey=9mu1a8uc7z8fmas8pw09rmbpm&st=6bekdcwi&dl=1",
-"06 NEW_STARLIGHT": "unavailable",
-"07 OLD_STARLIGHT": "unavailable"
+              "01 KOF": "https://www.dropbox.com/scl/fi/ehpom280kbgy3itu9ex93/Gusion-Legend-11.11.zip?rlkey=3qz714der7ish8ayfu50opef1&st=xy2xez4l&dl=1",
+              "02 LEGEND": "https://www.dropbox.com/scl/fi/g46s1yamqh9dmzfh8e0j3/Gusion-Legend-Venom.zip?rlkey=rhep8denn6tdje1hp41jfq9wa&st=vdaqxxjz&dl=1",
+              "03 OLD_COLLECTOR": "https://www.dropbox.com/scl/fi/smkl36aq7kc2fn5wjsxv3/Gusion-Collector-VENOM.zip?rlkey=7153f4ngjitcpmqxibry94uls&st=tvv9u977&dl=1",
+              "04 NEW_COLLECTOR": "https://www.dropbox.com/scl/fi/n7fd25x2my6n2qi9jm1an/Gusion-Collector-Venom.zip?rlkey=5pqqrqdcfwt5n6ff84g98qvlr&st=q1z87ohw&dl=1",
+              "05 ELEVEN": "https://www.dropbox.com/scl/fi/aqgiyv9bd4fwdkspp9i20/Gusion-11.11-VENOM.zip?rlkey=9mu1a8uc7z8fmas8pw09rmbpm&st=6bekdcwi&dl=1",
+              "06 NEW_STARLIGHT": "unavailable",
+              "07 OLD_STARLIGHT": "unavailable"
             },
             "scripts": {
-"01 KOF": "https://rshrt.com/rQK",
-"02 LEGEND": "https://rshrt.com/rN7g8eE",
-"03 OLD_COLLECTOR": "https://rshrt.com/Hk38IwpN",
-"04 NEW_COLLECTOR": "https://rshrt.com/hiSq0RB",
-"05 ELEVEN": "https://rshrt.com/94GC",
-"06 NEW_STARLIGHT": "unavailable",
-"07 OLD_STARLIGHT": "unavailable"
+              "01 KOF"          : "https://rshrt.com/rQK",
+              "02 LEGEND"       : "https://rshrt.com/rN7g8eE",
+              "03 OLD_COLLECTOR": "https://rshrt.com/Hk38IwpN",
+              "04 NEW_COLLECTOR": "https://rshrt.com/hiSq0RB",
+              "05 ELEVEN"       : "https://rshrt.com/94GC",
+              "06 NEW_STARLIGHT": "unavailable",
+              "07 OLD_STARLIGHT": "unavailable"
             }
           },
           "07 KOF": {
@@ -595,22 +595,22 @@
             "tag1": "https://i.supaimg.com/c5563b15-1742-4fbf-9852-274b29a20c63.png",
             "type1": "KOF",
             "type_links": {
-"01 KOF": "unavailable",
-"02 LEGEND": "https://www.dropbox.com/scl/fi/ndiax5vra5dululkz98i1/Gusion-Legend-KOF.zip?rlkey=dvxd8anmiut4sx4fjxi9ropk5&st=pju65ktj&dl=1",
-"03 OLD_LEGEND": "https://www.dropbox.com/scl/fi/yq84h13nbrtuv1xtxpxlf/Gusion-Collector-KOF.zip?rlkey=i1guasin3l92znou1fr97pjdo&st=dsya4f66&dl=1",
-"04 NEW_COLLECTOR": "unavailable",
-"05 ELEVEN": "https://www.dropbox.com/scl/fi/csi03ocw9xqx3u596xbv8/Gusion-11.11-KOF.zip?rlkey=5mr6xywxqidhxrwyqbzika3w9&st=rz2ozt84&dl=1",
-"06 NEW_STARLIGHT": "unavailable",
-"07 OLD_STARLIGHT": "unavailable"
+              "01 KOF": "unavailable",
+              "02 LEGEND": "https://www.dropbox.com/scl/fi/ndiax5vra5dululkz98i1/Gusion-Legend-KOF.zip?rlkey=dvxd8anmiut4sx4fjxi9ropk5&st=pju65ktj&dl=1",
+              "03 OLD_LEGEND": "https://www.dropbox.com/scl/fi/yq84h13nbrtuv1xtxpxlf/Gusion-Collector-KOF.zip?rlkey=i1guasin3l92znou1fr97pjdo&st=dsya4f66&dl=1",
+              "04 NEW_COLLECTOR": "unavailable",
+              "05 ELEVEN": "https://www.dropbox.com/scl/fi/csi03ocw9xqx3u596xbv8/Gusion-11.11-KOF.zip?rlkey=5mr6xywxqidhxrwyqbzika3w9&st=rz2ozt84&dl=1",
+              "06 NEW_STARLIGHT": "unavailable",
+              "07 OLD_STARLIGHT": "unavailable"
             },
             "scripts": {
-"01 KOF": "unavailable",
-"02 LEGEND": "https://rshrt.com/7NVdA8n",
-"03 OLD_COLLECTOR": "https://rshrt.com/S9Tsqem",
-"04 NEW_COLLECTOR": "unavailable",
-"05 ELEVEN": "https://rshrt.com/KiXq",
-"06 NEW_STARLIGHT": "unavailable",
-"07 OLD_STARLIGHT": "unavailable"
+              "01 KOF"          : "unavailable",
+              "02 LEGEND"       : "https://rshrt.com/7NVdA8n",
+              "03 OLD_COLLECTOR": "https://rshrt.com/S9Tsqem",
+              "04 NEW_COLLECTOR": "unavailable",
+              "05 ELEVEN"       : "https://rshrt.com/KiXq",
+              "06 NEW_STARLIGHT": "unavailable",
+              "07 OLD_STARLIGHT": "unavailable"
             }
           },
           "08 Legend": {
@@ -619,22 +619,22 @@
             "tag1": "https://i.supaimg.com/89d011e3-a8d7-4068-b50f-a84c21b7191a.png",
             "type1": "Legend",
             "type_links": {
-"01 KOF": "https://www.dropbox.com/scl/fi/9tskr5ftp8xxq2nu24yzu/Gusion-KOF-Legend.zip?rlkey=3ayx9urrk6rhbos02pt1bi0ou&st=0xogzrth&dl=1",
-"02 LEGEND": "unavailable",
-"03 OLD_COLLECTOR": "https://www.dropbox.com/scl/fi/emn5hycldcwd38d3tf87u/Gusion-Collector-Legend.zip?rlkey=li965cmzp5imd8axsg9fw3zir&st=m1cd40dj&dl=1",
-"04 NEW_COLLECTOR": "unavailable",
-"05 ELEVEN": "https://www.dropbox.com/scl/fi/djtynxh1ij3rmjr23487a/Gusion-11.11-Legend.zip?rlkey=pgfdc1vdljsr7r676pfyd10jj&st=z6mmdtdt&dl=1",
-"06 NEW_STARLIGHT": "unavailable",
-"07 OLD_STARLIGHT": "unavailable"
+              "01 KOF": "https://www.dropbox.com/scl/fi/9tskr5ftp8xxq2nu24yzu/Gusion-KOF-Legend.zip?rlkey=3ayx9urrk6rhbos02pt1bi0ou&st=0xogzrth&dl=1",
+              "02 LEGEND": "unavailable",
+              "03 OLD_COLLECTOR": "https://www.dropbox.com/scl/fi/emn5hycldcwd38d3tf87u/Gusion-Collector-Legend.zip?rlkey=li965cmzp5imd8axsg9fw3zir&st=m1cd40dj&dl=1",
+              "04 NEW_COLLECTOR": "unavailable",
+              "05 ELEVEN": "https://www.dropbox.com/scl/fi/djtynxh1ij3rmjr23487a/Gusion-11.11-Legend.zip?rlkey=pgfdc1vdljsr7r676pfyd10jj&st=z6mmdtdt&dl=1",
+              "06 NEW_STARLIGHT": "unavailable",
+              "07 OLD_STARLIGHT": "unavailable"
             },
             "scripts": {
-"01 KOF": "https://rshrt.com/dIU",
-"02 LEGEND": "unavailable",
-"03 OLD_COLLECTOR": "https://rshrt.com/sXbZ3HHi",
-"04 NEW_COLLECTOR": "unavailable",
-"05 ELEVEN": "https://rshrt.com/NDIIV",
-"06 NEW_STARLIGHT": "unavailable",
-"07 OLD_STARLIGHT": "unavailable"
+              "01 KOF"          : "https://rshrt.com/dIU",
+              "02 LEGEND"       : "unavailable",
+              "03 OLD_COLLECTOR": "https://rshrt.com/sXbZ3HHi",
+              "04 NEW_COLLECTOR": "unavailable",
+              "05 ELEVEN"       : "https://rshrt.com/NDIIV",
+              "06 NEW_STARLIGHT": "unavailable",
+              "07 OLD_STARLIGHT": "unavailable"
             }
           },
           "09 Collector": {
@@ -643,22 +643,22 @@
             "tag1": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
             "type1": "Collector",
             "type_links": {
-"01 KOF": "https://www.dropbox.com/scl/fi/k6pr2sgxeqgedaod7usl1/Gusion-KOF-Collector.zip?rlkey=nr7m18icair21cw1gnyad0ger&st=hvjds9t5&dl=1",
-"02 LEGEND": "https://www.dropbox.com/scl/fi/94ntnglsefem6w98pzc52/Gusion-Legend-Collector.zip?rlkey=k2feszyqoijm1vl26capgsiln&st=ej11ycls&dl=1",
-"03 OLD_COLLECTOR": "unavailable",
-"04 NEW_COLLECTOR": "unavailable",
-"05 ELEVEN": "https://www.dropbox.com/scl/fi/1khm4jtdgbc3zwdsj2e4x/Gusion-11.11-Collector.zip?rlkey=9teoc06sgdsj5y18yfcj0z4vj&st=pbs95w3j&dl=1",
-"06 NEW_STARLIGHT": "unavailable",
-"07 OLD_STARLIGHT": "unavailable"
+              "01 KOF": "https://www.dropbox.com/scl/fi/k6pr2sgxeqgedaod7usl1/Gusion-KOF-Collector.zip?rlkey=nr7m18icair21cw1gnyad0ger&st=hvjds9t5&dl=1",
+              "02 LEGEND": "https://www.dropbox.com/scl/fi/94ntnglsefem6w98pzc52/Gusion-Legend-Collector.zip?rlkey=k2feszyqoijm1vl26capgsiln&st=ej11ycls&dl=1",
+              "03 OLD_COLLECTOR": "unavailable",
+              "04 NEW_COLLECTOR": "unavailable",
+              "05 ELEVEN": "https://www.dropbox.com/scl/fi/1khm4jtdgbc3zwdsj2e4x/Gusion-11.11-Collector.zip?rlkey=9teoc06sgdsj5y18yfcj0z4vj&st=pbs95w3j&dl=1",
+              "06 NEW_STARLIGHT": "unavailable",
+              "07 OLD_STARLIGHT": "unavailable"
             },
             "scripts": {
-"01 KOF": "https://rshrt.com/fUml",
-"02 LEGEND": "https://rshrt.com/1HKMh",
-"03 OLD_COLLECTOR": "unavailable",
-"04 NEW_COLLECTOR": "unavailable",
-"05 ELEVEN": "https://rshrt.com/mkXuGL",
-"06 NEW_STARLIGHT": "unavailable",
-"07 OLD_STARLIGHT": "unavailable"
+              "01 KOF"          : "https://rshrt.com/fUml",
+              "02 LEGEND"       : "https://rshrt.com/1HKMh",
+              "03 OLD_COLLECTOR": "unavailable",
+              "04 NEW_COLLECTOR": "unavailable",
+              "05 ELEVEN"       : "https://rshrt.com/mkXuGL",
+              "06 NEW_STARLIGHT": "unavailable",
+              "07 OLD_STARLIGHT": "unavailable"
             }
           },
           "10 Epic": {
@@ -667,22 +667,22 @@
             "tag1": "https://i.supaimg.com/c14ee52a-ba69-4367-b954-f3b4a306e953.png",
             "type1": "Epic",
             "type_links": {
-"01 KOF": "https://www.dropbox.com/scl/fi/r2brcu7oaff5j2w85mrf3/Gusion-KOF-Epic.zip?rlkey=9oa8zs1cxozyqamm2atg83amn&st=4gk4gfjx&dl=1",
-"02 LEGEND": "https://www.dropbox.com/scl/fi/0n3pbgxgrchgwjbao11rr/Gusion-Legend-Epic.zip?rlkey=om2s7am4ctxn9fraawiasb0o1&st=2oy2xxkf&dl=1",
-"03 OLD_COLLECTOR": "https://www.dropbox.com/scl/fi/pjkfcuaym6d88zpvhidh0/Gusion-Collector-Epic.zip?rlkey=p05zlm24iwvmr3jwnax59jm4h&st=k7hged2q&dl=1",
-"04 NEW_COLLECTOR": "https://www.dropbox.com/scl/fi/bvrhog8rxh6xqkv94whci/Gusion-Collector-Epic.zip?rlkey=x8h51noqi8iukzdxv8ixgajxf&st=1vd0ozf8&dl=1",
-"05 ELEVEN": "https://www.dropbox.com/scl/fi/ruabhldkqtsm8twgrubql/Gusion-11.11-Epic.zip?rlkey=4bjb1pvyvbnzy98gcvk1edrej&st=3fxzbdet&dl=1",
-"06 NEW_STARLIGHT": "unavailable",
-"07 OLD_STARLIGHT": "unavailable"
+              "01 KOF": "https://www.dropbox.com/scl/fi/r2brcu7oaff5j2w85mrf3/Gusion-KOF-Epic.zip?rlkey=9oa8zs1cxozyqamm2atg83amn&st=4gk4gfjx&dl=1",
+              "02 LEGEND": "https://www.dropbox.com/scl/fi/0n3pbgxgrchgwjbao11rr/Gusion-Legend-Epic.zip?rlkey=om2s7am4ctxn9fraawiasb0o1&st=2oy2xxkf&dl=1",
+              "03 OLD_COLLECTOR": "https://www.dropbox.com/scl/fi/pjkfcuaym6d88zpvhidh0/Gusion-Collector-Epic.zip?rlkey=p05zlm24iwvmr3jwnax59jm4h&st=k7hged2q&dl=1",
+              "04 NEW_COLLECTOR": "https://www.dropbox.com/scl/fi/bvrhog8rxh6xqkv94whci/Gusion-Collector-Epic.zip?rlkey=x8h51noqi8iukzdxv8ixgajxf&st=1vd0ozf8&dl=1",
+              "05 ELEVEN": "https://www.dropbox.com/scl/fi/ruabhldkqtsm8twgrubql/Gusion-11.11-Epic.zip?rlkey=4bjb1pvyvbnzy98gcvk1edrej&st=3fxzbdet&dl=1",
+              "06 NEW_STARLIGHT": "unavailable",
+              "07 OLD_STARLIGHT": "unavailable"
             },
             "scripts": {
-"01 KOF": "https://rshrt.com/LJnWYm9",
-"02 LEGEND": "https://rshrt.com/L2ZOSr",
-"03 OLD_COLLECTOR": "https://rshrt.com/mbmF9",
-"04 NEW_COLLECTOR": "https://rshrt.com/qxOTbP7",
-"05 ELEVEN": "https://rshrt.com/C0ie7TAP",
-"06 NEW_STARLIGHT": "unavailable",
-"07 OLD_STARLIGHT": "unavailable"
+              "01 KOF"          : "https://rshrt.com/LJnWYm9",
+              "02 LEGEND"       : "https://rshrt.com/L2ZOSr",
+              "03 OLD_COLLECTOR": "https://rshrt.com/mbmF9",
+              "04 NEW_COLLECTOR": "https://rshrt.com/qxOTbP7",
+              "05 ELEVEN"       : "https://rshrt.com/C0ie7TAP",
+              "06 NEW_STARLIGHT": "unavailable",
+              "07 OLD_STARLIGHT": "unavailable"
             }
           },
           "11 Eleven": {
@@ -691,22 +691,22 @@
             "tag1": "https://i.supaimg.com/19394161-cc30-494c-a906-b49f710cf674.png",
             "type1": "11.11",
             "type_links": {
-"01 KOF": "https://www.dropbox.com/scl/fi/9i1n093jrjfzsqhynsa4l/Gusion-KOF-11.11.zip?rlkey=98kv8qtt7xz7zhy0buxm6aalc&st=eojikihv&dl=1",
-"02 LEGEND": "https://www.dropbox.com/scl/fi/ehpom280kbgy3itu9ex93/Gusion-Legend-11.11.zip?rlkey=3qz714der7ish8ayfu50opef1&st=xy2xez4l&dl=1",
-"03 OLD_COLLECTOR": "https://www.dropbox.com/scl/fi/c8z28ma0m99sqhmvgiakk/Gusion-Collector-11.11.zip?rlkey=m1ekc1kti2hv887slb6uvs7gz&st=cqsrpb09&dl=1",
-"04 NEW_COLLECTOR": "unavailable",
-"05 ELEVEN": "unavailable",
-"06 NEW_STARLIGHT": "unavailable",
-"07 OLD_STARLIGHT": "unavailable"
+              "01 KOF": "https://www.dropbox.com/scl/fi/9i1n093jrjfzsqhynsa4l/Gusion-KOF-11.11.zip?rlkey=98kv8qtt7xz7zhy0buxm6aalc&st=eojikihv&dl=1",
+              "02 LEGEND": "https://www.dropbox.com/scl/fi/ehpom280kbgy3itu9ex93/Gusion-Legend-11.11.zip?rlkey=3qz714der7ish8ayfu50opef1&st=xy2xez4l&dl=1",
+              "03 OLD_COLLECTOR": "https://www.dropbox.com/scl/fi/c8z28ma0m99sqhmvgiakk/Gusion-Collector-11.11.zip?rlkey=m1ekc1kti2hv887slb6uvs7gz&st=cqsrpb09&dl=1",
+              "04 NEW_COLLECTOR": "unavailable",
+              "05 ELEVEN": "unavailable",
+              "06 NEW_STARLIGHT": "unavailable",
+              "07 OLD_STARLIGHT": "unavailable"
             },
             "scripts": {
-"01 KOF": "https://rshrt.com/kWGE",
-"02 LEGEND": "https://rshrt.com/rQK",
-"03 OLD_COLLECTOR": "https://rshrt.com/20Xx",
-"04 NEW_COLLECTOR": "unavailable",
-"05 ELEVEN": "unavailable",
-"06 NEW_STARLIGHT": "unavailable",
-"07 OLD_STARLIGHT": "unavailable"
+              "01 KOF"          : "https://rshrt.com/kWGE",
+              "02 LEGEND"       : "https://rshrt.com/rQK",
+              "03 OLD_COLLECTOR": "https://rshrt.com/20Xx",
+              "04 NEW_COLLECTOR": "unavailable",
+              "05 ELEVEN"       : "unavailable",
+              "06 NEW_STARLIGHT": "unavailable",
+              "07 OLD_STARLIGHT": "unavailable"
             }
           },
           "12 Starlight": {
@@ -715,22 +715,22 @@
             "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
             "type1": "Starlight 2024",
             "type_links": {
-"01 KOF": "https://www.dropbox.com/scl/fi/sgoufokfp539acvypsulg/Gusion-KOF-New-Starlight.zip?rlkey=wcpsunagbc09tog4kxwh0h6ps&st=fz2gfle0&dl=1",
-"02 LEGEND": "https://www.dropbox.com/scl/fi/9t2gjcl7wmopbkc2nzidd/Gusion-Legend-New-Starlight.zip?rlkey=a32ua4wd63u2b3sl2vp88vt91&st=ujibhkai&dl=1",
-"03 OLD_COLLECTOR": "https://www.dropbox.com/scl/fi/h2fwbtvkmcbv84bfgbyvg/Gusion-Collector-New-Starlight.zip?rlkey=li44jrbe6xvz2m8qpnhzffkrh&st=04jkdz44&dl=1",
-"04 NEW_COLLECTOR": "https://www.dropbox.com/scl/fi/qqtgt4nb63zbv23qnooev/Gusion-Collector-New-Starlight.zip?rlkey=wiqn2ynaqdnqn88w2qoguvj5w&st=aig3o2fi&dl=1",
-"05 ELEVEN": "https://www.dropbox.com/scl/fi/lwx9srbkb5jzf0b9t8cs6/Gusion-11.11-New-Starlight.zip?rlkey=795w4sr613hgwq5kohldgzmya&st=glackuua&dl=1",
-"06 NEW_STARLIGHT": "unavailable",
-"07 OLD_STARLIGHT": "unavailable"
+              "01 KOF": "https://www.dropbox.com/scl/fi/sgoufokfp539acvypsulg/Gusion-KOF-New-Starlight.zip?rlkey=wcpsunagbc09tog4kxwh0h6ps&st=fz2gfle0&dl=1",
+              "02 LEGEND": "https://www.dropbox.com/scl/fi/9t2gjcl7wmopbkc2nzidd/Gusion-Legend-New-Starlight.zip?rlkey=a32ua4wd63u2b3sl2vp88vt91&st=ujibhkai&dl=1",
+              "03 OLD_COLLECTOR": "https://www.dropbox.com/scl/fi/h2fwbtvkmcbv84bfgbyvg/Gusion-Collector-New-Starlight.zip?rlkey=li44jrbe6xvz2m8qpnhzffkrh&st=04jkdz44&dl=1",
+              "04 NEW_COLLECTOR": "https://www.dropbox.com/scl/fi/qqtgt4nb63zbv23qnooev/Gusion-Collector-New-Starlight.zip?rlkey=wiqn2ynaqdnqn88w2qoguvj5w&st=aig3o2fi&dl=1",
+              "05 ELEVEN": "https://www.dropbox.com/scl/fi/lwx9srbkb5jzf0b9t8cs6/Gusion-11.11-New-Starlight.zip?rlkey=795w4sr613hgwq5kohldgzmya&st=glackuua&dl=1",
+              "06 NEW_STARLIGHT": "unavailable",
+              "07 OLD_STARLIGHT": "unavailable"
             },
             "scripts": {
-"01 KOF": "https://rshrt.com/QuZ",
-"02 LEGEND": "https://rshrt.com/IBsFja",
-"03 OLD_COLLECTOR": "https://rshrt.com/yPdKGfZ",
-"04 NEW_COLLECTOR": "https://rshrt.com/wQZrmtF0",
-"05 ELEVEN": "https://rshrt.com/CrRU",
-"06 NEW_STARLIGHT": "unavailable",
-"07 OLD_STARLIGHT": "unavailable"
+              "01 KOF"          : "https://rshrt.com/QuZ",
+              "02 LEGEND"       : "https://rshrt.com/IBsFja",
+              "03 OLD_COLLECTOR": "https://rshrt.com/yPdKGfZ",
+              "04 NEW_COLLECTOR": "https://rshrt.com/wQZrmtF0",
+              "05 ELEVEN"       : "https://rshrt.com/CrRU",
+              "06 NEW_STARLIGHT": "unavailable",
+              "07 OLD_STARLIGHT": "unavailable"
             }
           }
         },
@@ -794,12 +794,12 @@
               "KISHIN": "https://www.dropbox.com/scl/fi/p1j62cbmnk452m7aap7wb/Lancelot-Kishin-Default.zip?rlkey=xncu1eziopau187v0p79l2wuo&st=spiahy2v&dl=1",
               "VALENTINE": "https://www.dropbox.com/scl/fi/jrjzg56gqtm5ox5fn9p0s/Lancelot-Valentine-Default.zip?rlkey=njo7obg5ggtf73dxn5scy4q3o&st=odjwi3wv&dl=1"
             },
-            "scripts": { 
-              "LUCKYBOX": "https://rshrt.com/QI3qD",
-              "ZODIAC": "https://rshrt.com/bEP",
-              "DAWNING": "https://rshrt.com/1VSe6w1r",
-              "CHAMPION": "https://rshrt.com/t4dUPX",
-              "KISHIN": "https://rshrt.com/RDyur",
+            "scripts": {
+              "LUCKYBOX" : "https://rshrt.com/QI3qD",
+              "ZODIAC"   : "https://rshrt.com/bEP",
+              "DAWNING"  : "https://rshrt.com/1VSe6w1r",
+              "CHAMPION" : "https://rshrt.com/t4dUPX",
+              "KISHIN"   : "https://rshrt.com/RDyur",
               "VALENTINE": "https://rshrt.com/Qlk"
             }
           },
@@ -816,12 +816,12 @@
               "-OYBzx28pkN1LyQsdoVn": "https://www.dropbox.com/scl/fi/n4952cz4q2bqnegkixgjm/Lancelot-Kishin-Basic.zip?rlkey=c0p7g42aemmd3iiylro0gr6ft&st=jj2fwfej&dl=1",
               "VALENTINE": "https://www.dropbox.com/scl/fi/600qt2idiet62plq2wh2z/Lancelot-Valentine-Basic.zip?rlkey=5i1bpnq6s6391phje7xmfcx48&st=hk3k4jf1&dl=1"
             },
-            "scripts": { 
-              "LUCKYBOX": "https://rshrt.com/m2tOU",
-              "ZODIAC": "https://rshrt.com/mu1v22",
-              "DAWNING": "https://rshrt.com/7KuD7",
-              "CHAMPION": "https://rshrt.com/faeU",
-              "KISHIN": "https://rshrt.com/YB9",
+            "scripts": {
+              "LUCKYBOX" : "https://rshrt.com/m2tOU",
+              "ZODIAC"   : "https://rshrt.com/mu1v22",
+              "DAWNING"  : "https://rshrt.com/7KuD7",
+              "CHAMPION" : "https://rshrt.com/faeU",
+              "KISHIN"   : "https://rshrt.com/YB9",
               "VALENTINE": "https://rshrt.com/FGXbt"
             }
           },
@@ -838,12 +838,12 @@
               "-OYC-AEuUaKEtOdqfUvB": "https://www.dropbox.com/scl/fi/vns5n48tho9gxohjhbw3u/Lancelot-Kishin-Christmas.zip?rlkey=u6p7v87ergljg0npzht1np30w&st=c0xz3986&dl=1",
               "VALENTINE": "https://www.dropbox.com/scl/fi/n8yg7o6bgn55ghve73vi3/Lancelot-Valentine-Christmas.zip?rlkey=qglotd8e8gxkqu5f5q4ny7c54&st=3we9gdq3&dl=1"
             },
-            "scripts": { 
-              "LUCKYBOX": "https://rshrt.com/hkOA",
-              "ZODIAC": "https://rshrt.com/16c898",
-              "DAWNING": "https://rshrt.com/vzRLV",
-              "CHAMPION": "https://rshrt.com/6r3dgp8n",
-              "KISHIN": "https://rshrt.com/4YRz",
+            "scripts": {
+              "LUCKYBOX" : "https://rshrt.com/hkOA",
+              "ZODIAC"   : "https://rshrt.com/16c898",
+              "DAWNING"  : "https://rshrt.com/vzRLV",
+              "CHAMPION" : "https://rshrt.com/6r3dgp8n",
+              "KISHIN"   : "https://rshrt.com/4YRz",
               "VALENTINE": "https://rshrt.com/vEnxA"
             }
           },
@@ -860,12 +860,12 @@
               "-OYC-pQv4e5IwomJPtcc": "https://www.dropbox.com/scl/fi/cdak3jyxvdhgs1m5ab2zs/Lancelot-Kishin-Luckybox.zip?rlkey=gg9a6mb4w6woo6iexgf2orymn&st=xivika3p&dl=1",
               "VALENTINE": "https://www.dropbox.com/scl/fi/sg336jiesg9ybfkpz6b2n/Lancelot-Valentine-Luckybox.zip?rlkey=fubn0gkufenjuvfxfjc4at703&st=ohv9tm6q&dl=1"
             },
-            "scripts": { 
-              "LUCKYBOX": "unavailable",
-              "ZODIAC": "https://rshrt.com/s27CoLm",
-              "DAWNING": "https://rshrt.com/Ygjr",
-              "CHAMPION": "https://rshrt.com/fU9O",
-              "KISHIN": "https://rshrt.com/pIA0",
+            "scripts": {
+              "LUCKYBOX" : "unavailable",
+              "ZODIAC"   : "https://rshrt.com/s27CoLm",
+              "DAWNING"  : "https://rshrt.com/Ygjr",
+              "CHAMPION" : "https://rshrt.com/fU9O",
+              "KISHIN"   : "https://rshrt.com/pIA0",
               "VALENTINE": "https://rshrt.com/O573vX"
             }
           },
@@ -882,12 +882,12 @@
               "-OYC021VW5avYRB6w76Q": "https://www.dropbox.com/scl/fi/0ks0xes9fr0jujmno34uo/Lancelot-Kishin-Starlight.zip?rlkey=eks5o9khpfwsgx06lgrblwe8a&st=55d0vllt&dl=1",
               "VALENTINE": "https://www.dropbox.com/scl/fi/6oehe1qqkxyu5lenz7jyi/Lancelot-Valentine-Starlight.zip?rlkey=4odjx52uu4r2tk3x4t2osfex8&st=yr5a2xcu&dl=1"
             },
-            "scripts": { 
-              "LUCKYBOX": "https://rshrt.com/zKcrcp4H",
-              "ZODIAC": "https://rshrt.com/tG8YNW",
-              "DAWNING": "https://rshrt.com/jKlXntK",
-              "CHAMPION": "https://rshrt.com/LdggMQ",
-              "KISHIN": "https://rshrt.com/kXm8Okxq",
+            "scripts": {
+              "LUCKYBOX" : "https://rshrt.com/zKcrcp4H",
+              "ZODIAC"   : "https://rshrt.com/tG8YNW",
+              "DAWNING"  : "https://rshrt.com/jKlXntK",
+              "CHAMPION" : "https://rshrt.com/LdggMQ",
+              "KISHIN"   : "https://rshrt.com/kXm8Okxq",
               "VALENTINE": "https://rshrt.com/e7ECjho"
             }
           },
@@ -904,12 +904,12 @@
               "-OYC0FIrI4_0R32sEaWR": "https://www.dropbox.com/scl/fi/dxq6s2m2t2xj0rzpc59jx/Lancelot-Kishin-Zodiac.zip?rlkey=dt7ziyytf1r0v04h1mfmu6xr0&st=x3m9ep77&dl=1",
               "VALENTINE": "https://www.dropbox.com/scl/fi/nu26826s7yu106qxc1nmp/Lancelot-Valentine-Zodiac.zip?rlkey=te1n2lzlbb83f57qjdumw7pdj&st=3h082cmp&dl=1"
             },
-            "scripts": { 
-              "LUCKYBOX": "https://rshrt.com/Fe53",
-              "ZODIAC": "unavailable",
-              "DAWNING": "https://rshrt.com/YbAW",
-              "CHAMPION": "https://rshrt.com/gZjm6RVr",
-              "KISHIN": "https://rshrt.com/h7KRWl9d",
+            "scripts": {
+              "LUCKYBOX" : "https://rshrt.com/Fe53",
+              "ZODIAC"   : "unavailable",
+              "DAWNING"  : "https://rshrt.com/YbAW",
+              "CHAMPION" : "https://rshrt.com/gZjm6RVr",
+              "KISHIN"   : "https://rshrt.com/h7KRWl9d",
               "VALENTINE": "https://rshrt.com/4US1webo"
             }
           },
@@ -926,12 +926,12 @@
               "-OYC0Twjv1KLhEaiu2tB": "https://www.dropbox.com/scl/fi/ac53tt0i8acq6pyqmkigl/Lancelot-Kishin-Epic.zip?rlkey=2yzrk97g39qqcqxu1n04cgb28&st=ooeu1d0h&dl=1",
               "VALENTINE": "https://www.dropbox.com/scl/fi/o8ana0ys99iob57h29dg9/Lancelot-Valentine-Epic.zip?rlkey=ai02miqhqarsjmlwv0yec1l3o&st=438by2zc&dl=1"
             },
-            "scripts": { 
-              "LUCKYBOX": "https://rshrt.com/wcGcyS",
-              "ZODIAC": "https://rshrt.com/oyj2",
-              "DAWNING": "https://rshrt.com/vIVt8lo",
-              "CHAMPION": "https://rshrt.com/1d4fiHn",
-              "KISHIN": "https://rshrt.com/Vsr7vA7C",
+            "scripts": {
+              "LUCKYBOX" : "https://rshrt.com/wcGcyS",
+              "ZODIAC"   : "https://rshrt.com/oyj2",
+              "DAWNING"  : "https://rshrt.com/vIVt8lo",
+              "CHAMPION" : "https://rshrt.com/1d4fiHn",
+              "KISHIN"   : "https://rshrt.com/Vsr7vA7C",
               "VALENTINE": "https://rshrt.com/IbJv2U6"
             }
           },
@@ -948,12 +948,12 @@
               "-OYC0wYxDqwQEC3yx956": "https://www.dropbox.com/scl/fi/kqujjdzx77smp2zc24e63/Lancelot-Kishin-Dawning.zip?rlkey=pdbtvo83geduc6q821vnog82b&st=9qvijzeg&dl=1",
               "VALENTINE": "unavailable"
             },
-            "scripts": { 
-              "LUCKYBOX": "https://rshrt.com/Sfp",
-              "ZODIAC": "https://rshrt.com/edo5i",
-              "DAWNING": "unavailable",
-              "CHAMPION": "https://rshrt.com/NGX",
-              "KISHIN": "https://rshrt.com/Jctp",
+            "scripts": {
+              "LUCKYBOX" : "https://rshrt.com/Sfp",
+              "ZODIAC"   : "https://rshrt.com/edo5i",
+              "DAWNING"  : "unavailable",
+              "CHAMPION" : "https://rshrt.com/NGX",
+              "KISHIN"   : "https://rshrt.com/Jctp",
               "VALENTINE": "unavailable"
             }
           },
@@ -970,12 +970,12 @@
               "-OYC1GKFP-kyaRpw5l2e": "https://www.dropbox.com/scl/fi/y4mwiyq4kcnnu3kilh01u/Lancelot-Kishin-Champion.zip?rlkey=s8otk5ad0gpgpbgutoktshjwz&st=rmd5mai1&dl=1",
               "VALENTINE": "https://www.dropbox.com/scl/fi/j0cq6pr9mie0nrpwp3b0h/Lancelot-Valentine-Champion.zip?rlkey=yi2g1x4j2w081mngmwj1n268h&st=gcsuzb5x&dl=1"
             },
-            "scripts": { 
-              "LUCKYBOX": "https://rshrt.com/oZPl",
-              "ZODIAC": "https://rshrt.com/dYzzSmI",
-              "DAWNING": "https://rshrt.com/0lw",
-              "CHAMPION": "unavailable",
-              "KISHIN": "https://rshrt.com/dee0",
+            "scripts": {
+              "LUCKYBOX" : "https://rshrt.com/oZPl",
+              "ZODIAC"   : "https://rshrt.com/dYzzSmI",
+              "DAWNING"  : "https://rshrt.com/0lw",
+              "CHAMPION" : "unavailable",
+              "KISHIN"   : "https://rshrt.com/dee0",
               "VALENTINE": "https://rshrt.com/L70w"
             }
           },
@@ -992,12 +992,12 @@
               "-OYC1_2jA6kYIO4H0hRa": "https://www.dropbox.com/scl/fi/28ff9o7k5vnfyt74smdll/Lancelot-Kishin-Dragon-Tamer.zip?rlkey=rbz0a9t78lm5kibhvv25wi2wc&st=kr7pa0n0&dl=1",
               "VALENTINE": "https://www.dropbox.com/scl/fi/209drpegu53mepo755kbg/Lancelot-Valentine-Dragon.zip?rlkey=bwqxm9ilhb6q0ukjvxzgfmxpv&st=0dnbl1ri&dl=1"
             },
-            "scripts": { 
-              "LUCKYBOX": "https://rshrt.com/nbcma",
-              "ZODIAC": "https://rshrt.com/wgAd1",
-              "DAWNING": "https://rshrt.com/MNXLxgb",
-              "CHAMPION": "https://rshrt.com/7ixF",
-              "KISHIN": "https://rshrt.com/vNHs2err",
+            "scripts": {
+              "LUCKYBOX" : "https://rshrt.com/nbcma",
+              "ZODIAC"   : "https://rshrt.com/wgAd1",
+              "DAWNING"  : "https://rshrt.com/MNXLxgb",
+              "CHAMPION" : "https://rshrt.com/7ixF",
+              "KISHIN"   : "https://rshrt.com/vNHs2err",
               "VALENTINE": "https://rshrt.com/r06"
             }
           },
@@ -1014,12 +1014,12 @@
               "-OYC22U0YPJ4Qz820ppY": "https://www.dropbox.com/scl/fi/maw470uqhzze3dd1iw3ve/Lancelot-Kishin-Elite.zip?rlkey=x0cm0vle9gc2hnvhih6pxn8rb&st=u7trftyf&dl=1",
               "VALENTINE": "https://www.dropbox.com/scl/fi/aj72daec5ymjmmk8xw4qz/Lancelot-Valentine-Elite.zip?rlkey=1vpvhli7k7yceiro6i0t5nczc&st=13j7u62a&dl=1"
             },
-            "scripts": { 
-              "LUCKYBOX": "https://rshrt.com/EzFB04C",
-              "ZODIAC": "https://rshrt.com/HoLHi",
-              "DAWNING": "https://rshrt.com/kzZdDZPw",
-              "CHAMPION": "https://rshrt.com/ypaiNR",
-              "KISHIN": "https://rshrt.com/atky",
+            "scripts": {
+              "LUCKYBOX" : "https://rshrt.com/EzFB04C",
+              "ZODIAC"   : "https://rshrt.com/HoLHi",
+              "DAWNING"  : "https://rshrt.com/kzZdDZPw",
+              "CHAMPION" : "https://rshrt.com/ypaiNR",
+              "KISHIN"   : "https://rshrt.com/atky",
               "VALENTINE": "https://rshrt.com/T6dyPGsC"
             }
           },
@@ -1036,12 +1036,12 @@
               "-OYC2S78RyJ2lzdBICRa": "unavailable",
               "VALENTINE": "unavailable"
             },
-            "scripts": { 
-              "LUCKYBOX": "https://rshrt.com/r0hxnaY",
-              "ZODIAC": "https://rshrt.com/ih99b",
-              "DAWNING": "https://rshrt.com/UGBl0M3A",
-              "CHAMPION": "unavailable",
-              "KISHIN": "unavailable",
+            "scripts": {
+              "LUCKYBOX" : "https://rshrt.com/r0hxnaY",
+              "ZODIAC"   : "https://rshrt.com/ih99b",
+              "DAWNING"  : "https://rshrt.com/UGBl0M3A",
+              "CHAMPION" : "unavailable",
+              "KISHIN"   : "unavailable",
               "VALENTINE": "unavailable"
             }
           }
@@ -1756,9 +1756,7 @@
             "name1": "Astral Wanderer",
             "tag1": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
             "type1": "Collector",
-            "type_links": {
-              "-ObQyAQ0yc3JUv610g2G": "unavailable"
-            }
+            "type_links": {"-ObQyAQ0yc3JUv610g2G": "unavailable"}
           },
           "-OXqsYdYmb_un0STrTn3": {
             "img1": "https://i.supaimg.com/9de11f42-aed0-4fee-bd3a-2f7cd3272539.png",
@@ -2200,9 +2198,7 @@
             "name1": "Dream Caster",
             "tag1": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
             "type1": "Collector",
-            "type_links": {
-              "-Ob0z0muT0lGUqseXJtN": "unavailable"
-            }
+            "type_links": {"-Ob0z0muT0lGUqseXJtN": "unavailable"}
           },
           "-OXqw855lC-ngupemlEm": {
             "img1": "https://i.supaimg.com/cf1c7910-8cf0-4f2d-8603-128d45ef089b.png",
@@ -2727,9 +2723,7 @@
             "name1": "Sasuke Uchiha",
             "tag1": "https://i.supaimg.com/5ca8a038-cedd-40fe-9373-30f180eba081.png",
             "type1": "Naruto",
-            "type_links": {
-              "-Of7kMDt9VBMgfqSnJpq": "unavailable"
-            }
+            "type_links": {"-Of7kMDt9VBMgfqSnJpq": "unavailable"}
           }
         },
         "Skins": {
@@ -4037,9 +4031,7 @@
             "name1": "Mai Shiranui",
             "tag1": "https://i.supaimg.com/c5563b15-1742-4fbf-9852-274b29a20c63.png",
             "type1": "KOF",
-            "type_links": {
-              "-ObO0nmZi1lW_dy_GhOX": "unavailable"
-            }
+            "type_links": {"-ObO0nmZi1lW_dy_GhOX": "unavailable"}
           }
         },
         "Skins": {
@@ -4272,7 +4264,7 @@
             "tag1": "",
             "type1": "Default",
             "type_links": {
-              "-O_to8XqNmPbO0CPkiNu": "https://www.dropbox.com/scl/fi/r85x04gg7ama5ec8y4u2y/Freya-Legend-Default.zip?rlkey=qi1atj09pphu8wrnsa675stkw&st=3s68b5sw&dl=1"
+              "-O_to8XqNmPbO0CPkiNu": "https://github.com/injctr/large/raw/main/Freya/Legend/Freya%20Legend%20-%20Default.zip"
             }
           },
           "-OXxWqqwh64hKZbeKa4a": {
@@ -4281,7 +4273,7 @@
             "tag1": "",
             "type1": "Basic",
             "type_links": {
-              "-O_to0yR9vP1F-AUK2Ti": "https://www.dropbox.com/scl/fi/0td5ifogwgsvvqwj0bd1p/Freya-Legend-Basic.zip?rlkey=0y2j1uie6ysst36kyuq4rwebl&st=rok1c0n5&dl=1"
+              "-O_to0yR9vP1F-AUK2Ti": "https://github.com/injctr/large/raw/main/Freya/Legend/Freya%20Legend%20-%20Basic.zip"
             }
           },
           "-OXxWvkAWK2Hd3iDQHo4": {
@@ -4290,7 +4282,7 @@
             "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
             "type1": "Starlight 2017",
             "type_links": {
-              "-O_toQO4juOO_fwCsNIs": "https://www.dropbox.com/scl/fi/la1iyuz1fj02n6zo205xp/Freya-Legend-Starlight.zip?rlkey=skk8x7l2b8isfqyv0d03cm4j5&st=ozn9bd1f&dl=1"
+              "-O_toQO4juOO_fwCsNIs": "https://github.com/injctr/large/raw/main/Freya/Legend/Freya%20Legend%20-%20Starlight.zip"
             }
           },
           "-OXxX17pKiXGRgiTdo1D": {
@@ -4299,7 +4291,7 @@
             "tag1": "https://i.supaimg.com/bbcebe6d-4db4-451e-97bd-35c31bae9765.png",
             "type1": "Summer",
             "type_links": {
-              "-O_toUSSYFlWbU_jNsAx": "https://www.dropbox.com/scl/fi/pfdy0sj3o6cbzpewomu71/Freya-Legend-Summer.zip?rlkey=ro84cerqea31j9amptobm3m3r&st=zhfdpvn6&dl=1"
+              "-O_toUSSYFlWbU_jNsAx": "https://github.com/injctr/large/raw/main/Freya/Legend/Freya%20Legend%20-%20Summer.zip"
             }
           },
           "-OXxX5oB9cSkvnMZ6wWb": {
@@ -4308,7 +4300,7 @@
             "tag1": "https://i.supaimg.com/92fafc3f-bc67-4413-8903-d41b5d6d119d.png",
             "type1": "Luckybox",
             "type_links": {
-              "-O_toI7MLvo6-wVhFc2G": "https://www.dropbox.com/scl/fi/jfs4ozlzsc8y1vnavvq0o/Freya-Legend-Luckybox.zip?rlkey=igop5rdgjaxgrgqhef2re7jcw&st=tc5rmjon&dl=1"
+              "-O_toI7MLvo6-wVhFc2G": "https://github.com/injctr/large/raw/main/Freya/Legend/Freya%20Legend%20-%20Luckybox.zip"
             }
           },
           "-OXxX9rscj8CIsoSI1MW": {
@@ -4317,7 +4309,7 @@
             "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
             "type1": "Elite",
             "type_links": {
-              "-O_toBVsUwwQz79JC-07": "https://www.dropbox.com/scl/fi/0vz08ogcqjxmv3c7ebrnq/Freya-Legend-Elite.zip?rlkey=ouhrnobxsfo6gdiev7jetcn8x&st=pez7617m&dl=1"
+              "-O_toBVsUwwQz79JC-07": "https://github.com/injctr/large/raw/main/Freya/Legend/Freya%20Legend%20-%20Elite.zip"
             }
           },
           "-OXxXFZ530R0dHsLVAtd": {
@@ -4326,7 +4318,7 @@
             "tag1": "https://i.supaimg.com/3ecf7426-2dc7-43fe-ba77-d698e4d38341.png",
             "type1": "Christmas",
             "type_links": {
-              "-O_to4c3qJsBXJGgjB95": "https://www.dropbox.com/scl/fi/i07eliq7y7qjxa4oeyigg/Freya-Legend-Christmas.zip?rlkey=krb72ii8jjw57qgpexxa5es7t&st=ilzqr10v&dl=1"
+              "-O_to4c3qJsBXJGgjB95": "https://github.com/injctr/large/raw/main/Freya/Legend/Freya%20Legend%20-%20Christmas.zip"
             }
           },
           "-OXxXJcXNQqI5L-R1D-1": {
@@ -4335,7 +4327,7 @@
             "tag1": "https://i.supaimg.com/c14ee52a-ba69-4367-b954-f3b4a306e953.png",
             "type1": "Epic",
             "type_links": {
-              "-O_toEOZEG5Oe8GMOQbb": "https://www.dropbox.com/scl/fi/x57ss5pag0yqvcmaeaq4e/Freya-Legend-Epic.zip?rlkey=52285l3zlwa9bezguzo4t3izd&st=2ym5qwr5&dl=1"
+              "-O_toEOZEG5Oe8GMOQbb": "https://github.com/injctr/large/raw/main/Freya/Legend/Freya%20Legend%20-%20Epic.zip"
             }
           },
           "-OXxXPghOeymOHWxwlVl": {
@@ -4344,7 +4336,7 @@
             "tag1": "https://i.supaimg.com/92f02b44-3f74-41a2-88c8-67022fc138d3.png",
             "type1": "S.A.B.E.R.",
             "type_links": {
-              "-O_toMCLRIChHNMA2urE": "https://www.dropbox.com/scl/fi/r24ywxqdarfolnbhtdxzf/Freya-Legend-SABER.zip?rlkey=6t50syahdd6l89kl38vml2lqd&st=lt0fkv1m&dl=1"
+              "-O_toMCLRIChHNMA2urE": "https://github.com/injctr/large/raw/main/Freya/Legend/Freya%20Legend%20-%20SABER.zip"
             }
           },
           "-OXxXUSpOG95S1tj21ob": {
@@ -4352,9 +4344,7 @@
             "name1": "Galactic Vanquisher",
             "tag1": "https://i.supaimg.com/89d011e3-a8d7-4068-b50f-a84c21b7191a.png",
             "type1": "Legend",
-            "type_links": {
-              "-O_toYqUg4TeoudsGljB": "unavailable"
-            }
+            "type_links": {"-O_toYqUg4TeoudsGljB": "unavailable"}
           }
         },
         "Skins": {
@@ -4777,9 +4767,7 @@
             "name1": "Adlaw's Chosen",
             "tag1": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
             "type1": "Collector",
-            "type_links": {
-              "-ObLDiDupmIwggSPOZiN": "unavailable"
-            }
+            "type_links": {"-ObLDiDupmIwggSPOZiN": "unavailable"}
           }
         },
         "Skins": {
@@ -5142,9 +5130,7 @@
             "name1": "Soulblight Tyrant",
             "tag1": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
             "type1": "Collector",
-            "type_links": {
-              "-ObQoA8Q41yC435-NlPM": "unavailable"
-            }
+            "type_links": {"-ObQoA8Q41yC435-NlPM": "unavailable"}
           }
         },
         "Skins": {
@@ -5201,9 +5187,7 @@
             "name1": "God of Mountains",
             "tag1": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
             "type1": "Collector",
-            "type_links": {
-              "-Of7ZFt9pM13SRuF68SC": "unavailable"
-            }
+            "type_links": {"-Of7ZFt9pM13SRuF68SC": "unavailable"}
           },
           "-OXxdpv4azD-WeoxEu_x": {
             "img1": "https://i.supaimg.com/ed2b5560-dada-4d56-b36d-e5f29bb43047.png",
@@ -5548,9 +5532,7 @@
             "name1": "Darth Vader",
             "tag1": "https://i.supaimg.com/f8f8194d-6618-495f-a815-87cf5253e3fa.png",
             "type1": "Starwars",
-            "type_links": {
-              "-O_N7bViBGCijj7X1B4f": "unavailable"
-            }
+            "type_links": {"-O_N7bViBGCijj7X1B4f": "unavailable"}
           },
           "-OY-cuNak0h4MXBXHNPY": {
             "img1": "https://i.supaimg.com/a484749d-c2c1-4292-aaa2-d935a3d746aa.png",
@@ -6530,9 +6512,7 @@
             "name1": "Aries",
             "tag1": "https://i.supaimg.com/8d9c38f9-3a19-4b23-b18b-4a8ce18e26ae.png",
             "type1": "Zodiac",
-            "type_links": {
-              "-Ob130HpmvBA4x6WJtJV": "unavailable"
-            }
+            "type_links": {"-Ob130HpmvBA4x6WJtJV": "unavailable"}
           },
           "-OY16bh2r0rDxoZBkaCW": {
             "img1": "https://i.supaimg.com/2a6123d4-709f-4f02-a5be-fe6647014217.png",
@@ -6720,9 +6700,7 @@
             "name1": "Matrix Maverick",
             "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
             "type1": "Starlight 2025",
-            "type_links": {
-              "-ObQUwaURXmjpuhZ57G-": "unavailable"
-            }
+            "type_links": {"-ObQUwaURXmjpuhZ57G-": "unavailable"}
           }
         },
         "Skins": {
@@ -6761,27 +6739,21 @@
             "name1": "Barren Pioneer",
             "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
             "type1": "Elite",
-            "type_links": {
-              "-Of7YZHbwDXJWxaGrfcK": "unavailable"
-            }
+            "type_links": {"-Of7YZHbwDXJWxaGrfcK": "unavailable"}
           },
           "-OY19_YEx-M1O3gUtdcl": {
             "img1": "https://i.supaimg.com/0d4b4680-5fee-4c3f-8c77-8aad7189d15e.png",
             "name1": "War Lion",
             "tag1": "https://i.supaimg.com/7aef5066-a2a7-4965-8c68-ed45269d028b.png",
             "type1": "Special",
-            "type_links": {
-              "-Of7YZboCnDmMLgD0XK2": "unavailable"
-            }
+            "type_links": {"-Of7YZboCnDmMLgD0XK2": "unavailable"}
           },
           "-OY19fSGhkEqq0QXxIHH": {
             "img1": "https://i.supaimg.com/f799bb17-8742-4f3e-acb0-ed95ebbb389b.png",
             "name1": "Ironmane Reaver",
             "tag1": "https://i.supaimg.com/876a26de-3369-4b50-8084-50d386f94667.png",
             "type1": "Season 34",
-            "type_links": {
-              "-Of7Y_8OkOAXbd7myJBo": "unavailable"
-            }
+            "type_links": {"-Of7Y_8OkOAXbd7myJBo": "unavailable"}
           }
         },
         "Skins": {
@@ -6880,9 +6852,7 @@
             "name1": "Naruto Uzumaki",
             "tag1": "https://i.supaimg.com/5ca8a038-cedd-40fe-9373-30f180eba081.png",
             "type1": "Naruto",
-            "type_links": {
-              "-OY4blD2pg6qunX-x3z0": "unavailable"
-            }
+            "type_links": {"-OY4blD2pg6qunX-x3z0": "unavailable"}
           }
         },
         "Skins": {
@@ -8122,9 +8092,7 @@
             "name1": "Wizardry Teacher",
             "tag1": "https://i.supaimg.com/92fafc3f-bc67-4413-8903-d41b5d6d119d.png",
             "type1": "Luckybox",
-            "type_links": {
-              "-Of7YNrQUpk5rLRxSvzF": "unavailable"
-            }
+            "type_links": {"-Of7YNrQUpk5rLRxSvzF": "unavailable"}
           },
           "-OY5PAm_vx4JscpTWimJ": {
             "img1": "https://i.supaimg.com/f4bfa396-f8a1-4b0a-bf9c-ff18bc84c5b7.png",
@@ -8299,7 +8267,7 @@
               "-ObM3g8GDV5EqIObuHlq": "https://www.dropbox.com/scl/fi/ddh7gftov8v5hlxiud6x3/Lylia-Neobeast-Default.zip?rlkey=btv61hsv422mk3i0bbbxgmk4e&st=dsewg0g2&dl=1",
               "COVENANT": "https://www.dropbox.com/scl/fi/8yjh71ogru77n2g5da56y/Lylia-Covenant-Default.zip?rlkey=vpuvz2oxjq0uh6vxb2h8whe3g&st=2xyo4xnt&dl=1"
             },
-            "scripts": { 
+            "scripts": {
               "NEOBEAST": "https://rshrt.com/wd3W",
               "COVENANT": "https://rshrt.com/Re7ripdN"
             }
@@ -8313,7 +8281,7 @@
               "-ObM3eKpkkfHxE0yDqrk": "https://www.dropbox.com/scl/fi/imexob6of0cpnqlcu2s3e/Lylia-Neobeast-Basic.zip?rlkey=39chvzhytna5i6h9mpte4s5k9&st=glntkhnj&dl=1",
               "COVENANT": "https://www.dropbox.com/scl/fi/hdfv4gzjo7sp3e4xvnlqu/Lylia-Covenant-Basic.zip?rlkey=1zvswf248iypxd7227lujipcj&st=82ddydzz&dl=1"
             },
-            "scripts": { 
+            "scripts": {
               "NEOBEAST": "https://rshrt.com/5E3r",
               "COVENANT": "https://rshrt.com/9JLhKKk"
             }
@@ -8327,7 +8295,7 @@
               "-ObM3i8RzCU4YA4wExgH": "https://www.dropbox.com/scl/fi/l8vx5a82utcyl0k9f3e5r/Lylia-Neobeast-Elite.zip?rlkey=2qyvzw6r54wqdmo6qlid2lt6e&st=pmo59ane&dl=1",
               "COVENANT": "https://www.dropbox.com/scl/fi/7k93fhfk02ov7b3ipz97d/Lylia-Covenant-Elite.zip?rlkey=catz032dsweumapn0moz4ncn7&st=3tx0y3na&dl=1"
             },
-            "scripts": { 
+            "scripts": {
               "NEOBEAST": "https://rshrt.com/ItP",
               "COVENANT": "https://rshrt.com/DQ6Utxg"
             }
@@ -8341,7 +8309,7 @@
               "-ObM3mjnOi8_CtnGjsde": "https://www.dropbox.com/scl/fi/v7qqaru3at5y102hjmu10/Lylia-Neobeast-Special.zip?rlkey=d12eykpoa2c5tpvrgmjfh8gm8&st=9fc5wws0&dl=1",
               "COVENANT": "https://www.dropbox.com/scl/fi/opxrhcha6wrwriitzz1hj/Lylia-Covenant-515.zip?rlkey=aiz4r0rb6bqh54rzqwu2lyo01&st=w7zf32is&dl=1"
             },
-            "scripts": { 
+            "scripts": {
               "NEOBEAST": "https://rshrt.com/XUVxNv",
               "COVENANT": "https://rshrt.com/jT8ty51k"
             }
@@ -8355,7 +8323,7 @@
               "-ObM3k5zmeX8SKory_S_": "https://www.dropbox.com/scl/fi/yicm9k4xl1x0t0me4my6u/Lylia-Neobeast-Halloween.zip?rlkey=p6cjpj7ixroqb8vki3gk3jelc&st=g3x0jl7u&dl=1",
               "COVENANT": "https://www.dropbox.com/scl/fi/ogedtdzm4018pobsmalda/Lylia-Covenant-Halloween.zip?rlkey=2audcesftl9416nm3464ku2sc&st=qbgneufb&dl=1"
             },
-            "scripts": { 
+            "scripts": {
               "NEOBEAST": "https://rshrt.com/ZQN",
               "COVENANT": "https://rshrt.com/Pe636IRK"
             }
@@ -8367,12 +8335,9 @@
             "type1": "Neobeast",
             "type_links": {
               "-ObM3r72CyvtOOLl_ev4": "unavailable",
-              "COVENANT": "unavailable"
+              "COVENANT"            : "unavailable"
             },
-            "scripts": { 
-              "NEOBEAST": "unavailable",
-              "COVENANT": "unavailable"
-            }
+            "scripts": {"NEOBEAST": "unavailable", "COVENANT": "unavailable"}
           },
           "-OY5RIjVKIGD_JQrE3px": {
             "img1": "https://i.supaimg.com/d84e92c7-7b46-4553-93a5-1746708bebfc.png",
@@ -8383,7 +8348,7 @@
               "-ObM3pNhgBHbCiJGBy_o": "https://www.dropbox.com/scl/fi/6djkoioowrg5k969iocim/Lylia-Neobeast-Starlight.zip?rlkey=ndv2wl7106jo1lixptkk9167y&st=wj56i2fm&dl=1",
               "COVENANT": "https://www.dropbox.com/scl/fi/jxhtdcptlgic5tfg62c2l/Lylia-Covenant-Starlight.zip?rlkey=olpe2y0fck9iuw5n5mfle8k54&st=4pstsggy&dl=1"
             },
-            "scripts": { 
+            "scripts": {
               "NEOBEAST": "https://rshrt.com/Fyey",
               "COVENANT": "https://rshrt.com/GSBDB"
             }
@@ -8626,10 +8591,8 @@
             "tag1": "",
             "type1": "Default",
             "type_links": {
-              "-Oa8LPn8CMSXI5XL6ld-": "https://www.dropbox.com/scl/fi/qnwd9kt78ecnbqpcu5jkr/Gord-Legend-Default.zip?rlkey=yl83k0j05hl8dpurgm2hhht2t&st=mb4j6c36&dl=1",
-              "-Oa8LPnBS2UuOir7G4gC": "https://www.dropbox.com/scl/fi/yyzqydqj662tn9tgkdvml/Gord-Annual-Default.zip?rlkey=807xostvclyemhul60v6i2eqn&st=idwfyy9w&dl=1",
-              "-Oa8LPnBS2UuOir7G4gD": "unavailable",
-              "-Oa8LPnBS2UuOir7G4gE": "unavailable"
+              "-Oa8LPn8CMSXI5XL6ld-": "https://github.com/injctr/large/raw/main/Gord/Legend/Gord%20Legend%20-%20Default.zip",
+              "-Oa8LPnBS2UuOir7G4gC": "https://github.com/injctr/large/raw/main/Gord/Annual%20Starlight/Gord%20Annual%20-%20Default.zip"
             }
           },
           "-OY5SyfDyQW6cIontTpw": {
@@ -8638,10 +8601,8 @@
             "tag1": "",
             "type1": "Basic",
             "type_links": {
-              "-Oa8LKl2pbXKZcePkF7v": "https://www.dropbox.com/scl/fi/9wzg1inc8xe7wgqpi8w00/Gord-Legend-Basic.zip?rlkey=2d50ix79kpbsod41tykloecub&st=9tndd0xm&dl=1",
-              "-Oa8LKl2pbXKZcePkF7w": "https://www.dropbox.com/scl/fi/z60tpe5eol6k0m4mtl79m/Gord-Annual-Basic.zip?rlkey=ucn1uo1udnyt2ejjgdp3vzjl2&st=pdmgr4qk&dl=1",
-              "-Oa8LKl2pbXKZcePkF7x": "unavailable",
-              "-Oa8LKl2pbXKZcePkF7y": "unavailable"
+              "-Oa8LKl2pbXKZcePkF7v": "https://github.com/injctr/large/raw/main/Gord/Legend/Gord%20Legend%20-%20Basic.zip",
+              "-Oa8LKl2pbXKZcePkF7w": "https://github.com/injctr/large/raw/main/Gord/Annual%20Starlight/Gord%20Annual%20-%20Basic.zip"
             }
           },
           "-OY5T2bLhjLmLR7AuyVd": {
@@ -8650,10 +8611,8 @@
             "tag1": "https://i.supaimg.com/3ecf7426-2dc7-43fe-ba77-d698e4d38341.png",
             "type1": "Christmas",
             "type_links": {
-              "-Oa8LN6wjrCBARwti7j-": "https://www.dropbox.com/scl/fi/nz7k2i5pk0l4qr15o5xmn/Gord-Legend-Christmas.zip?rlkey=e80q0dvkupkdc7gl3ranqx1uy&st=hj1uixh7&dl=1",
-              "-Oa8LN6wjrCBARwti7j0": "https://www.dropbox.com/scl/fi/zl30n8umlygpozwsewy52/Gord-Annual-Christmas.zip?rlkey=3q7v0z90zqrjm5wisvg43jvh7&st=xga2gwg7&dl=1",
-              "-Oa8LN6wjrCBARwti7j1": "unavailable",
-              "-Oa8LN6xJEzG1PiTB6eT": "unavailable"
+              "-Oa8LN6wjrCBARwti7j-": "https://github.com/injctr/large/raw/main/Gord/Legend/Gord%20Legend%20-%20Christmas.zip",
+              "-Oa8LN6wjrCBARwti7j0": "https://github.com/injctr/large/raw/main/Gord/Annual%20Starlight/Gord%20Annual%20-%20Christmas.zip"
             }
           },
           "-OY5T7FjA-soiDzClyBw": {
@@ -8663,9 +8622,7 @@
             "type1": "Legend",
             "type_links": {
               "-Oa8Lky2-H7_fgYa8BbQ": "unavailable",
-              "-Oa8Lky2-H7_fgYa8BbR": "https://www.dropbox.com/scl/fi/cp1jzgtsp6onxxcgzsgih/Gord-Annual-Legend.zip?rlkey=kmoz6anejlfw8bb9kyfcwn3h9&st=wlwe9v7w&dl=1",
-              "-Oa8Lky2-H7_fgYa8BbS": "unavailable",
-              "-Oa8Lky2-H7_fgYa8BbT": "unavailable"
+              "-Oa8Lky2-H7_fgYa8BbR": "https://github.com/injctr/large/raw/main/Gord/Annual%20Starlight/Gord%20Annual%20-%20Legend.zip"
             }
           },
           "-OY5TDvqyIdfx9sk28S1": {
@@ -8674,10 +8631,8 @@
             "tag1": "https://i.supaimg.com/a1d36586-5a86-4cca-a345-b5f81383efc6.png",
             "type1": "Annual Starlight",
             "type_links": {
-              "-Oa8LIAIYX2ZgSP91bDh": "https://www.dropbox.com/scl/fi/r5n7hk5jbp3rb12v7vlj0/Gord-Legend-Annual-Star.zip?rlkey=lth2kj7zrftgodn3tc68oazcv&st=rkrz1za0&dl=1",
-              "-Oa8LIAIYX2ZgSP91bDi": "unavailable",
-              "-Oa8LIAIYX2ZgSP91bDj": "unavailable",
-              "-Oa8LIAJQCQN2XtOg_6z": "unavailable"
+              "-Oa8LIAIYX2ZgSP91bDh": "https://github.com/injctr/large/raw/main/Gord/Legend/Gord%20Legend%20-%20Annual%20Star.zip",
+              "-Oa8LIAIYX2ZgSP91bDi": "unavailable"
             }
           },
           "-OY5TJ96cJ3pFbCm_WZG": {
@@ -8686,10 +8641,8 @@
             "tag1": "https://i.supaimg.com/db5551c9-3679-48b5-8f4a-22f73bcf1dda.png",
             "type1": "Season 21",
             "type_links": {
-              "-Oa8LWPJoyKBWl7_rcNi": "https://www.dropbox.com/scl/fi/9gjaqlgy3vbwu2cjfhkw3/Gord-Legend-Season.zip?rlkey=7uwjtlvy29m8ng0giuq46tmcn&st=a9e0nuz8&dl=1",
-              "-Oa8LWPJoyKBWl7_rcNj": "https://www.dropbox.com/scl/fi/f4v5bvocme3vxin5lgwb9/Gord-Annual-Season.zip?rlkey=3628je6xd6apjmij1d08z7a5m&st=tm84bjjq&dl=1",
-              "-Oa8LWPJoyKBWl7_rcNk": "unavailable",
-              "-Oa8LWPJoyKBWl7_rcNl": "unavailable"
+              "-Oa8LWPJoyKBWl7_rcNi": "https://github.com/injctr/large/raw/main/Gord/Legend/Gord%20Legend%20-%20Season.zip",
+              "-Oa8LWPJoyKBWl7_rcNj": "https://github.com/injctr/large/raw/main/Gord/Annual%20Starlight/Gord%20Annual%20-%20Season.zip"
             }
           },
           "-OY5TOKCgxDgFhFG-wk9": {
@@ -8698,17 +8651,19 @@
             "tag1": "https://i.supaimg.com/c14ee52a-ba69-4367-b954-f3b4a306e953.png",
             "type1": "Epic",
             "type_links": {
-              "-Oa8LTFFuE0GTWjpqaUA": "https://www.dropbox.com/scl/fi/1iwo1lbwmacvv3w322atp/Gord-Legend-Epic.zip?rlkey=ruzzd13a540fmv76ellb7mbgz&st=vo3go3sd&dl=1",
-              "-Oa8LTFGFMtlDo16GpGW": "https://www.dropbox.com/scl/fi/fta5q3z3im5sj53qn8on3/Gord-Annual-Epic.zip?rlkey=as2fpqmct82xqdux1io0ltefj&st=wbbhewjr&dl=1",
-              "-Oa8LTFGFMtlDo16GpGX": "unavailable",
-              "-Oa8LTFGFMtlDo16GpGY": "unavailable"
+              "-Oa8LTFFuE0GTWjpqaUA": "https://github.com/injctr/large/raw/main/Gord/Legend/Gord%20Legend%20-%20Epic.zip",
+              "-Oa8LTFGFMtlDo16GpGW": "https://github.com/injctr/large/raw/main/Gord/Annual%20Starlight/Gord%20Annual%20-%20Epic.zip"
             }
           },
           "-OY5TTb_-O-SjtxcQ_RQ": {
             "img1": "https://i.supaimg.com/33e5c69f-8e63-47ca-8f18-9376e2655ac1.png",
             "name1": "Imperator Vitalis",
             "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
-            "type1": "Starlight 2025"
+            "type1": "Starlight 2025",
+            "type_links": {
+              "-Oa8LTFFuE0GTWjpqaUA": "unavailable",
+              "-Oa8LTFGFMtlDo16GpGW": "unavailable"
+            }
           }
         },
         "Skins": {
@@ -8723,18 +8678,6 @@
             "name2": "No.1 Controller",
             "tag2": "https://i.supaimg.com/a1d36586-5a86-4cca-a345-b5f81383efc6.png",
             "type2": "Annual Starlight"
-          },
-          "-OYMen9E7UIyoiymm-fX": {
-            "img2": "https://i.supaimg.com/6e32f77e-9b4a-4eba-bbd1-0dabfda95bf7.png",
-            "name2": "Cyber Hacker",
-            "tag2": "https://i.supaimg.com/c14ee52a-ba69-4367-b954-f3b4a306e953.png",
-            "type2": "Epic"
-          },
-          "-OYMenRrReYV-IsvhhWL": {
-            "img2": "https://i.supaimg.com/33e5c69f-8e63-47ca-8f18-9376e2655ac1.png",
-            "name2": "Imperator Vitalis",
-            "tag2": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
-            "type2": "Starlight 2025"
           }
         },
         "img": "https://i.supaimg.com/a0748575-a635-4b65-9cd8-481e13fc9168.png",
@@ -9976,9 +9919,7 @@
             "name1": "Flame Lotus",
             "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
             "type1": "Starlight",
-            "type_links": {
-              "-ObR-asXKdpNNE9AKp5y": "unavailable"
-            }
+            "type_links": {"-ObR-asXKdpNNE9AKp5y": "unavailable"}
           }
         },
         "Skins": {
@@ -10850,9 +10791,7 @@
             "name1": "Firebolt",
             "tag1": "https://i.supaimg.com/22142283-6b0f-4b3e-81e1-56d8528331dd.png",
             "type1": "Dawning Hero",
-            "type_links": {
-              "-Of7b8M5dlz8vSi0h16w": "unavailable"
-            }
+            "type_links": {"-Of7b8M5dlz8vSi0h16w": "unavailable"}
           },
           "-OY6ySo9LG4GCSmd_3Pj": {
             "img1": "https://i.supaimg.com/eac33c76-3442-4089-8ac9-b9c18aff1ebf.png",
@@ -10886,9 +10825,7 @@
             "name1": "The Purifier",
             "tag1": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
             "type1": "Collector",
-            "type_links": {
-              "-Of7b6UIkL3ijSJiLV_T": "unavailable"
-            }
+            "type_links": {"-Of7b6UIkL3ijSJiLV_T": "unavailable"}
           }
         },
         "Skins": {
@@ -10910,14 +10847,12 @@
             "tag1": "",
             "type1": "Default",
             "type_links": {
-              "-Oa8MBn8myrKQrOStl_V": "unavailable",
-              "-Oa8MBn8myrKQrOStl_W": "https://www.dropbox.com/scl/fi/wl2c8ga4t7kgbnfmmtget/Granger-Collector-Default.zip?rlkey=pmvww695rcaw33q515183dvvm&st=56pa330i&dl=1",
-              "-Oa8MBn8myrKQrOStl_X": "https://www.dropbox.com/scl/fi/6zw6oltjkslv0zyu6yt7m/Granger-Legend-Default.zip?rlkey=1q878t4lgzb3cxlz5dc4vpeno&st=lcbkdlji&dl=1",
-              "-Oa8MBn8myrKQrOStl_Y": "https://www.dropbox.com/scl/fi/l8b9yj829kdcpkizteov6/Granger-Transformers-Default.zip?rlkey=da2zi1atarqvzoc7k58d4wuw3&st=13hte0eg&dl=1",
-              "-Oa8MBn8myrKQrOStl_Z": "https://www.dropbox.com/scl/fi/x8jz0ponzxh30ddeahds9/Granger-Exorcist-Default.zip?rlkey=lwr49sv51v814m7kyt895ids5&st=6yv9jxxv&dl=1",
-              "-Oa8MBn8myrKQrOStl__": "unavailable",
-              "-OfEKR7UoQm5-nz7GsYB": "https://www.dropbox.com/scl/fi/avrp1dv8e62ogz6bqg2wc/Granger-Prime-Default.zip?rlkey=awx4szl50xc5g6zoykx94b8q3&st=8u64eel8&dl=1",
-              "m7": "https://www.dropbox.com/scl/fi/9llljzuxyamr5ao4fd0s9/Granger-M7-Default.zip?rlkey=zo0qu7np59yjnee5tc8387wcg&st=qerzhjis&dl=1"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Granger/Collector/Granger%20Collector%20-%20Default.zip",
+              "02 LEGEND": "https://github.com/injctr/large/raw/main/Granger/Legend/Granger%20Legend%20-%20Default.zip",
+              "03 TRANSFORMERS": "https://github.com/injctr/large/raw/main/Granger/Transformers/Granger%20Transformers%20-%20Default.zip",
+              "04 EXORCIST": "https://github.com/injctr/large/raw/main/Granger/Exorcist/Granger%20Exorcist%20-%20Default.zip",
+              "05 PRIME": "https://github.com/injctr/large/raw/main/Granger/Prime/Granger%20Prime%20-%20Default.zip",
+              "06 M7": "https://github.com/injctr/large/raw/main/Granger/M7/Granger%20M7%20-%20Default.zip"
             }
           },
           "-OY9drKH2-F0Y6m48NXK": {
@@ -10926,14 +10861,12 @@
             "tag1": "",
             "type1": "Basic",
             "type_links": {
-              "-Oa8M5A6ZJCPbMvGxHiH": "unavailable",
-              "-Oa8M5A7dteO8IYllXC6": "https://www.dropbox.com/scl/fi/qfuyjdog67d4tlvquw1ey/Granger-Collector-Basic.zip?rlkey=rqmagn4zj1k8lnmhc01w1qk8h&st=bnyqh7b5&dl=1",
-              "-Oa8M5A7dteO8IYllXC7": "https://www.dropbox.com/scl/fi/am91ndepm1ypkpaycqio7/Granger-Legend-Basic.zip?rlkey=x5fqoeq5qyias7flv3409ipw4&st=37b73lbe&dl=1",
-              "-Oa8M5A7dteO8IYllXC8": "https://www.dropbox.com/scl/fi/zfrhg5a9o52gfpdhz8dvi/Granger-Transformers-Basic.zip?rlkey=jsfybouztmambix0lhmqdmgex&st=omrs08u8&dl=1",
-              "-Oa8M5A7dteO8IYllXC9": "https://www.dropbox.com/scl/fi/jyysm4nc57l5bxqecoej6/Granger-Exorcist-Basic.zip?rlkey=bp4som338xzm1n0s606c40use&st=26lgfjsq&dl=1",
-              "-Oa8M5A7dteO8IYllXCA": "unavailable",
-              "-OfEKOFfI8grrlJT1oeu": "https://www.dropbox.com/scl/fi/6dxbxq6a6lpmj86vbcbms/Granger-Prime-Basic.zip?rlkey=6fslpykg6p8ksytx6kx7zhzks&st=u8k8t45b&dl=1",
-              "m7": "https://www.dropbox.com/scl/fi/fc6lwed5ernwp1tsbi1bw/Granger-M7-Basic.zip?rlkey=je75b6pi0gylrte389ydnap4l&st=6h2ujvzv&dl=1"
+              "-Oa8M5A7dteO8IYllXC6": "https://github.com/injctr/large/raw/main/Granger/Collector/Granger%20Collector%20-%20Basic.zip",
+              "-Oa8M5A7dteO8IYllXC7": "https://github.com/injctr/large/raw/main/Granger/Legend/Granger%20Legend%20-%20Basic.zip",
+              "-Oa8M5A7dteO8IYllXC8": "https://github.com/injctr/large/raw/main/Granger/Transformers/Granger%20Transformers%20-%20Basic.zip",
+              "-Oa8M5A7dteO8IYllXC9": "https://github.com/injctr/large/raw/main/Granger/Exorcist/Granger%20Exorcist%20-%20Basic.zip",
+              "-OfEKOFfI8grrlJT1oeu": "https://github.com/injctr/large/raw/main/Granger/Prime/Granger%20Prime%20-%20Basic.zip",
+              "m7": "https://github.com/injctr/large/raw/main/Granger/M7/Granger%20M7%20-%20Basic.zip"
             }
           },
           "-OY9dueZBUQAiQjhSP4T": {
@@ -10942,14 +10875,12 @@
             "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
             "type1": "Elite",
             "type_links": {
-              "-Oa8MFTumod2uD2CXgab": "unavailable",
-              "-Oa8MFTvVag-iDVkoH4w": "https://www.dropbox.com/scl/fi/7egviwj24tenkyus81zo9/Granger-Collector-Elite.zip?rlkey=dguaz5n498zzyax9xrj00457u&st=p2f17rme&dl=1",
-              "-Oa8MFTvVag-iDVkoH4x": "https://www.dropbox.com/scl/fi/712ircns18mrtzopfp580/Granger-Legend-Elite.zip?rlkey=s5k0dvwl5p7rkfxvuqxgvezje&st=9821ojjn&dl=1",
-              "-Oa8MFTvVag-iDVkoH4y": "https://www.dropbox.com/scl/fi/9u6k664mjx99n73z0aq5m/Granger-Transformers-Elite.zip?rlkey=ed548d67ptj1693fcnkdcx8x4&st=p89rsa1q&dl=1",
-              "-Oa8MFTvVag-iDVkoH4z": "https://www.dropbox.com/scl/fi/6vsqb14z6sauthtxfviyp/Granger-Exorcist-Elite.zip?rlkey=zkbiaqp69z80e7l6npmguxnru&st=rmblwstb&dl=1",
-              "-Oa8MFTvVag-iDVkoH5-": "unavailable",
-              "-OfEKT5nHufqiis-GwFV": "https://www.dropbox.com/scl/fi/opu2wcv90yr1eugh2eama/Granger-Prime-Elite.zip?rlkey=cvbkegtma7qt6nn8or51s4489&st=nhgm2baw&dl=1",
-              "m7": "https://www.dropbox.com/scl/fi/d5jxwucqknou5zlummw2s/Granger-M7-Elite.zip?rlkey=hegy8omglgdj5l86rlo97dz0a&st=gk2pnhap&dl=1"
+              "-Oa8MFTvVag-iDVkoH4w": "https://github.com/injctr/large/raw/main/Granger/Collector/Granger%20Collector%20-%20Elite.zip",
+              "-Oa8MFTvVag-iDVkoH4x": "https://github.com/injctr/large/raw/main/Granger/Legend/Granger%20Legend%20-%20Elite.zip",
+              "-Oa8MFTvVag-iDVkoH4y": "https://github.com/injctr/large/raw/main/Granger/Transformers/Granger%20Transformers%20-%20Elite.zip",
+              "-Oa8MFTvVag-iDVkoH4z": "https://github.com/injctr/large/raw/main/Granger/Exorcist/Granger%20Exorcist%20-%20Elite.zip",
+              "-OfEKT5nHufqiis-GwFV": "https://github.com/injctr/large/raw/main/Granger/Prime/Granger%20Prime%20-%20Elite.zip",
+              "m7": "https://github.com/injctr/large/raw/main/Granger/M7/Granger%20M7%20-%20Elite.zip"
             }
           },
           "-OY9e2a4bdb33PmAcf9M": {
@@ -10958,14 +10889,12 @@
             "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
             "type1": "Starlight 2020",
             "type_links": {
-              "-Oa8MdCNFW0g2OOKvDk6": "unavailable",
-              "-Oa8MdCOrnmxUjQTz63e": "https://www.dropbox.com/scl/fi/o6zigct5z0lz3c1979qkz/Granger-Collector-Starlight.zip?rlkey=t7glbkxjt5nfls5efgv8ep54a&st=s9szpgr1&dl=1",
-              "-Oa8MdCOrnmxUjQTz63f": "https://www.dropbox.com/scl/fi/tw5v0hk9ssa3air18m5kn/Granger-Legend-Starlight.zip?rlkey=ql9p4otstqutxk9t8j97lp6of&st=j7ihx07z&dl=1",
-              "-Oa8MdCOrnmxUjQTz63g": "https://www.dropbox.com/scl/fi/urjr0w645e3eh1x5jg6gk/Granger-Transformers-Starlight.zip?rlkey=ie8rm74hz2ot178f8lumla0ct&st=1xu14sw0&dl=1",
-              "-Oa8MdCOrnmxUjQTz63h": "https://www.dropbox.com/scl/fi/cnfv50o0ieegi442aqlyo/Granger-Exorcist-Starlight.zip?rlkey=i0a9x5ej0n3g67c4qo9warvix&st=soqmakrj&dl=1",
-              "-Oa8MdCP6075X7Z-ia03": "unavailable",
-              "-OfEKWUhlzZg1cbhT6G2": "https://www.dropbox.com/scl/fi/2soufa16wacorq10bqou2/Granger-Prime-Starlight.zip?rlkey=gi59ievr0x67dnxrt71o6b4ik&st=6el73lga&dl=1",
-              "m7": "https://www.dropbox.com/scl/fi/md87ccld30airb58aidij/Granger-M7-Starlight.zip?rlkey=1tr40my9k7pd46em2e6s07h1m&st=i28hu1pn&dl=1"
+              "-Oa8MdCOrnmxUjQTz63e": "https://github.com/injctr/large/raw/main/Granger/Collector/Granger%20Collector%20-%20Starlight.zip",
+              "-Oa8MdCOrnmxUjQTz63f": "https://github.com/injctr/large/raw/main/Granger/Legend/Granger%20Legend%20-%20Starlight.zip",
+              "-Oa8MdCOrnmxUjQTz63g": "https://github.com/injctr/large/raw/main/Granger/Transformers/Granger%20Transformers%20-%20Starlight.zip",
+              "-Oa8MdCOrnmxUjQTz63h": "https://github.com/injctr/large/raw/main/Granger/Exorcist/Granger%20Exorcist%20-%20Starlight.zip",
+              "-OfEKWUhlzZg1cbhT6G2": "https://github.com/injctr/large/raw/main/Granger/Prime/Granger%20Prime%20-%20Starlight.zip",
+              "m7": "https://github.com/injctr/large/raw/main/Granger/M7/Granger%20M7%20-%20Starlight.zip"
             }
           },
           "-OY9e7OGoM-ahsratLTd": {
@@ -10974,14 +10903,12 @@
             "tag1": "https://i.supaimg.com/69a7a5dd-6136-442a-b82c-c5bd54dbac46.png",
             "type1": "Lightborn",
             "type_links": {
-              "-Oa8MW-R0CuNuY4Tg3re": "unavailable",
-              "-Oa8MW-R0CuNuY4Tg3rf": "https://www.dropbox.com/scl/fi/afthykqa6bekn29o6s6t7/Granger-Collector-Lightborn.zip?rlkey=1atkg504cx1c4z4kxo7r09meb&st=ux6ul1u5&dl=1",
-              "-Oa8MW-R0CuNuY4Tg3rg": "https://www.dropbox.com/scl/fi/87gi9j716zquc4mr3mun4/Granger-Legend-Lightborn.zip?rlkey=tvjqjfjj3v7883pe3rjitnakj&st=nvebaetc&dl=1",
-              "-Oa8MW-S_NfbVYN0DJ3I": "https://www.dropbox.com/scl/fi/0ot4u0mzml0d75tvjs3p9/Granger-Transformers-Lightborn.zip?rlkey=5en759vv0epjtk3oumxb85fl0&st=ff7bnszl&dl=1",
-              "-Oa8MW-S_NfbVYN0DJ3J": "https://www.dropbox.com/scl/fi/m6st9ktsmc4faqcgtvh7f/Granger-Exorcist-Lightborn.zip?rlkey=v1drf5ik5mzvw6gc3v29kvth4&st=e0hlrf9c&dl=1",
-              "-Oa8MW-S_NfbVYN0DJ3K": "unavailable",
-              "-OfEKXE8EqbO-e4IXWzl": "https://www.dropbox.com/scl/fi/rcqblz2dnjxlkmmd1qhei/Granger-Prime-Lightborn.zip?rlkey=9ytxgld1cl8mth9psm71m8o2z&st=u56f12gw&dl=1",
-              "m7": "https://www.dropbox.com/scl/fi/b9s2b44psriel8h8owe0m/Granger-M7-Lightborn.zip?rlkey=vauyr8jn7c7mr5cua4x8xg2rk&st=xqvlrhyc&dl=1"
+              "-Oa8MW-R0CuNuY4Tg3rf": "https://github.com/injctr/large/raw/main/Granger/Collector/Granger%20Collector%20-%20Lightborn.zip",
+              "-Oa8MW-R0CuNuY4Tg3rg": "https://github.com/injctr/large/raw/main/Granger/Legend/Granger%20Legend%20-%20Lightborn.zip",
+              "-Oa8MW-S_NfbVYN0DJ3I": "https://github.com/injctr/large/raw/main/Granger/Transformers/Granger%20Transformers%20-%20Lightborn.zip",
+              "-Oa8MW-S_NfbVYN0DJ3J": "https://github.com/injctr/large/raw/main/Granger/Exorcist/Granger%20Exorcist%20-%20Lightborn.zip",
+              "-OfEKXE8EqbO-e4IXWzl": "https://github.com/injctr/large/raw/main/Granger/Prime/Granger%20Prime%20-%20Lightborn.zip",
+              "m7": "https://github.com/injctr/large/raw/main/Granger/M7/Granger%20M7%20-%20Lightborn.zip"
             }
           },
           "-OY9eCUr-sy7Ed8mhaEJ": {
@@ -10990,13 +10917,11 @@
             "tag1": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
             "type1": "Collector",
             "type_links": {
-              "-Oa8NH9nQMy-wCkg2EYU": "unavailable",
               "-Oa8NH9oVcIUGkwzRiuF": "unavailable",
-              "-Oa8NH9oVcIUGkwzRiuG": "https://www.dropbox.com/scl/fi/krxod3zrzb288auy079sl/Granger-Legend-Collector.zip?rlkey=h5ras9x57wt96kf4h6n0xouyu&st=fim2er1n&dl=1",
-              "-Oa8NH9oVcIUGkwzRiuH": "https://www.dropbox.com/scl/fi/drh5kefq5t74nzs23ssj8/Granger-Transformers-Collector.zip?rlkey=d5rqe62kxtduepusk5urva8fz&st=bxhs8coh&dl=1",
-              "-Oa8NH9oVcIUGkwzRiuI": "https://www.dropbox.com/scl/fi/tinmvjn6oepsdu1e8eu3l/Granger-Exorcist-Collector.zip?rlkey=mt71l1acgjaboo6v7zlfnm48g&st=40dd4m1f&dl=1",
-              "-Oa8NH9oVcIUGkwzRiuJ": "unavailable",
-              "-OfEKXxE23ibBqemiENy": "https://www.dropbox.com/scl/fi/m79pjc1rglrp6pm6ucjp1/Granger-Prime-Collector.zip?rlkey=07hyqf3tk3i738vyv0tkb8lml&st=ufl4hhf7&dl=1",
+              "-Oa8NH9oVcIUGkwzRiuG": "https://github.com/injctr/large/raw/main/Granger/Legend/Granger%20Legend%20-%20Collector.zip",
+              "-Oa8NH9oVcIUGkwzRiuH": "https://github.com/injctr/large/raw/main/Granger/Transformers/Granger%20Transformers%20-%20Collector.zip",
+              "-Oa8NH9oVcIUGkwzRiuI": "https://github.com/injctr/large/raw/main/Granger/Exorcist/Granger%20Exorcist%20-%20Collector.zip",
+              "-OfEKXxE23ibBqemiENy": "https://github.com/injctr/large/raw/main/Granger/Prime/Granger%20Prime-%20Collector.zip",
               "m7": "unavailable"
             }
           },
@@ -11006,14 +10931,12 @@
             "tag1": "https://i.supaimg.com/89d011e3-a8d7-4068-b50f-a84c21b7191a.png",
             "type1": "Legend",
             "type_links": {
-              "-Oa8MPkOpnk1i567RH7t": "unavailable",
-              "-Oa8MPkPdu13s33fe_wX": "https://www.dropbox.com/scl/fi/nn12ck14t0dcjz8lm7ydj/Granger-Collector-Legend.zip?rlkey=tmwdzdmpnxm893gqvx2xcfptw&st=101du0gg&dl=1",
+              "-Oa8MPkPdu13s33fe_wX": "https://github.com/injctr/large/raw/main/Granger/Collector/Granger%20Collector%20-%20Legend.zip",
               "-Oa8MPkPdu13s33fe_wY": "unavailable",
-              "-Oa8MPkPdu13s33fe_wZ": "https://www.dropbox.com/scl/fi/m8chz4du0r462f7qlz5bz/Granger-Transformers-Legend.zip?rlkey=kz1t96wxdhbn5jkz5kxwvjmpn&st=y6n96yzf&dl=1",
-              "-Oa8MPkPdu13s33fe_w_": "https://www.dropbox.com/scl/fi/dgl27ph4myjjzijpif3vf/Granger-Exorcist-Legend.zip?rlkey=64vgxwzr9dgzekvk0aiasguw3&st=kguzm9ht&dl=1",
-              "-Oa8MPkPdu13s33fe_wa": "unavailable",
-              "-OfEKYSdMFq8cCraZa8h": "https://www.dropbox.com/scl/fi/em8n5canvg5pcgoqp5g0p/Granger-Prime-Legend.zip?rlkey=7tsawn4u62paj6nf4ykevebrl&st=0c6b77lh&dl=1",
-              "m7": "https://www.dropbox.com/scl/fi/1fooaju0y7dvqrq1n57bw/Granger-M7-Legend.zip?rlkey=oxfyitf9bjxpn31powsvvis7h&st=9zhi61r5&dl=1"
+              "-Oa8MPkPdu13s33fe_wZ": "https://github.com/injctr/large/raw/main/Granger/Transformers/Granger%20Transformers%20-%20Legend.zip",
+              "-Oa8MPkPdu13s33fe_w_": "https://github.com/injctr/large/raw/main/Granger/Exorcist/Granger%20Exorcist%20-%20Legend.zip",
+              "-OfEKYSdMFq8cCraZa8h": "https://github.com/injctr/large/raw/main/Granger/Prime/Granger%20Prime%20-%20Legend.zip",
+              "m7": "https://github.com/injctr/large/raw/main/Granger/M7/Granger%20M7%20-%20Legend.zip"
             }
           },
           "-OY9eNvF-knCUy9yTpLq": {
@@ -11022,14 +10945,12 @@
             "tag1": "https://i.supaimg.com/9d4990f7-6dce-4571-83bb-a0a5553fa875.png",
             "type1": "Transformers",
             "type_links": {
-              "-Oa8Mlw6j1cAfjBK_idb": "unavailable",
-              "-Oa8Mlw7HD-lUDHK9bKH": "https://www.dropbox.com/scl/fi/rusgqhgz3v9yam2rpiw5f/Granger-Collector-Transformers.zip?rlkey=yuprsmg2lep9zi6f3g0tbxso3&st=1nflnpbk&dl=1",
-              "-Oa8Mlw7HD-lUDHK9bKI": "https://www.dropbox.com/scl/fi/j6iu9321j1abes4tmt50j/Granger-Legend-Transformers.zip?rlkey=fx9h0yf03q72c9bk9onqjwtpy&st=bwq4rq5d&dl=1",
+              "-Oa8Mlw7HD-lUDHK9bKH": "https://github.com/injctr/large/raw/main/Granger/Collector/Granger%20Collector%20-%20Transformers.zip",
+              "-Oa8Mlw7HD-lUDHK9bKI": "https://github.com/injctr/large/raw/main/Granger/Legend/Granger%20Legend%20-%20Transformers.zip",
               "-Oa8Mlw7HD-lUDHK9bKJ": "unavailable",
               "-Oa8Mlw7HD-lUDHK9bKK": "unavailable",
-              "-Oa8Mlw7HD-lUDHK9bKL": "unavailable",
-              "-OfEKYsGpM2ortqF59Bh": "https://www.dropbox.com/scl/fi/g0979riqombxmsl8a3a19/Granger-Prime-Transformers.zip?rlkey=x03081ofw5oy53rhfecsppo4f&st=bzp96j4c&dl=1",
-              "m7": "https://www.dropbox.com/scl/fi/zzhe1kr8d2vabeew0f5fx/Granger-M7-Transformers.zip?rlkey=0ovassfy920c3iz7uuk9uz4sv&st=wkg4igqa&dl=1"
+              "-OfEKYsGpM2ortqF59Bh": "https://github.com/injctr/large/raw/main/Granger/Prime/Granger%20Prime%20-%20Transformers.zip",
+              "m7": "https://github.com/injctr/large/raw/main/Granger/M7/Granger%20M7%20-%20Transformers.zip"
             }
           },
           "-OY9eWnAC-jXyeqEYaoL": {
@@ -11038,14 +10959,12 @@
             "tag1": "https://i.supaimg.com/5f48ccb2-a063-440f-958f-89f964bcf7ab.png",
             "type1": "Create",
             "type_links": {
-              "-Oa8M8ccYMQYhOBT4Sbi": "unavailable",
-              "-Oa8M8cdwy342ZXFOfjC": "https://www.dropbox.com/scl/fi/ukotymebyeiz5cjytdor1/Granger-Collector-Create.zip?rlkey=c5r0oq4ej8vt57wxnj0171xwu&st=bokdmd5i&dl=1",
-              "-Oa8M8cdwy342ZXFOfjD": "https://www.dropbox.com/scl/fi/ul61n2lmp2a03hqt3ok9m/Granger-Legend-Create.zip?rlkey=4n30wrqxx5xwi3745oenzg21p&st=o1yv9xjc&dl=1",
-              "-Oa8M8cgoMZoDxXTol9O": "https://www.dropbox.com/scl/fi/b23ennybdbaem763lsvs9/Granger-Transformers-Create.zip?rlkey=srohe5c1cslod3hlnjgjoanf7&st=7vjz4qb7&dl=1",
+              "-Oa8M8cdwy342ZXFOfjC": "https://github.com/injctr/large/raw/main/Granger/Collector/Granger%20Collector%20-%20Create.zip",
+              "-Oa8M8cdwy342ZXFOfjD": "https://github.com/injctr/large/raw/main/Granger/Legend/Granger%20Legend%20-%20Create.zip",
+              "-Oa8M8cgoMZoDxXTol9O": "https://github.com/injctr/large/raw/main/Granger/Transformers/Granger%20Transformers%20-%20Create.zip",
               "-Oa8M8cgoMZoDxXTol9P": "unavailable",
-              "-Oa8M8cgoMZoDxXTol9Q": "unavailable",
-              "-OfEKZQGGUr-zHjBW2dh": "https://www.dropbox.com/scl/fi/icoxm5t1dvyccedzlb35u/Granger-Prime-Special.zip?rlkey=t3zcapxvropgdat4qpbjt278r&st=p2ocm965&dl=1",
-              "m7": "https://www.dropbox.com/scl/fi/lps4kr4yenl3ceuwlfa58/Granger-M7-Create.zip?rlkey=o3ioync7o66d66uibfik7wymw&st=br991stq&dl=1"
+              "-OfEKZQGGUr-zHjBW2dh": "https://github.com/injctr/large/raw/main/Granger/Prime/Granger%20Prime%20-%20Special.zip",
+              "m7": "https://github.com/injctr/large/raw/main/Granger/M7/Granger%20M7%20-%20Create.zip"
             }
           },
           "-OY9eb9aYPLtgQMTqK5C": {
@@ -11054,14 +10973,12 @@
             "tag1": "https://i.supaimg.com/0f3570aa-7416-4546-b3e7-47348e62cad3.png",
             "type1": "Exorcist",
             "type_links": {
-              "-Oa8MKKLzaJpTGEiOQq2": "unavailable",
-              "-Oa8MKKMorbUIyWn4Ydr": "https://www.dropbox.com/scl/fi/u9yxsv2xn4begluizdjxv/Granger-Collector-Exorcist.zip?rlkey=6t0h5tszh86rab9e8t21hcdim&st=gs2kk0sf&dl=1",
-              "-Oa8MKKMorbUIyWn4Yds": "https://www.dropbox.com/scl/fi/c85uaj1oyk9j9cq33oswd/Granger-Legend-Exorcist.zip?rlkey=xyh4swrvxtueid1mvkjeb2exi&st=ey5snvcn&dl=1",
-              "-Oa8MKKNHWP50tzw86Jm": "https://www.dropbox.com/scl/fi/0oyxcgpddrmo6aivl2u0q/Granger-Transformers-Exorcist.zip?rlkey=4l86tmzmrijelvrgaz08ek0k7&st=yyz68z3f&dl=1",
+              "-Oa8MKKMorbUIyWn4Ydr": "https://github.com/injctr/large/raw/main/Granger/Collector/Granger%20Collector%20-%20Exorcist.zip",
+              "-Oa8MKKMorbUIyWn4Yds": "https://github.com/injctr/large/raw/main/Granger/Legend/Granger%20Legend%20-%20Exorcist.zip",
+              "-Oa8MKKNHWP50tzw86Jm": "https://github.com/injctr/large/raw/main/Granger/Transformers/Granger%20Transformers%20-%20Exorcist.zip",
               "-Oa8MKKNHWP50tzw86Jn": "unavailable",
-              "-Oa8MKKNHWP50tzw86Jo": "unavailable",
-              "-OfEK_1ygF3YLvWj-N7l": "https://www.dropbox.com/scl/fi/2cr6i88btf0hpzl05go2d/Granger-Prime-Exorcist.zip?rlkey=upphuggzy1tstxv60vxksqusl&st=i53l5clf&dl=1",
-              "m7": "https://www.dropbox.com/scl/fi/vjup5dc88rjisdb9yarz5/Granger-M7-Exorcist.zip?rlkey=k6v1taq4f81qyy3mkqwt3h7y0&st=uqv7vkd2&dl=1"
+              "-OfEK_1ygF3YLvWj-N7l": "https://github.com/injctr/large/raw/main/Granger/Prime/Granger%20Prime%20-%20Exorcist.zip",
+              "m7": "https://github.com/injctr/large/raw/main/Granger/M7/Granger%20M7%20-%20Exorcist.zip"
             }
           },
           "-OY9efGjIQyvySRolMmi": {
@@ -11070,24 +10987,16 @@
             "tag1": "https://i.supaimg.com/10e40386-9b0a-4369-9f84-746246e272d9.png",
             "type1": "Valentine",
             "type_links": {
-              "-Oa8Mzucn3CdltnPWLxE": "unavailable",
-              "-Oa8Mzucn3CdltnPWLxF": "https://www.dropbox.com/scl/fi/0fw7gh0gvne83u9geej1g/Granger-Collector-Valentine.zip?rlkey=vd8b3fzvgjotxvsihy6tx2jjq&st=cxiwqhd4&dl=1",
-              "-Oa8MzudJ-GdKEQbCFUu": "https://www.dropbox.com/scl/fi/mnbhs7zw63pwrm28rr93c/Granger-Legend-Valentine.zip?rlkey=6lxn2n7dynytk6ko4rw2csvnl&st=94wjsw4k&dl=1",
-              "-Oa8MzudJ-GdKEQbCFUv": "https://www.dropbox.com/scl/fi/9h38upg108j2zhzsf7t6u/Granger-Transformers-Valentine.zip?rlkey=ns2ytinshxju4dn8lc03eedir&st=k4sqh9i1&dl=1",
+              "-Oa8Mzucn3CdltnPWLxF": "https://github.com/injctr/large/raw/main/Granger/Collector/Granger%20Collector%20-%20Valentine.zip",
+              "-Oa8MzudJ-GdKEQbCFUu": "https://github.com/injctr/large/raw/main/Granger/Legend/Granger%20Legend%20-%20Valentine.zip",
+              "-Oa8MzudJ-GdKEQbCFUv": "https://github.com/injctr/large/raw/main/Granger/Transformers/Granger%20Transformers%20-%20Valentine.zip",
               "-Oa8MzudJ-GdKEQbCFUw": "unavailable",
-              "-Oa8MzudJ-GdKEQbCFUx": "unavailable",
-              "-OfEKbGNKlQQOVBqL_Rs": "https://www.dropbox.com/scl/fi/5j4lf6rz2p61kxlqdefpi/Granger-Prime-Valentine.zip?rlkey=wtl56ma3jm94w82y3stkw8grp&st=i83sck6b&dl=1",
+              "-OfEKbGNKlQQOVBqL_Rs": "https://github.com/injctr/large/raw/main/Granger/Prime/Granger%20Prime%20-%20Valentine.zip",
               "m7": "unavailable"
             }
           }
         },
         "Skins": {
-          "-Oa8LuHQN-UHRC_o4WtS": {
-            "img2": "https://i.supaimg.com/4f6cbb36-2157-46d2-b391-86eddd9d7f33.png",
-            "name2": "Lightborn - Overrider",
-            "tag2": "https://i.supaimg.com/69a7a5dd-6136-442a-b82c-c5bd54dbac46.png",
-            "type2": "Lightborn"
-          },
           "-Oa8Lv-N0oU_tfAPaGX7": {
             "img2": "https://i.supaimg.com/02f50d14-a682-4712-969b-38c6ac769f83.png",
             "name2": "Agent Z",
@@ -11111,12 +11020,6 @@
             "name2": "Exorcist Granger",
             "tag2": "https://i.supaimg.com/0f3570aa-7416-4546-b3e7-47348e62cad3.png",
             "type2": "Exorcist"
-          },
-          "-Oa8Ly84OxFWY3ake_6N": {
-            "img2": "https://i.supaimg.com/1ed1d05e-3101-44fd-a499-18e7556e20f1.png",
-            "name2": "Alluring Enigma",
-            "tag2": "https://i.supaimg.com/10e40386-9b0a-4369-9f84-746246e272d9.png",
-            "type2": "Valentine"
           },
           "-OfEIxO-MaQDFIhOwh0m": {
             "img2": "https://i.supaimg.com/86516f44-23e7-4cd7-8b42-e56a815d7583.jpg",
@@ -12121,7 +12024,7 @@
             "tag1": "https://i.supaimg.com/7adfbdf7-50c4-429f-92e4-5929f8f57719.png",
             "type1": "Metro Zero",
             "type_links": {
-              "STARLIGHT": "unavailable",
+              "STARLIGHT" : "unavailable",
               "METRO ZERO": "unavailable"
             }
           }
@@ -13125,9 +13028,7 @@
             "name1": "Dreambound Pixie",
             "tag1": "https://i.supaimg.com/c14ee52a-ba69-4367-b954-f3b4a306e953.png",
             "type1": "Epic",
-            "type_links": {
-              "-ObO0po9Mr2a5J-qDx8S": "unavailable"
-            }
+            "type_links": {"-ObO0po9Mr2a5J-qDx8S": "unavailable"}
           }
         },
         "Skins": {
@@ -13166,36 +13067,28 @@
             "name1": "Royal Magus",
             "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
             "type1": "Elite",
-            "type_links": {
-              "-Of7g494wWBq6UM8c_x6": "unavailable"
-            }
+            "type_links": {"-Of7g494wWBq6UM8c_x6": "unavailable"}
           },
           "-OYA5sNIuAifT7OnF8Kq": {
             "img1": "https://i.supaimg.com/e52d26b7-97b1-43e9-91ce-44f672712061.png",
             "name1": "Summer Sparks",
             "tag1": "https://i.supaimg.com/bbcebe6d-4db4-451e-97bd-35c31bae9765.png",
             "type1": "Summer",
-            "type_links": {
-              "-Of7g4vK_pK-NlW1Sjvn": "unavailable"
-            }
+            "type_links": {"-Of7g4vK_pK-NlW1Sjvn": "unavailable"}
           },
           "-OYA5yqENJ4UEPG5R1Bt": {
             "img1": "https://i.supaimg.com/38a847b7-2695-4a23-82c1-72dd5517ee92.png",
             "name1": "Infernal Magister",
             "tag1": "https://i.supaimg.com/8adeac8e-9c27-4856-b889-c19e2c4c815b.png",
             "type1": "Mythic 2023",
-            "type_links": {
-              "-Of7g5vTjze2FUdsEBK3": "unavailable"
-            }
+            "type_links": {"-Of7g5vTjze2FUdsEBK3": "unavailable"}
           },
           "-OYA64dnY8lmkcMTMlQi": {
             "img1": "https://i.supaimg.com/6c252337-f73a-47ec-bfd8-54407e2e8103.png",
             "name1": "Enigmatic Wayfarer",
             "tag1": "https://i.supaimg.com/c8e26724-94b6-4ea2-89e0-109641adecb3.png",
             "type1": "Season 37",
-            "type_links": {
-              "-Of7g6WrVOF23IhgwTEd": "unavailable"
-            }
+            "type_links": {"-Of7g6WrVOF23IhgwTEd": "unavailable"}
           }
         },
         "Skins": {
@@ -13362,9 +13255,7 @@
             "name1": "Fairytaler",
             "tag1": "https://i.supaimg.com/c14ee52a-ba69-4367-b954-f3b4a306e953.png",
             "type1": "Epic",
-            "type_links": {
-              "-O_kRzudLWt_SPWox6a3": "unavailable"
-            }
+            "type_links": {"-O_kRzudLWt_SPWox6a3": "unavailable"}
           },
           "-OYA7Su5jyXnYzh5mnJv": {
             "img1": "https://i.supaimg.com/7a636855-cce2-4920-95e9-f59524f726fb.png",
@@ -13412,45 +13303,35 @@
             "name1": "Kaminari",
             "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
             "type1": "Starlight 2019",
-            "type_links": {
-              "-Of7h6v0DdDNfSy5fO3m": "unavailable"
-            }
+            "type_links": {"-Of7h6v0DdDNfSy5fO3m": "unavailable"}
           },
           "-OYA7u-uP-NtROZaoK5Q": {
             "img1": "https://i.supaimg.com/a0eda283-f035-4546-b7e0-a7b287e4934b.png",
             "name1": "Horror Whiplash",
             "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
             "type1": "Elite",
-            "type_links": {
-              "-Of7h6TIHECFsY_PB0Ek": "unavailable"
-            }
+            "type_links": {"-Of7h6TIHECFsY_PB0Ek": "unavailable"}
           },
           "-OYA7xR3jaZu2IXqAaOm": {
             "img1": "https://i.supaimg.com/d3ad4a74-7368-487d-b5b3-28888ae679a3.png",
             "name1": "Skyblocker",
             "tag1": "https://i.supaimg.com/92fafc3f-bc67-4413-8903-d41b5d6d119d.png",
             "type1": "Luckybox",
-            "type_links": {
-              "-Of7h5l2LZk-dfizsScF": "unavailable"
-            }
+            "type_links": {"-Of7h5l2LZk-dfizsScF": "unavailable"}
           },
           "-OYA825_X8yyL32veZ3y": {
             "img1": "https://i.supaimg.com/7f2624e8-f4c6-49fa-ac75-b7fcb13de242.png",
             "name1": "Crow Magician",
             "tag1": "https://i.supaimg.com/1864d44e-e210-4cb2-bd25-49bd0204f52e.png",
             "type1": "Season 20",
-            "type_links": {
-              "-Of7h5IJgCDTALTyQth7": "unavailable"
-            }
+            "type_links": {"-Of7h5IJgCDTALTyQth7": "unavailable"}
           },
           "-OYA85zm76JRDGQhEoVY": {
             "img1": "https://i.supaimg.com/2375198f-f374-4d0e-bf27-86c88b5040d2.png",
             "name1": "Inferno Taskmaster",
             "tag1": "https://i.supaimg.com/c14ee52a-ba69-4367-b954-f3b4a306e953.png",
             "type1": "Epic",
-            "type_links": {
-              "-Of7h4KDalZFY0PFxMav": "unavailable"
-            }
+            "type_links": {"-Of7h4KDalZFY0PFxMav": "unavailable"}
           }
         },
         "Skins": {
@@ -13489,27 +13370,21 @@
             "name1": "Magician Girl",
             "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
             "type1": "Elite",
-            "type_links": {
-              "-Of7bT_12-4WhIPRASHw": "unavailable"
-            }
+            "type_links": {"-Of7bT_12-4WhIPRASHw": "unavailable"}
           },
           "-OYA8adwHKyf_FAZtp5K": {
             "img1": "https://i.supaimg.com/aa05dd45-1de8-4add-8df6-4c3fac189433.png",
             "name1": "Phantom Countess",
             "tag1": "https://i.supaimg.com/10e40386-9b0a-4369-9f84-746246e272d9.png",
             "type1": "Valentine",
-            "type_links": {
-              "-Of7bTwxZ3gJGFyu0a2y": "unavailable"
-            }
+            "type_links": {"-Of7bTwxZ3gJGFyu0a2y": "unavailable"}
           },
           "-OYA8e0WrNeVXaBA54Qe": {
             "img1": "https://i.supaimg.com/a681eeae-444c-4888-9c94-47fbf5b2a68f.png",
             "name1": "Astral Arcana",
             "tag1": "https://i.supaimg.com/c14ee52a-ba69-4367-b954-f3b4a306e953.png",
             "type1": "Epic",
-            "type_links": {
-              "-Of7bUWMqCtwBGBWuIhy": "unavailable"
-            }
+            "type_links": {"-Of7bUWMqCtwBGBWuIhy": "unavailable"}
           }
         },
         "Skins": {
@@ -13548,9 +13423,7 @@
             "name1": "Sakura Haruno",
             "tag1": "https://i.supaimg.com/5ca8a038-cedd-40fe-9373-30f180eba081.png",
             "type1": "Naruto",
-            "type_links": {
-              "-Of7hJy_UFE2uP9Ov01v": "unavailable"
-            }
+            "type_links": {"-Of7hJy_UFE2uP9Ov01v": "unavailable"}
           }
         },
         "Skins": {
@@ -13633,9 +13506,7 @@
             "name1": "Volcanic Overlord",
             "tag1": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
             "type1": "Collector",
-            "type_links": {
-              "-Of7imosxGa2NTc7QlvR": "unavailable"
-            }
+            "type_links": {"-Of7imosxGa2NTc7QlvR": "unavailable"}
           },
           "-OY9sjlzIcPqxaKLVBE_": {
             "img1": "https://i.supaimg.com/6b8c8d20-2c89-4d19-8b7b-da9ecead6b55.png",
@@ -13811,9 +13682,7 @@
             "name1": "Lightborn - Defender",
             "tag1": "https://i.supaimg.com/69a7a5dd-6136-442a-b82c-c5bd54dbac46.png",
             "type1": "Lightborn",
-            "type_links": {
-              "-Of7nXUBIXoNClSLZppm": "unavailable"
-            }
+            "type_links": {"-Of7nXUBIXoNClSLZppm": "unavailable"}
           },
           "-OY9uBsaCM6FCs-9XL-L": {
             "img1": "https://i.supaimg.com/d7a0bde8-c4f1-48b0-8551-7ab4e8b7ad4f.png",
@@ -13829,27 +13698,21 @@
             "name1": "Galactic Marshal",
             "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
             "type1": "Starlight 2022",
-            "type_links": {
-              "-Of7nYUKchGslsCM9EbJ": "unavailable"
-            }
+            "type_links": {"-Of7nYUKchGslsCM9EbJ": "unavailable"}
           },
           "-OY9uLt2-27F4y8S_pg9": {
             "img1": "https://i.supaimg.com/ad20b211-e3ee-48f7-b7d3-b8b8ee74ffcc.png",
             "name1": "Pasha of Justice",
             "tag1": "https://i.supaimg.com/7aef5066-a2a7-4965-8c68-ed45269d028b.png",
             "type1": "Special 2",
-            "type_links": {
-              "-Of7nZBKu3UBDBIVoUZn": "unavailable"
-            }
+            "type_links": {"-Of7nZBKu3UBDBIVoUZn": "unavailable"}
           },
           "-Of7nF6y1Zw2W5mpRPB0": {
             "img1": "https://i.supaimg.com/302adfd0-a27e-47ac-8c30-127cd9e5b5b4.jpg",
             "name1": "Celestial General",
             "tag1": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
             "type1": "Collector",
-            "type_links": {
-              "-Of7nH00u9ssHGvnzEJD": "unavailable"
-            }
+            "type_links": {"-Of7nH00u9ssHGvnzEJD": "unavailable"}
           }
         },
         "Skins": {
@@ -14042,9 +13905,7 @@
             "name1": "Taurus",
             "tag1": "https://i.supaimg.com/8d9c38f9-3a19-4b23-b18b-4a8ce18e26ae.png",
             "type1": "Zodiac",
-            "type_links": {
-              "-ObO21dXI5z6zXzC-q74": "unavailable"
-            }
+            "type_links": {"-ObO21dXI5z6zXzC-q74": "unavailable"}
           },
           "-OY9wI4fk4y_hFHzEeSQ": {
             "img1": "https://i.supaimg.com/960d91c1-ae7c-4da8-98b2-39254c4e11fc.png",
@@ -14428,7 +14289,7 @@
             "tag1": "",
             "type1": "Default",
             "type_links": {
-              "-Of7gRq90VkHEROgJbaD": "https://www.dropbox.com/scl/fi/sfpxj7vjh3mnf1itvi7cl/Grock-Epic-Default.zip?rlkey=kelrmjqx17dv15w962f1wswsh&st=fj8hu4gh&dl=1"
+              "-Of7gRq90VkHEROgJbaD": "https://github.com/injctr/large/raw/main/Grock/Epic/Grock%20Epic%20-%20Default.zip"
             }
           },
           "-OY9zxZs49NU4g2dW6EU": {
@@ -14437,7 +14298,7 @@
             "tag1": "",
             "type1": "Basic",
             "type_links": {
-              "-Of7gPznvmtpyx1GPH_c": "https://www.dropbox.com/scl/fi/jxcypwg8az2xyqcjt1juk/Grock-Epic-Basic.zip?rlkey=nahi5jq90wttuez6xlqxlqnzh&st=7zpdzhgb&dl=1"
+              "-Of7gPznvmtpyx1GPH_c": "https://github.com/injctr/large/raw/main/Grock/Epic/Grock%20Epic%20-%20Basic.zip"
             }
           },
           "-OYA-1XrhzOS6VsxvZWK": {
@@ -14446,7 +14307,7 @@
             "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
             "type1": "Elite",
             "type_links": {
-              "-Of7gTqzguf5DIgV-VvR": "https://www.dropbox.com/scl/fi/9gj5nqg407xxrci9s43gu/Grock-Epic-Elite.zip?rlkey=5cjbbyqzhzpysflh6cka55hpr&st=27vza9zb&dl=1"
+              "-Of7gTqzguf5DIgV-VvR": "https://github.com/injctr/large/raw/main/Grock/Epic/Grock%20Epic%20-%20Elite.zip"
             }
           },
           "-OYA-8UXIW5JoXtoOmIj": {
@@ -14454,9 +14315,7 @@
             "name1": "V.E.N.O.M. Monitor Lizard",
             "tag1": "https://i.supaimg.com/86422ed2-4db0-49ca-ab4a-ab1d460a1fb8.png",
             "type1": "V.E.N.O.M.",
-            "type_links": {
-              "-Of7ge2goLwNY6gT50Ma": "unavailable"
-            }
+            "type_links": {"-Of7ge2goLwNY6gT50Ma": "unavailable"}
           },
           "-OYA-EErYTjz_ieLIg0r": {
             "img1": "https://i.supaimg.com/41974c63-32f6-4680-9b44-c0ede890b9a1.png",
@@ -14464,7 +14323,7 @@
             "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
             "type1": "Starlight 2019",
             "type_links": {
-              "-Of7gc6c4Z6QHA6nTCHt": "https://www.dropbox.com/scl/fi/1trprkudkvy8m4nro0v4l/Grock-Epic-Starlight.zip?rlkey=xjgu3zk2nd3jk070odykn2nmn&st=by24du8v&dl=1"
+              "-Of7gc6c4Z6QHA6nTCHt": "https://github.com/injctr/large/raw/main/Grock/Epic/Grock%20Epic%20-%20Starlight.zip"
             }
           },
           "-OYA-I9fvBb9-_PssIcq": {
@@ -14472,9 +14331,7 @@
             "name1": "Codename: Rhino",
             "tag1": "https://i.supaimg.com/c14ee52a-ba69-4367-b954-f3b4a306e953.png",
             "type1": "Epic",
-            "type_links": {
-              "-Of7gfGlcqd7ZedvJkO-": "unavailable"
-            }
+            "type_links": {"-Of7gfGlcqd7ZedvJkO-": "unavailable"}
           },
           "-OYA-Oc2BRmsHYkCJoOv": {
             "img1": "https://i.supaimg.com/01a27cfe-f0c9-4553-bb05-441380d6dbae.png",
@@ -14482,7 +14339,7 @@
             "tag1": "https://i.supaimg.com/979dd12f-885b-447f-98f0-52323263f10d.png",
             "type1": "Season 24",
             "type_links": {
-              "-Of7gWJcyMWvPtyoQLFu": "https://www.dropbox.com/scl/fi/l1aqthz4c36uozl652hrz/Grock-Epic-Season.zip?rlkey=hqbdona9bt3quail0zota50sh&st=yf2dxyw6&dl=1"
+              "-Of7gWJcyMWvPtyoQLFu": "https://github.com/injctr/large/raw/main/Grock/Epic/Grock%20Epic%20-%20Season.zip"
             }
           },
           "-OYA-TDiqORa5zpKXhSX": {
@@ -14491,7 +14348,7 @@
             "tag1": "https://i.supaimg.com/7aef5066-a2a7-4965-8c68-ed45269d028b.png",
             "type1": "Special",
             "type_links": {
-              "-Of7gYYft57lNBp9wf11": "https://www.dropbox.com/scl/fi/yf5dwhdpjs26e7nvwiefm/Grock-Epic-Special.zip?rlkey=0tdo2bz3etfnz7ljhstg5emy9&st=q36ux1rj&dl=1"
+              "-Of7gYYft57lNBp9wf11": "https://github.com/injctr/large/raw/main/Grock/Epic/Grock%20Epic%20-%20Special.zip"
             }
           }
         },
@@ -14514,9 +14371,9 @@
             "tag1": "",
             "type1": "Default",
             "type_links": {
-              "-Oa8KnPRFrPiTCxAJgPX": "https://www.dropbox.com/scl/fi/5e9u42z9aljix1n4k55au/Gatotkaca-Luckybox-Default.zip?rlkey=iyxe86odnkyyctbbdh4piyqdh&st=gk7qwmn3&dl=1",
-              "-Oa8KnPRFrPiTCxAJgPY": "https://www.dropbox.com/scl/fi/s2ssmkyl8n3zipx5mk7xs/Gatotkaca-Epic-Tide-Default.zip?rlkey=g7g6yzyj3f1gbvyf75eqfke3q&st=t87bc598&dl=1",
-              "-Oa8KnPRFrPiTCxAJgPZ": "https://www.dropbox.com/scl/fi/7ryp5lub1w6mn2jr0uoz9/Gatotkaca-Starlight-Default.zip?rlkey=hvt4lx4ot3ohd4enx63ncxg4w&st=52k84pe8&dl=1"
+              "-Oa8KnPRFrPiTCxAJgPX": "https://github.com/injctr/large/raw/main/Gatotkaca/Luckybox/Gatotkaca%20Luckybox%20-%20Default.zip",
+              "-Oa8KnPRFrPiTCxAJgPY": "https://github.com/injctr/large/raw/main/Gatotkaca/Epic%20Tide/Gatotkaca%20Epic%20Tide%20-%20Default.zip",
+              "-Oa8KnPRFrPiTCxAJgPZ": "https://github.com/injctr/large/raw/main/Gatotkaca/Starlight/Gatotkaca%20Starlight%20-%20Default.zip"
             }
           },
           "-OYA-qUc-PnMe3Lgv-hV": {
@@ -14525,9 +14382,9 @@
             "tag1": "",
             "type1": "Basic",
             "type_links": {
-              "-Oa8KjZksP0UKOAXYpb-": "https://www.dropbox.com/scl/fi/nxg0rbbtm4bcxs55otfyd/Gatotkaca-Luckybox-Basic.zip?rlkey=lenrmuafir5dpsgc9qbabta8h&st=q7zpl5q3&dl=1",
-              "-Oa8KjZl5x9OQ-zY3kuy": "https://www.dropbox.com/scl/fi/909652v6vha9cj6ynt40u/Gatotkaca-Epic-Tide-Basic.zip?rlkey=h4pik3nvo5xda8bob9zj8v471&st=lbeqs48p&dl=1",
-              "-Oa8KjZmkRedrySNcC0N": "https://www.dropbox.com/scl/fi/kpr33jisqg2skylmuuo5l/Gatotkaca-Starlight-Basic.zip?rlkey=2jqrby33wc0f0ny4wfdtzehcw&st=zl7rnzky&dl=1"
+              "-Oa8KjZksP0UKOAXYpb-": "https://github.com/injctr/large/raw/main/Gatotkaca/Luckybox/Gatotkaca%20Luckybox%20-%20Basic.zip",
+              "-Oa8KjZl5x9OQ-zY3kuy": "https://github.com/injctr/large/raw/main/Gatotkaca/Epic%20Tide/Gatotkaca%20Epic%20Tide%20-%20Basic.zip",
+              "-Oa8KjZmkRedrySNcC0N": "https://github.com/injctr/large/raw/main/Gatotkaca/Starlight/Gatotkaca%20Starlight%20-%20Basic.zip"
             }
           },
           "-OYA-vXSs0AQPa3qWrNo": {
@@ -14536,7 +14393,7 @@
             "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
             "type1": "Elite 1",
             "type_links": {
-              "-Oa8KqFUTTM5RBiFMOel": "https://www.dropbox.com/scl/fi/n5ljuvamb70o09lvpt7dq/Gatotkaca-Luckybox-Elite-Arhat.zip?rlkey=6hqxu8grudkf957uvzkviu8nm&st=rqxoqmgw&dl=1",
+              "-Oa8KqFUTTM5RBiFMOel": "https://github.com/injctr/large/raw/main/Gatotkaca/Luckybox/Gatotkaca%20Luckybox%20-%20Elite%20Arhat.zip",
               "-Oa8KqFUTTM5RBiFMOem": "unavailable",
               "-Oa8KqFUTTM5RBiFMOen": "unavailable"
             }
@@ -14558,7 +14415,7 @@
             "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
             "type1": "Elite 2",
             "type_links": {
-              "-Oa8KtA6Kmj2wh9GQjjG": "https://www.dropbox.com/scl/fi/4d11wx27291y8isue0xo2/Gatotkaca-Luckybox-Elite-Spark.zip?rlkey=glsnmbiq23zss1scy58n55f2e&st=zt9tuo22&dl=1",
+              "-Oa8KtA6Kmj2wh9GQjjG": "https://github.com/injctr/large/raw/main/Gatotkaca/Luckybox/Gatotkaca%20Luckybox%20-%20Elite%20Spark.zip",
               "-Oa8KtA7aaQ3HaETHAXY": "unavailable",
               "-Oa8KtA85nw0Y260d2dg": "unavailable"
             }
@@ -14569,7 +14426,7 @@
             "tag1": "https://i.supaimg.com/c14ee52a-ba69-4367-b954-f3b4a306e953.png",
             "type1": "Epic",
             "type_links": {
-              "-Oa8KvWXulOfku_4kNkP": "https://www.dropbox.com/scl/fi/q4f9bsh4rbhx2ioy7ztq4/Gatotkaca-Luckybox-Epic.zip?rlkey=yh2iaqtbtjtlpwsubzzzliyzz&st=qykldaq1&dl=1",
+              "-Oa8KvWXulOfku_4kNkP": "https://github.com/injctr/large/raw/main/Gatotkaca/Luckybox/Gatotkaca%20Luckybox%20-%20Epic.zip",
               "-Oa8KvWXulOfku_4kNkQ": "unavailable",
               "-Oa8KvWXulOfku_4kNkR": "unavailable"
             }
@@ -14580,7 +14437,7 @@
             "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
             "type1": "Starlight 2024",
             "type_links": {
-              "-Oa8KyylfsFLCYJBp75A": "https://www.dropbox.com/scl/fi/3wy2ru5n0frmln8tv3tiw/Gatotkaca-Luckybox-Starlight.zip?rlkey=ff3msawrf16wjw4bwdgh3ujfa&st=8al88w2o&dl=1",
+              "-Oa8KyylfsFLCYJBp75A": "https://github.com/injctr/large/raw/main/Gatotkaca/Luckybox/Gatotkaca%20Luckybox%20-%20Starlight.zip",
               "-Oa8KyylfsFLCYJBp75B": "unavailable",
               "-Oa8KyymoNIhKYIQ2ZSf": "unavailable"
             }
@@ -14661,9 +14518,7 @@
             "name1": "Arbiter of Stars",
             "tag1": "https://i.supaimg.com/c14ee52a-ba69-4367-b954-f3b4a306e953.png",
             "type1": "Epic",
-            "type_links": {
-              "-Of7a4WJVbGpOw1EsflP": "unavailable"
-            }
+            "type_links": {"-Of7a4WJVbGpOw1EsflP": "unavailable"}
           }
         },
         "Skins": {
@@ -14685,8 +14540,8 @@
             "tag1": "",
             "type1": "Default",
             "type_links": {
-              "-Of7gFiAPnsRcF_QZ4X-": "https://www.dropbox.com/scl/fi/g27hk33ke8kcyuifgqoti/Gloo-Special-Default.zip?rlkey=nrymys8oip6khbebxitvsjinm&st=yrsvzm5p&dl=1",
-              "-OfEMeoOaoZxapE8GPuA": "https://www.dropbox.com/scl/fi/xv3i8etmx25dtnyd1faac/Gloo-Patrick-Default.zip?rlkey=suuyzhnz3xv5kgd4xgczupo3r&st=v4w7k3ja&dl=1"
+              "-Of7gFiAPnsRcF_QZ4X-": "https://github.com/injctr/large/raw/main/Gloo/Special/Gloo%20Special%20-%20Default.zip",
+              "-OfEMeoOaoZxapE8GPuA": "https://github.com/injctr/large/raw/main/Gloo/Patrick/Gloo%20Patrick%20-%20Default.zip"
             }
           },
           "-OYA9Yz_WQytUJ1l35kV": {
@@ -14695,8 +14550,8 @@
             "tag1": "",
             "type1": "Basic",
             "type_links": {
-              "-Of7gDgChvN41lztuu4V": "https://www.dropbox.com/scl/fi/y9yjoc1kpx8l51u244v10/Gloo-Special-Basic.zip?rlkey=sgypl2ynny474j9cuxp9htzvm&st=3frd8a7i&dl=1",
-              "-OfEMd0aQ-nrINiuHjaL": "https://www.dropbox.com/scl/fi/nxxihuznp813xi5l7sc7a/Gloo-Patrick-Basic.zip?rlkey=51wg33j6gxocg7rsqyht542gm&st=q64qpm0o&dl=1"
+              "-Of7gDgChvN41lztuu4V": "https://github.com/injctr/large/raw/main/Gloo/Special/Gloo%20Special%20-%20Basic.zip",
+              "-OfEMd0aQ-nrINiuHjaL": "https://github.com/injctr/large/raw/main/Gloo/Patrick/Gloo%20Patrick%20-%20Basic.zip"
             }
           },
           "-OYA9bc1Kv_BNcr23d6l": {
@@ -14706,7 +14561,7 @@
             "type1": "Special",
             "type_links": {
               "-Of7gCphbGf_n8hEsPOF": "unavailable",
-              "-OfEMhFUh1pnm6z0AMA0": "https://www.dropbox.com/scl/fi/3l13wjvaesmcjp2eojegx/Gloo-Patrick-Special.zip?rlkey=pa86ueavbjkuj1iq5cbaqoglx&st=h2j1ms5e&dl=1"
+              "-OfEMhFUh1pnm6z0AMA0": "https://github.com/injctr/large/raw/main/Gloo/Patrick/Gloo%20Patrick%20-%20Special.zip"
             }
           }
         },
