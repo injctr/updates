@@ -457,7 +457,8 @@
               "04 NEW_COLLECTOR": "https://github.com/injctr/large/raw/main/Gusion/New%20Collector/Gusion%20Collector%20-%20Default.zip",
               "05 ELEVEN": "https://github.com/injctr/large/raw/main/Gusion/11.11/Gusion%2011.11%20-%20Default.zip",
               "06 NEW_STARLIGHT": "https://github.com/injctr/large/raw/main/Gusion/Starlight/Gusion%20Starlight%20Spider%20-%20Default.zip",
-              "07 OLD_STARLIGHT": "https://github.com/injctr/large/raw/main/Gusion/Old%20Starlight/Gusion%20Old%20Starlight%20-%20Default.zip"
+              "07 OLD_STARLIGHT": "https://github.com/injctr/large/raw/main/Gusion/Old%20Starlight/Gusion%20Old%20Starlight%20-%20Default.zip",
+              "08 NARUTO": "https://github.com/injctr/large/raw/main/Gusion/Minato/Gusion%20Minato%20-%20Default.zip"
             },
             "scripts": {
               "01 KOF"          : "https://rshrt.com/sd8",
@@ -466,7 +467,8 @@
               "04 NEW_COLLECTOR": "https://rshrt.com/0bZfh",
               "05 ELEVEN"       : "https://rshrt.com/giV",
               "06 NEW_STARLIGHT": "https://rshrt.com/GqJp35m",
-              "07 OLD_STARLIGHT": "https://rshrt.com/kIxJ1oG6"
+              "07 OLD_STARLIGHT": "https://rshrt.com/kIxJ1oG6",
+              "08 NARUTO": "https://rshrt.com/kASp"
             }
           },
           "02 Basic": {
@@ -481,7 +483,8 @@
               "04 NEW_COLLECTOR": "https://github.com/injctr/large/raw/main/Gusion/New%20Collector/Gusion%20Collector%20-%20Basic.zip",
               "05 ELEVEN": "https://github.com/injctr/large/raw/main/Gusion/11.11/Gusion%2011.11%20-%20Basic.zip",
               "06 NEW_STARLIGHT": "https://github.com/injctr/large/raw/main/Gusion/Starlight/Gusion%20Starlight%20Spider%20-%20Basic.zip",
-              "07 OLD_STARLIGHT": "https://github.com/injctr/large/raw/main/Gusion/Old%20Starlight/Gusion%20Old%20Starlight%20-%20Basic.zip"
+              "07 OLD_STARLIGHT": "https://github.com/injctr/large/raw/main/Gusion/Old%20Starlight/Gusion%20Old%20Starlight%20-%20Basic.zip",
+              "08 NARUTO": "https://github.com/injctr/large/raw/main/Gusion/Minato/Gusion%20Minato%20-%20Basic.zip"
             },
             "scripts": {
               "01 KOF"          : "https://rshrt.com/iQsfMIv",
@@ -490,7 +493,8 @@
               "04 NEW_COLLECTOR": "https://rshrt.com/V9Uxr",
               "05 ELEVEN"       : "https://rshrt.com/BJQ8K9V",
               "06 NEW_STARLIGHT": "https://rshrt.com/5eycpCm",
-              "07 OLD_STARLIGHT": "https://rshrt.com/0Mp5XU"
+              "07 OLD_STARLIGHT": "https://rshrt.com/0Mp5XU",
+              "08 NARUTO": "https://rshrt.com/WUNnAj2c"
             }
           },
           "03 Elite": {
@@ -505,7 +509,8 @@
               "04 NEW_COLLECTOR": "https://github.com/injctr/large/raw/main/Gusion/New%20Collector/Gusion%20Collector%20-%20Elite.zip",
               "05 ELEVEN": "unavailable",
               "06 NEW_STARLIGHT": "unavailable",
-              "07 OLD_STARLIGHT": "unavailable"
+              "07 OLD_STARLIGHT": "unavailable",
+              "08 NARUTO": "https://github.com/injctr/large/raw/main/Gusion/Minato/Gusion%20Minato%20-%20Elite.zip"
             },
             "scripts": {
               "01 KOF"          : "https://rshrt.com/RtA2AE",
@@ -514,7 +519,8 @@
               "04 NEW_COLLECTOR": "https://rshrt.com/6AAuP8",
               "05 ELEVEN"       : "unavailable",
               "06 NEW_STARLIGHT": "unavailable",
-              "07 OLD_STARLIGHT": "unavailable"
+              "07 OLD_STARLIGHT": "unavailable",
+              "08 NARUTO": "https://rshrt.com/YRbdzHA"
             }
           },
           "04 Starlight": {
@@ -529,7 +535,8 @@
               "04 NEW_COLLECTOR": "https://github.com/injctr/large/raw/main/Gusion/New%20Collector/Gusion%20Collector%20-%20Old%20Starlight.zip",
               "05 ELEVEN": "https://github.com/injctr/large/raw/main/Gusion/11.11/Gusion%2011.11%20-%20Old%20Starlight.zip",
               "06 NEW_STARLIGHT": "unavailable",
-              "07 OLD_STARLIGHT": "unavailable"
+              "07 OLD_STARLIGHT": "unavailable",
+              "08 NARUTO": "https://github.com/injctr/large/raw/main/Gusion/Minato/Gusion%20Minato%20-%20Old%20Starlight.zip"
             },
             "scripts": {
               "01 KOF"          : "https://rshrt.com/fZgRA2xE",
@@ -538,7 +545,8 @@
               "04 NEW_COLLECTOR": "https://rshrt.com/H1TTooMh",
               "05 ELEVEN"       : "https://rshrt.com/QBuKKem",
               "06 NEW_STARLIGHT": "unavailable",
-              "07 OLD_STARLIGHT": "unavailable"
+              "07 OLD_STARLIGHT": "unavailable",
+              "08 NARUTO": "https://rshrt.com/FkAfVz0"
             }
           },
           "05 Valentine": {
@@ -553,7 +561,8 @@
               "04 NEW_COLLECTOR": "https://github.com/injctr/large/raw/main/Gusion/New%20Collector/Gusion%20Collector%20-%20Valentine.zip",
               "05 ELEVEN": "https://github.com/injctr/large/raw/main/Gusion/11.11/Gusion%2011.11%20-%20Valentine.zip",
               "06 NEW_STARLIGHT": "unavailable",
-              "07 OLD_STARLIGHT": "unavailable"
+              "07 OLD_STARLIGHT": "unavailable",
+              "08 NARUTO": "https://github.com/injctr/large/raw/main/Gusion/Minato/Gusion%20Minato%20-%20Valentine.zip"
             },
             "scripts": {
               "01 KOF"          : "https://rshrt.com/gPNDC",
@@ -562,7 +571,8 @@
               "04 NEW_COLLECTOR": "https://rshrt.com/qQEiIIF",
               "05 ELEVEN"       : "https://rshrt.com/0lbpDnM",
               "06 NEW_STARLIGHT": "unavailable",
-              "07 OLD_STARLIGHT": "unavailable"
+              "07 OLD_STARLIGHT": "unavailable",
+              "08 NARUTO": "https://rshrt.com/Wcnw4kF"
             }
           },
           "06 VENOM": {
@@ -577,7 +587,8 @@
               "04 NEW_COLLECTOR": "https://github.com/injctr/large/raw/main/Gusion/New%20Collector/Gusion%20Collector%20-%20Venom.zip",
               "05 ELEVEN": "https://github.com/injctr/large/raw/main/Gusion/11.11/Gusion%2011.11%20-%20VENOM.zip",
               "06 NEW_STARLIGHT": "unavailable",
-              "07 OLD_STARLIGHT": "unavailable"
+              "07 OLD_STARLIGHT": "unavailable",
+              "08 NARUTO": "https://github.com/injctr/large/raw/main/Gusion/Minato/Gusion%20Minato%20-%20VENOM.zip"
             },
             "scripts": {
               "01 KOF"          : "https://rshrt.com/rQK",
@@ -586,7 +597,8 @@
               "04 NEW_COLLECTOR": "https://rshrt.com/hiSq0RB",
               "05 ELEVEN"       : "https://rshrt.com/94GC",
               "06 NEW_STARLIGHT": "unavailable",
-              "07 OLD_STARLIGHT": "unavailable"
+              "07 OLD_STARLIGHT": "unavailable",
+              "08 NARUTO": "https://rshrt.com/JD4ml"
             }
           },
           "07 KOF": {
@@ -601,7 +613,8 @@
               "04 NEW_COLLECTOR": "unavailable",
               "05 ELEVEN": "https://github.com/injctr/large/raw/main/Gusion/11.11/Gusion%2011.11%20-%20KOF.zip",
               "06 NEW_STARLIGHT": "unavailable",
-              "07 OLD_STARLIGHT": "unavailable"
+              "07 OLD_STARLIGHT": "unavailable",
+              "08 NARUTO": "https://github.com/injctr/large/raw/main/Gusion/Minato/Gusion%20Minato%20-%20KOF.zip"
             },
             "scripts": {
               "01 KOF"          : "unavailable",
@@ -610,7 +623,8 @@
               "04 NEW_COLLECTOR": "unavailable",
               "05 ELEVEN"       : "https://rshrt.com/KiXq",
               "06 NEW_STARLIGHT": "unavailable",
-              "07 OLD_STARLIGHT": "unavailable"
+              "07 OLD_STARLIGHT": "unavailable",
+              "08 NARUTO": "https://rshrt.com/dkl"
             }
           },
           "08 Legend": {
@@ -625,7 +639,8 @@
               "04 NEW_COLLECTOR": "unavailable",
               "05 ELEVEN": "https://github.com/injctr/large/raw/main/Gusion/11.11/Gusion%2011.11%20-%20Legend.zip",
               "06 NEW_STARLIGHT": "unavailable",
-              "07 OLD_STARLIGHT": "unavailable"
+              "07 OLD_STARLIGHT": "unavailable",
+              "08 NARUTO": "https://github.com/injctr/large/raw/main/Gusion/Minato/Gusion%20Minato%20-%20Legend.zip"
             },
             "scripts": {
               "01 KOF"          : "https://rshrt.com/dIU",
@@ -634,7 +649,8 @@
               "04 NEW_COLLECTOR": "unavailable",
               "05 ELEVEN"       : "https://rshrt.com/NDIIV",
               "06 NEW_STARLIGHT": "unavailable",
-              "07 OLD_STARLIGHT": "unavailable"
+              "07 OLD_STARLIGHT": "unavailable",
+              "08 NARUTO": "https://rshrt.com/x40p2"
             }
           },
           "09 Collector": {
@@ -649,7 +665,8 @@
               "04 NEW_COLLECTOR": "unavailable",
               "05 ELEVEN": "https://github.com/injctr/large/raw/main/Gusion/11.11/Gusion%2011.11%20-%20Collector.zip",
               "06 NEW_STARLIGHT": "unavailable",
-              "07 OLD_STARLIGHT": "unavailable"
+              "07 OLD_STARLIGHT": "unavailable",
+              "08 NARUTO": "https://github.com/injctr/large/raw/main/Gusion/Minato/Gusion%20Minato%20-%20Collector.zip"
             },
             "scripts": {
               "01 KOF"          : "https://rshrt.com/fUml",
@@ -658,7 +675,8 @@
               "04 NEW_COLLECTOR": "unavailable",
               "05 ELEVEN"       : "https://rshrt.com/mkXuGL",
               "06 NEW_STARLIGHT": "unavailable",
-              "07 OLD_STARLIGHT": "unavailable"
+              "07 OLD_STARLIGHT": "unavailable",
+              "08 NARUTO": "https://rshrt.com/uvcL4og1"
             }
           },
           "10 Epic": {
@@ -673,7 +691,8 @@
               "04 NEW_COLLECTOR": "https://github.com/injctr/large/raw/main/Gusion/New%20Collector/Gusion%20Collector%20-%20Epic.zip",
               "05 ELEVEN": "https://github.com/injctr/large/raw/main/Gusion/11.11/Gusion%2011.11%20-%20Epic.zip",
               "06 NEW_STARLIGHT": "unavailable",
-              "07 OLD_STARLIGHT": "unavailable"
+              "07 OLD_STARLIGHT": "unavailable",
+              "08 NARUTO": "https://github.com/injctr/large/raw/main/Gusion/Minato/Gusion%20Minato%20-%20Epic.zip"
             },
             "scripts": {
               "01 KOF"          : "https://rshrt.com/LJnWYm9",
@@ -682,7 +701,8 @@
               "04 NEW_COLLECTOR": "https://rshrt.com/qxOTbP7",
               "05 ELEVEN"       : "https://rshrt.com/C0ie7TAP",
               "06 NEW_STARLIGHT": "unavailable",
-              "07 OLD_STARLIGHT": "unavailable"
+              "07 OLD_STARLIGHT": "unavailable",
+              "08 NARUTO": "https://rshrt.com/geu3"
             }
           },
           "11 Eleven": {
@@ -697,7 +717,8 @@
               "04 NEW_COLLECTOR": "unavailable",
               "05 ELEVEN": "unavailable",
               "06 NEW_STARLIGHT": "unavailable",
-              "07 OLD_STARLIGHT": "unavailable"
+              "07 OLD_STARLIGHT": "unavailable",
+              "08 NARUTO": "https://github.com/injctr/large/raw/main/Gusion/Minato/Gusion%20Minato%20-%2011.11.zip"
             },
             "scripts": {
               "01 KOF"          : "https://rshrt.com/kWGE",
@@ -706,7 +727,8 @@
               "04 NEW_COLLECTOR": "unavailable",
               "05 ELEVEN"       : "unavailable",
               "06 NEW_STARLIGHT": "unavailable",
-              "07 OLD_STARLIGHT": "unavailable"
+              "07 OLD_STARLIGHT": "unavailable",
+              "08 NARUTO": "https://rshrt.com/WHFq"
             }
           },
           "12 Starlight": {
@@ -721,7 +743,8 @@
               "04 NEW_COLLECTOR": "https://github.com/injctr/large/raw/main/Gusion/New%20Collector/Gusion%20Collector%20-%20New%20Starlight.zip",
               "05 ELEVEN": "https://github.com/injctr/large/raw/main/Gusion/11.11/Gusion%2011.11%20-%20New%20Starlight.zip",
               "06 NEW_STARLIGHT": "unavailable",
-              "07 OLD_STARLIGHT": "unavailable"
+              "07 OLD_STARLIGHT": "unavailable",
+              "08 NARUTO": "https://github.com/injctr/large/raw/main/Gusion/Minato/Gusion%20Minato%20-%20New%20Starlight.zip"
             },
             "scripts": {
               "01 KOF"          : "https://rshrt.com/QuZ",
@@ -730,7 +753,8 @@
               "04 NEW_COLLECTOR": "https://rshrt.com/wQZrmtF0",
               "05 ELEVEN"       : "https://rshrt.com/CrRU",
               "06 NEW_STARLIGHT": "unavailable",
-              "07 OLD_STARLIGHT": "unavailable"
+              "07 OLD_STARLIGHT": "unavailable",
+              "08 NARUTO": "https://rshrt.com/GXFx3y"
             }
           }
         },
@@ -776,6 +800,12 @@
             "name2": "Cyber Ops",
             "tag2": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
             "type2": "Starlight 2018"
+          },
+          "08 NARUTO": {
+            "img2": "https://github.com/injctr/large/raw/main/Gusion/Minato.jpg",
+            "name2": "Minato Namikaze",
+            "tag2": "https://i.supaimg.com/5ca8a038-cedd-40fe-9373-30f180eba081.png",
+            "type2": "Naruto"
           }
         }
       },
@@ -5641,7 +5671,8 @@
             "type_links": {
               "-ObDaaCgq3BQRrU-2qUN": "https://www.dropbox.com/scl/fi/fxnnuvz4xx4riwi69o1pt/Julian-JJK-Default.zip?rlkey=go81jgl6zrpu2t1nqhan988j8&st=uxx1hhpy&dl=1",
               "-ObDaaCjiJl-eMf_jF1N": "https://www.dropbox.com/scl/fi/tpnuw0u5qadyufumsp9rn/Julian-Mystic-Default.zip?rlkey=ajno4vnfy2gxv884ov401si8q&st=nsyneg7f&dl=1",
-              "-ObDaaCjiJl-eMf_jF1O": "https://www.dropbox.com/scl/fi/1nyarbzlf29q3g8d7on32/Julian-HxH-Default.zip?rlkey=xmlmzbstn6bvexoaujczqmqna&st=kalczono&dl=1"
+              "-ObDaaCjiJl-eMf_jF1O": "https://www.dropbox.com/scl/fi/1nyarbzlf29q3g8d7on32/Julian-HxH-Default.zip?rlkey=xmlmzbstn6bvexoaujczqmqna&st=kalczono&dl=1",
+              "04 NARUTO": "https://github.com/injctr/large/raw/main/Julian/Itachi/Julian%20Itachi%20-%20Default.zip"
             }
           },
           "-OY-e3N_EahKchvy60sX": {
@@ -5652,7 +5683,8 @@
             "type_links": {
               "-ObDaYPSzZ5NCaFdLhDN": "https://www.dropbox.com/scl/fi/8b23y3xzmvr14g7ss4h5v/Julian-JJK-Basic.zip?rlkey=3emb51rou7ugmiv2gpcaqp2kf&st=zx2vamw4&dl=1",
               "-ObDaYPSzZ5NCaFdLhDO": "https://www.dropbox.com/scl/fi/fc2j6xanrqnid5crumji9/Julian-Mystic-Basic.zip?rlkey=z47k67ktoko7zmkkt6p87biq0&st=ndlhst98&dl=1",
-              "-ObDaYPSzZ5NCaFdLhDP": "https://www.dropbox.com/scl/fi/yr9fxvtrg1z6qoowjo0cg/Julian-HxH-Basic.zip?rlkey=lk9l6k4wwd4yua86xftdnrgp5&st=p5bkm47m&dl=1"
+              "-ObDaYPSzZ5NCaFdLhDP": "https://www.dropbox.com/scl/fi/yr9fxvtrg1z6qoowjo0cg/Julian-HxH-Basic.zip?rlkey=lk9l6k4wwd4yua86xftdnrgp5&st=p5bkm47m&dl=1",
+              "04 NARUTO": "https://github.com/injctr/large/raw/main/Julian/Itachi/Julian%20Itachi%20-%20Basic.zip"
             }
           },
           "-OY-e9-RgliLhiFk0z2A": {
@@ -5663,7 +5695,8 @@
             "type_links": {
               "-ObDbGB4f3UBtXY8AS7J": "unavailable",
               "-ObDbGB6Yp9hcBT3whIm": "https://www.dropbox.com/scl/fi/n9qg9rqawlxih1auzdjcj/Julian-Mystic-JJK.zip?rlkey=31ar5tjvha8clwug96kstqfe0&st=82hw36hn&dl=1",
-              "-ObDbGB6Yp9hcBT3whIn": "https://www.dropbox.com/scl/fi/dj2g4ba7zbae6fo31hn1o/Julian-HxH-Jujutsu-Kaisen.zip?rlkey=h43rws4jmrx6mj8dgxtiqh06b&st=mcvqi3hw&dl=1"
+              "-ObDbGB6Yp9hcBT3whIn": "https://www.dropbox.com/scl/fi/dj2g4ba7zbae6fo31hn1o/Julian-HxH-Jujutsu-Kaisen.zip?rlkey=h43rws4jmrx6mj8dgxtiqh06b&st=mcvqi3hw&dl=1",
+              "04 NARUTO": "https://github.com/injctr/large/raw/main/Julian/Itachi/Julian%20Itachi%20-%20JJK.zip"
             }
           },
           "-OY-eF2ghbtM9z4e1wAg": {
@@ -5674,7 +5707,8 @@
             "type_links": {
               "-Of7DozgCj9tCZUSs3pO": "https://www.dropbox.com/scl/fi/2ensu6u6sm0nk7q754wiq/Julian-JJK-Meowkin-Tracker.zip?rlkey=xjzkb8ntszaeajuxx4g0dkw68&st=493ku261&dl=1",
               "-Of7DozhSABluSQ38Yrm": "unavailable",
-              "-Of7DozhSABluSQ38Yrn": "https://www.dropbox.com/scl/fi/9eoe7etxa9nf2kj6gljri/Julian-HxH-Meowkin-Tracker.zip?rlkey=aoh5ut65vklhwdkcwmmt6vuip&st=jxkikl2x&dl=1"
+              "-Of7DozhSABluSQ38Yrn": "https://www.dropbox.com/scl/fi/9eoe7etxa9nf2kj6gljri/Julian-HxH-Meowkin-Tracker.zip?rlkey=aoh5ut65vklhwdkcwmmt6vuip&st=jxkikl2x&dl=1",
+              "04 NARUTO": "https://github.com/injctr/large/raw/main/Julian/Itachi/Julian%20Itachi%20-%20Meowkin.zip"
             }
           },
           "-OY-eJO5hd4f5Cg8K-Nu": {
@@ -5685,28 +5719,35 @@
             "type_links": {
               "-ObDadCXIxOywRKhbDu8": "https://www.dropbox.com/scl/fi/j1nz8bk26ypf2hjnl7fm9/Julian-JJK-HxH.zip?rlkey=mjsxgh33wmq78g0d399l526va&st=wyakckef&dl=1",
               "-ObDadCY6pUnVqXUs4CD": "https://www.dropbox.com/scl/fi/q4tlqqb9hdsy6kc1f8lp6/Julian-Mystic-HxH.zip?rlkey=kimoykgf7dq78ech664obkbr2&st=uihfjlh9&dl=1",
-              "-ObDadCY6pUnVqXUs4CE": "unavailable"
+              "-ObDadCY6pUnVqXUs4CE": "unavailable",
+              "04 NARUTO": "https://github.com/injctr/large/raw/main/Julian/Itachi/Julian%20Itachi%20-%20HxH.zip"
             }
           }
         },
         "Skins": {
-          "-OYMQpWYi9IEOMoCdkmJ": {
+          "01 JUJUTSU": {
             "img2": "https://i.supaimg.com/8e598204-a24f-4cf4-8677-e5b70f828856.png",
             "name2": "Megumi Fushiguro",
             "tag2": "https://i.supaimg.com/0a81fdb1-a14d-404f-9444-36c3bb1ce9e8.png",
             "type2": "Jujutsu Kaisen"
           },
-          "-OYMQuKic-88H6dIBx9p": {
+          "02 MEOWKIN": {
             "img2": "https://i.supaimg.com/d69584a7-6bf5-412d-a6f7-cbbb3d829211.png",
             "name2": "Meowkin Tracker",
             "tag2": "https://i.supaimg.com/77bd314b-50db-4eed-9ea8-f1658ebd8af1.png",
             "type2": "Mystic Meow"
           },
-          "-OYMQx0dxJblhQXAsT7h": {
+          "03 HUNTER": {
             "img2": "https://i.supaimg.com/327f5596-11cc-4dcd-9cc8-205184bc4f70.png",
             "name2": "Kurapika",
             "tag2": "https://i.supaimg.com/50e6ddaf-0aea-41eb-8024-6865c7d1c439.png",
             "type2": "HunterXHunter"
+          },
+          "04 NARUTO": {
+            "img2": "https://github.com/injctr/large/raw/main/Julian/Itachi.jpg",
+            "name2": "Itachi Uchiha",
+            "tag2": "https://i.supaimg.com/5ca8a038-cedd-40fe-9373-30f180eba081.png",
+            "type2": "Naruto"
           }
         },
         "img": "https://i.supaimg.com/a85a6a9c-5a70-468b-9fe0-01b0831c06d5.png",
