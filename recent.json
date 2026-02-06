@@ -1,6 +1,20 @@
 [
   {
     "Recent": {
+      "Julian": {
+        "img": "https://i.supaimg.com/0848174b-bbd0-45e7-8d00-9512dc042a7d.jpg",
+        "name1": "Julian",
+        "name2": "Itachi Uchiha",
+        "role": "Assassin",
+        "tag": "https://i.supaimg.com/5ca8a038-cedd-40fe-9373-30f180eba081.png"
+      },
+      "Gusion": {
+        "img": "https://i.supaimg.com/dfbfdcde-da60-4d39-a7cf-b6ab347ec139.jpg",
+        "name1": "Gusion",
+        "name2": "Minato Namikaze",
+        "role": "Assassin",
+        "tag": "https://i.supaimg.com/5ca8a038-cedd-40fe-9373-30f180eba081.png"
+      },
       "Lylia": {
         "img": "https://i.supaimg.com/6e0f0431-3c61-434c-924b-16c43fc8c0c3.png",
         "name1": "Lylia",
@@ -35,34 +49,6 @@
         "name2": "Obsidian Blade",
         "role": "Fighter",
         "tag": "https://i.supaimg.com/89d011e3-a8d7-4068-b50f-a84c21b7191a.png"
-      },
-      "Saber": {
-        "img": "https://i.supaimg.com/66573c38-bd13-46dd-a8c9-d32b78e6f821.jpg",
-        "name1": "Saber",
-        "name2": "Codename - Storm",
-        "role": "Assassin",
-        "tag": "https://i.supaimg.com/89d011e3-a8d7-4068-b50f-a84c21b7191a.png"
-      },
-      "Benedetta": {
-        "img": "https://i.supaimg.com/24c8e6f7-252d-4078-b26d-beca018e5bee.jpg",
-        "name1": "Benedetta",
-        "name2": "Vessel of Pride",
-        "role": "Assassin",
-        "tag": "https://i.supaimg.com/b5750236-2ab1-45d7-968e-ce699d16b1f8.png"
-      },
-      "Cecilion": {
-        "img": "https://i.supaimg.com/eef2ccfe-1c04-454f-8681-86fa3b1458df.jpg",
-        "name1": "Cecilion",
-        "name2": "Vessel of Gluttony",
-        "role": "Mage",
-        "tag": "https://i.supaimg.com/b5750236-2ab1-45d7-968e-ce699d16b1f8.png"
-      },
-      "Clint": {
-        "img": "https://i.supaimg.com/917d2a5f-148b-49e7-adbf-569bb16466fd.jpg",
-        "name1": "Clint",
-        "name2": "Vessel of Ruin",
-        "role": "Marksman",
-        "tag": "https://i.supaimg.com/b5750236-2ab1-45d7-968e-ce699d16b1f8.png"
       }
     }
   }
