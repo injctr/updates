@@ -1,6 +1,27 @@
 [
   {
     "Recent": {
+      "Grock": {
+        "img": "https://i.supaimg.com/c9341bd1-526d-47c4-b1d4-818a5e70f1ae.jpg",
+        "name1": "Grock",
+        "name2": "Collector Titans",
+        "role": "Tank",
+        "tag": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png"
+      },
+      "Ling": {
+        "img": "https://i.supaimg.com/19c5e910-65ef-4e35-9ad6-509465ab0b53.jpg",
+        "name1": "Ling",
+        "name2": "Serene Plume",
+        "role": "Assassin",
+        "tag": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png"
+      },
+      "Pharsa": {
+        "img": "https://i.supaimg.com/ab455fc4-7de0-4d28-b822-f20c5ca93421.jpg",
+        "name1": "Pharsa",
+        "name2": "Empress Phoenix",
+        "role": "Mage",
+        "tag": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png"
+      },
       "Julian": {
         "img": "https://i.supaimg.com/0848174b-bbd0-45e7-8d00-9512dc042a7d.jpg",
         "name1": "Julian",
