@@ -1,6 +1,27 @@
 [
   {
     "Recent": {
+      "Eudora": {
+        "img": "https://i.supaimg.com/0558e4ee-6daa-41e0-8a27-0fcd70f19a56.jpg",
+        "name1": "Eudora",
+        "name2": "Midnight's Allure",
+        "role": "Mage",
+        "tag": "https://i.supaimg.com/4ecf1a6b-6f18-4e92-b557-128fce501304.png"
+      },
+      "Natan": {
+        "img": "https://i.supaimg.com/4db7bf19-ade5-4af9-9493-53e994e771b9.png",
+        "name1": "Natan",
+        "name2": "Sanguine Steward",
+        "role": "Marksman",
+        "tag": "https://i.supaimg.com/4ecf1a6b-6f18-4e92-b557-128fce501304.png"
+      },
+      "Zetian": {
+        "img": "https://i.supaimg.com/45509e44-1cba-4836-8274-3bcb6ac284b0.jpg",
+        "name1": "Zetian",
+        "name2": "April Starlight Skin",
+        "role": "Mage",
+        "tag": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png"
+      },
       "Grock": {
         "img": "https://i.supaimg.com/c9341bd1-526d-47c4-b1d4-818a5e70f1ae.jpg",
         "name1": "Grock",
