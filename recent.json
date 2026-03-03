@@ -1,26 +1,26 @@
 [
   {
     "Recent": {
+      "Floryn": {
+        "img": "https://github.com/injctr/updates/blob/main/floryn.jpg",
+        "name1": "Floryn",
+        "name2": "Arrow of Spring",
+        "role": "Support",
+        "tag": "https://i.supaimg.com/5cbb6aea-e31d-4e16-9ee3-041ce93c52b3.png"
+      },
+      "Miya": {
+        "img": "https://github.com/injctr/updates/raw/main/miya.jpg",
+        "name1": "Miya",
+        "name2": "Arrow of Spring",
+        "role": "Marksman",
+        "tag": "https://i.supaimg.com/5cbb6aea-e31d-4e16-9ee3-041ce93c52b3.png"
+      },
       "Fanny": {
         "img": "https://i.supaimg.com/6d0ce46f-01a9-43cd-b8a7-6ecd924e871e.jpg",
         "name1": "Fanny",
         "name2": "Galactic Starhawk",
         "role": "Assassin",
         "tag": "https://i.supaimg.com/89d011e3-a8d7-4068-b50f-a84c21b7191a.png"
-      },
-      "Eudora": {
-        "img": "https://i.supaimg.com/0558e4ee-6daa-41e0-8a27-0fcd70f19a56.jpg",
-        "name1": "Eudora",
-        "name2": "Midnight's Allure",
-        "role": "Mage",
-        "tag": "https://i.supaimg.com/4ecf1a6b-6f18-4e92-b557-128fce501304.png"
-      },
-      "Natan": {
-        "img": "https://i.supaimg.com/4db7bf19-ade5-4af9-9493-53e994e771b9.png",
-        "name1": "Natan",
-        "name2": "Sanguine Steward",
-        "role": "Marksman",
-        "tag": "https://i.supaimg.com/4ecf1a6b-6f18-4e92-b557-128fce501304.png"
       },
       "Zetian": {
         "img": "https://i.supaimg.com/45509e44-1cba-4836-8274-3bcb6ac284b0.jpg",
@@ -49,48 +49,6 @@
         "name2": "Empress Phoenix",
         "role": "Mage",
         "tag": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png"
-      },
-      "Julian": {
-        "img": "https://i.supaimg.com/0848174b-bbd0-45e7-8d00-9512dc042a7d.jpg",
-        "name1": "Julian",
-        "name2": "Itachi Uchiha",
-        "role": "Fighter",
-        "tag": "https://i.supaimg.com/5ca8a038-cedd-40fe-9373-30f180eba081.png"
-      },
-      "Gusion": {
-        "img": "https://i.supaimg.com/dfbfdcde-da60-4d39-a7cf-b6ab347ec139.jpg",
-        "name1": "Gusion",
-        "name2": "Minato Namikaze",
-        "role": "Assassin",
-        "tag": "https://i.supaimg.com/5ca8a038-cedd-40fe-9373-30f180eba081.png"
-      },
-      "Lylia": {
-        "img": "https://i.supaimg.com/6e0f0431-3c61-434c-924b-16c43fc8c0c3.png",
-        "name1": "Lylia",
-        "name2": "Phantasmal Revelry",
-        "role": "Mage",
-        "tag": "https://i.supaimg.com/4ecf1a6b-6f18-4e92-b557-128fce501304.png"
-      },
-      "Lancelot": {
-        "img": "https://i.supaimg.com/27e6ba4b-554f-419c-8af5-4d5653158cc1.jpg",
-        "name1": "Lancelot",
-        "name2": "Sword of Devotion",
-        "role": "Assassin",
-        "tag": "https://i.supaimg.com/8fdbfb18-be82-4333-bf79-d8d949cfa562.png"
-      },
-      "Oddete": {
-        "img": "https://i.supaimg.com/f23befaa-a85d-4c45-9258-958da6584a33.jpg",
-        "name1": "Odette",
-        "name2": "Song of Devotion",
-        "role": "Mage",
-        "tag": "https://i.supaimg.com/8fdbfb18-be82-4333-bf79-d8d949cfa562.png"
-      },
-      "Alucard": {
-        "img": "https://i.supaimg.com/7ce6e10a-5806-4d42-9e0f-757e120d6368.jpg",
-        "name1": "Alucard",
-        "name2": "Obsidian Blade",
-        "role": "Fighter",
-        "tag": "https://i.supaimg.com/89d011e3-a8d7-4068-b50f-a84c21b7191a.png"
       }
     }
   }
