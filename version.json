@@ -5,7 +5,7 @@
     "notice": "y",
     "notice_title": "Maintenance Notice",
     "notice_message": "[English]\nTemporarily unavailable due to high download traffic, which caused the links to be suspended. This may take a while, please try again tomorrow. Sorry for the delay, and thanks for your understanding.\n\n [Tagalog]\nPansamantalang hindi available dahil sa mataas na download traffic na naging dahilan ng pagsuspinde ng mga link. Maaaring tumagal ito, pakisubukang muli bukas. Pasensya na sa delay, at salamat sa inyong pag-unawa.\n\n",
-    "show_task": "yes",
+    "show_task": "ye",
     "version": "1.45",
     "allow": "unallow",
     "link": "https://play.google.com/store/apps/details?id=com.vinzzmltools",
