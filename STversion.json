@@ -6,7 +6,7 @@
     "notice_title": "Maintenance Notice",
     "notice_message": "[English]\n",
     "show_task": "ye",
-    "version": "1.1",
+    "version": "1.0",
     "allow": "unallow",
     "link": "https://",
     "message": "Hello User, welcome to the test version of the app. I hope you enjoy using it. If you find any bugs or errors, please report them to the developer."
