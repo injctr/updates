@@ -1,26 +1,33 @@
 [
   {
     "Recent": {
-      "Floryn": {
-        "img": "https://github.com/injctr/updates/raw/main/floryn.jpg",
-        "name1": "Floryn",
-        "name2": "Herald of Autumn",
-        "role": "Support",
-        "tag": "https://i.supaimg.com/5cbb6aea-e31d-4e16-9ee3-041ce93c52b3.png"
-      },
-      "Miya": {
-        "img": "https://github.com/injctr/updates/raw/main/miya.jpg",
-        "name1": "Miya",
-        "name2": "Arrow of Spring",
+      "Lesley": {
+        "img": "https://i.supaimg.com/7d75ac50-e22f-454f-8226-6f5865db0aff.png",
+        "name1": "Lesley",
+        "name2": "Angelic Agent",
         "role": "Marksman",
-        "tag": "https://i.supaimg.com/5cbb6aea-e31d-4e16-9ee3-041ce93c52b3.png"
-      },
-      "Fanny": {
-        "img": "https://i.supaimg.com/6d0ce46f-01a9-43cd-b8a7-6ecd924e871e.jpg",
-        "name1": "Fanny",
-        "name2": "Galactic Starhawk",
-        "role": "Assassin",
         "tag": "https://i.supaimg.com/89d011e3-a8d7-4068-b50f-a84c21b7191a.png"
+      },
+      "Alice": {
+        "img": "https://i.supaimg.com/662d9ee4-2a48-4098-948c-32ceb62d9eb3.png",
+        "name1": "Alice",
+        "name2": "Dreaming Monarch",
+        "role": "Mage",
+        "tag": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png"
+      },
+      "Ling2": {
+        "img": "https://i.supaimg.com/93d0fdc0-69a2-4f4e-b363-451c2b9ce7c2.png",
+        "name1": "Ling",
+        "name2": "Phantom Current",
+        "role": "Assassin",
+        "tag": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png"
+      },
+      "Valir": {
+        "img": "https://i.supaimg.com/a6e51f53-a7a1-4f3e-a29e-c88facc0e140.png",
+        "name1": "Valir",
+        "name2": "Demonlord",
+        "role": "Mage",
+        "tag": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png"
       },
       "Zetian": {
         "img": "https://i.supaimg.com/45509e44-1cba-4836-8274-3bcb6ac284b0.jpg",
