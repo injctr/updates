@@ -442,11 +442,11 @@
         }
       },
       "Gusion": {
-        "img": "https://i.supaimg.com/e3d28436-3bcf-48b9-998d-4faf64a1b2dd.png",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Hero561-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021142006",
         "name": "Gusion",
         "Replacements": {
           "01 DEFAULT": {
-            "img1": "https://i.supaimg.com/e3d28436-3bcf-48b9-998d-4faf64a1b2dd.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Hero561-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021142006",
             "name1": "Holy Blade",
             "tag1": "",
             "type1": "Default",
@@ -472,7 +472,7 @@
             }
           },
           "02 Basic": {
-            "img1": "https://i.supaimg.com/845858a8-6c16-4c4d-9c48-ebc590b21c4f.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero562-portrait.png/revision/latest/scale-to-width-down/150?cb=20220909095408",
             "name1": "Moonlight Sonata",
             "tag1": "",
             "type1": "Basic",
@@ -498,7 +498,7 @@
             }
           },
           "03 Elite": {
-            "img1": "https://i.supaimg.com/81fc64e7-bcc4-4232-a6ff-5645749e3646.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero563-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165444",
             "name1": "Hairstylist",
             "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
             "type1": "Elite",
@@ -524,7 +524,7 @@
             }
           },
           "04 Starlight": {
-            "img1": "https://i.supaimg.com/3c404798-a1b5-4d95-af3f-2308e5946596.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero564-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165446",
             "name1": "Cyber Ops",
             "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
             "type1": "Starlight 2018",
@@ -550,7 +550,7 @@
             }
           },
           "05 Valentine": {
-            "img1": "https://i.supaimg.com/a8beb25e-becd-48e6-a72a-036d52bf2c1e.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero565-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121902",
             "name1": "Dangerous Liaison",
             "tag1": "https://i.supaimg.com/10e40386-9b0a-4369-9f84-746246e272d9.png",
             "type1": "Valentine",
@@ -576,7 +576,7 @@
             }
           },
           "06 VENOM": {
-            "img1": "https://i.supaimg.com/2e85183c-c159-4673-8ae9-93a3a7dc0ac8.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero566-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165448",
             "name1": "V.E.N.O.M. Emperor Scorpion",
             "tag1": "https://i.supaimg.com/86422ed2-4db0-49ca-ab4a-ab1d460a1fb8.png",
             "type1": "V.E.N.O.M.",
@@ -602,7 +602,7 @@
             }
           },
           "07 KOF": {
-            "img1": "https://i.supaimg.com/62c6f0fe-0154-4ad0-8f80-99613c685c91.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero567-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165449",
             "name1": "K'",
             "tag1": "https://i.supaimg.com/c5563b15-1742-4fbf-9852-274b29a20c63.png",
             "type1": "KOF",
@@ -628,7 +628,7 @@
             }
           },
           "08 Legend": {
-            "img1": "https://i.supaimg.com/1cd97df9-d754-460c-868c-efe23f21b718.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero568-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165451",
             "name1": "Cosmic Gleam",
             "tag1": "https://i.supaimg.com/89d011e3-a8d7-4068-b50f-a84c21b7191a.png",
             "type1": "Legend",
@@ -680,7 +680,7 @@
             }
           },
           "10 Epic": {
-            "img1": "https://i.supaimg.com/ca012275-a566-4b27-8eb0-2d7c9c11fbba.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero105610-portrait.png/revision/latest/scale-to-width-down/150?cb=20220714031432",
             "name1": "Soul Revelation",
             "tag1": "https://i.supaimg.com/c14ee52a-ba69-4367-b954-f3b4a306e953.png",
             "type1": "Epic",
@@ -706,7 +706,7 @@
             }
           },
           "11 Eleven": {
-            "img1": "https://i.supaimg.com/030af33f-00e5-4866-ba7b-06f83d7ec560.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero105611-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134623",
             "name1": "Dimension Walker",
             "tag1": "https://i.supaimg.com/19394161-cc30-494c-a906-b49f710cf674.png",
             "type1": "11.11",
@@ -732,7 +732,7 @@
             }
           },
           "12 Starlight": {
-            "img1": "https://i.supaimg.com/46849c0e-46a0-4c74-9398-e2ccfe51ecfe.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero105613-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619171236",
             "name1": "Desert Spider",
             "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
             "type1": "Starlight 2024",
@@ -760,19 +760,19 @@
         },
         "Skins": {
           "01 KOF": {
-            "img2": "https://i.supaimg.com/62c6f0fe-0154-4ad0-8f80-99613c685c91.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero567-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165449",
             "name2": "K'",
             "tag2": "https://i.supaimg.com/c5563b15-1742-4fbf-9852-274b29a20c63.png",
             "type2": "KOF"
           },
           "02 LEGEND": {
-            "img2": "https://i.supaimg.com/1cd97df9-d754-460c-868c-efe23f21b718.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero568-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165451",
             "name2": "Cosmic Gleam",
             "tag2": "https://i.supaimg.com/89d011e3-a8d7-4068-b50f-a84c21b7191a.png",
             "type2": "Legend"
           },
           "03 OLD_COLLECTOR": {
-            "img2": "https://i.supaimg.com/4b004715-7ca2-49ca-b50d-990d1826a283.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero569-portrait.png/revision/latest/scale-to-width-down/150?cb=20250802160358",
             "name2": "Old\nNight Owl",
             "tag2": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
             "type2": "Collector1"
@@ -784,19 +784,19 @@
             "type2": "Collector2"
           },
           "05 ELEVEN": {
-            "img2": "https://i.supaimg.com/030af33f-00e5-4866-ba7b-06f83d7ec560.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero105611-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134623",
             "name2": "Dimension Walker",
             "tag2": "https://i.supaimg.com/19394161-cc30-494c-a906-b49f710cf674.png",
             "type2": "11.11"
           },
           "06 NEW_STARLIGHT": {
-            "img2": "https://i.supaimg.com/46849c0e-46a0-4c74-9398-e2ccfe51ecfe.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero105613-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619171236",
             "name2": "Desert Spider",
             "tag2": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
             "type2": "Starlight 2024"
           },
           "07 OLD_STARLIGHT": {
-            "img2": "https://i.supaimg.com/3c404798-a1b5-4d95-af3f-2308e5946596.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero564-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165446",
             "name2": "Cyber Ops",
             "tag2": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
             "type2": "Starlight 2018"
@@ -812,7 +812,7 @@
       "Lancelot": {
         "Replacements": {
           "-OXqjHjOnd1zqHwmho2c": {
-            "img1": "https://i.supaimg.com/cfbc1177-5bef-4ae8-af25-fc2af7ea3c0e.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Hero471-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021141749",
             "name1": "Blade of Roses",
             "tag1": "",
             "type1": "Default",
@@ -834,7 +834,7 @@
             }
           },
           "-OXqjMTQvqlkj9bx_Ru4": {
-            "img1": "https://i.supaimg.com/94f4319a-bc4c-42b4-b8d0-15f58253fe9a.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero472-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165245",
             "name1": "Masked Knight",
             "tag1": "",
             "type1": "Basic",
@@ -856,7 +856,7 @@
             }
           },
           "-OXqjUkCgRyDkmgfpx74": {
-            "img1": "https://i.supaimg.com/ccc44312-3eeb-4640-bd0c-9c27ed2928f5.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero473-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165246",
             "name1": "Christmas Carnival",
             "tag1": "https://i.supaimg.com/3ecf7426-2dc7-43fe-ba77-d698e4d38341.png",
             "type1": "Christmas",
@@ -878,7 +878,7 @@
             }
           },
           "-OXqjaQePyF3_RiDsiGa": {
-            "img1": "https://i.supaimg.com/572fa3dd-0192-407f-b006-8704e16ad6c5.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero474-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165247",
             "name1": "Royal Matador",
             "tag1": "https://i.supaimg.com/92fafc3f-bc67-4413-8903-d41b5d6d119d.png",
             "type1": "Luckybox",
@@ -900,7 +900,7 @@
             }
           },
           "-OXqjjs4vUgZsqv8FxxJ": {
-            "img1": "https://i.supaimg.com/62598339-0702-48b5-b356-1f97505cd155.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero475-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165248",
             "name1": "Dark Earl",
             "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
             "type1": "Starlight 2018",
@@ -922,7 +922,7 @@
             }
           },
           "-OXqjpStEJjUmP23Tqby": {
-            "img1": "https://i.supaimg.com/cf0619ec-319c-488b-9190-4edefc4c73f2.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero476-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212041010",
             "name1": "Pisces",
             "tag1": "https://i.supaimg.com/8d9c38f9-3a19-4b23-b18b-4a8ce18e26ae.png",
             "type1": "Zodiac",
@@ -944,7 +944,7 @@
             }
           },
           "-OXqjvAF0TbpxFWShQAm": {
-            "img1": "https://i.supaimg.com/9e616651-f3f9-4f33-bd0c-b9a2c9367bcd.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero477-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165250",
             "name1": "Floral Knight",
             "tag1": "https://i.supaimg.com/c14ee52a-ba69-4367-b954-f3b4a306e953.png",
             "type1": "Epic",
@@ -966,7 +966,7 @@
             }
           },
           "-OXqk2MjEdN8Sa_H2V82": {
-            "img1": "https://i.supaimg.com/0c54cd86-c3cc-4111-8794-5fd7326bedf0.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Hero478-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165251",
             "name1": "Swordmaster",
             "tag1": "https://i.supaimg.com/22142283-6b0f-4b3e-81e1-56d8528331dd.png",
             "type1": "Dawning",
@@ -988,7 +988,7 @@
             }
           },
           "-OXqkFWW15NkX08skSpi": {
-            "img1": "https://i.supaimg.com/fedaac7b-98c9-4a2b-a5b1-41b183753366.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero479-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165252",
             "name1": "Bren Esports",
             "tag1": "https://i.supaimg.com/1589abc4-551e-4dbb-932f-5bb1c0162372.png",
             "type1": "Champion",
@@ -1010,7 +1010,7 @@
             }
           },
           "-OXqkLIRTSC6pu2In_NC": {
-            "img1": "https://i.supaimg.com/1f57f8d3-c891-4459-866e-aa42a1c9bc7a.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero104710-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115345",
             "name1": "Empyrean Flame",
             "tag1": "https://i.supaimg.com/b212be91-7e5f-40d8-b7f7-10dacc317b3d.png",
             "type1": "Dragon Tamer",
@@ -1032,7 +1032,7 @@
             }
           },
           "-OXqkPtT860j2oLrAI4w": {
-            "img1": "https://i.supaimg.com/94dd8698-6fb2-485e-a7d5-0d08616794ee.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero104711-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917045336",
             "name1": "Marques of Blades",
             "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
             "type1": "Elite",
@@ -1054,7 +1054,7 @@
             }
           },
           "-OXqkh0gQlRaTvumFjQy": {
-            "img1": "https://i.supaimg.com/dda02061-d160-41ae-be62-0ce01426b1ab.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Hero104712-portrait.png/revision/latest/scale-to-width-down/150?cb=20241209144303",
             "name1": "Guardian of the Shrine",
             "tag1": "https://i.supaimg.com/909d5792-e723-4cc1-a981-fe5ea6273a88.png",
             "type1": "Kishin Densetsu",
@@ -1078,31 +1078,31 @@
         },
         "Skins": {
           "-OYBzAD07GU25aekvwq6": {
-            "img2": "https://i.supaimg.com/572fa3dd-0192-407f-b006-8704e16ad6c5.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero474-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165247",
             "name2": "Royal Matador",
             "tag2": "https://i.supaimg.com/92fafc3f-bc67-4413-8903-d41b5d6d119d.png",
             "type2": "Luckybox"
           },
           "-OYBzH3i6hcONRK6XNhR": {
-            "img2": "https://i.supaimg.com/cf0619ec-319c-488b-9190-4edefc4c73f2.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero476-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212041010",
             "name2": "Pisces",
             "tag2": "https://i.supaimg.com/8d9c38f9-3a19-4b23-b18b-4a8ce18e26ae.png",
             "type2": "Zodiac"
           },
           "-OYBzSWjYcl7da1VdOk7": {
-            "img2": "https://i.supaimg.com/0c54cd86-c3cc-4111-8794-5fd7326bedf0.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Hero478-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165251",
             "name2": "Swordmaster",
             "tag2": "https://i.supaimg.com/22142283-6b0f-4b3e-81e1-56d8528331dd.png",
             "type2": "Dawning"
           },
           "-OYBzWUTrTr61rjy83-I": {
-            "img2": "https://i.supaimg.com/fedaac7b-98c9-4a2b-a5b1-41b183753366.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero479-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165252",
             "name2": "Bren Esports",
             "tag2": "https://i.supaimg.com/1589abc4-551e-4dbb-932f-5bb1c0162372.png",
             "type2": "Champion"
           },
           "-OYBzgjGVs_NtEgCrLV5": {
-            "img2": "https://i.supaimg.com/dda02061-d160-41ae-be62-0ce01426b1ab.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Hero104712-portrait.png/revision/latest/scale-to-width-down/150?cb=20241209144303",
             "name2": "Guardian of the Shrine",
             "tag2": "https://i.supaimg.com/909d5792-e723-4cc1-a981-fe5ea6273a88.png",
             "type2": "Kishin Densetsu"
@@ -1114,13 +1114,13 @@
             "type2": "Valentine"
           }
         },
-        "img": "https://i.supaimg.com/cfbc1177-5bef-4ae8-af25-fc2af7ea3c0e.png",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Hero471-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021141749",
         "name": "Lancelot"
       },
       "Ling": {
         "Replacements": {
           "-OXql9XUUVt3IdSHAQ59": {
-            "img1": "https://i.supaimg.com/4e76498d-103f-4a43-af42-33292a8edb04.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero841-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021142700",
             "name1": "Cyan Finch",
             "tag1": "",
             "type1": "Default",
@@ -1144,7 +1144,7 @@
             }
           },
           "-OXqlErnKMmZnnKqlRh4": {
-            "img1": "https://i.supaimg.com/065ea77c-ef1d-45b4-bd65-9796dabfd46e.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero842-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619154306",
             "name1": "Fiery Dance",
             "tag1": "",
             "type1": "Basic",
@@ -1168,7 +1168,7 @@
             }
           },
           "-OXqlL4CRJRYmETvpMjj": {
-            "img1": "https://i.supaimg.com/b9d2c08f-839a-44f5-8dbc-a58a05bc29a0.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero843-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170016",
             "name1": "Street Punk",
             "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
             "type1": "Starlight 2020",
@@ -1192,7 +1192,7 @@
             }
           },
           "-OXqlSYkMnpfW5wd_k3m": {
-            "img1": "https://i.supaimg.com/91e837af-e223-4fb5-9390-4f3f9be29ca1.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero844-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170017",
             "name1": "Night Shade",
             "tag1": "https://i.supaimg.com/b212be91-7e5f-40d8-b7f7-10dacc317b3d.png",
             "type1": "Dragon Tamer",
@@ -1216,7 +1216,7 @@
             }
           },
           "-OXqlYdIXQiqI_OkPdlf": {
-            "img1": "https://i.supaimg.com/18bd2891-6712-4ef8-9ef0-d71d04884f47.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero845-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170019",
             "name1": "Cosmo Guard",
             "tag1": "https://i.supaimg.com/7aef5066-a2a7-4965-8c68-ed45269d028b.png",
             "type1": "Special",
@@ -1240,7 +1240,7 @@
             }
           },
           "-OXqlcpJejgn5YyWJHaf": {
-            "img1": "https://i.supaimg.com/50b7ddaf-7e60-4e62-99e3-36ebadca1f53.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero846-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170020",
             "name1": "Serene Plume",
             "tag1": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
             "type1": "Collector",
@@ -1264,7 +1264,7 @@
             }
           },
           "-OXqlryt9ICRFEB4lPWu": {
-            "img1": "https://i.supaimg.com/a8ebf8d2-d183-4470-b310-7bd5b3479f71.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero847-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170021",
             "name1": "M-World Ling",
             "tag1": "https://i.supaimg.com/2360ff75-dbbd-4bd3-a96d-9d256db88efb.png",
             "type1": "M-World",
@@ -1288,7 +1288,7 @@
             }
           },
           "-OXqm3cHT8oQmiHG5Y6y": {
-            "img1": "https://i.supaimg.com/369fcdfd-7787-4b55-97d1-a2e63b3d688e.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero848-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115337",
             "name1": "Lord Shen",
             "tag1": "https://i.supaimg.com/5e877764-2c64-4e25-9b67-ced163c75627.png",
             "type1": "Kung Fu Panda",
@@ -1312,7 +1312,7 @@
             }
           },
           "-OXqmGSB1qZCSlqJnLQi": {
-            "img1": "https://i.supaimg.com/373bb578-5dc1-49d0-a661-862c552c9760.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero108410-portrait.png/revision/latest/scale-to-width-down/150?cb=20250320125043",
             "name1": "Neobeast Ling",
             "tag1": "https://i.supaimg.com/c4585e6f-2bf8-430a-97ee-e171a36fa108.png",
             "type1": "Neobeast",
@@ -1338,7 +1338,7 @@
         },
         "Skins": {
           "-OYHQR1yHJndo1BJSvTd": {
-            "img2": "https://i.supaimg.com/b9d2c08f-839a-44f5-8dbc-a58a05bc29a0.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero843-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170016",
             "name2": "Street Punk",
             "tag2": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
             "type2": "Starlight 2020"
@@ -1350,25 +1350,25 @@
             "type2": "New Collector"
           },
           "-OYHQ_4T9ZvXqu6MA1wy": {
-            "img2": "https://i.supaimg.com/50b7ddaf-7e60-4e62-99e3-36ebadca1f53.png",
-            "name2": "Serene Plume",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero846-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170020",
+            "name2": "Old\nSerene Plume",
             "tag2": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
             "type2": "Collector"
           },
           "-OYHQdHIzrXnxfkB_HfN": {
-            "img2": "https://i.supaimg.com/a8ebf8d2-d183-4470-b310-7bd5b3479f71.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero847-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170021",
             "name2": "M-World Ling",
             "tag2": "https://i.supaimg.com/2360ff75-dbbd-4bd3-a96d-9d256db88efb.png",
             "type2": "M-World"
           },
           "-OYHQgif2KULu7THCm3E": {
-            "img2": "https://i.supaimg.com/369fcdfd-7787-4b55-97d1-a2e63b3d688e.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero848-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115337",
             "name2": "Lord Shen",
             "tag2": "https://i.supaimg.com/5e877764-2c64-4e25-9b67-ced163c75627.png",
             "type2": "Kung Fu Panda"
           },
           "-OYHQjmSuMYum9uktaXq": {
-            "img2": "https://i.supaimg.com/373bb578-5dc1-49d0-a661-862c552c9760.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero108410-portrait.png/revision/latest/scale-to-width-down/150?cb=20250320125043",
             "name2": "Neobeast Ling",
             "tag2": "https://i.supaimg.com/c4585e6f-2bf8-430a-97ee-e171a36fa108.png",
             "type2": "Neobeast"
@@ -1380,13 +1380,13 @@
             "type2": "Tides"
           }
         },
-        "img": "https://i.supaimg.com/4e76498d-103f-4a43-af42-33292a8edb04.png",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero841-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021142700",
         "name": "Ling"
       },
       "Karina": {
         "Replacements": {
           "-OXqmfHVf5RSthcSkxLd": {
-            "img1": "https://i.supaimg.com/7b2c5a8e-91be-4792-aa09-e1b8e7d2a7f2.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero081-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021140357",
             "name1": "Shadow Blade",
             "tag1": "",
             "type1": "Default",
@@ -1402,7 +1402,7 @@
             }
           },
           "-OXqmqaZP_Ms3q8ETH2t": {
-            "img1": "https://i.supaimg.com/1867fd87-549e-4560-ab92-36a851039331.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/d/d3/Hero082-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164455",
             "name1": "Phantom Blade",
             "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
             "type1": "Elite 1",
@@ -1418,7 +1418,7 @@
             }
           },
           "-OXqmw_wUDS1-BT1VeLl": {
-            "img1": "https://i.supaimg.com/4087fab6-5475-413a-8fdf-23ff8c03c06b.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero083-portrait.png/revision/latest/scale-to-width-down/150?cb=20250426102356",
             "name1": "Christmas Carnival",
             "tag1": "https://i.supaimg.com/3ecf7426-2dc7-43fe-ba77-d698e4d38341.png",
             "type1": "Christmas",
@@ -1434,7 +1434,7 @@
             }
           },
           "-OXqn2CSy6Cm9G2jOaEF": {
-            "img1": "https://i.supaimg.com/2e3caad4-2e22-4d6f-840f-d5af9d54bb8f.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Hero084-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164457",
             "name1": "Black Pearl",
             "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
             "type1": "Starlight 2017",
@@ -1450,7 +1450,7 @@
             }
           },
           "-OXqnDROzqNKGmVkO-mH": {
-            "img1": "https://i.supaimg.com/b2354322-38d9-48fb-aecb-c6fcc9a7debd.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero085-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164458",
             "name1": "Spider Lily",
             "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
             "type1": "Elite 2",
@@ -1466,7 +1466,7 @@
             }
           },
           "-OXqnOrl_VcWfKsrzsCM": {
-            "img1": "https://i.supaimg.com/dbd60996-bdf4-4832-8cdc-335fc6e9a393.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero086-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164459",
             "name1": "Doom Duelist",
             "tag1": "https://i.supaimg.com/92fafc3f-bc67-4413-8903-d41b5d6d119d.png",
             "type1": "Epic",
@@ -1482,7 +1482,7 @@
             }
           },
           "-OXqnU9VqgncCIr8V10O": {
-            "img1": "https://i.supaimg.com/d4b0e4ed-a2a3-45a4-ad41-e7899db024e1.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero087-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164500",
             "name1": "Leona",
             "tag1": "https://i.supaimg.com/c5563b15-1742-4fbf-9852-274b29a20c63.png",
             "type1": "KOF",
@@ -1498,7 +1498,7 @@
             }
           },
           "-OXqnZk7v7_U1gRgl7pi": {
-            "img1": "https://i.supaimg.com/d12469e4-2503-432a-be40-bc894f6c5bae.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero088-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163400",
             "name1": "Gemini - Halo",
             "tag1": "https://i.supaimg.com/8d9c38f9-3a19-4b23-b18b-4a8ce18e26ae.png",
             "type1": "Zodiac",
@@ -1514,7 +1514,7 @@
             }
           },
           "-OXqncxlWz1qZ7wLrtP-": {
-            "img1": "https://i.supaimg.com/441530ba-cbca-478c-8812-36f76677f9da.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Hero089-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164502",
             "name1": "Blood Moon",
             "tag1": "",
             "type1": "S17 First Recharge",
@@ -1532,31 +1532,31 @@
         },
         "Skins": {
           "-OYHR6_6gGPoOJ9rc0KD": {
-            "img2": "https://i.supaimg.com/dbd60996-bdf4-4832-8cdc-335fc6e9a393.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero086-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164459",
             "name2": "Doom Duelist",
             "tag2": "https://i.supaimg.com/92fafc3f-bc67-4413-8903-d41b5d6d119d.png",
             "type2": "Epic"
           },
           "-OYHR9eQ3Gg7MsBAxKKl": {
-            "img2": "https://i.supaimg.com/d4b0e4ed-a2a3-45a4-ad41-e7899db024e1.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero087-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164500",
             "name2": "Leona",
             "tag2": "https://i.supaimg.com/c5563b15-1742-4fbf-9852-274b29a20c63.png",
             "type2": "KOF"
           },
           "-OYHRCifZPaUWE7Ha7G-": {
-            "img2": "https://i.supaimg.com/d12469e4-2503-432a-be40-bc894f6c5bae.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero088-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163400",
             "name2": "Gemini - Halo",
             "tag2": "https://i.supaimg.com/8d9c38f9-3a19-4b23-b18b-4a8ce18e26ae.png",
             "type2": "Zodiac"
           }
         },
-        "img": "https://i.supaimg.com/7b2c5a8e-91be-4792-aa09-e1b8e7d2a7f2.png",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero081-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021140357",
         "name": "Karina"
       },
       "Hayabusa": {
         "Replacements": {
           "-OXqov8pW7IYQ4h6KvBx": {
-            "img1": "https://i.supaimg.com/a7a3e427-bd68-449f-8ef0-701943f01a99.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero211-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021141115",
             "name1": "Crimson Shadow",
             "tag1": "",
             "type1": "Default",
@@ -1576,7 +1576,7 @@
             }
           },
           "-OXqoz4LKFkKcftEUU6T": {
-            "img1": "https://i.supaimg.com/6cff81ff-be30-430c-9c31-ba14fc62b23b.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/6/6f/Hero212-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164751",
             "name1": "Spacetime Shadow",
             "tag1": "",
             "type1": "Basic",
@@ -1596,7 +1596,7 @@
             }
           },
           "-OXqpNsYBTzhLS39enBL": {
-            "img1": "https://i.supaimg.com/deff02e6-b5a5-44ab-b8ad-6396fc241acf.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Hero213-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164752",
             "name1": "Future Enforcer",
             "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
             "type1": "Elite 1",
@@ -1616,7 +1616,7 @@
             }
           },
           "-OXqpUsquN63H3wylYM4": {
-            "img1": "https://i.supaimg.com/348e7b06-4ce5-455a-9346-4895ce98d806.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero214-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628175954",
             "name1": "Sushi Master",
             "tag1": "https://i.supaimg.com/bbcebe6d-4db4-451e-97bd-35c31bae9765.png",
             "type1": "Summer",
@@ -1636,7 +1636,7 @@
             }
           },
           "-OXqpc8FiWmOj-aKH5t5": {
-            "img1": "https://i.supaimg.com/d62af747-f96b-460f-96d7-17b882ddadd6.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero215-portrait.png/revision/latest/scale-to-width-down/150?cb=20250802153423",
             "name1": "Experiment 21",
             "tag1": "https://i.supaimg.com/a1d36586-5a86-4cca-a345-b5f81383efc6.png",
             "type1": "Annual Starlight",
@@ -1656,7 +1656,7 @@
             }
           },
           "-OXqpjE1_YNWYnBYh2qL": {
-            "img1": "https://i.supaimg.com/2afaf882-26e8-46fc-b54e-a555b1b7fee2.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero216-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164755",
             "name1": "Shadow of Obscurity",
             "tag1": "https://i.supaimg.com/92fafc3f-bc67-4413-8903-d41b5d6d119d.png",
             "type1": "Luckybox",
@@ -1676,7 +1676,7 @@
             }
           },
           "-OXqprLvUb8zbefjFzRa": {
-            "img1": "https://i.supaimg.com/9fe89298-5fd1-41f2-b40e-64ab4627d63f.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero217-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164756",
             "name1": "Biological Weapon",
             "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
             "type1": "Starlight 2020",
@@ -1696,7 +1696,7 @@
             }
           },
           "-OXqpwEpXjOOvtSKBumY": {
-            "img1": "https://i.supaimg.com/9c72a5c0-ecd9-4686-a034-49d48ad5ef9e.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero218-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164757",
             "name1": "Shura",
             "tag1": "https://i.supaimg.com/19394161-cc30-494c-a906-b49f710cf674.png",
             "type1": "11.11",
@@ -1716,7 +1716,7 @@
             }
           },
           "-OXqq1RORgAWbgScI7zK": {
-            "img1": "https://i.supaimg.com/2c833bcf-2fe7-4c4e-b596-cdd1b60b2314.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Hero219-portrait.png/revision/latest/scale-to-width-down/150?cb=20221118130654",
             "name1": "Techie Ninja",
             "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
             "type1": "Elite 2",
@@ -1736,7 +1736,7 @@
             }
           },
           "-OXqqFgjdVcdTiaSPjwf": {
-            "img1": "https://i.supaimg.com/bc61bcff-91d6-4193-92e7-2a5e464afe17.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero102110-portrait.png/revision/latest/scale-to-width-down/150?cb=20240520070715",
             "name1": "Exorcist Hayabusa",
             "tag1": "https://i.supaimg.com/68012841-3d31-4f80-b0f7-030258b148e2.png",
             "type1": "Exorcist",
@@ -1756,7 +1756,7 @@
             }
           },
           "-OXqqOd2a4KI8g5yFMXo": {
-            "img1": "https://i.supaimg.com/e358f779-27e3-458f-9831-8739f8617a02.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102111-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101503",
             "name1": "Kakashi Hatake",
             "tag1": "https://i.supaimg.com/5ca8a038-cedd-40fe-9373-30f180eba081.png",
             "type1": "Naruto",
@@ -1778,43 +1778,43 @@
         },
         "Skins": {
           "-OYHRTnZLMCydTzRhow-": {
-            "img2": "https://i.supaimg.com/d62af747-f96b-460f-96d7-17b882ddadd6.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero215-portrait.png/revision/latest/scale-to-width-down/150?cb=20250802153423",
             "name2": "Experiment 21",
             "tag2": "https://i.supaimg.com/a1d36586-5a86-4cca-a345-b5f81383efc6.png",
             "type2": "Annual Starlight"
           },
           "-OYHRXVbuZJdJ-3_f6Cv": {
-            "img2": "https://i.supaimg.com/2afaf882-26e8-46fc-b54e-a555b1b7fee2.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero216-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164755",
             "name2": "Shadow of Obscurity",
             "tag2": "https://i.supaimg.com/92fafc3f-bc67-4413-8903-d41b5d6d119d.png",
             "type2": "Luckybox"
           },
           "-OYHRqgboTfMYBUjFnaM": {
-            "img2": "https://i.supaimg.com/9c72a5c0-ecd9-4686-a034-49d48ad5ef9e.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero218-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164757",
             "name2": "Shura",
             "tag2": "https://i.supaimg.com/19394161-cc30-494c-a906-b49f710cf674.png",
             "type2": "11.11"
           },
           "-OYHS0VOeqIyXfJTWGwN": {
-            "img2": "https://i.supaimg.com/bc61bcff-91d6-4193-92e7-2a5e464afe17.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero102110-portrait.png/revision/latest/scale-to-width-down/150?cb=20240520070715",
             "name2": "Exorcist Hayabusa",
             "tag2": "https://i.supaimg.com/68012841-3d31-4f80-b0f7-030258b148e2.png",
             "type2": "Exorcist"
           },
           "-OYHS4fTRmSvTqBZSIXR": {
-            "img2": "https://i.supaimg.com/e358f779-27e3-458f-9831-8739f8617a02.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102111-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101503",
             "name2": "Kakashi Hatake",
             "tag2": "https://i.supaimg.com/5ca8a038-cedd-40fe-9373-30f180eba081.png",
             "type2": "Naruto"
           }
         },
-        "img": "https://i.supaimg.com/a7a3e427-bd68-449f-8ef0-701943f01a99.png",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero211-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021141115",
         "name": "Hayabusa"
       },
       "Nolan": {
         "Replacements": {
           "-OXqqjo-YnqVafCkFkRq": {
-            "img1": "https://i.supaimg.com/4bf884ee-9d83-4196-98d9-c782d095373d.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Hero1221-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021140807",
             "name1": "Cosmic Wayfinder",
             "tag1": "",
             "type1": "Default",
@@ -1828,7 +1828,7 @@
             }
           },
           "-OXqqnPOdcliu3aoHzMs": {
-            "img1": "https://i.supaimg.com/90a3a06f-7688-4016-8d47-1b394308d032.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero1222-portrait.png/revision/latest/scale-to-width-down/150?cb=20231227085831",
             "name1": "Voidwalker",
             "tag1": "",
             "type1": "Basic",
@@ -1842,7 +1842,7 @@
             }
           },
           "-OXqqsX_kCW03WxP_G2R": {
-            "img1": "https://i.supaimg.com/3a247e6f-6c25-43e1-bde9-6e999b5687ff.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/c/c0/Hero1223-portrait.png/revision/latest/scale-to-width-down/150?cb=20240502082224",
             "name1": "Fashion Mogul",
             "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
             "type1": "Straight 2024",
@@ -1856,7 +1856,7 @@
             }
           },
           "-OXqqxEbNRBifT2wA7-P": {
-            "img1": "https://i.supaimg.com/bd999e93-3b0f-484f-8891-955d429aa0a4.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero1224-portrait.png/revision/latest/scale-to-width-down/150?cb=20241012142659",
             "name1": "The Navigator",
             "tag1": "https://i.supaimg.com/19394161-cc30-494c-a906-b49f710cf674.png",
             "type1": "11.11",
@@ -1872,25 +1872,25 @@
         },
         "Skins": {
           "-OYHSgBq49aC1nNriXjx": {
-            "img2": "https://i.supaimg.com/3a247e6f-6c25-43e1-bde9-6e999b5687ff.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c0/Hero1223-portrait.png/revision/latest/scale-to-width-down/150?cb=20240502082224",
             "name2": "Fashion Mogul",
             "tag2": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
             "type2": "Straight 2024"
           },
           "-OYHSj_NgXKpeCEAINMm": {
-            "img2": "https://i.supaimg.com/bd999e93-3b0f-484f-8891-955d429aa0a4.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero1224-portrait.png/revision/latest/scale-to-width-down/150?cb=20241012142659",
             "name2": "The Navigator",
             "tag2": "https://i.supaimg.com/19394161-cc30-494c-a906-b49f710cf674.png",
             "type2": "11.11"
           }
         },
-        "img": "https://i.supaimg.com/4bf884ee-9d83-4196-98d9-c782d095373d.png",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Hero1221-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021140807",
         "name": "Nolan"
       },
       "Helcurt": {
         "Replacements": {
           "-OXqrCxg6m0wArffY5J8": {
-            "img1": "https://i.supaimg.com/06e75116-c321-4d49-b984-7ab235836c1d.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero511-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021141850",
             "name1": "Shadowbringer",
             "tag1": "",
             "type1": "Default",
@@ -1902,7 +1902,7 @@
             }
           },
           "-OXqrIl0SUcWpNhIgg5R": {
-            "img1": "https://i.supaimg.com/ad51eb45-f202-4417-9fd7-b999a010de34.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero512-portrait.png/revision/latest/scale-to-width-down/150?cb=20240524095044",
             "name1": "Exoracial Executer",
             "tag1": "",
             "type1": "Basic",
@@ -1914,7 +1914,7 @@
             }
           },
           "-OXqrNpdC2Iryj3IVtFk": {
-            "img1": "https://i.supaimg.com/209bb333-c332-488e-84ee-54a6da9faf09.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero513-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165334",
             "name1": "Ice Scythe",
             "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
             "type1": "Elite",
@@ -1926,7 +1926,7 @@
             }
           },
           "-OXqrSVY3SDSbw1OIM4i": {
-            "img1": "https://i.supaimg.com/a3ee2ebd-e6af-4dea-98ba-daaf26265ab9.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero514-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165335",
             "name1": "Evolved Predator",
             "tag1": "https://i.supaimg.com/7aef5066-a2a7-4965-8c68-ed45269d028b.png",
             "type1": "Special",
@@ -1938,7 +1938,7 @@
             }
           },
           "-OXqrXq2X70_ppIfAXPL": {
-            "img1": "https://i.supaimg.com/d7daee86-cde2-410d-b6f4-7183aabc003c.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero515-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917050311",
             "name1": "Scorpio",
             "tag1": "https://i.supaimg.com/8d9c38f9-3a19-4b23-b18b-4a8ce18e26ae.png",
             "type1": "Zodiac",
@@ -1950,7 +1950,7 @@
             }
           },
           "-OXqrbrtCYpOcqoLOVW7": {
-            "img1": "https://i.supaimg.com/00e6a828-02cd-447c-ac43-bcb257cd2f95.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero516-portrait.png/revision/latest/scale-to-width-down/150?cb=20240604030306",
             "name1": "Dream Prowler",
             "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
             "type1": "Straight 2024",
@@ -1962,7 +1962,7 @@
             }
           },
           "-OXqrgT4-uP41D-rMSb3": {
-            "img1": "https://i.supaimg.com/e9f4f167-e962-4bbf-bc60-1d04d607f1d1.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero518-portrait.png/revision/latest/scale-to-width-down/150?cb=20250403122150",
             "name1": "Kaiju of the Deep",
             "tag1": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
             "type1": "Collector",
@@ -1976,19 +1976,19 @@
         },
         "Skins": {
           "-OYMDo4VkFBSExFfw_WR": {
-            "img2": "https://i.supaimg.com/d7daee86-cde2-410d-b6f4-7183aabc003c.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero515-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917050311",
             "name2": "Scorpio",
             "tag2": "https://i.supaimg.com/8d9c38f9-3a19-4b23-b18b-4a8ce18e26ae.png",
             "type2": "Zodiac"
           }
         },
-        "img": "https://i.supaimg.com/06e75116-c321-4d49-b984-7ab235836c1d.png",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero511-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021141850",
         "name": "Helcurt"
       },
       "Yi Sun-shin": {
         "Replacements": {
           "-OXqs7CSziwn4GEDAvmu": {
-            "img1": "https://i.supaimg.com/fc4285ed-89d5-41ec-914c-debc2704500e.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero301-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021141329",
             "name1": "Paenlong Legend",
             "tag1": "",
             "type1": "Default",
@@ -2000,7 +2000,7 @@
             }
           },
           "-OXqsBTvkM7orE_6sdhp": {
-            "img1": "https://i.supaimg.com/5b350222-7116-4b03-9821-1f42de57af24.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero302-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164949",
             "name1": "Major General",
             "tag1": "",
             "type1": "Basic",
@@ -2012,7 +2012,7 @@
             }
           },
           "-OXqsF_nvpPQ6xqXNn46": {
-            "img1": "https://i.supaimg.com/6522896d-e9f0-4bb8-931a-886e7baa7359.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero303-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164950",
             "name1": "Apocalypse Agent",
             "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
             "type1": "Elite 1",
@@ -2024,7 +2024,7 @@
             }
           },
           "-OXqsKIJk6BYaqVboik-": {
-            "img1": "https://i.supaimg.com/10b2ae0e-1efc-4d79-8f71-f6af00d1e916.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero304-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164951",
             "name1": "Roguish Ranger",
             "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
             "type1": "Elite 2",
@@ -2036,7 +2036,7 @@
             }
           },
           "-OXqsQ6ORZC9ngWRFGGy": {
-            "img1": "https://i.supaimg.com/a5bc6b0d-a0cf-4394-8b4e-a52ba8710ee3.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero305-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164953",
             "name1": "Astral Wanderer",
             "tag1": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
             "type1": "Collector",
@@ -2044,7 +2044,7 @@
             "scripts": {"-ObQyAQ0yc3JUv610g2G": "unavailable"}
           },
           "-OXqsYdYmb_un0STrTn3": {
-            "img1": "https://i.supaimg.com/9de11f42-aed0-4fee-bd3a-2f7cd3272539.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Hero306-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164954",
             "name1": "Azure Sentry",
             "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
             "type1": "Starlight 2025",
@@ -2056,7 +2056,7 @@
             }
           },
           "-OXqsbuifBoD-KYtlqAF": {
-            "img1": "https://i.supaimg.com/cafc6a0d-73fc-4d28-ad20-776d298b20e4.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero307-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628180302",
             "name1": "Fleet Warden",
             "tag1": "https://i.supaimg.com/c14ee52a-ba69-4367-b954-f3b4a306e953.png",
             "type1": "Epic",
@@ -2068,7 +2068,7 @@
             }
           },
           "-OXqskPwagBpGLRNJyok": {
-            "img1": "https://i.supaimg.com/31002658-b3e1-40ef-b309-bfb40262ddf0.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Hero308-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114092145",
             "name1": "Surging Torrent",
             "tag1": "https://i.supaimg.com/fd062526-a024-4315-89fc-b6779a0d26cf.png",
             "type1": "Season 31",
@@ -2082,19 +2082,19 @@
         },
         "Skins": {
           "-OYMDxRNE_tG_gdkz4oa": {
-            "img2": "https://i.supaimg.com/a5bc6b0d-a0cf-4394-8b4e-a52ba8710ee3.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero305-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164953",
             "name2": "Astral Wanderer",
             "tag2": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
             "type2": "Collector"
           }
         },
-        "img": "https://i.supaimg.com/fc4285ed-89d5-41ec-914c-debc2704500e.png",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero301-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021141329",
         "name": "Yi Sun-shin"
       },
       "Selena": {
         "Replacements": {
           "-OXqt-pfJuDBEuhQsFaA": {
-            "img1": "https://i.supaimg.com/99c3bf59-1d9a-4a93-8277-1a5e2fda236a.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero631-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021142149",
             "name1": "Abyssal Witch",
             "tag1": "",
             "type1": "Default",
@@ -2116,7 +2116,7 @@
             }
           },
           "-OXqt3Ge7-0nwwhYL7-b": {
-            "img1": "https://i.supaimg.com/849059e4-cb9f-447b-8840-2ebc75bce9f2.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/b/b6/Hero632-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165603",
             "name1": "Wasp Queen",
             "tag1": "",
             "type1": "Basic",
@@ -2138,7 +2138,7 @@
             }
           },
           "-OXqt7WUuyiBtBVZANXH": {
-            "img1": "https://i.supaimg.com/1b10e01d-2974-4db0-a683-2d922a614665.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero633-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165604",
             "name1": "Virus",
             "tag1": "https://i.supaimg.com/c14ee52a-ba69-4367-b954-f3b4a306e953.png",
             "type1": "Epic",
@@ -2160,7 +2160,7 @@
             }
           },
           "-OXqtC9_MlAt98tvCH8y": {
-            "img1": "https://i.supaimg.com/15522c16-673c-45a0-886d-0d9a110171ed.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero634-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163409",
             "name1": "Gemini - Shadow",
             "tag1": "https://i.supaimg.com/8d9c38f9-3a19-4b23-b18b-4a8ce18e26ae.png",
             "type1": "Zodiac",
@@ -2182,7 +2182,7 @@
             }
           },
           "-OXqtHQXTII2H0d4TvJ_": {
-            "img1": "https://i.supaimg.com/e0de24fc-64f2-4bc4-af7b-21e3f1e6ec1d.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero635-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165606",
             "name1": "Double Identity",
             "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
             "type1": "Starlight 2019",
@@ -2204,7 +2204,7 @@
             }
           },
           "-OXqtLmNW-g7CQGeRRe5": {
-            "img1": "https://i.supaimg.com/c92f1c4c-feeb-4a61-928d-6dbff45a72d6.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Hero636-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165607",
             "name1": "Thunder Flash",
             "tag1": "https://i.supaimg.com/92fafc3f-bc67-4413-8903-d41b5d6d119d.png",
             "type1": "Luckybox",
@@ -2226,7 +2226,7 @@
             }
           },
           "-OXqtQK79hT9DJwb4PbQ": {
-            "img1": "https://i.supaimg.com/1e623dd7-c9c2-424b-932e-3760c95f80b9.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero637-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165608",
             "name1": "Gothic Curse",
             "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
             "type1": "Elite",
@@ -2248,7 +2248,7 @@
             }
           },
           "-OXqt_rHIKaVROvDqq8M": {
-            "img1": "https://i.supaimg.com/1f373ee9-f795-4d0a-b4aa-cb5af0132cf4.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero638-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165609",
             "name1": "S.T.U.N. Selena",
             "tag1": "https://i.supaimg.com/1be3f819-710a-4a1d-8a2e-9057cd6fee06.png",
             "type1": "STUN",
@@ -2270,7 +2270,7 @@
             }
           },
           "-OXqtm7qG8WPvHtnVCDx": {
-            "img1": "https://i.supaimg.com/d2f149e1-092e-4e54-a859-71e668720105.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero639-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165610",
             "name1": "Lady Vengeance",
             "tag1": "https://i.supaimg.com/fef49e9d-d65d-467f-bc78-43fdae61a53b.png",
             "type1": "Abyss",
@@ -2292,7 +2292,7 @@
             }
           },
           "-OXqttZb9G4FkaHtRqk0": {
-            "img1": "https://i.supaimg.com/4dfc887e-2993-4d0c-a2e3-f4847421479d.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero106311-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109163106",
             "name1": "Curse of Cinder",
             "tag1": "https://i.supaimg.com/a8dd277a-1c10-4182-b65d-8e459d479400.png",
             "type1": "Zenith",
@@ -2316,49 +2316,49 @@
         },
         "Skins": {
           "-OYMEF2n_9g61hD_e7MI": {
-            "img2": "https://i.supaimg.com/15522c16-673c-45a0-886d-0d9a110171ed.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero634-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163409",
             "name2": "Gemini - Shadow",
             "tag2": "https://i.supaimg.com/8d9c38f9-3a19-4b23-b18b-4a8ce18e26ae.png",
             "type2": "Zodiac"
           },
           "-OYMEI725NsEmI9oEMlO": {
-            "img2": "https://i.supaimg.com/e0de24fc-64f2-4bc4-af7b-21e3f1e6ec1d.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero635-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165606",
             "name2": "Double Identity",
             "tag2": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
             "type2": "Starlight 2019"
           },
           "-OYMEKnxbgl-79LDbt8e": {
-            "img2": "https://i.supaimg.com/c92f1c4c-feeb-4a61-928d-6dbff45a72d6.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Hero636-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165607",
             "name2": "Thunder Flash",
             "tag2": "https://i.supaimg.com/92fafc3f-bc67-4413-8903-d41b5d6d119d.png",
             "type2": "Luckybox"
           },
           "-OYMEWC8pTUjYJLbqFXa": {
-            "img2": "https://i.supaimg.com/1f373ee9-f795-4d0a-b4aa-cb5af0132cf4.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero638-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165609",
             "name2": "S.T.U.N. Selena",
             "tag2": "https://i.supaimg.com/1be3f819-710a-4a1d-8a2e-9057cd6fee06.png",
             "type2": "STUN"
           },
           "-OYMEYufQiJWGHrceWlv": {
-            "img2": "https://i.supaimg.com/d2f149e1-092e-4e54-a859-71e668720105.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero639-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165610",
             "name2": "Lady Vengeance",
             "tag2": "https://i.supaimg.com/fef49e9d-d65d-467f-bc78-43fdae61a53b.png",
             "type2": "Abyss"
           },
           "-OYMEbbZvQjpU09hnu-m": {
-            "img2": "https://i.supaimg.com/4dfc887e-2993-4d0c-a2e3-f4847421479d.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero106311-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109163106",
             "name2": "Curse of Cinder",
             "tag2": "https://i.supaimg.com/a8dd277a-1c10-4182-b65d-8e459d479400.png",
             "type2": "Zenith"
           }
         },
-        "img": "https://i.supaimg.com/99c3bf59-1d9a-4a93-8277-1a5e2fda236a.png",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero631-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021142149",
         "name": "Selena"
       },
       "Benedetta": {
         "Replacements": {
           "-OXquLKq9WDgCPv7XAOa": {
-            "img1": "https://i.supaimg.com/05af6fb6-5f74-4693-9fb4-a0d917e5b89f.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero971-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021143017",
             "name1": "Shadow Ranger",
             "tag1": "",
             "type1": "Default",
@@ -2380,7 +2380,7 @@
             }
           },
           "-OXquQjTYPNZ4jHYxuT1": {
-            "img1": "https://i.supaimg.com/c9dff485-1b79-4793-b474-298683137158.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero972-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170253",
             "name1": "Honor Blade",
             "tag1": "",
             "type1": "Basic",
@@ -2402,7 +2402,7 @@
             }
           },
           "-OXquVlpnaHI4CrTsGvF": {
-            "img1": "https://i.supaimg.com/9580f97c-83f4-477a-9492-b30c51649d28.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero973-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170254",
             "name1": "Street Thrasher",
             "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
             "type1": "Starlight 2021",
@@ -2424,7 +2424,7 @@
             }
           },
           "-OXquaeTZJ7voo1QNOrg": {
-            "img1": "https://i.supaimg.com/b834e3aa-223f-47f5-8074-3db2e0120785.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero974-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170255",
             "name1": "Death Oath",
             "tag1": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
             "type1": "Collector",
@@ -2446,7 +2446,7 @@
             }
           },
           "-OXqufhrbNUAokeGa38K": {
-            "img1": "https://i.supaimg.com/ff9e7a36-b648-4e8a-be89-5257b03a0778.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Hero975-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170256",
             "name1": "Moonblade",
             "tag1": "https://i.supaimg.com/7aef5066-a2a7-4965-8c68-ed45269d028b.png",
             "type1": "Special",
@@ -2468,7 +2468,7 @@
             }
           },
           "-OXqumgjN5iwxg_6wzy3": {
-            "img1": "https://i.supaimg.com/a2650769-37f8-4bf9-8f64-96607acf150f.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero976-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917045324",
             "name1": "Panigale V4S Rider",
             "tag1": "https://i.supaimg.com/04fca538-0617-43ba-ad67-df791261275a.png",
             "type1": "Ducati",
@@ -2490,7 +2490,7 @@
             }
           },
           "-OXquuhozUjpp18zQRfD": {
-            "img1": "https://i.supaimg.com/b86becda-5ef2-424f-b43c-8a2526ecbca5.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Hero977-portrait.png/revision/latest/scale-to-width-down/150?cb=20240314065930",
             "name1": "Quantum Edge",
             "tag1": "https://i.supaimg.com/1005a0ba-8f15-4e15-962c-0d3b51cea3e4.png",
             "type1": "MPL",
@@ -2512,7 +2512,7 @@
             }
           },
           "-OXqv-68HK7iteGjRzpR": {
-            "img1": "https://i.supaimg.com/8faaa8fb-a5f2-4c23-8d5e-6e844fe0b705.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/Hero978-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123911",
             "name1": "Phantom Mirage",
             "tag1": "https://i.supaimg.com/4ecf1a6b-6f18-4e92-b557-128fce501304.png",
             "type1": "Covenant",
@@ -2536,31 +2536,31 @@
         },
         "Skins": {
           "-O_WxtT2FyfIUVLtwGWZ": {
-            "img2": "https://i.supaimg.com/9580f97c-83f4-477a-9492-b30c51649d28.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero973-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170254",
             "name2": "Street Thrasher",
             "tag2": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
             "type2": "Straight 2021"
           },
           "-O_Wxu5-z-BwkV2U_2e-": {
-            "img2": "https://i.supaimg.com/b834e3aa-223f-47f5-8074-3db2e0120785.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero974-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170255",
             "name2": "Death Oath",
             "tag2": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
             "type2": "Collector"
           },
           "-O_Wxv6hvkvZIdOVpNiS": {
-            "img2": "https://i.supaimg.com/a2650769-37f8-4bf9-8f64-96607acf150f.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero976-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917045324",
             "name2": "Panigale V4S Rider",
             "tag2": "https://i.supaimg.com/04fca538-0617-43ba-ad67-df791261275a.png",
             "type2": "Ducati"
           },
           "-O_WxwTg_v9c1aHSwFrb": {
-            "img2": "https://i.supaimg.com/b86becda-5ef2-424f-b43c-8a2526ecbca5.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Hero977-portrait.png/revision/latest/scale-to-width-down/150?cb=20240314065930",
             "name2": "Quantum Edge",
             "tag2": "https://i.supaimg.com/1005a0ba-8f15-4e15-962c-0d3b51cea3e4.png",
             "type2": "MPL"
           },
           "-O_Wxx8GiW6J3H_-CqEb": {
-            "img2": "https://i.supaimg.com/8faaa8fb-a5f2-4c23-8d5e-6e844fe0b705.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/Hero978-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123911",
             "name2": "Phantom Mirage",
             "tag2": "https://i.supaimg.com/4ecf1a6b-6f18-4e92-b557-128fce501304.png",
             "type2": "Covenant"
@@ -2572,13 +2572,13 @@
             "type2": "Soul Vessels"
           }
         },
-        "img": "https://i.supaimg.com/05af6fb6-5f74-4693-9fb4-a0d917e5b89f.png",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero971-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021143017",
         "name": "Benedetta"
       },
       "Harley": {
         "Replacements": {
           "-OXqva9PL3IbAnrprZtq": {
-            "img1": "https://i.supaimg.com/a4abd36f-6323-48f1-970c-55e9739203bd.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero421-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021141633",
             "name1": "Mage Genius",
             "tag1": "",
             "type1": "Default",
@@ -2590,7 +2590,7 @@
             }
           },
           "-OXqvdfpqrfivEcxDmd5": {
-            "img1": "https://i.supaimg.com/e5654fcb-3b89-46f5-9f12-667168330dd8.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero422-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165202",
             "name1": "Naughty Joker",
             "tag1": "",
             "type1": "Basic",
@@ -2602,7 +2602,7 @@
             }
           },
           "-OXqvklCSKR_ZP43RnL0": {
-            "img1": "https://i.supaimg.com/6dda4ad4-6d99-42ae-b123-41a1ccbfeef1.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero423-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165203",
             "name1": "Royal Magister",
             "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
             "type1": "Starlight 2018",
@@ -2614,7 +2614,7 @@
             }
           },
           "-OXqvorwLteIhUpvf_0H": {
-            "img1": "https://i.supaimg.com/e8244ab9-b7b7-4e6d-a53b-fdd735e7f302.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/Hero424-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165204",
             "name1": "Referee\nLimited",
             "tag1": "https://i.supaimg.com/7aef5066-a2a7-4965-8c68-ed45269d028b.png",
             "type1": "Special 1",
@@ -2626,7 +2626,7 @@
             }
           },
           "-OXqvtbze_f9yLPhiAFt": {
-            "img1": "https://i.supaimg.com/6dec247c-8b55-4e31-9227-79b2daea72a7.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Hero425-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165205",
             "name1": "Great Inventor",
             "tag1": "https://i.supaimg.com/c14ee52a-ba69-4367-b954-f3b4a306e953.png",
             "type1": "Epic",
@@ -2638,7 +2638,7 @@
             }
           },
           "-OXqvythYYBjSAEY3lgs": {
-            "img1": "https://i.supaimg.com/3e0bcec8-1527-4aef-92dd-f4c352165015.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero426-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165207",
             "name1": "V.E.N.O.M. Octopus",
             "tag1": "https://i.supaimg.com/86422ed2-4db0-49ca-ab4a-ab1d460a1fb8.png",
             "type1": "V.E.N.O.M.",
@@ -2650,7 +2650,7 @@
             }
           },
           "-OXqw2UrqDsJhR-sJgX1": {
-            "img1": "https://i.supaimg.com/1faea9e5-ffe1-444d-8a17-a253acf5a147.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero427-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165207",
             "name1": "Dream Caster",
             "tag1": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
             "type1": "Collector",
@@ -2658,7 +2658,7 @@
             "scripts": {"-Ob0z0muT0lGUqseXJtN": "unavailable"}
           },
           "-OXqw855lC-ngupemlEm": {
-            "img1": "https://i.supaimg.com/cf1c7910-8cf0-4f2d-8603-128d45ef089b.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Hero428-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915122657",
             "name1": "Pulsar Prodigy",
             "tag1": "https://i.supaimg.com/7aef5066-a2a7-4965-8c68-ed45269d028b.png",
             "type1": "Special 2",
@@ -2670,7 +2670,7 @@
             }
           },
           "-OXqwH9k4VwvHYTJKliN": {
-            "img1": "https://i.supaimg.com/d8a2385c-f223-44d2-985e-ebc102e9b97f.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Hero429-portrait.png/revision/latest/scale-to-width-down/150?cb=20240323055246",
             "name1": "Star Magician",
             "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
             "type1": "Elite",
@@ -2690,13 +2690,13 @@
             "type2": "Collector"
           }
         },
-        "img": "https://i.supaimg.com/a4abd36f-6323-48f1-970c-55e9739203bd.png",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero427-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165207",
         "name": "Harley"
       },
       "Aamon": {
         "Replacements": {
           "-OXqw_j3IlUdUaoAa2AN": {
-            "img1": "https://i.supaimg.com/6f3dd846-9fa5-4ac5-91b7-793bc1b4a14f.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/c/c8/Hero1091-portrait.png/revision/latest/scale-to-width-down/150?cb=20251225192214",
             "name1": "Duke of Shards",
             "tag1": "",
             "type1": "Default",
@@ -2714,7 +2714,7 @@
             }
           },
           "-OXqwduj3ihu5k4dn-5n": {
-            "img1": "https://i.supaimg.com/b6899e16-bf9f-4b28-975a-94cbfba84a1a.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1092-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170510",
             "name1": "Night's Edge",
             "tag1": "",
             "type1": "Basic",
@@ -2732,7 +2732,7 @@
             }
           },
           "-OXqwiSXpm9GfZ4lfIOf": {
-            "img1": "https://i.supaimg.com/fe97fd5b-b15f-4d32-9dad-cea88a4cf3ef.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero1093-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628175950",
             "name1": "Noble Crest",
             "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
             "type1": "Elite",
@@ -2750,7 +2750,7 @@
             }
           },
           "-OXqworBBqxVxQ9oUjxF": {
-            "img1": "https://i.supaimg.com/68044cea-1411-470c-973c-146ac16a5d6f.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1094-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103151",
             "name1": "Cyber Assassin",
             "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
             "type1": "Starlight 2023",
@@ -2768,7 +2768,7 @@
             }
           },
           "-OXqx16XrzFdp4yvf7Ex": {
-            "img1": "https://i.supaimg.com/b5dd33b1-bfee-4968-8fe5-907dfd26e973.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero1095-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619172936",
             "name1": "Vessel of Deceit",
             "tag1": "https://i.supaimg.com/b5750236-2ab1-45d7-968e-ce699d16b1f8.png",
             "type1": "Soul Vessels",
@@ -2806,19 +2806,19 @@
         },
         "Skins": {
           "-OYMExI09PY2BUNTmtbK": {
-            "img2": "https://i.supaimg.com/fe97fd5b-b15f-4d32-9dad-cea88a4cf3ef.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero1093-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628175950",
             "name2": "Noble Crest",
             "tag2": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
             "type2": "Elite"
           },
           "-OYMEznnkEinzCimS8h1": {
-            "img2": "https://i.supaimg.com/68044cea-1411-470c-973c-146ac16a5d6f.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1094-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103151",
             "name2": "Cyber Assassin",
             "tag2": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
             "type2": "Starlight 2023"
           },
           "-OYMF1ToWw7QTb7Egn9L": {
-            "img2": "https://i.supaimg.com/b5dd33b1-bfee-4968-8fe5-907dfd26e973.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero1095-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619172936",
             "name2": "Vessel of Deceit",
             "tag2": "https://i.supaimg.com/b5750236-2ab1-45d7-968e-ce699d16b1f8.png",
             "type2": "Soul Vessels"
@@ -2830,13 +2830,13 @@
             "type2": "Collector"
           }
         },
-        "img": "https://i.supaimg.com/6f3dd846-9fa5-4ac5-91b7-793bc1b4a14f.png",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c8/Hero1091-portrait.png/revision/latest/scale-to-width-down/150?cb=20251225192214",
         "name": "Aamon"
       },
       "Saber": {
         "Replacements": {
           "-OXsPyN1rHtBqaUTtiZl": {
-            "img1": "https://i.supaimg.com/cfe7b83f-c081-4fb1-aaa3-e5958d3a91d6.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero031-portrait.png/revision/latest/scale-to-width-down/150?cb=20250406000702",
             "name1": "Wandering Sword",
             "tag1": "",
             "type1": "Default",
@@ -2850,7 +2850,7 @@
             }
           },
           "-OXsQ0kAmSe8i61luQ_O": {
-            "img1": "https://i.supaimg.com/ee320529-1d05-4289-b0b1-f73a71074145.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/Hero032-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164327",
             "name1": "Golden Flash",
             "tag1": "",
             "type1": "Basic",
@@ -2864,7 +2864,7 @@
             }
           },
           "-OXsQ8Lnw0MR1UQFnWQG": {
-            "img1": "https://i.supaimg.com/8a20c086-c8a5-4594-9095-ca6b9f2493bb.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero033-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164328",
             "name1": "Force Warrior",
             "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
             "type1": "Starlight 2016",
@@ -2878,7 +2878,7 @@
             }
           },
           "-OXsQEUyS9eSLhMV9JfU": {
-            "img1": "https://i.supaimg.com/697833da-abbe-4eb5-b044-4a87b06be8ff.jpg",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero034-portrait.png/revision/latest/scale-to-width-down/150?cb=20250402020129",
             "name1": "Codename - Storm",
             "tag1": "https://i.supaimg.com/89d011e3-a8d7-4068-b50f-a84c21b7191a.png",
             "type1": "Legend",
@@ -2892,7 +2892,7 @@
             }
           },
           "-OXsQIrljZuTwV6Hqj-_": {
-            "img1": "https://i.supaimg.com/c027d0fc-0fef-4031-a114-45bb6db09a38.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero035-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164330",
             "name1": "Fullmetal Ronin",
             "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
             "type1": "Elite",
@@ -2906,7 +2906,7 @@
             }
           },
           "-OXsQSwLY-0db0RRcU05": {
-            "img1": "https://i.supaimg.com/10632195-c6a3-4f69-bac1-33f1e4711629.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/5/5f/Hero036-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164332",
             "name1": "S.A.B.E.R. Regulator",
             "tag1": "https://i.supaimg.com/92f02b44-3f74-41a2-88c8-67022fc138d3.png",
             "type1": "S.A.B.E.R.",
@@ -2920,7 +2920,7 @@
             }
           },
           "-OXsQXjYmgN3FBURwJSf": {
-            "img1": "https://i.supaimg.com/2fe0b6bd-baa4-4cc0-a377-69c37c4d6693.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hero037-portrait.png/revision/latest/scale-to-width-down/150?cb=20240927083754",
             "name1": "Onimaru",
             "tag1": "https://i.supaimg.com/92fafc3f-bc67-4413-8903-d41b5d6d119d.png",
             "type1": "Luckybox",
@@ -2934,7 +2934,7 @@
             }
           },
           "-OXsQajLbEMg2fFkJbvz": {
-            "img1": "https://i.supaimg.com/980fe6ef-38e1-487a-864f-97672d39d2f1.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero038-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164337",
             "name1": "Silver Edge",
             "tag1": "",
             "type1": "S20 First Recharge",
@@ -2948,7 +2948,7 @@
             }
           },
           "-OXsQgFVW_I3qdsep3L_": {
-            "img1": "https://i.supaimg.com/60af3717-2e58-47f2-9b37-d87f0a00d95e.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero039-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103121",
             "name1": "Iron Hound",
             "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
             "type1": "Starlight 2023",
@@ -2964,25 +2964,25 @@
         },
         "Skins": {
           "-OYMItIfSBo6pP_a6JEg": {
-            "img2": "https://i.supaimg.com/697833da-abbe-4eb5-b044-4a87b06be8ff.jpg",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero034-portrait.png/revision/latest/scale-to-width-down/150?cb=20250402020129",
             "name2": "Codename - Storm",
             "tag2": "https://i.supaimg.com/89d011e3-a8d7-4068-b50f-a84c21b7191a.png",
             "type2": "Legend"
           },
           "-OYMJ0XC49ohDWF_jjDF": {
-            "img2": "https://i.supaimg.com/2fe0b6bd-baa4-4cc0-a377-69c37c4d6693.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hero037-portrait.png/revision/latest/scale-to-width-down/150?cb=20240927083754",
             "name2": "Onimaru",
             "tag2": "https://i.supaimg.com/92fafc3f-bc67-4413-8903-d41b5d6d119d.png",
             "type2": "Luckybox"
           }
         },
-        "img": "https://i.supaimg.com/cfe7b83f-c081-4fb1-aaa3-e5958d3a91d6.png",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero031-portrait.png/revision/latest/scale-to-width-down/150?cb=20250406000702",
         "name": "Saber"
       },
       "Joy": {
         "Replacements": {
           "-OXsQsHq5NQjeK7veKjF": {
-            "img1": "https://i.supaimg.com/3afd50ac-946f-425a-a92a-9703ad4080d5.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero1181-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021140707",
             "name1": "Flash of Miracle",
             "tag1": "",
             "type1": "Default",
@@ -2996,7 +2996,7 @@
             }
           },
           "-OXsQvJycs3K5Gpc_NH2": {
-            "img1": "https://i.supaimg.com/f5259df7-fc7c-49ad-807f-1501497b1d6d.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero1182-portrait.png/revision/latest/scale-to-width-down/150?cb=20221021123853",
             "name1": "Feline Ranger",
             "tag1": "",
             "type1": "Basic",
@@ -3010,7 +3010,7 @@
             }
           },
           "-OXsQzGKNW0h3hEnujCO": {
-            "img1": "https://i.supaimg.com/c2419036-51fb-4433-b2b3-32d779c98f9f.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero1184-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114155034",
             "name1": "Royal Protector",
             "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
             "type1": "Elite",
@@ -3024,7 +3024,7 @@
             }
           },
           "-OXsR41uE9KPLfQqq5G-": {
-            "img1": "https://i.supaimg.com/56292667-aa2c-4357-b5ad-c7f232d1f108.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero1185-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123928",
             "name1": "Exostar Scout",
             "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
             "type1": "Starlight 2025",
@@ -3054,7 +3054,7 @@
         },
         "Skins": {
           "-OYMFLNq5K7IWdsRvwAk": {
-            "img2": "https://i.supaimg.com/56292667-aa2c-4357-b5ad-c7f232d1f108.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero1185-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123928",
             "name2": "Exostar Scout",
             "tag2": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
             "type2": "Starlight 2025"
@@ -3066,55 +3066,55 @@
             "type2": "Champion"
           }
         },
-        "img": "https://i.supaimg.com/3afd50ac-946f-425a-a92a-9703ad4080d5.png",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero1181-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021140707",
         "name": "Joy"
       },
       "Natalia": {
         "Replacements": {
           "-OXsRLOphaXxDjX-ywSE": {
-            "img1": "https://i.supaimg.com/2d581bad-b230-401c-a1c5-5eb4345c5faa.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero241-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021141201",
             "name1": "Bright Claw",
             "tag1": "",
             "type1": "Default"
           },
           "-OXsROfGdWfocV-_AAVY": {
-            "img1": "https://i.supaimg.com/3b8fbecd-418a-4316-b4a7-0b9246c5eb63.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero242-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121134504",
             "name1": "Glass Blade",
             "tag1": "",
             "type1": "Basic"
           },
           "-OXsRTWg3U4r0xXnCvcO": {
-            "img1": "https://i.supaimg.com/8af0e674-8be2-4c41-b2b3-9968d4fdc839.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero243-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164832",
             "name1": "Phantom Dancer",
             "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
             "type1": "Starlight 2017"
           },
           "-OXsRXRf6j5JTyRtoDD4": {
-            "img1": "https://i.supaimg.com/a3ca0257-e0d1-414a-af18-94b9c28ef07c.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero244-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121134638",
             "name1": "Deadly Mamba",
             "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
             "type1": "Elite"
           },
           "-OXsRbIMV4vX1D1Z-4LJ": {
-            "img1": "https://i.supaimg.com/45aa796d-8569-4f07-97a0-ed33687e66c1.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero245-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121134727",
             "name1": "Midnight Raven",
             "tag1": "https://i.supaimg.com/7aef5066-a2a7-4965-8c68-ed45269d028b.png",
             "type1": "Special 1"
           },
           "-OXsRfwksAUDI4MhNpEK": {
-            "img1": "https://i.supaimg.com/623cbab9-ddb8-484e-b006-d08ae42ecd97.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero246-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164835",
             "name1": "Grim Strangler",
             "tag1": "https://i.supaimg.com/7aef5066-a2a7-4965-8c68-ed45269d028b.png",
             "type1": "Special 2"
           },
           "-OXsRuVbXhFg-d7T7Cc8": {
-            "img1": "https://i.supaimg.com/15b17d0f-2731-4474-b655-04e8668b259f.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero247-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164836",
             "name1": "Cyber Spectre",
             "tag1": "https://i.supaimg.com/5f48ccb2-a063-440f-958f-89f964bcf7ab.png",
             "type1": "Create"
           },
           "-OXsRzOfSe2KHqIqm0zC": {
-            "img1": "https://i.supaimg.com/62952bbf-26e1-4ff1-8fd0-06653fa6eb46.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero248-portrait.png/revision/latest/scale-to-width-down/150?cb=20240919031336",
             "name1": "Warrioress Paragon",
             "tag1": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
             "type1": "Collector"
@@ -3122,49 +3122,49 @@
         },
         "Skins": {
           "-OYMGcXJobKKhKVYAitE": {
-            "img2": "https://i.supaimg.com/8af0e674-8be2-4c41-b2b3-9968d4fdc839.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero243-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164832",
             "name2": "Phantom Dancer",
             "tag2": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
             "type2": "Starlight 2017"
           },
           "-OYMGfYf9WZMMklTbKpE": {
-            "img2": "https://i.supaimg.com/a3ca0257-e0d1-414a-af18-94b9c28ef07c.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero244-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121134638",
             "name2": "Deadly Mamba",
             "tag2": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
             "type2": "Elite"
           },
           "-OYMGiIcMP4PHDoQiE1e": {
-            "img2": "https://i.supaimg.com/45aa796d-8569-4f07-97a0-ed33687e66c1.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero245-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121134727",
             "name2": "Midnight Raven",
             "tag2": "https://i.supaimg.com/7aef5066-a2a7-4965-8c68-ed45269d028b.png",
             "type2": "Special 1"
           },
           "-OYMGl-ClSweQQYgIPoL": {
-            "img2": "https://i.supaimg.com/623cbab9-ddb8-484e-b006-d08ae42ecd97.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero246-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164835",
             "name2": "Grim Strangler",
             "tag2": "https://i.supaimg.com/7aef5066-a2a7-4965-8c68-ed45269d028b.png",
             "type2": "Special 2"
           },
           "-OYMGni7t6tHLkz5olDK": {
-            "img2": "https://i.supaimg.com/15b17d0f-2731-4474-b655-04e8668b259f.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero247-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164836",
             "name2": "Cyber Spectre",
             "tag2": "https://i.supaimg.com/5f48ccb2-a063-440f-958f-89f964bcf7ab.png",
             "type2": "Create"
           },
           "-OYMGs_l8q2cnydhMGnk": {
-            "img2": "https://i.supaimg.com/62952bbf-26e1-4ff1-8fd0-06653fa6eb46.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero248-portrait.png/revision/latest/scale-to-width-down/150?cb=20240919031336",
             "name2": "Warrioress Paragon",
             "tag2": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
             "type2": "Collector"
           }
         },
-        "img": "https://i.supaimg.com/2d581bad-b230-401c-a1c5-5eb4345c5faa.png",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero241-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021141201",
         "name": "Natalia"
       },
       "Hanzo": {
         "Replacements": {
           "-OXsSCoGqtqG87gmY-C5": {
-            "img1": "https://i.supaimg.com/0d046352-317c-4e26-b78b-082113114dff.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Hero691-portrait.png/revision/latest/scale-to-width-down/150?cb=20250117141953",
             "name1": "Akuma Ninja",
             "tag1": "",
             "type1": "Default",
@@ -3176,7 +3176,7 @@
             }
           },
           "-OXsSGtAYrTgSp3Bw25d": {
-            "img1": "https://i.supaimg.com/b55cc2ed-a203-4270-a017-cfd087a56d4e.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero692-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109154330",
             "name1": "The Pale Phantom",
             "tag1": "",
             "type1": "Basic",
@@ -3188,7 +3188,7 @@
             }
           },
           "-OXsSL_vL6_2PniGMNFu": {
-            "img1": "https://i.supaimg.com/42bacc0e-3e4e-44e4-9bce-f746ad1e11da.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero693-portrait.png/revision/latest/scale-to-width-down/150?cb=20250117142003",
             "name1": "Undead King",
             "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
             "type1": "Elite",
@@ -3200,7 +3200,7 @@
             }
           },
           "-OXsSUgtibTx4MqKAr3P": {
-            "img1": "https://i.supaimg.com/4fcbf290-fbb1-4621-8ee4-92e2e54bc706.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero694-portrait.png/revision/latest/scale-to-width-down/150?cb=20250117142005",
             "name1": "Insidious Tutor",
             "tag1": "https://i.supaimg.com/7aef5066-a2a7-4965-8c68-ed45269d028b.png",
             "type1": "Special",
@@ -3212,7 +3212,7 @@
             }
           },
           "-OXsSeIK9k1XgO19FRxX": {
-            "img1": "https://i.supaimg.com/c5ee36b7-71b6-4f6c-9159-14f4b7280fb0.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero695-portrait.png/revision/latest/scale-to-width-down/150?cb=20250430132311",
             "name1": "Soulfire Netherlord",
             "tag1": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
             "type1": "Collector",
@@ -3226,19 +3226,19 @@
         },
         "Skins": {
           "-OYMFdfjWrnlBfJpduSr": {
-            "img2": "https://i.supaimg.com/c5ee36b7-71b6-4f6c-9159-14f4b7280fb0.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero695-portrait.png/revision/latest/scale-to-width-down/150?cb=20250430132311",
             "name2": "Soulfire Netherlord",
             "tag2": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
             "type2": "Collector"
           }
         },
-        "img": "https://i.supaimg.com/0d046352-317c-4e26-b78b-082113114dff.png",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Hero691-portrait.png/revision/latest/scale-to-width-down/150?cb=20250117141953",
         "name": "Hanzo"
       },
       "Suyou": {
         "Replacements": {
           "-OXsT7DzJvA2sXk3Twl3": {
-            "img1": "https://i.supaimg.com/1d984714-17bb-4e0d-961d-a0ea7db75e7a.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero1261-portrait.png/revision/latest/scale-to-width-down/150?cb=20250412174335",
             "name1": "Mask of the Immortal",
             "tag1": "",
             "type1": "Default",
@@ -3250,7 +3250,7 @@
             }
           },
           "-OXsTBTjAzuYd1MVbIrT": {
-            "img1": "https://i.supaimg.com/58981fa8-2ef2-4506-97b0-2dcfe75d8fcd.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero1262-portrait.png/revision/latest/scale-to-width-down/150?cb=20241002022300",
             "name1": "Venerated Vigilance",
             "tag1": "",
             "type1": "Basic",
@@ -3262,7 +3262,7 @@
             }
           },
           "-OXsTHv7DQVAFDhlk7HS": {
-            "img1": "https://i.supaimg.com/e70a5b7b-a6f7-4464-aace-b676dc9c277b.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero1263-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101450",
             "name1": "Sasuke Uchiha",
             "tag1": "https://i.supaimg.com/5ca8a038-cedd-40fe-9373-30f180eba081.png",
             "type1": "Naruto",
@@ -3272,13 +3272,13 @@
         },
         "Skins": {
           "-OXsTNVbbwl_jNWeDZBI": {
-            "img2": "https://i.supaimg.com/e70a5b7b-a6f7-4464-aace-b676dc9c277b.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero1263-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101450",
             "name2": "Sasuke Uchiha",
             "tag2": "https://i.supaimg.com/5ca8a038-cedd-40fe-9373-30f180eba081.png",
             "type2": "Naruto"
           }
         },
-        "img": "https://i.supaimg.com/1d984714-17bb-4e0d-961d-a0ea7db75e7a.png",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero1261-portrait.png/revision/latest/scale-to-width-down/150?cb=20250412174335",
         "name": "Suyou"
       }
     },
@@ -5961,7 +5961,7 @@
             }
           },
           "-OXxdX5LONz_D1B2k7Hh": {
-            "img1": "https://i.supaimg.com/ed620bd9-8ae4-47a3-a97d-40cb7b18b2d6.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero022-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164259",
             "name1": "Power Source",
             "tag1": "",
             "type1": "Basic",
@@ -5970,7 +5970,7 @@
             }
           },
           "-OXxdb3eNyUKIwOYFJ0n": {
-            "img1": "https://i.supaimg.com/9eb8f15c-f93a-424d-a000-79cf5b3f6e46.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero023-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164302",
             "name1": "Ghoul's Fury",
             "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
             "type1": "Elite 1",
@@ -5979,7 +5979,7 @@
             }
           },
           "-OXxdfZ3Ylh68ripOSCi": {
-            "img1": "https://i.supaimg.com/a2fc3cb2-a2b8-44ad-8b8f-571445997868.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero024-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164306",
             "name1": "Savage Hunter",
             "tag1": "https://i.supaimg.com/c1f8221f-f283-4bd9-82d3-4e4651ac1a31.png",
             "type1": "Elite 2",
@@ -5988,14 +5988,14 @@
             }
           },
           "-OXxdlGkCq9XOMeM-_D9": {
-            "img1": "https://i.supaimg.com/5b41261e-5b4a-40b0-b6d2-827b5071d2e6.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero025-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164309",
             "name1": "God of Mountains",
             "tag1": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
             "type1": "Collector",
             "type_links": {"-Of7ZFt9pM13SRuF68SC": "unavailable"}
           },
           "-OXxdpv4azD-WeoxEu_x": {
-            "img1": "https://i.supaimg.com/ed2b5560-dada-4d56-b36d-e5f29bb43047.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/4/48/Hero026-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164313",
             "name1": "Savage Pointguard",
             "tag1": "https://i.supaimg.com/7aef5066-a2a7-4965-8c68-ed45269d028b.png",
             "type1": "Special 1",
@@ -6004,7 +6004,7 @@
             }
           },
           "-OXxdwn99Lp0MFIiUDMN": {
-            "img1": "https://i.supaimg.com/73611e14-aec3-4c1c-a485-647e992dfc04.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/8/87/Hero027-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164316",
             "name1": "Bioroid",
             "tag1": "https://i.supaimg.com/f063cb9a-b605-4e62-be59-310f17cf4930.png",
             "type1": "Starlight 2022",
@@ -6013,7 +6013,7 @@
             }
           },
           "-OXxe0Fdolsl5DUyjp6h": {
-            "img1": "https://i.supaimg.com/e85bdd2d-319f-4682-8d23-c5b99bb9d002.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero028-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125721",
             "name1": "Infernal Warlord",
             "tag1": "https://i.supaimg.com/c14ee52a-ba69-4367-b954-f3b4a306e953.png",
             "type1": "Epic",
@@ -6022,7 +6022,7 @@
             }
           },
           "-OXxe5GJ2LfYpCRZFiIt": {
-            "img1": "https://i.supaimg.com/cfe26943-52e2-4ad4-a5d8-da8ef990b72e.png",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Hero029-portrait.png/revision/latest/scale-to-width-down/150?cb=20240923124123",
             "name1": "Razor Edge",
             "tag1": "https://i.supaimg.com/7aef5066-a2a7-4965-8c68-ed45269d028b.png",
             "type1": "Special 2",
@@ -6033,7 +6033,7 @@
         },
         "Skins": {
           "-OYMOQB3uQOGudqSKST2": {
-            "img2": "https://i.supaimg.com/5b41261e-5b4a-40b0-b6d2-827b5071d2e6.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero025-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164309",
             "name2": "God of Mountains",
             "tag2": "https://i.supaimg.com/aaea4b4c-d9d3-41ee-9f7d-3959ba15501f.png",
             "type2": "Collector"
