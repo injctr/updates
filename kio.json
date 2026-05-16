@@ -12003,6 +12003,8 @@
         "img": "",
         "name": "Recall",
         "01 CLASSIC": {
+          "img": "",
+          "name": "Classic",
           "01 SEAL OF ANVIL": {
             "img": "https://i.imgur.com/OS3cV9a.jpeg",
             "name": "Seal of Anvil",
@@ -12170,6 +12172,8 @@
           }
         },
         "02 515! SHUTTLE!": {
+          "img": "",
+          "name": "515! Shuttle!",
           "01 SEAL OF ANVIL": {
             "img": "https://i.imgur.com/OS3cV9a.jpeg",
             "name": "Seal of Anvil",
@@ -12207,6 +12211,8 @@
           }
         },
         "03 ATOMIC POP": {
+          "img": "",
+          "name": "Atomic Pop",
           "01 SEAL OF ANVIL": {
             "img": "https://i.imgur.com/OS3cV9a.jpeg",
             "name": "Seal of Anvil",
@@ -12279,6 +12285,8 @@
           }
         },
         "04 PARTY KING": {
+          "img": "",
+          "name": "Party King",
           "01 SEAL OF ANVIL": {
             "img": "https://i.imgur.com/OS3cV9a.jpeg",
             "name": "Seal of Anvil",
@@ -12321,6 +12329,8 @@
           }
         },
         "05 PARTY STAR": {
+          "img": "",
+          "name": "Party Star",
           "01 SEAL OF ANVIL": {
             "img": "https://i.imgur.com/OS3cV9a.jpeg",
             "name": "Seal of Anvil",
@@ -12358,6 +12368,8 @@
           }
         },
         "06 BLAZING WEST": {
+          "img": "",
+          "name": "Blazing West",
           "01 SEAL OF ANVIL": {
             "img": "https://i.imgur.com/OS3cV9a.jpeg",
             "name": "Seal of Anvil",
@@ -12400,6 +12412,8 @@
           }
         },
         "07 HALLOWEEN": {
+          "img": "",
+          "name": "Halloween",
           "01 SEAL OF ANVIL": {
             "img": "https://i.imgur.com/OS3cV9a.jpeg",
             "name": "Seal of Anvil",
@@ -12422,6 +12436,8 @@
           }
         },
         "08 LIGHT & DARK": {
+          "img": "",
+          "name": "Light & Dark",
           "01 SEAL OF ANVIL": {
             "img": "https://i.imgur.com/OS3cV9a.jpeg",
             "name": "Seal of Anvil",
@@ -12443,6 +12459,8 @@
         "img": "https://i.imgur.com/SEyWZOU.png",
         "name": "Emote",
         "01 GENIUS": {
+          "img": "",
+          "name": "Genius",
           "01 ECHO PH": {
             "img": "https://i.imgur.com/dgARWGj.png",
             "name": "Echo PH",
@@ -12594,6 +12612,8 @@
         "img": "https://i.imgur.com/nN407Jk.png",
         "name": "Trail",
         "01 CLASSIC": {
+          "img": "",
+          "name": "Classic",
           "01 GORD LEGEND": {
             "img": "https://i.imgur.com/ESFqBmE.jpeg",
             "name": "Gord Legend",
@@ -12695,6 +12715,8 @@
         "img": "https://i.imgur.com/Byhh9bc.png",
         "name": "Elimination",
         "01 CLASSIC": {
+          "img": "",
+          "name": "Classic",
           "01 CRASH": {
             "img": "https://i.imgur.com/NVgTL2a.jpeg",
             "name": "Crash",
