@@ -11996,30 +11996,739 @@
         },
         "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero591-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021142052",
         "name": "Uranus"
-      },
-      "Marcel": {
+      }
+    },
+    "Effects": {
+      "Recall": {
         "img": "",
-        "name": "Marcel",
-        "Replacements": {
-          "01 DEFAULT": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Hero1321-icon.png/revision/latest?cb=20260312135432",
-            "type1": "Default",
-            "type_links": {
-              "01 BASIC": "unavailable"
-            }
+        "name": "Recall",
+        "01 CLASSIC": {
+          "01 SEAL OF ANVIL": {
+            "img": "https://i.imgur.com/OS3cV9a.jpeg",
+            "name": "Seal of Anvil",
+            "link": "https://github.com/injctr/REC4L/raw/main/Classic%20-%20Seal%20of%20Anvil.zip"
           },
-          "02 BASIC": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero1322-icon.png/revision/latest?cb=20260420082523",
-            "type1": "Basic",
-            "type_links": {
-              "01 BASIC": "Hello"
-            }
+          "02 AOT": {
+            "img": "https://i.imgur.com/MkQFQFZ.jpeg",
+            "name": "AOT",
+            "link": "https://github.com/injctr/REC4L/raw/main/Classic%20-%20AOT.zip"
+          },
+          "03 FIRE CROWN": {
+            "img": "https://i.imgur.com/7DP3G7L.jpeg",
+            "name": "Fire Crown",
+            "link": "https://github.com/injctr/REC4L/raw/main/Classic%20-%20Fire%20Crown.zip"
+          },
+          "04 NEOBEAST": {
+            "img": "https://i.imgur.com/StlZuXJ.jpeg",
+            "name": "Neobeast",
+            "link": "https://github.com/injctr/REC4L/raw/main/Classic%20-%20Neobeast.zip"
+          },
+          "05 DUCATI": {
+            "img": "https://i.imgur.com/miMrNiq.jpeg",
+            "name": "Ducati",
+            "link": "https://github.com/injctr/REC4L/raw/main/Classic%20-%20Ducati.zip"
+          },
+          "06 BLACK VOID": {
+            "img": "https://i.imgur.com/4NmrJ2n.jpeg",
+            "name": "Black Void",
+            "link": "https://github.com/injctr/REC4L/raw/main/Classic%20-%20Black%20Void.zip"
+          },
+          "07 CYBER DRAGON": {
+            "img": "https://i.imgur.com/xYBhM03.jpeg",
+            "name": "Cyber Dragon",
+            "link": "https://github.com/injctr/REC4L/raw/main/Classic%20-%20Cyber%20Dragon.zip"
+          },
+          "08 ETHEREAL BUTTERFLY": {
+            "img": "https://i.imgur.com/NWCYsbG.jpeg",
+            "name": "Ethereal Butterfly",
+            "link": "https://github.com/injctr/REC4L/raw/main/Classic%20-%20Ethereal%20Butterfly.zip"
+          },
+          "09 EXORCIST": {
+            "img": "https://i.imgur.com/uLDTnd9.jpeg",
+            "name": "Exorcist",
+            "link": "https://github.com/injctr/REC4L/raw/main/Classic%20-%20Return%20of%20Exorcist.zip"
+          },
+          "10 WONDER PARK": {
+            "img": "https://i.imgur.com/hMI4S1l.jpeg",
+            "name": "Wonder Park",
+            "link": "https://github.com/injctr/REC4L/raw/main/Classic%20-%20Wonder%20Park.zip"
+          },
+          "11 AVATAR OF TIME": {
+            "img": "https://i.imgur.com/T9gE6uu.jpeg",
+            "name": "Avatar of Time",
+            "link": "https://github.com/injctr/REC4L/raw/main/Classic%20-%20Avatar%20of%20Time.zip"
+          },
+          "12 FORTIFICATION": {
+            "img": "https://i.imgur.com/ljVv2oG.jpeg",
+            "name": "Fortification",
+            "link": "https://github.com/injctr/REC4L/raw/main/Classic%20-%20Fortification%20Return.zip"
+          },
+          "13 SHADOW WISDOM": {
+            "img": "https://i.imgur.com/RYy0Y18.jpeg",
+            "name": "Shadow Wisdom",
+            "link": "https://github.com/injctr/REC4L/raw/main/Classic%20-%20Shadow%20Wisdom.zip"
+          },
+          "14 ORICHI": {
+            "img": "https://i.imgur.com/BFh249n.jpeg",
+            "name": "Orichi",
+            "link": "https://github.com/injctr/REC4L/raw/main/Classic%20-%20Orochi.zip"
+          },
+          "15 KOF": {
+            "img": "https://i.imgur.com/8tVHQiD.jpeg",
+            "name": "KOF",
+            "link": "https://github.com/injctr/REC4L/raw/main/Classic%20-%20KOF.zip"
+          },
+          "16 RHYTHMIC ECHO": {
+            "img": "https://i.imgur.com/ENpiGe4.jpeg",
+            "name": "Rhythmic Echo",
+            "link": "https://github.com/injctr/REC4L/raw/main/Classic%20-%20Rhythmic%20Echo.zip"
+          },
+          "17 WINGS OF JUDGEMENT": {
+            "img": "https://i.imgur.com/og36b2f.jpeg",
+            "name": "Wings of Judgement",
+            "link": "https://github.com/injctr/REC4L/raw/main/Classic%20-%20Wings%20of%20Judgement.zip"
+          },
+          "18 SUPER RETURN": {
+            "img": "https://i.imgur.com/4mxodAy.jpeg",
+            "name": "Super Return",
+            "link": "https://github.com/injctr/REC4L/raw/main/Classic%20-%20Super%20Return.zip"
+          },
+          "19 SHADOW KNIGHT": {
+            "img": "https://i.imgur.com/bHw08EZ.jpeg",
+            "name": "Shadow Knight",
+            "link": "https://github.com/injctr/REC4L/raw/main/Classic%20-%20Shadow%20Knight.zip"
+          },
+          "20 FOREBODING RETURN": {
+            "img": "https://i.imgur.com/FntHqhE.jpeg",
+            "name": "Foreboding Return",
+            "link": "https://github.com/injctr/REC4L/raw/main/Classic%20-%20Foreboding%20Return.zip"
+          },
+          "21 SUMMER GALA": {
+            "img": "https://i.imgur.com/FIAkWFb.jpeg",
+            "name": "Summer Gala",
+            "link": "https://github.com/injctr/REC4L/raw/main/Classic%20-%20Summer%20Gala.zip"
+          },
+          "22 DASHING CAT": {
+            "img": "https://i.imgur.com/pkyBm0X.jpeg",
+            "name": "Dashing Cat",
+            "link": "https://github.com/injctr/REC4L/raw/main/Classic%20-%20Dashing%20Cat.zip"
+          },
+          "23 SNOWMAN": {
+            "img": "https://i.imgur.com/g8hKVkw.jpeg",
+            "name": "Snowman",
+            "link": "https://github.com/injctr/REC4L/raw/main/Classic%20-%20Snowman.zip"
+          },
+          "24 KAGURA EXORCIST": {
+            "img": "https://i.imgur.com/JLRk9B1.jpeg",
+            "name": "Kagura Exorcist",
+            "link": "https://github.com/injctr/REC4L/raw/main/Classic%20-%20Kagura%20Exorcist.zip"
+          },
+          "25 YU ZHONG EXORCIST": {
+            "img": "https://i.imgur.com/HJ93pjO.jpeg",
+            "name": "Yu Zhong Exorcist",
+            "link": "https://github.com/injctr/REC4L/raw/main/Classic%20-%20YZ%20Exorcist.zip"
+          },
+          "26 EVOS": {
+            "img": "https://i.imgur.com/9OiT2ny.jpeg",
+            "name": "EVOS",
+            "link": "https://github.com/injctr/REC4L/raw/main/Classic%20-%20Evos.zip"
+          },
+          "27 FNOP": {
+            "img": "https://i.imgur.com/1vZ9IyT.jpeg",
+            "name": "FNOP",
+            "link": "https://github.com/injctr/REC4L/raw/main/Classic%20-%20FNOP.zip"
+          },
+          "28 GEEK": {
+            "img": "https://i.imgur.com/Zb2KOPH.jpeg",
+            "name": "GEEK",
+            "link": "https://github.com/injctr/REC4L/raw/main/Classic%20-%20GEEK.zip"
+          },
+          "29 RSG": {
+            "img": "https://i.imgur.com/ZvZDdB4.jpeg",
+            "name": "RSG",
+            "link": "https://github.com/injctr/REC4L/raw/main/Classic%20-%20RSG.zip"
+          },
+          "30 TLID": {
+            "img": "https://i.imgur.com/kDtHiF0.jpeg",
+            "name": "TLID",
+            "link": "https://github.com/injctr/REC4L/raw/main/Classic%20-%20TLID.zip"
+          },
+          "31 TLPH": {
+            "img": "https://i.imgur.com/LBTSAap.jpeg",
+            "name": "TLPH",
+            "link": "https://github.com/injctr/REC4L/raw/main/Classic%20-%20TLPH.zip"
+          },
+          "32 ALPHA LEGEND": {
+            "img": "https://i.supaimg.com/f06ccc21-7309-4358-9a54-f52f93c9126c.jpg",
+            "name": "Alpha Legend",
+            "link": "https://github.com/injctr/REC4L/raw/main/Classic%20-%20Alpha%20Legend.zip"
+          },
+          "33 NARUTO": {
+            "img": "https://i.supaimg.com/e4c53ac7-54ab-4add-9b2c-f80badbb0cfa.jpg",
+            "name": "Naruto",
+            "link": "https://github.com/injctr/REC4L/raw/main/Naruto%20-%20Classic.zip"
           }
         },
-        "Skins": {
-          "01 BASIC": {
-            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero1322-icon.png/revision/latest?cb=20260420082523",
-            "type2": "Basic"
+        "02 515! SHUTTLE!": {
+          "01 SEAL OF ANVIL": {
+            "img": "https://i.imgur.com/OS3cV9a.jpeg",
+            "name": "Seal of Anvil",
+            "link": "https://github.com/injctr/REC4L/raw/main/515!%20Shuttle!%20-%20Seal%20of%20Anvil.zip"
+          },
+          "02 AOT": {
+            "img": "https://i.imgur.com/MkQFQFZ.jpeg",
+            "name": "AOT",
+            "link": "https://github.com/injctr/REC4L/raw/main/515!%20Shuttle!%20-%20AOT.zip"
+          },
+          "03 FIRE CROWN": {
+            "img": "https://i.imgur.com/7DP3G7L.jpeg",
+            "name": "Fire Crown",
+            "link": "https://github.com/injctr/REC4L/raw/main/515!%20Shuttle!%20-%20Fire%20Crown.zip"
+          },
+          "06 BLACK VOID": {
+            "img": "https://i.imgur.com/4NmrJ2n.jpeg",
+            "name": "Black Void",
+            "link": "https://github.com/injctr/REC4L/raw/main/515!%20Shuttle!%20-%20Black%20Void.zip"
+          },
+          "09 EXORCIST": {
+            "img": "https://i.imgur.com/uLDTnd9.jpeg",
+            "name": "Exorcist",
+            "link": "https://github.com/injctr/REC4L/raw/main/515!%20Shuttle!%20-%20Exorcist.zip"
+          },
+          "14 ORICHI": {
+            "img": "https://i.imgur.com/BFh249n.jpeg",
+            "name": "Orichi",
+            "link": "https://github.com/injctr/REC4L/raw/main/515!%20Shuttle!%20-%20Orochi.zip"
+          },
+          "16 RHYTHMIC ECHO": {
+            "img": "https://i.imgur.com/ENpiGe4.jpeg",
+            "name": "Rhythmic Echo",
+            "link": "https://github.com/injctr/REC4L/raw/main/515!%20Shuttle!%20-%20Rhythmic%20Echo.zip"
+          }
+        },
+        "03 ATOMIC POP": {
+          "01 SEAL OF ANVIL": {
+            "img": "https://i.imgur.com/OS3cV9a.jpeg",
+            "name": "Seal of Anvil",
+            "link": "https://github.com/injctr/REC4L/raw/main/Atomic%20Pop%20-%20Seal%20of%20Anvil.zip"
+          },
+          "02 AOT": {
+            "img": "https://i.imgur.com/MkQFQFZ.jpeg",
+            "name": "AOT",
+            "link": "https://github.com/injctr/REC4L/raw/main/Atomic%20Pop%20-%20AOT.zip"
+          },
+          "03 FIRE CROWN": {
+            "img": "https://i.imgur.com/7DP3G7L.jpeg",
+            "name": "Fire Crown",
+            "link": "https://github.com/injctr/REC4L/raw/main/Atomic%20Pop%20-%20Fire%20Crown.zip"
+          },
+          "06 BLACK VOID": {
+            "img": "https://i.imgur.com/4NmrJ2n.jpeg",
+            "name": "Black Void",
+            "link": "https://github.com/injctr/REC4L/raw/main/Atomic%20Pop%20-%20Black%20Void.zip"
+          },
+          "09 EXORCIST": {
+            "img": "https://i.imgur.com/uLDTnd9.jpeg",
+            "name": "Exorcist",
+            "link": "https://github.com/injctr/REC4L/raw/main/Atomic%20Pop%20-%20Exorcist.zip"
+          },
+          "14 ORICHI": {
+            "img": "https://i.imgur.com/BFh249n.jpeg",
+            "name": "Orichi",
+            "link": "https://github.com/injctr/REC4L/raw/main/Atomic%20Pop%20-%20Orochi.zip"
+          },
+          "16 RHYTHMIC ECHO": {
+            "img": "https://i.imgur.com/ENpiGe4.jpeg",
+            "name": "Rhythmic Echo",
+            "link": "https://github.com/injctr/REC4L/raw/main/Atomic%20Pop%20-%20Rhythmic%20Echo.zip"
+          },
+          "26 EVOS": {
+            "img": "https://i.imgur.com/9OiT2ny.jpeg",
+            "name": "EVOS",
+            "link": "https://github.com/injctr/REC4L/raw/main/Atomic%20Pop%20-%20Evos.zip"
+          },
+          "27 FNOP": {
+            "img": "https://i.imgur.com/1vZ9IyT.jpeg",
+            "name": "FNOP",
+            "link": "https://github.com/injctr/REC4L/raw/main/Atomic%20Pop%20-%20FNOP.zip"
+          },
+          "28 GEEK": {
+            "img": "https://i.imgur.com/Zb2KOPH.jpeg",
+            "name": "GEEK",
+            "link": "https://github.com/injctr/REC4L/raw/main/Atomic%20Pop%20-%20GEEK.zip"
+          },
+          "29 RSG": {
+            "img": "https://i.imgur.com/ZvZDdB4.jpeg",
+            "name": "RSG",
+            "link": "https://github.com/injctr/REC4L/raw/main/Atomic%20Pop%20-%20RSG.zip"
+          },
+          "30 TLID": {
+            "img": "https://i.imgur.com/kDtHiF0.jpeg",
+            "name": "TLID",
+            "link": "https://github.com/injctr/REC4L/raw/main/Atomic%20Pop%20-%20TLID.zip"
+          },
+          "31 TLPH": {
+            "img": "https://i.imgur.com/LBTSAap.jpeg",
+            "name": "TLPH",
+            "link": "https://github.com/injctr/REC4L/raw/main/Atomic%20Pop%20-%20TLPH.zip"
+          },
+          "33 NARUTO": {
+            "img": "https://i.supaimg.com/e4c53ac7-54ab-4add-9b2c-f80badbb0cfa.jpg",
+            "name": "Naruto",
+            "link": "https://github.com/injctr/REC4L/raw/main/Naruto%20-%20Atomic%20Pop.zip"
+          }
+        },
+        "04 PARTY KING": {
+          "01 SEAL OF ANVIL": {
+            "img": "https://i.imgur.com/OS3cV9a.jpeg",
+            "name": "Seal of Anvil",
+            "link": "https://github.com/injctr/REC4L/raw/main/Party%20King%20-%20Seal%20of%20Anvil.zip"
+          },
+          "02 AOT": {
+            "img": "https://i.imgur.com/MkQFQFZ.jpeg",
+            "name": "AOT",
+            "link": "https://github.com/injctr/REC4L/raw/main/Party%20King%20-%20AOT.zip"
+          },
+          "03 FIRE CROWN": {
+            "img": "https://i.imgur.com/7DP3G7L.jpeg",
+            "name": "Fire Crown",
+            "link": "https://github.com/injctr/REC4L/raw/main/Party%20King%20-%20Fire%20Crown.zip"
+          },
+          "06 BLACK VOID": {
+            "img": "https://i.imgur.com/4NmrJ2n.jpeg",
+            "name": "Black Void",
+            "link": "https://github.com/injctr/REC4L/raw/main/Party%20King%20-%20Black%20Void.zip"
+          },
+          "09 EXORCIST": {
+            "img": "https://i.imgur.com/uLDTnd9.jpeg",
+            "name": "Exorcist",
+            "link": "https://github.com/injctr/REC4L/raw/main/Party%20King%20-%20Exorcist.zip"
+          },
+          "14 ORICHI": {
+            "img": "https://i.imgur.com/BFh249n.jpeg",
+            "name": "Orichi",
+            "link": "https://github.com/injctr/REC4L/raw/main/Party%20King%20-%20Orochi.zip"
+          },
+          "16 RHYTHMIC ECHO": {
+            "img": "https://i.imgur.com/ENpiGe4.jpeg",
+            "name": "Rhythmic Echo",
+            "link": "https://github.com/injctr/REC4L/raw/main/Party%20King%20-%20Rhythmic%20Echo.zip"
+          },
+          "31 TLPH": {
+            "img": "https://i.imgur.com/LBTSAap.jpeg",
+            "name": "TLPH",
+            "link": "https://github.com/injctr/REC4L/raw/main/Party%20King%20-%20TLPH.zip"
+          }
+        },
+        "05 PARTY STAR": {
+          "01 SEAL OF ANVIL": {
+            "img": "https://i.imgur.com/OS3cV9a.jpeg",
+            "name": "Seal of Anvil",
+            "link": "https://github.com/injctr/REC4L/raw/main/Party%20Star%20-%20Seal%20of%20Anvil.zip"
+          },
+          "02 AOT": {
+            "img": "https://i.imgur.com/MkQFQFZ.jpeg",
+            "name": "AOT",
+            "link": "https://github.com/injctr/REC4L/raw/main/Party%20Star%20-%20AOT.zip"
+          },
+          "03 FIRE CROWN": {
+            "img": "https://i.imgur.com/7DP3G7L.jpeg",
+            "name": "Fire Crown",
+            "link": "https://github.com/injctr/REC4L/raw/main/Party%20Star%20-%20Fire%20Crown.zip"
+          },
+          "06 BLACK VOID": {
+            "img": "https://i.imgur.com/4NmrJ2n.jpeg",
+            "name": "Black Void",
+            "link": "https://github.com/injctr/REC4L/raw/main/Party%20Star%20-%20Black%20Void.zip"
+          },
+          "09 EXORCIST": {
+            "img": "https://i.imgur.com/uLDTnd9.jpeg",
+            "name": "Exorcist",
+            "link": "https://github.com/injctr/REC4L/raw/main/Party%20Star%20-%20Exorcist.zip"
+          },
+          "14 ORICHI": {
+            "img": "https://i.imgur.com/BFh249n.jpeg",
+            "name": "Orichi",
+            "link": "https://github.com/injctr/REC4L/raw/main/Party%20Star%20-%20Orochi.zip"
+          },
+          "16 RHYTHMIC ECHO": {
+            "img": "https://i.imgur.com/ENpiGe4.jpeg",
+            "name": "Rhythmic Echo",
+            "link": "https://github.com/injctr/REC4L/raw/main/Party%20Star%20-%20Rhythmic%20Echo.zip"
+          }
+        },
+        "06 BLAZING WEST": {
+          "01 SEAL OF ANVIL": {
+            "img": "https://i.imgur.com/OS3cV9a.jpeg",
+            "name": "Seal of Anvil",
+            "link": "https://github.com/injctr/REC4L/raw/main/Blazing%20West%20-%20Seal%20of%20Anvil.zip"
+          },
+          "02 AOT": {
+            "img": "https://i.imgur.com/MkQFQFZ.jpeg",
+            "name": "AOT",
+            "link": "https://github.com/injctr/REC4L/raw/main/Blazing%20West%20-%20AOT.zip"
+          },
+          "03 FIRE CROWN": {
+            "img": "https://i.imgur.com/7DP3G7L.jpeg",
+            "name": "Fire Crown",
+            "link": "https://github.com/injctr/REC4L/raw/main/Blazing%20West%20-%20Fire%20Crown.zip"
+          },
+          "06 BLACK VOID": {
+            "img": "https://i.imgur.com/4NmrJ2n.jpeg",
+            "name": "Black Void",
+            "link": "https://github.com/injctr/REC4L/raw/main/Blazing%20West%20-%20Black%20Void.zip"
+          },
+          "09 EXORCIST": {
+            "img": "https://i.imgur.com/uLDTnd9.jpeg",
+            "name": "Exorcist",
+            "link": "https://github.com/injctr/REC4L/raw/main/Blazing%20West%20-%20Exorcist.zip"
+          },
+          "14 ORICHI": {
+            "img": "https://i.imgur.com/BFh249n.jpeg",
+            "name": "Orichi",
+            "link": "https://github.com/injctr/REC4L/raw/main/Blazing%20West%20-%20Orochi.zip"
+          },
+          "16 RHYTHMIC ECHO": {
+            "img": "https://i.imgur.com/ENpiGe4.jpeg",
+            "name": "Rhythmic Echo",
+            "link": "https://github.com/injctr/REC4L/raw/main/Blazing%20West%20-%20Rhythmic%20Echo.zip"
+          },
+          "31 TLPH": {
+            "img": "https://i.imgur.com/LBTSAap.jpeg",
+            "name": "TLPH",
+            "link": "https://github.com/injctr/REC4L/raw/main/Blazing%20West%20-%20TLPH.zip"
+          }
+        },
+        "07 HALLOWEEN": {
+          "01 SEAL OF ANVIL": {
+            "img": "https://i.imgur.com/OS3cV9a.jpeg",
+            "name": "Seal of Anvil",
+            "link": "https://github.com/injctr/REC4L/raw/main/Halloween%20-%20Seal%20of%20Anvil.zip"
+          },
+          "26 EVOS": {
+            "img": "https://i.imgur.com/9OiT2ny.jpeg",
+            "name": "EVOS",
+            "link": "https://github.com/injctr/REC4L/raw/main/Halloween%20-%20Evos.zip"
+          },
+          "28 GEEK": {
+            "img": "https://i.imgur.com/Zb2KOPH.jpeg",
+            "name": "GEEK",
+            "link": "https://github.com/injctr/REC4L/raw/main/Halloween%20-%20GEEK.zip"
+          },
+          "31 TLPH": {
+            "img": "https://i.imgur.com/LBTSAap.jpeg",
+            "name": "TLPH",
+            "link": "https://github.com/injctr/REC4L/raw/main/Halloween%20-%20TLPH.zip"
+          }
+        },
+        "08 LIGHT & DARK": {
+          "01 SEAL OF ANVIL": {
+            "img": "https://i.imgur.com/OS3cV9a.jpeg",
+            "name": "Seal of Anvil",
+            "link": "https://github.com/injctr/REC4L/raw/main/Light%20%26%20Dark%20-%20Seal%20of%20Anvil.zip"
+          },
+          "03 FIRE CROWN": {
+            "img": "https://i.imgur.com/7DP3G7L.jpeg",
+            "name": "Fire Crown",
+            "link": "https://github.com/injctr/REC4L/raw/main/Light%20%26%20Dark%20-%20Fire%20Crown.zip"
+          },
+          "06 BLACK VOID": {
+            "img": "https://i.imgur.com/4NmrJ2n.jpeg",
+            "name": "Black Void",
+            "link": "https://github.com/injctr/REC4L/raw/main/Light%20%26%20Dark%20-%20Black%20Void.zip"
+          }
+        }
+      },
+      "Emote": {
+        "img": "https://i.imgur.com/SEyWZOU.png",
+        "name": "Emote",
+        "01 GENIUS": {
+          "01 ECHO PH": {
+            "img": "https://i.imgur.com/dgARWGj.png",
+            "name": "Echo PH",
+            "link": "https://github.com/injctr/EM0T3/raw/main/G%20-%20Echo%20PH%202022%20-%20Sheesh.zip"
+          },
+          "02 RSG PH": {
+            "img": "https://i.imgur.com/swUgn1Y.png",
+            "name": "RSG PH",
+            "link": "https://github.com/injctr/EM0T3/raw/main/G%20-%20RSG%20PH%202021.zip"
+          },
+          "03 TNC PH": {
+            "img": "https://i.imgur.com/9k5nP44.png",
+            "name": "TNC PH",
+            "link": "https://github.com/injctr/EM0T3/raw/main/G%20-%20TNC%20PH%20-%20Hey%20You%20I%20Love%20You.zip"
+          },
+          "04 BREN ESPORTS": {
+            "img": "https://i.imgur.com/waxssG2.png",
+            "name": "Bren eSports",
+            "link": "https://github.com/injctr/EM0T3/raw/main/G%20-%20Bren%20eSports.zip"
+          },
+          "05 ONIC PH": {
+            "img": "https://i.imgur.com/luMkqYv.png",
+            "name": "Onic PH",
+            "link": "https://github.com/injctr/EM0T3/raw/main/G%20-%20%20Onic%20M3.zip"
+          },
+          "06 ONIC": {
+            "img": "https://i.imgur.com/iLlyumZ.png",
+            "name": "Onic",
+            "link": "https://github.com/injctr/EM0T3/raw/main/G%20-%20Onic%20ID%202022%20-%20Ora.zip"
+          },
+          "07 GEEK FAM": {
+            "img": "https://i.imgur.com/vVGRc6P.png",
+            "name": "Geek Fam",
+            "link": "https://github.com/injctr/EM0T3/raw/main/G%20-%20Geek%20Fam%20ID%202021%20-%20haha%20wp%20bro.zip"
+          },
+          "08 GEEK FAM 2": {
+            "img": "https://i.imgur.com/6hKktx8.png",
+            "name": "Geek Fam 2",
+            "link": "https://github.com/injctr/EM0T3/raw/main/G%20-%20%20Geek%20Fam%20ID%202022%20-%20Santai%20bro.zip"
+          },
+          "09 RBL ID": {
+            "img": "https://i.imgur.com/Wgo1isx.png",
+            "name": "RBL ID",
+            "link": "https://github.com/injctr/EM0T3/raw/main/G%20-%20RBL%20ID%202022%20-%20Rata%20woi.zip"
+          },
+          "10 AURA FIRE ID": {
+            "img": "https://i.imgur.com/7TygyWA.png",
+            "name": "Aura Fire ID",
+            "link": "https://github.com/injctr/EM0T3/raw/main/G%20-%20Aura%20Fire%20ID%20-%20Panik%C2%B2.zip"
+          },
+          "11 ALTER EGO": {
+            "img": "https://i.imgur.com/fOwCVaZ.png",
+            "name": "Alter Ego",
+            "link": "https://github.com/injctr/EM0T3/raw/main/G%20-%20Alter%20Ego%20-%20Go%20Go%20Go.zip"
+          },
+          "12 ALTER EGO 2": {
+            "img": "https://i.imgur.com/9mlnnj5.png",
+            "name": "Alter Ego 2",
+            "link": "https://github.com/injctr/EM0T3/raw/main/G%20-%20Alter%20Ego%20ID%202021.zip"
+          },
+          "13 EVOS ID": {
+            "img": "https://i.imgur.com/qYgYsSh.png",
+            "name": "Evos ID",
+            "link": "https://github.com/injctr/EM0T3/raw/main/G%20-%20Evos%20ID%202021.zip"
+          },
+          "14 EVOS ID 2": {
+            "img": "https://i.imgur.com/7mANhjV.png",
+            "name": "Evos ID 2",
+            "link": "https://github.com/injctr/EM0T3/raw/main/G%20-%20Evos%20ID%202022%20-%20Tutor%20deck.zip"
+          },
+          "15 EVOS": {
+            "img": "https://i.imgur.com/5t3tB7H.png",
+            "name": "Evos",
+            "link": "https://github.com/injctr/EM0T3/raw/main/G%20-%20Evos%20Kelazzz.zip"
+          },
+          "16 DOGE": {
+            "img": "https://i.imgur.com/CXR4ASf.png",
+            "name": "Doge",
+            "link": "https://github.com/injctr/EM0T3/raw/main/G%20-%20%20Doge.zip"
+          },
+          "17 RRQ": {
+            "img": "https://i.imgur.com/MRZF4nn.png",
+            "name": "RRQ",
+            "link": "https://github.com/injctr/EM0T3/raw/main/G%20-%20RRQ%20Hoshi.zip"
+          },
+          "18 RRQ 2": {
+            "img": "https://i.imgur.com/nSDU2al.png",
+            "name": "RRQ 2",
+            "link": "https://github.com/injctr/EM0T3/raw/main/G%20-%20RRQ%20ID%202022%20Bek%20bek%20bek.zip"
+          },
+          "19 GUINEVERE KOF": {
+            "img": "https://i.imgur.com/WY2JqGv.png",
+            "name": "Guinevere Kof",
+            "link": "https://github.com/injctr/EM0T3/raw/main/G%20-%20Guinevere%20Kof%20-%20Feel%20Energetic.zip"
+          },
+          "20 CHOU KOF": {
+            "img": "https://i.imgur.com/6MqdGY3.png",
+            "name": "Chou Kof",
+            "link": "https://github.com/injctr/EM0T3/raw/main/G%20-%20Chou%20Kof%20-%20Am%20I%20Scary.zip"
+          },
+          "21 GOJO SATURO": {
+            "img": "https://i.imgur.com/1cycthP.jpeg",
+            "name": "Gojo Saturo",
+            "link": "https://github.com/injctr/EM0T3/raw/main/G%20-%20Gojo%20Satoru%20-%20Nice%20Job!.zip"
+          },
+          "22 YUJI ITADORI": {
+            "img": "https://i.imgur.com/M0aBafT.jpeg",
+            "name": "Yuji Itadori",
+            "link": "https://github.com/injctr/EM0T3/raw/main/G%20-%20Yuji%20Itadori%20-%20Delighted.zip"
+          },
+          "23 MEGUMI FUSHIGURO": {
+            "img": "https://i.imgur.com/ExzIiN8.jpeg",
+            "name": "Megumi Fushiguro",
+            "link": "https://github.com/injctr/EM0T3/raw/main/G%20-%20Megumi%20-%20Melancholy.zip"
+          },
+          "24 BLUE SPECTRE": {
+            "img": "https://i.imgur.com/F0Tb3DT.jpeg",
+            "name": "Blue Spectre",
+            "link": "https://github.com/injctr/EM0T3/raw/main/G%20-%20Layla%20Blue%20Spectre%20-%20Ahaha.zip"
+          },
+          "25 MAI SHIRANUI": {
+            "img": "https://i.imgur.com/g1LCsLb.jpeg",
+            "name": "Mai Shiranui",
+            "link": "https://github.com/injctr/EM0T3/raw/main/G%20-%20Mai%20Shiranui%20-%20Bring%20it%20on!.zip"
+          },
+          "26 PLEASANT SURPRISE": {
+            "img": "https://i.imgur.com/AbNNlIM.jpeg",
+            "name": "Pleasant Surprise",
+            "link": "https://github.com/injctr/EM0T3/raw/main/G%20-%20Pleasant%20Surprise.zip"
+          },
+          "27 NANA MISTBENDER": {
+            "img": "https://i.imgur.com/YQWQpD9.jpeg",
+            "name": "Nana Mistbender",
+            "link": "https://github.com/injctr/EM0T3/raw/main/G%20-%20Nana%20Mistbenders%20-%20La-la-la.zip"
+          },
+          "28 CHANG'E ASPIRANT": {
+            "img": "https://i.imgur.com/bRKOGrT.jpeg",
+            "name": "Chang'e Aspirant",
+            "link": "https://github.com/injctr/EM0T3/raw/main/G%20-%20Change%20Aspirant.zip"
+          },
+          "29 NO~": {
+            "img": "https://i.imgur.com/edVQjHW.png",
+            "name": "No~",
+            "link": "https://github.com/injctr/EM0T3/raw/main/G%20-%20No!%20No!.zip"
+          }
+        }
+      },
+      "Trail": {
+        "img": "https://i.imgur.com/nN407Jk.png",
+        "name": "Trail",
+        "01 CLASSIC": {
+          "01 GORD LEGEND": {
+            "img": "https://i.imgur.com/ESFqBmE.jpeg",
+            "name": "Gord Legend",
+            "link": "https://github.com/injctr/TR4IL/raw/main/1%20Gord%20Legend.zip"
+          },
+          "02 ALUCARD LEGEND": {
+            "img": "https://i.imgur.com/k78Ildq.jpeg",
+            "name": "Alucard Legend",
+            "link": "https://github.com/injctr/TR4IL/raw/main/2%20Alucard%20Legend.zip"
+          },
+          "03 VALIR LEGEND": {
+            "img": "https://i.imgur.com/9vPYwO6.jpeg",
+            "name": "Valir Legend",
+            "link": "https://github.com/injctr/TR4IL/raw/main/3%20Valir%20Legends.zip"
+          },
+          "04 GUSION LEGEND": {
+            "img": "https://i.imgur.com/jFuFNBY.jpeg",
+            "name": "Gusion Legend",
+            "link": "https://github.com/injctr/TR4IL/raw/main/4%20Gusion%20Legend.zip"
+          },
+          "05 FRANCO LEGEND": {
+            "img": "https://i.imgur.com/DZgUB0A.jpeg",
+            "name": "Franco Legend",
+            "link": "https://github.com/injctr/TR4IL/raw/main/5%20Franco%20Legend.zip"
+          },
+          "06 SABER LEGEND": {
+            "img": "https://i.imgur.com/lz8gPSY.jpeg",
+            "name": "Saber Legend",
+            "link": "https://github.com/injctr/TR4IL/raw/main/6%20Saber%20Legend.zip"
+          },
+          "07 ROGER PRIME": {
+            "img": "https://i.imgur.com/wvtMdVp.jpeg",
+            "name": "Roger Prime",
+            "link": "https://github.com/injctr/TR4IL/raw/main/9%20Roger%20Prime.zip"
+          },
+          "08 ROGER M3": {
+            "img": "https://i.imgur.com/EsitAms.jpeg",
+            "name": "Roger M3",
+            "link": "https://github.com/injctr/TR4IL/raw/main/10%20Roger%20M3.zip"
+          },
+          "09 BEATRIX PRIME": {
+            "img": "https://i.imgur.com/mHKArhQ.jpeg",
+            "name": "Beatrix Prime",
+            "link": "https://github.com/injctr/TR4IL/raw/main/11%20Beatrix%20Prime.zip"
+          },
+          "10 YU ZHONG PRIME": {
+            "img": "https://i.imgur.com/tMRMfZf.jpeg",
+            "name": "Yu Zhong Prime",
+            "link": "https://github.com/injctr/TR4IL/raw/main/7%20Yu%20Zhong%20Prime.zip"
+          },
+          "11 YU ZHONG M5": {
+            "img": "https://i.imgur.com/DZyuX4A.jpeg",
+            "name": "Yu Zhong M5",
+            "link": "https://github.com/injctr/TR4IL/raw/main/8%20Yu%20Zhong%20M5.zip"
+          },
+          "12 THAMUS STARLIGHT": {
+            "img": "https://i.imgur.com/eORdjaB.jpeg",
+            "name": "Thamus Starlight",
+            "link": "https://github.com/injctr/TR4IL/raw/main/12%20Thamus%20Star.zip"
+          },
+          "13 EDITH STARLIGHT": {
+            "img": "https://i.imgur.com/NkB6EIV.jpeg",
+            "name": "Edith Starlight",
+            "link": "https://github.com/injctr/TR4IL/raw/main/13%20Edith%20Star.zip"
+          },
+          "14 LAYLA STARLIGHT": {
+            "img": "https://i.imgur.com/O5koSUf.jpeg",
+            "name": "Layla Starlight",
+            "link": "https://github.com/injctr/TR4IL/raw/main/14%20Layla%20Star.zip"
+          },
+          "15 MELISSA STARLIGHT": {
+            "img": "https://i.imgur.com/UlO0cZb.jpeg",
+            "name": "Melissa Starlight",
+            "link": "https://github.com/injctr/TR4IL/raw/main/15%20Melissa%20Star.zip"
+          },
+          "16 ARLOTT STARLIGHT": {
+            "img": "https://i.imgur.com/8CE6x1t.jpeg",
+            "name": "Arlott Starlight",
+            "link": "https://github.com/injctr/TR4IL/raw/main/16%20Arlott%20Star.zip"
+          },
+          "17 MINSITTHAR STARLIGHT": {
+            "img": "https://i.imgur.com/hodgJ4n.jpeg",
+            "name": "Minsitthar Starlight",
+            "link": "https://github.com/injctr/TR4IL/raw/main/17%20Minsitthar%20Star.zip"
+          },
+          "18 CLAUDE PRIME": {
+            "img": "https://i.imgur.com/lXPuHOF.jpeg",
+            "name": "Claude Prime",
+            "link": "https://github.com/injctr/TR4IL/raw/main/Trail%20Claude%20Prime%20-%20Classic.zip"
+          },
+          "19 JOHNSON LEGEND": {
+            "img": "https://i.imgur.com/prNxYGm.jpeg",
+            "name": "Johnson Legend",
+            "link": "https://github.com/injctr/TR4IL/raw/main/Trail%20Johnson%20Legend%20-%20Classic.zip"
+          }
+        }
+      },
+      "Elimination": {
+        "img": "https://i.imgur.com/Byhh9bc.png",
+        "name": "Elimination",
+        "01 CLASSIC": {
+          "01 CRASH": {
+            "img": "https://i.imgur.com/NVgTL2a.jpeg",
+            "name": "Crash",
+            "link": "https://github.com/injctr/EL1M1N4TI0N/raw/main/Classic%20-%20Crash.zip"
+          },
+          "02 KOF'97": {
+            "img": "https://i.imgur.com/Fs4Thm9.jpeg",
+            "name": "KOF'97",
+            "link": "https://github.com/injctr/EL1M1N4TI0N/raw/main/Classic%20-%20K.O%2097'kof.zip"
+          },
+          "03 K.O": {
+            "img": "https://i.imgur.com/EB2UhUa.jpeg",
+            "name": "K.O",
+            "link": "https://github.com/injctr/EL1M1N4TI0N/raw/main/Classic%20-%20K.O%20Starlight.zip"
+          },
+          "04 TRANSFORMERS": {
+            "img": "https://i.imgur.com/qdJVjbJ.jpeg",
+            "name": "Transformers",
+            "link": "https://github.com/injctr/EL1M1N4TI0N/raw/main/Classic%20-%20K.O%20Transformers.zip"
+          },
+          "05 MISTBENDER": {
+            "img": "https://i.imgur.com/QfSY6B4.jpeg",
+            "name": "Mistbender",
+            "link": "https://github.com/injctr/EL1M1N4TI0N/raw/main/Classic%20-%20Mistbender.zip"
+          },
+          "06 SANRIO": {
+            "img": "https://i.imgur.com/WlgKU5S.jpeg",
+            "name": "Sanrio",
+            "link": "https://github.com/injctr/EL1M1N4TI0N/raw/main/Classic%20-%20Sanrio.zip"
+          },
+          "07 ONIC": {
+            "img": "https://i.imgur.com/AIcWbsM.jpeg",
+            "name": "Onic",
+            "link": "https://github.com/injctr/EL1M1N4TI0N/raw/main/Classic%20Onic%202024.zip"
           }
         }
       }
