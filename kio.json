@@ -11996,6 +11996,32 @@
         },
         "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero591-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021142052",
         "name": "Uranus"
+      },
+      "Marcel": {
+        "img": "",
+        "name": "Marcel",
+        "Replacements": {
+          "01 DEFAULT": {
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Hero1321-icon.png/revision/latest?cb=20260312135432",
+            "type1": "Default",
+            "type_links": {
+              "01 BASIC": "unavailable"
+            }
+          },
+          "02 BASIC": {
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero1322-icon.png/revision/latest?cb=20260420082523",
+            "type1": "Basic",
+            "type_links": {
+              "01 BASIC": "unavailable"
+            }
+          }
+        },
+        "Skins": {
+          "01 BASIC": {
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero1322-icon.png/revision/latest?cb=20260420082523",
+            "type2": "Basic"
+          }
+        }
       }
     },
     "Effects": {
