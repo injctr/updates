@@ -12179,10 +12179,10 @@
     },
     "Effects": {
       "Recall": {
-        "img": "",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Classic_Recall_Effect.png/revision/latest?cb=20211204090007",
         "name": "Recall",
         "01 CLASSIC": {
-          "img": "",
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Classic_Recall_Effect.png/revision/latest?cb=20211204090007",
           "name": "Classic",
           "01 SEAL OF ANVIL": {
             "img": "https://i.imgur.com/OS3cV9a.jpeg",
@@ -12351,7 +12351,7 @@
           }
         },
         "02 515! SHUTTLE!": {
-          "img": "",
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/515%21_Shuttle%21_Recall_Effect.png/revision/latest?cb=20220515021507",
           "name": "515! Shuttle!",
           "01 SEAL OF ANVIL": {
             "img": "https://i.imgur.com/OS3cV9a.jpeg",
@@ -12464,7 +12464,7 @@
           }
         },
         "04 PARTY KING": {
-          "img": "",
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Party_King_Recall_Effect.png/revision/latest?cb=20211204084739",
           "name": "Party King",
           "01 SEAL OF ANVIL": {
             "img": "https://i.imgur.com/OS3cV9a.jpeg",
@@ -12508,7 +12508,7 @@
           }
         },
         "05 PARTY STAR": {
-          "img": "",
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Party_Star_Recall_Effect.png/revision/latest?cb=20211204084334",
           "name": "Party Star",
           "01 SEAL OF ANVIL": {
             "img": "https://i.imgur.com/OS3cV9a.jpeg",
@@ -12547,7 +12547,7 @@
           }
         },
         "06 BLAZING WEST": {
-          "img": "",
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Blazing_West_Recall_Effect.png/revision/latest?cb=20211204084612",
           "name": "Blazing West",
           "01 SEAL OF ANVIL": {
             "img": "https://i.imgur.com/OS3cV9a.jpeg",
@@ -12591,7 +12591,7 @@
           }
         },
         "07 HALLOWEEN": {
-          "img": "",
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Halloween_Recall_Effect.png/revision/latest?cb=20211204090139",
           "name": "Halloween",
           "01 SEAL OF ANVIL": {
             "img": "https://i.imgur.com/OS3cV9a.jpeg",
@@ -12615,7 +12615,7 @@
           }
         },
         "08 LIGHT & DARK": {
-          "img": "",
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Light_%26_Dark_Recall_Effect.png/revision/latest?cb=20211204090039",
           "name": "Light & Dark",
           "01 SEAL OF ANVIL": {
             "img": "https://i.imgur.com/OS3cV9a.jpeg",
@@ -12638,7 +12638,7 @@
         "img": "https://i.imgur.com/SEyWZOU.png",
         "name": "Emote",
         "01 GENIUS": {
-          "img": "",
+          "img": "https://i.imgur.com/SEyWZOU.png",
           "name": "Genius",
           "01 ECHO PH": {
             "img": "https://i.imgur.com/dgARWGj.png",
@@ -12788,7 +12788,7 @@
         }
       },
       "Trail": {
-        "img": "https://i.imgur.com/nN407Jk.png",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Classic_Trail_Effect.png/revision/latest?cb=20211203174006",
         "name": "Trail",
         "01 CLASSIC": {
           "img": "",
@@ -12891,10 +12891,10 @@
         }
       },
       "Elimination": {
-        "img": "https://i.imgur.com/Byhh9bc.png",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Classic_Elimination_Effect.png/revision/latest?cb=20211204075319",
         "name": "Elimination",
         "01 CLASSIC": {
-          "img": "",
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Classic_Elimination_Effect.png/revision/latest?cb=20211204075319",
           "name": "Classic",
           "01 CRASH": {
             "img": "https://i.imgur.com/NVgTL2a.jpeg",
