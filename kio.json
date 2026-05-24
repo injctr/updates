@@ -780,7 +780,7 @@
       "Karina": {
         "Replacements": {
           "01 DEFAULT": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero081-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021140357",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero081-icon.png/revision/latest?cb=20241021145117",
             "type1": "Default",
             "type_links": {
               "01 EPIC": "unavailable",
@@ -789,7 +789,7 @@
             }
           },
           "02 ELITE 1": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/d/d3/Hero082-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164455",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero082-icon.png/revision/latest?cb=20220125055642",
             "type1": "Elite 1",
             "type_links": {
               "01 EPIC": "unavailable",
@@ -798,7 +798,7 @@
             }
           },
           "03 CHRISTMAS": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero083-portrait.png/revision/latest/scale-to-width-down/150?cb=20250426102356",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero083-icon.png/revision/latest?cb=20220125055638",
             "type1": "Christmas",
             "type_links": {
               "01 EPIC": "unavailable",
@@ -807,7 +807,7 @@
             }
           },
           "04 STARLIGHT 2017": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Hero084-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164457",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Hero084-icon.png/revision/latest?cb=20220125055640",
             "type1": "Starlight 2017",
             "type_links": {
               "01 EPIC": "unavailable",
@@ -816,7 +816,7 @@
             }
           },
           "05 ELITE 2": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero085-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164458",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero085-icon.png/revision/latest?cb=20220125063050",
             "type1": "Elite 2",
             "type_links": {
               "01 EPIC": "unavailable",
@@ -825,8 +825,8 @@
             }
           },
           "06 EPIC": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero086-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164459",
-            "type1": "Epic",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero086-icon.png/revision/latest?cb=20220125063052",
+            "type1": "Luckubox",
             "type_links": {
               "01 EPIC": "unavailable",
               "02 KOF": "https://www.dropbox.com/scl/fi/kmab6zkyzmikimhlie2st/Karina-KOF-Luckybox.zip?rlkey=it0l4scdk6gv5l4cf85n4vfl6&st=eprfi27f&dl=1",
@@ -834,7 +834,7 @@
             }
           },
           "07 KOF": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero087-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164500",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero087-icon.png/revision/latest?cb=20220125063039",
             "type1": "KOF",
             "type_links": {
               "01 EPIC": "unavailable",
@@ -843,7 +843,7 @@
             }
           },
           "08 ZODIAC": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero088-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163400",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero088-icon.png/revision/latest?cb=20230623130814",
             "type1": "Zodiac",
             "type_links": {
               "01 EPIC": "unavailable",
@@ -852,8 +852,17 @@
             }
           },
           "09 S17 FIRST RECHARGE": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Hero089-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164502",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/c/c8/Hero089-icon.png/revision/latest?cb=20220125063053",
             "type1": "S17 First Recharge",
+            "type_links": {
+              "01 EPIC": "unavailable",
+              "02 KOF": "unavailable",
+              "03 ZODIAC": "unavailable"
+            }
+          },
+          "10 MCGG": {
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Hero100811-icon.png/revision/latest?cb=20251001064157",
+            "type1": "MCGG",
             "type_links": {
               "01 EPIC": "unavailable",
               "02 KOF": "unavailable",
@@ -863,15 +872,15 @@
         },
         "Skins": {
           "01 EPIC": {
-            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero086-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164459",
-            "type2": "Epic"
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero086-icon.png/revision/latest?cb=20220125063052",
+            "type2": "Luckubox"
           },
           "02 KOF": {
-            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero087-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164500",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero087-icon.png/revision/latest?cb=20220125063039",
             "type2": "KOF"
           },
           "03 ZODIAC": {
-            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero088-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163400",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero088-icon.png/revision/latest?cb=20230623130814",
             "type2": "Zodiac"
           }
         },
@@ -3211,7 +3220,7 @@
       "Khaleed": {
         "Replacements": {
           "01 DEFAULT": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero981-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021143032",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Hero981-icon.png/revision/latest?cb=20241021153140",
             "type1": "Default",
             "type_links": {
               "01 ELITE": "unavailable",
@@ -3220,7 +3229,7 @@
             }
           },
           "02 BASIC": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/5/5f/Hero982-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170301",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero982-icon.png/revision/latest?cb=20220126142638",
             "type1": "Basic",
             "type_links": {
               "01 ELITE": "unavailable",
@@ -3229,7 +3238,7 @@
             }
           },
           "03 ELITE": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/Hero983-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170302",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Hero983-icon.png/revision/latest?cb=20220126142636",
             "type1": "Elite",
             "type_links": {
               "01 ELITE": "unavailable",
@@ -3238,7 +3247,7 @@
             }
           },
           "04 EPIC": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Hero984-portrait.png/revision/latest/scale-to-width-down/150?cb=20240507150206",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero984-icon.png/revision/latest?cb=20240507145921",
             "type1": "Epic",
             "type_links": {
               "01 ELITE": "unavailable",
@@ -3247,7 +3256,7 @@
             }
           },
           "05 SEASON 36": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/Hero985-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123916",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero985-icon.png/revision/latest?cb=20250307123912",
             "type1": "Season 36",
             "type_links": {
               "01 ELITE": "unavailable",
@@ -3258,15 +3267,15 @@
         },
         "Skins": {
           "01 ELITE": {
-            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/Hero983-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170302",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Hero983-icon.png/revision/latest?cb=20220126142636",
             "type2": "Elite"
           },
           "02 EPIC": {
-            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Hero984-portrait.png/revision/latest/scale-to-width-down/150?cb=20240507150206",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero984-icon.png/revision/latest?cb=20240507145921",
             "type2": "Epic"
           },
           "03 SEASON 36": {
-            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/Hero985-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123916",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero985-icon.png/revision/latest?cb=20250307123912",
             "type2": "Season 36"
           }
         },
@@ -4376,7 +4385,7 @@
       "Julian": {
         "Replacements": {
           "01 DEFAULT": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Hero1161-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021140636",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero1161-icon.png/revision/latest?cb=20241021153321",
             "type1": "Default",
             "type_links": {
               "01 JUJUTSU KAISEN": "https://www.dropbox.com/scl/fi/fxnnuvz4xx4riwi69o1pt/Julian-JJK-Default.zip?rlkey=go81jgl6zrpu2t1nqhan988j8&st=uxx1hhpy&dl=1",
@@ -4386,7 +4395,7 @@
             }
           },
           "02 BASIC": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero1162-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170651",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1162-icon.png/revision/latest?cb=20220525115601",
             "type1": "Basic",
             "type_links": {
               "01 JUJUTSU KAISEN": "https://www.dropbox.com/scl/fi/8b23y3xzmvr14g7ss4h5v/Julian-JJK-Basic.zip?rlkey=3emb51rou7ugmiv2gpcaqp2kf&st=zx2vamw4&dl=1",
@@ -4396,7 +4405,7 @@
             }
           },
           "03 JUJUTSU KAISEN": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1163-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035450",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Hero1163-icon.png/revision/latest?cb=20230212040135",
             "type1": "Jujutsu Kaisen",
             "type_links": {
               "01 JUJUTSU KAISEN": "unavailable",
@@ -4406,7 +4415,7 @@
             }
           },
           "04 MYSTIC MEOW": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero1166-portrait.png/revision/latest/scale-to-width-down/150?cb=20250128052541",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero1166-icon.png/revision/latest?cb=20250106155511",
             "type1": "Mystic Meow",
             "type_links": {
               "01 JUJUTSU KAISEN": "https://www.dropbox.com/scl/fi/2ensu6u6sm0nk7q754wiq/Julian-JJK-Meowkin-Tracker.zip?rlkey=xjzkb8ntszaeajuxx4g0dkw68&st=493ku261&dl=1",
@@ -4416,7 +4425,7 @@
             }
           },
           "05 HUNTERXHUNTER": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero1167-portrait.png/revision/latest/scale-to-width-down/150?cb=20241207073222",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero1167-icon.png/revision/latest?cb=20241201053537",
             "type1": "HunterXHunter",
             "type_links": {
               "01 JUJUTSU KAISEN": "https://www.dropbox.com/scl/fi/j1nz8bk26ypf2hjnl7fm9/Julian-JJK-HxH.zip?rlkey=mjsxgh33wmq78g0d399l526va&st=wyakckef&dl=1",
@@ -4428,19 +4437,19 @@
         },
         "Skins": {
           "01 JUJUTSU KAISEN": {
-            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1163-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035450",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Hero1163-icon.png/revision/latest?cb=20230212040135",
             "type2": "Jujutsu Kaisen"
           },
           "02 MYSTIC MEOW": {
-            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero1166-portrait.png/revision/latest/scale-to-width-down/150?cb=20250128052541",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero1166-icon.png/revision/latest?cb=20250106155511",
             "type2": "Mystic Meow"
           },
           "03 HUNTERXHUNTER": {
-            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero1167-portrait.png/revision/latest/scale-to-width-down/150?cb=20241207073222",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero1167-icon.png/revision/latest?cb=20241201053537",
             "type2": "HunterXHunter"
           },
           "04 NARUTO": {
-            "img2": "https://github.com/injctr/large/raw/main/Julian/Itachi.jpg",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero1168-icon.png/revision/latest?cb=20260421223511",
             "type2": "Naruto"
           }
         },
@@ -5439,7 +5448,7 @@
       "Kagura": {
         "Replacements": {
           "01 DEFAULT": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Hero251-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021141216",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero251-icon.png/revision/latest?cb=20241021145310",
             "type1": "Default",
             "type_links": {
               "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20Default.zip",
@@ -5450,7 +5459,7 @@
             }
           },
           "02 BASIC": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero252-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164840",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero252-icon.png/revision/latest?cb=20220126042121",
             "type1": "Basic",
             "type_links": {
               "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20Basic.zip",
@@ -5461,7 +5470,7 @@
             }
           },
           "03 SPECIAL": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero253-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164841",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero253-icon.png/revision/latest?cb=20220126042123",
             "type1": "Special",
             "type_links": {
               "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20Special.zip",
@@ -5472,7 +5481,7 @@
             }
           },
           "04 SUMMER": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero254-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628175959",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero254-icon.png/revision/latest?cb=20231214042642",
             "type1": "Summer",
             "type_links": {
               "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20Summer.zip",
@@ -5483,7 +5492,7 @@
             }
           },
           "05 LUCKYBOX": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Hero255-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164843",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/3/37/Hero255-icon.png/revision/latest?cb=20260424024306",
             "type1": "Luckybox",
             "type_links": {
               "01 LUCKYBOX": "unavailable",
@@ -5494,7 +5503,7 @@
             }
           },
           "06 STARLIGHT 2021": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero256-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164844",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero256-icon.png/revision/latest?cb=20220126042114",
             "type1": "Starlight 2021",
             "type_links": {
               "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20Starlight.zip",
@@ -5505,7 +5514,7 @@
             }
           },
           "07 ANNUAL STARLIGHT": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero257-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164845",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero257-icon.png/revision/latest?cb=20220126042110",
             "type1": "Annual Starlight",
             "type_links": {
               "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20Annual%20Starlight.zip",
@@ -5516,7 +5525,7 @@
             }
           },
           "08 EXORCIST": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero258-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121143",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Hero258-icon.png/revision/latest?cb=20220915134946",
             "type1": "Exorcist",
             "type_links": {
               "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20Exorcist.zip",
@@ -5527,7 +5536,7 @@
             }
           },
           "09 COULDS": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero259-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043819",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero259-icon.png/revision/latest?cb=20230805043931",
             "type1": "Coulds",
             "type_links": {
               "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20BTC.zip",
@@ -5538,7 +5547,7 @@
             }
           },
           "10 EPIC": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Hero102510-portrait.png/revision/latest/scale-to-width-down/150?cb=20240923124144",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero102510-icon.png/revision/latest?cb=20241013072631",
             "type1": "Epic",
             "type_links": {
               "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20Epic.zip",
@@ -5549,7 +5558,7 @@
             }
           },
           "11 SPECIAL": {
-            "img1": "https://i.supaimg.com/4d6cea63-70d0-4a05-9d92-b4cdce4c3d92.jpg",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero102511-icon.png/revision/latest?cb=20251001064157",
             "type1": "Special",
             "type_links": {
               "01 LUCKYBOX": "unavailable",
@@ -5562,23 +5571,23 @@
         },
         "Skins": {
           "01 LUCKYBOX": {
-            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Hero255-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164843",
+            "img2": "https://i.pinimg.com/736x/dc/7f/df/dc7fdf5776e69048455ce1a275068dc7.jpg",
             "type2": "Luckybox"
           },
           "02 LUCKYBOX": {
-            "img2": "https://i.supaimg.com/f4376c87-a4d3-49a7-bda9-bc574fc0a584.jpg",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/37/Hero255-icon.png/revision/latest?cb=20260424024306",
             "type2": "Luckybox"
           },
           "03 ANNUAL STARLIGHT": {
-            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero257-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164845",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero257-icon.png/revision/latest?cb=20220126042110",
             "type2": "Annual Starlight"
           },
           "04 EXORCIST": {
-            "img2": "https://i.supaimg.com/1e1c698d-bbe8-41c6-838f-5d1ec9a1b3f4.png",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Hero258-icon.png/revision/latest?cb=20220915134946",
             "type2": "Exorcist"
           },
           "05 COULDS": {
-            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero258-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121143",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero259-icon.png/revision/latest?cb=20230805043931",
             "type2": "Coulds"
           }
         },
@@ -7419,42 +7428,42 @@
       "Kadita": {
         "Replacements": {
           "01 DEFAULT": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero751-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021142450",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/4/46/Hero751-icon.png/revision/latest?cb=20241021145759",
             "type1": "Default",
             "type_links": {
               "01 STARLIGHT 2025": "https://github.com/injctr/large/raw/main/Kadita/Starlight/Kadita%20Starlight%20-%20Default.zip"
             }
           },
           "02 BASIC": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero752-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121134215",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero752-icon.png/revision/latest?cb=20220125050132",
             "type1": "Basic",
             "type_links": {
               "01 STARLIGHT 2025": "https://github.com/injctr/large/raw/main/Kadita/Starlight/Kadita%20Starlight%20-%20Basic.zip"
             }
           },
           "03 SPECIAL": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero753-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121134301",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Hero753-icon.png/revision/latest?cb=20220125050133",
             "type1": "Special",
             "type_links": {
               "01 STARLIGHT 2025": "https://github.com/injctr/large/raw/main/Kadita/Starlight/Kadita%20Starlight%20-%20Special.zip"
             }
           },
           "04 MPL": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero755-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043909",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Hero755-icon.png/revision/latest?cb=20230805044000",
             "type1": "MPL",
             "type_links": {
               "01 STARLIGHT 2025": "https://github.com/injctr/large/raw/main/Kadita/Starlight/Kadita%20Starlight%20-%20MPL.zip"
             }
           },
           "05 CREATE": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero756-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619172453",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/f/f2/Hero756-icon.png/revision/latest?cb=20241013072541",
             "type1": "Create",
             "type_links": {
               "01 STARLIGHT 2025": "https://github.com/injctr/large/raw/main/Kadita/Starlight/Kadita%20Starlight%20-%20Create.zip"
             }
           },
           "06 STARLIGHT 2025": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero757-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530072015",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Hero757-icon.png/revision/latest?cb=20250530072545",
             "type1": "Starlight 2025",
             "type_links": {
               "01 STARLIGHT 2025": "unavailable"
@@ -7463,7 +7472,7 @@
         },
         "Skins": {
           "01 STARLIGHT 2025": {
-            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero757-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530072015",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Hero757-icon.png/revision/latest?cb=20250530072545",
             "type2": "Starlight 2025"
           }
         },
@@ -8316,7 +8325,7 @@
       "Karrie": {
         "Replacements": {
           "01 DEFAULT": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Hero401-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021141602",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero401-icon.png/revision/latest?cb=20241021145437",
             "type1": "Default",
             "type_links": {
               "01 LUCKYBOX": "unavailable",
@@ -8325,7 +8334,7 @@
             }
           },
           "02 BASIC": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Hero402-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165144",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Hero402-icon.png/revision/latest?cb=20240311082236",
             "type1": "Basic",
             "type_links": {
               "01 LUCKYBOX": "unavailable",
@@ -8334,7 +8343,7 @@
             }
           },
           "03 ELITE 1": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Hero403-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165145",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero403-icon.png/revision/latest?cb=20220126041720",
             "type1": "Elite 1",
             "type_links": {
               "01 LUCKYBOX": "unavailable",
@@ -8343,7 +8352,7 @@
             }
           },
           "04 STARLIGHT 2018": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero404-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165146",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero404-icon.png/revision/latest?cb=20220126041722",
             "type1": "Starlight 2018",
             "type_links": {
               "01 LUCKYBOX": "unavailable",
@@ -8352,7 +8361,7 @@
             }
           },
           "05 HALLOWEEN": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Hero405-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165147",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero405-icon.png/revision/latest?cb=20220126041718",
             "type1": "Halloween",
             "type_links": {
               "01 LUCKYBOX": "unavailable",
@@ -8361,7 +8370,7 @@
             }
           },
           "06 LUCKYBOX": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero406-portrait.png/revision/latest/scale-to-width-down/150?cb=20240124032357",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero406-icon.png/revision/latest?cb=20241201053035",
             "type1": "Luckybox",
             "type_links": {
               "01 LUCKYBOX": "unavailable",
@@ -8370,7 +8379,7 @@
             }
           },
           "07 ERIC 1": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero407-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165149",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Hero407-icon.png/revision/latest?cb=20220126041714",
             "type1": "Eric 1",
             "type_links": {
               "01 LUCKYBOX": "unavailable",
@@ -8379,7 +8388,7 @@
             }
           },
           "08 ANNUAL STARLIGHT": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero408-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165150",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero408-icon.png/revision/latest?cb=20220126041656",
             "type1": "Annual Starlight",
             "type_links": {
               "01 LUCKYBOX": "unavailable",
@@ -8388,7 +8397,7 @@
             }
           },
           "09 ELITE 2": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Hero409-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165151",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero409-icon.png/revision/latest?cb=20220126041659",
             "type1": "Elite 2",
             "type_links": {
               "01 LUCKYBOX": "unavailable",
@@ -8397,7 +8406,7 @@
             }
           },
           "10 EPIC 2": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/b/b7/Hero104010-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043957",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/8/86/Hero104010-icon.png/revision/latest?cb=20230805044015",
             "type1": "Epic 2",
             "type_links": {
               "01 LUCKYBOX": "unavailable",
@@ -8406,7 +8415,7 @@
             }
           },
           "11 KISHIN DENSETSU": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero104011-portrait.png/revision/latest/scale-to-width-down/150?cb=20241209144301",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Hero104011-icon.png/revision/latest?cb=20241013072633",
             "type1": "Kishin Densetsu",
             "type_links": {
               "01 LUCKYBOX": "unavailable",
@@ -8417,15 +8426,15 @@
         },
         "Skins": {
           "01 LUCKYBOX": {
-            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero406-portrait.png/revision/latest/scale-to-width-down/150?cb=20240124032357",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero406-icon.png/revision/latest?cb=20241201053035",
             "type2": "Luckybox"
           },
           "02 ANNUAL STARLIGHT": {
-            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero408-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165150",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero408-icon.png/revision/latest?cb=20220126041656",
             "type2": "Annual Starlight"
           },
           "03 KISHIN DENSETSU": {
-            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero104011-portrait.png/revision/latest/scale-to-width-down/150?cb=20241209144301",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Hero104011-icon.png/revision/latest?cb=20241013072633",
             "type2": "Kishin Densetsu"
           }
         },
@@ -10711,49 +10720,49 @@
       "Kaja": {
         "Replacements": {
           "01 DEFAULT": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/8/86/Hero621-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021142136",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero621-icon.png/revision/latest?cb=20241021145645",
             "type1": "Default",
             "type_links": {
               "01 EPIC": "https://www.dropbox.com/scl/fi/bc89hxp0yueoo9tikd97v/Kaja-Epic-Default.zip?rlkey=kzd17qhesplavwr5kszd1ycel&st=l803wtbu&dl=1"
             }
           },
           "02 BASIC": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero622-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165550",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Hero622-icon.png/revision/latest?cb=20220126141806",
             "type1": "Basic",
             "type_links": {
               "01 EPIC": "https://www.dropbox.com/scl/fi/s9uflzpwhgll1lpfott3e/Kaja-Epic-Basic.zip?rlkey=6xusqxrsfp78u4zm2u026665h&st=ehc6kzvs&dl=1"
             }
           },
           "03 STARLIGHT 2019": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero623-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165551",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero623-icon.png/revision/latest?cb=20220126141804",
             "type1": "Starlight 2019",
             "type_links": {
               "01 EPIC": "unavailable"
             }
           },
           "04 ELITE": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero624-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165552",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero624-icon.png/revision/latest?cb=20220126141802",
             "type1": "Elite",
             "type_links": {
               "01 EPIC": "unavailable"
             }
           },
           "05 LUCKYBOX": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero625-portrait.png/revision/latest/scale-to-width-down/150?cb=20250522142825",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero625-icon.png/revision/latest?cb=20250522143052",
             "type1": "Luckybox",
             "type_links": {
               "01 EPIC": "unavailable"
             }
           },
           "06 SEASON 20": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Hero626-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165554",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/b/b7/Hero626-icon.png/revision/latest?cb=20220126141758",
             "type1": "Season 20",
             "type_links": {
               "01 EPIC": "unavailable"
             }
           },
           "07 EPIC": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero627-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917045317",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Hero627-icon.png/revision/latest?cb=20240322092312",
             "type1": "Epic",
             "type_links": {
               "01 EPIC": "unavailable"
@@ -10762,7 +10771,7 @@
         },
         "Skins": {
           "01 EPIC": {
-            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero627-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917045317",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Hero627-icon.png/revision/latest?cb=20240322092312",
             "type2": "Epic"
           }
         },
@@ -10819,21 +10828,21 @@
       "Kalea": {
         "Replacements": {
           "01 DEFAULT": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero1281-portrait.png/revision/latest/scale-to-width-down/150?cb=20250407160846",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Hero1281-icon.png/revision/latest?cb=20250402015050",
             "type1": "Default",
             "type_links": {
               "01 NARUTO": "https://www.dropbox.com/scl/fi/ogrsvgy8oerhste9qb585/Kalea-Sakura-Default.zip?rlkey=cojlel6sktcxg5upacv2o4zp6&st=zxyfv8a1&dl=1"
             }
           },
           "02 BASIC": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero1282-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123931",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero1282-icon.png/revision/latest?cb=20250402015034",
             "type1": "Basic",
             "type_links": {
               "01 NARUTO": "https://www.dropbox.com/scl/fi/vjk36uf5fxnishoky6w8n/Kalea-Sakura-Basic.zip?rlkey=c3r3o5rmhniepb807oscdo8d6&st=ypjbb2dh&dl=1"
             }
           },
           "03 NARUTO": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1283-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101453",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Hero1283-icon.png/revision/latest?cb=20250411100954",
             "type1": "Naruto",
             "type_links": {
               "01 NARUTO": "unavailable"
@@ -10842,7 +10851,7 @@
         },
         "Skins": {
           "01 NARUTO": {
-            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1283-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101453",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Hero1283-icon.png/revision/latest?cb=20250411100954",
             "type2": "Naruto"
           }
         },
@@ -10892,56 +10901,56 @@
       "Khufra": {
         "Replacements": {
           "01 DEFAULT": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero781-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021142534",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero781-icon.png/revision/latest?cb=20241021152946",
             "type1": "Default",
             "type_links": {
               "01 COLLECTOR": "https://www.dropbox.com/scl/fi/it6l5ryi3pfz4zun67oz5/Khufta-Collector-Default.zip?rlkey=vjlnbve5ihmy73nvosf9dxst4&st=64cs0ocm&dl=1"
             }
           },
           "02 BASIC": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero782-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165825",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Hero782-icon.png/revision/latest?cb=20220126142143",
             "type1": "Basic",
             "type_links": {
               "01 COLLECTOR": "https://www.dropbox.com/scl/fi/p51lbrhrfj5ao5trxikuz/Khufta-Collector-Basic.zip?rlkey=8ungmslnwpx5k4lz2j4ad2gzv&st=k4l1gkcy&dl=1"
             }
           },
           "03 ELITE 1": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Hero783-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165826",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/f/fe/Hero783-icon.png/revision/latest?cb=20220126142111",
             "type1": "Elite 1",
             "type_links": {
               "01 COLLECTOR": "https://www.dropbox.com/scl/fi/ku499bcdz4h7ke8iqaq4m/Khufta-Collector-Elite-Apophis.zip?rlkey=y2tvfoh6dro44bjwofe454spy&st=lvn2ni22&dl=1"
             }
           },
           "04 VALENTINE": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero784-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165827",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero784-icon.png/revision/latest?cb=20220126142109",
             "type1": "Valentine",
             "type_links": {
               "01 COLLECTOR": "https://www.dropbox.com/scl/fi/bu4o7mda25h353b48eeay/Khufta-Collector-Valentine.zip?rlkey=fsxl7loxnkacpabopp59dnso1&st=z5xae48s&dl=1"
             }
           },
           "05 COLLECTOR": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero785-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165828",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero785-icon.png/revision/latest?cb=20251001052948",
             "type1": "Collector",
             "type_links": {
               "01 COLLECTOR": "unavailable"
             }
           },
           "06 STARLIGHT 2021": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero786-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165829",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Hero786-icon.png/revision/latest?cb=20220126142717",
             "type1": "Starlight 2021",
             "type_links": {
               "01 COLLECTOR": "https://www.dropbox.com/scl/fi/1uz6qy6f5c82a2zz4ih60/Khufta-Collector-Starlight.zip?rlkey=m6h98f6y5vzy6skl0mo8yqa6c&st=s6spmcp7&dl=1"
             }
           },
           "07 ELITE 2": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero787-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133740",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero787-icon.png/revision/latest?cb=20230317100409",
             "type1": "Elite 2",
             "type_links": {
               "01 COLLECTOR": "https://www.dropbox.com/scl/fi/8ubxwhd1y30wbjitdsmtg/Khufta-Collector-Elite-Iron-Hook.zip?rlkey=j5qrfa0kuixi38fz7107bzmg3&st=cq1apcti&dl=1"
             }
           },
           "08 EPIC": {
-            "img1": "https://i.supaimg.com/428367e1-caea-424b-a68a-f842d0b63eca.jpg",
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero788-icon.png/revision/latest?cb=20241013072543",
             "type1": "Epic",
             "type_links": {
               "01 COLLECTOR": "https://www.dropbox.com/scl/fi/ydkj2beioblz9cddpe1f0/Khufta-Collector-Epic.zip?rlkey=2oj63ffeuhpyrrxnvxasq2djt&st=qwa4gdkx&dl=1"
@@ -10950,7 +10959,7 @@
         },
         "Skins": {
           "01 COLLECTOR": {
-            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero785-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165828",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero785-icon.png/revision/latest?cb=20251001052948",
             "type2": "Collector"
           }
         },
