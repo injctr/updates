@@ -13191,6 +13191,12 @@
         }
       }
     },
-    "Latest": {}
+    "Latest": {
+      "Arlott_03 COLLECTOR": {
+        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Hero1204-icon.png/revision/latest?cb=20241013071707",
+        "type2": "Collector",
+        "key": "Arlott"
+      }
+    }
   }
 ]
