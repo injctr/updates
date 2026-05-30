@@ -13201,6 +13201,11 @@
         "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero976-icon.png/revision/latest?cb=20240314065710",
         "type2": "Ducati",
         "key": "Benedetta"
+      },
+      "Angela_01 COLLECTOR": {
+        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Hero557-icon.png/revision/latest?cb=20220126141936",
+        "type2": "Collector",
+        "key": "Angela"
       }
     }
   }
