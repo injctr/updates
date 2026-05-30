@@ -13191,12 +13191,6 @@
         }
       }
     },
-    "Latest": {
-      "Aamon_02 STARLIGHT 2023": {
-        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero1094-icon.png/revision/latest?cb=20221223124541",
-        "type2": "Starlight 2023",
-        "key": "Aamon"
-      }
-    }
+    "Latest": {}
   }
 ]
