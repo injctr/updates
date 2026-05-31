@@ -301,7 +301,7 @@
           },
           "02 COLLECTOR": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero647-icon.png/revision/latest?cb=20220126142228",
-            "type2": "Collector"
+            "type2": "Optimize Collector"
           },
           "03 TRANSFORMERS": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero648-icon.png/revision/latest?cb=20220625110946",
@@ -3687,7 +3687,7 @@
         "Skins": {
           "01 LUCKYBOX": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Hero174-icon.png/revision/latest?cb=20220125063036",
-            "type2": "Luckybox"
+            "type2": "Optimize Luckybox"
           },
           "02 SUMMER": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Hero176-icon.png/revision/latest?cb=20251001051329",
@@ -3952,7 +3952,7 @@
         "Skins": {
           "01 LUCKYBOX": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Hero106-icon.png/revision/latest?cb=20220125063122",
-            "type2": "Luckybox"
+            "type2": "Optimize Luckybox"
           },
           "02 BLAZING BOUNTIES": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero107-icon.png/revision/latest?cb=20241201053007",
@@ -7347,7 +7347,7 @@
           },
           "04 COLLECTOR": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero539-icon.png/revision/latest?cb=20220126141704",
-            "type2": "Collector"
+            "type2": "Optimize Collector"
           },
           "05 ANUAL STARLIGHT": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero105310-icon.png/revision/latest?cb=20221103135316",
@@ -13269,22 +13269,22 @@
       },
       "Franco_01 LUCKYBOX": {
         "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Hero106-icon.png/revision/latest?cb=20220125063122",
-        "type2": "Luckybox",
+        "type2": "Optimize Luckybox",
         "key": "Franco"
       },
       "Lesley_04 COLLECTOR": {
         "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero539-icon.png/revision/latest?cb=20220126141704",
-        "type2": "Collector",
+        "type2": "Optimize Collector",
         "key": "Lesley"
       },
       "Aldous_02 COLLECTOR": {
         "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero647-icon.png/revision/latest?cb=20220126142228",
-        "type2": "Collector",
+        "type2": "Optimize Collector",
         "key": "Aldous"
       },
       "Fanny_01 LUCKYBOX": {
         "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Hero174-icon.png/revision/latest?cb=20220125063036",
-        "type2": "Luckybox",
+        "type2": "Optimize Luckybox",
         "key": "Fanny"
       }
     }
