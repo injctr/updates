@@ -288,7 +288,7 @@
             "type1": "Special",
             "type_links": {
               "01 BLAZING BOUNTIES": "unavailable",
-              "02 COLLECTOR": "unavailable",
+              "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Aldous/Collector/Aldous%20Collector%20-%20Special.zip",
               "03 TRANSFORMERS": "unavailable",
               "04 MISBENDER": "unavailable"
             }
@@ -3627,7 +3627,7 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Hero101710-icon.png/revision/latest?cb=20220118095046",
             "type1": "The Aspirants",
             "type_links": {
-              "01 LUCKYBOX": "unavailable",
+              "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Fanny/Luckybox/Fanny%20Luckybox%20-%20Aspirants.zip",
               "02 SUMMER": "unavailable",
               "03 LIGHTBORN": "unavailable",
               "04 CHRISTMAS": "unavailable",
@@ -3657,7 +3657,7 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Hero101712-icon.png/revision/latest?cb=20240307111042",
             "type1": "Attack on Titan",
             "type_links": {
-              "01 LUCKYBOX": "unavailable",
+              "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Fanny/Luckybox/Fanny%20Luckybox%20-%20AOT.zip",
               "02 SUMMER": "unavailable",
               "03 LIGHTBORN": "unavailable",
               "04 CHRISTMAS": "unavailable",
@@ -3672,7 +3672,7 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Hero101714-icon.png/revision/latest?cb=20251001064157",
             "type1": "P.Ace",
             "type_links": {
-              "01 LUCKYBOX": "unavailable",
+              "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Fanny/Luckybox/Fanny%20Luckybox%20-%20P.Ace.zip",
               "02 SUMMER": "unavailable",
               "03 LIGHTBORN": "unavailable",
               "04 CHRISTMAS": "unavailable",
@@ -7310,7 +7310,7 @@
               "01 LUCKYBOX": "unavailable",
               "02 LEGEND": "unavailable",
               "03 LEGEND": "https://github.com/injctr/large/raw/main/Lesley/Legend%202/Lesley%20Legend2%20-%20Mystic%20Meow.zip",
-              "04 COLLECTOR": "unavailable",
+              "04 COLLECTOR": "https://github.com/injctr/large/raw/main/Lesley/Collector/Lesley%20Collector%20-%20Mystic%20Meow.zip",
               "05 ANUAL STARLIGHT": "unavailable",
               "06 THE ASPIRANTS": "unavailable",
               "07 MYTHIC MEOW": "unavailable",
