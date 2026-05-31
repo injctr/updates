@@ -5043,7 +5043,8 @@
             "type_links": {
               "01 CHAMPION": "https://github.com/injctr/large/raw/main/Harith/Champion/Harith%20Champion%20-%20Default.zip",
               "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Harith/Collector/Harith%20Collector%20-%20Default.zip",
-              "03 HUNTERXHUNTER": "https://github.com/injctr/large/raw/main/Harith/HxH/Harith%20HxH%20-%20Default.zip"
+              "03 HUNTERXHUNTER": "https://github.com/injctr/large/raw/main/Harith/HxH/Harith%20HxH%20-%20Default.zip",
+              "04 STARLIGHT 2026": "https://github.com/injctr/large/raw/main/Harith/Starlight/Harith%20Starlight%20-%20Default.zip"
             }
           },
           "02 BASIC": {
@@ -5052,7 +5053,8 @@
             "type_links": {
               "01 CHAMPION": "https://github.com/injctr/large/raw/main/Harith/Champion/Harith%20Champion%20-%20Basic.zip",
               "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Harith/Collector/Harith%20Collector%20-%20Basic.zip",
-              "03 HUNTERXHUNTER": "unavailable"
+              "03 HUNTERXHUNTER": "unavailable",
+              "04 STARLIGHT 2026": "https://github.com/injctr/large/raw/main/Harith/Starlight/Harith%20Starlight%20-%20Basic.zip"
             }
           },
           "03 ELITE": {
@@ -5061,7 +5063,8 @@
             "type_links": {
               "01 CHAMPION": "https://github.com/injctr/large/raw/main/Harith/Champion/Harith%20Champion%20-%20Elite.zip",
               "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Harith/Collector/Harith%20Collector%20-%20Elite.zip",
-              "03 HUNTERXHUNTER": "unavailable"
+              "03 HUNTERXHUNTER": "unavailable",
+              "04 STARLIGHT 2026": "https://github.com/injctr/large/raw/main/Harith/Starlight/Harith%20Starlight%20-%20Elite.zip"
             }
           },
           "04 515": {
@@ -5070,7 +5073,8 @@
             "type_links": {
               "01 CHAMPION": "https://github.com/injctr/large/raw/main/Harith/Champion/Harith%20Champion%20-%20515.zip",
               "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Harith/Collector/Harith%20Collector%20-%20515.zip",
-              "03 HUNTERXHUNTER": "https://github.com/injctr/large/raw/main/Harith/HxH/Harith%20HxH%20-%20515.zip"
+              "03 HUNTERXHUNTER": "https://github.com/injctr/large/raw/main/Harith/HxH/Harith%20HxH%20-%20515.zip",
+              "04 STARLIGHT 2026": "https://github.com/injctr/large/raw/main/Harith/Starlight/Harith%20Starlight%20-%20515.zip"
             }
           },
           "05 LIGHTBORN": {
@@ -5079,7 +5083,8 @@
             "type_links": {
               "01 CHAMPION": "https://github.com/injctr/large/raw/main/Harith/Champion/Harith%20Champion%20-%20Lightborn.zip",
               "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Harith/Collector/Harith%20Collector%20-%20Lightborn.zip",
-              "03 HUNTERXHUNTER": "https://github.com/injctr/large/raw/main/Harith/HxH/Harith%20HxH%20-%20Lightborn.zip"
+              "03 HUNTERXHUNTER": "https://github.com/injctr/large/raw/main/Harith/HxH/Harith%20HxH%20-%20Lightborn.zip",
+              "04 STARLIGHT 2026": "https://github.com/injctr/large/raw/main/Harith/Starlight/Harith%20Starlight%20-%20Lightborn.zip"
             }
           },
           "06 CHAMPION": {
@@ -5088,7 +5093,8 @@
             "type_links": {
               "01 CHAMPION": "unavailable",
               "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Harith/Collector/Harith%20Collector%20-%20Champion.zip",
-              "03 HUNTERXHUNTER": "https://github.com/injctr/large/raw/main/Harith/HxH/Harith%20HxH%20-%20Champion.zip"
+              "03 HUNTERXHUNTER": "https://github.com/injctr/large/raw/main/Harith/HxH/Harith%20HxH%20-%20Champion.zip",
+              "04 STARLIGHT 2026": "https://github.com/injctr/large/raw/main/Harith/Starlight/Harith%20Starlight%20-%20Champion.zip"
             }
           },
           "07 COLLECTOR": {
@@ -5097,7 +5103,8 @@
             "type_links": {
               "01 CHAMPION": "https://github.com/injctr/large/raw/main/Harith/Champion/Harith%20Champion%20-%20Collector.zip",
               "02 COLLECTOR": "unavailable",
-              "03 HUNTERXHUNTER": "https://github.com/injctr/large/raw/main/Harith/HxH/Harith%20HxH%20-%20Collector.zip"
+              "03 HUNTERXHUNTER": "https://github.com/injctr/large/raw/main/Harith/HxH/Harith%20HxH%20-%20Collector.zip",
+              "04 STARLIGHT 2026": "https://github.com/injctr/large/raw/main/Harith/Starlight/Harith%20Starlight%20-%20Collector.zip"
             }
           },
           "08 CHRISTMAS": {
@@ -5106,7 +5113,8 @@
             "type_links": {
               "01 CHAMPION": "https://github.com/injctr/large/raw/main/Harith/Champion/Harith%20Champion%20-%20Christmas.zip",
               "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Harith/Collector/Harith%20Collector%20-%20Christmas.zip",
-              "03 HUNTERXHUNTER": "https://github.com/injctr/large/raw/main/Harith/HxH/Harith%20HxH%20-%20Christmas.zip"
+              "03 HUNTERXHUNTER": "https://github.com/injctr/large/raw/main/Harith/HxH/Harith%20HxH%20-%20Christmas.zip",
+              "04 STARLIGHT 2026": "https://github.com/injctr/large/raw/main/Harith/Starlight/Harith%20Starlight%20-%20Christmas.zip"
             }
           },
           "09 HUNTERXHUNTER": {
@@ -5115,7 +5123,18 @@
             "type_links": {
               "01 CHAMPION": "https://github.com/injctr/large/raw/main/Harith/Champion/Harith%20Champion%20-%20HxH.zip",
               "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Harith/Collector/Harith%20Collector%20-%20HxH.zip",
-              "03 HUNTERXHUNTER": "unavailable"
+              "03 HUNTERXHUNTER": "unavailable",
+              "04 STARLIGHT 2026": "https://github.com/injctr/large/raw/main/Harith/Starlight/Harith%20Starlight%20-%20HxH.zip"
+            }
+          },
+          "10 STARLIGHT 2026": {
+            "img1": "https://github.com/injctr/IMAGES/raw/main/Harith%20-%20Rebel%20Emberfang.png",
+            "type1": "Starlight 2026",
+            "type_links": {
+              "01 CHAMPION": "unavailable",
+              "02 COLLECTOR": "unavailable",
+              "03 HUNTERXHUNTER": "unavailable",
+              "04 STARLIGHT 2026": "unavailable"
             }
           }
         },
@@ -5131,6 +5150,10 @@
           "03 HUNTERXHUNTER": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b6/Hero739-icon.png/revision/latest?cb=20241201053525",
             "type2": "HunterXHunter"
+          },
+          "04 STARLIGHT 2026": {
+            "img2": "https://github.com/injctr/IMAGES/raw/main/Harith%20-%20Rebel%20Emberfang.png",
+            "type2": "Starlight 2026"
           }
         }
       },
@@ -9167,6 +9190,39 @@
           }
         }
       },
+      "Obsidia": {
+        "img": "",
+        "name": "Obsidia",
+        "Replacements": {
+          "01 DEFAULT": {
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/9/9b/Hero1301-icon.png/revision/latest?cb=20250928040150",
+            "type1": "Default",
+            "type_links": {
+              "01 STARLIGHT 2026": "https://github.com/injctr/large/raw/main/Obsidia/Starlight/Obsidia%20Starlight%20-%20Default.zip"
+            }
+          },
+          "02 BASIC": {
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero1302-icon.png/revision/latest?cb=20250703151405",
+            "type1": "Basic",
+            "type_links": {
+              "01 STARLIGHT 2026": "https://github.com/injctr/large/raw/main/Obsidia/Starlight/Obsidia%20Starlight%20-%20Basic.zip"
+            }
+          },
+          "03 STARLIGHT 2026": {
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero1303-icon.png/revision/latest?cb=20260422235635",
+            "type1": "Starlight 2026",
+            "type_links": {
+              "01 STARLIGHT 2026": "unavailable"
+            }
+          }
+        },
+        "Skins": {
+          "01 STARLIGHT 2026": {
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero1303-icon.png/revision/latest?cb=20260422235635",
+            "type2": "Starlight 2026"
+          }
+        }
+      },
       "Odette": {
         "Replacements": {
           "01 DEFAULT": {
@@ -13191,6 +13247,17 @@
         }
       }
     },
-    "Latest": {}
+    "Latest": {
+      "Obsidia_01 STARLIGHT 2026": {
+        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero1303-icon.png/revision/latest?cb=20260422235635",
+        "type2": "Starlight 2026",
+        "key": "Obsidia"
+      },
+      "Harith_04 STARLIGHT 2026": {
+        "img2": "https://github.com/injctr/IMAGES/raw/main/Harith%20-%20Rebel%20Emberfang.png",
+        "type2": "Starlight 2026",
+        "key": "Harith"
+      }
+    }
   }
 ]
