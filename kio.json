@@ -13532,6 +13532,17 @@
         "type2": "Starlight 2026",
         "key": "Obsidia"
       }
+    },
+    "Version": {
+      "allow": "no",
+      "version": "2.0",
+      "message": "Added",
+      "link": "",
+      "live": "no",
+      "live_link": "",
+      "notice": "no",
+      "notice_title": "",
+      "notice_message": ""
     }
   }
 ]
