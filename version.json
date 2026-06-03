@@ -1,12 +1,14 @@
-{
-  "allow": "no",
-  "version": "2.0",
-  "message": "mess",
-  "link": "",
-  "live": "no",
-  "live_link": "",
-  "notice": "no",
-  "notice_title": "",
-  "notice_message": "",
-  "show_task": "yes"
-}
+[
+  {
+    "allow": "no",
+    "version": "2.0",
+    "message": "mess",
+    "link": "",
+    "live": "no",
+    "live_link": "",
+    "notice": "no",
+    "notice_title": "",
+    "notice_message": "",
+    "show_task": "no"
+  }
+]
