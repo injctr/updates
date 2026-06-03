@@ -6,9 +6,9 @@
     "notice_title": "Maintenance Notice",
     "notice_message": "[English]\n",
     "show_task": "ye",
-    "version": "1.1",
-    "allow": "unallow",
-    "link": "https://play.google.com/store/apps/details?id=com.scripttools",
-    "message": "Hello User, welcome to the first version of the app. I hope you enjoy using it. If you find any bugs or errors, please report them to the developer. Thank you. \n\nSome images are unavailable and will be fixed soon."
+    "version": "2.0",
+    "allow": "allow",
+    "link": "https://youtu.be/xbIvKsNt9oI",
+    "message": "Introducing Vinzz Tools v2, a complete rebuild from the ground up."
   }
 ]
