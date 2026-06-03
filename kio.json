@@ -13481,18 +13481,6 @@
         "type2": "Starlight 2026",
         "key": "Obsidia"
       }
-    },
-    "Version": [{
-      "allow": "no",
-      "version": "2.0",
-      "message": "Added",
-      "link": "https://",
-      "live": "no",
-      "live_link": "https://",
-      "notice": "no",
-      "notice_title": "App Maintenance",
-      "notice_message": "Maintenance Message",
-      "show_task": "no"
-    }]
+    }
   }
 ]
