@@ -13491,7 +13491,8 @@
       "live_link": "https://",
       "notice": "no",
       "notice_title": "App Maintenance",
-      "notice_message": "Maintenance Message"
+      "notice_message": "Maintenance Message",
+      "show_task": "no"
     }]
   }
 ]
