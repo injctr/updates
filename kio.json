@@ -2554,21 +2554,6 @@
               "08 STREET FIGHTER 2": "https://github.com/injctr/large/raw/main/Chou/Street%20Fighter%202/Chou%20Street%20Fighter%202%20-%20Champion.zip",
               "09 STREET FIGHTER 1": "https://github.com/injctr/large/raw/main/Chou/Street%20Fighter%201/Chou%20Street%20Fighter%201%20-%20Champion.zip"
             }
-          },
-          "13 STREET FIGHTER 2": {
-            "img1": "https://github.com/injctr/IMAGES/raw/main/STREET%20CHOU%2099.png",
-            "type1": "Street Fighter 2",
-            "type_links": {
-              "01 LUCKYBOX": "unavailable",
-              "02 KOF": "unavailable",
-              "03 DAWNING HERO": "unavailable",
-              "04 S.T.U.N.": "unavailable",
-              "05 SAINT SEIYA BRONZE": "unavailable",
-              "06 SAINT SEIYA GOLD": "unavailable",
-              "07 CHAMPION": "unavailable",
-              "08 STREET FIGHTER 2": "unavailable",
-              "09 STREET FIGHTER 1": "unavailable"
-            }
           }
         },
         "Skins": {
@@ -3160,18 +3145,6 @@
               "04 HUNTERXHUNTER": "unavailable",
               "05 STREET FIGHTER 2": "https://github.com/injctr/large/raw/main/Dyrroth/Street%20Fighter%202/Dyrroth%20Street%20Fighter%202%20-%20HxH.zip",
               "06 STREET FIGHTER 1": "https://github.com/injctr/large/raw/main/Dyrroth/Street%20Fighter%201/Dyrroth%20Street%20Fighter%201%20-%20Hunter%20x%20Hunter.zip"
-            }
-          },
-          "08 STREET FIGHTER 2": {
-            "img1": "https://github.com/injctr/IMAGES/raw/main/STREET%20DYRROTH.png",
-            "type1": "Street Fighter 2",
-            "type_links": {
-              "01 KOF": "unavailable",
-              "02 V.E.N.O.M.": "unavailable",
-              "03 COLLECTOR": "unavailable",
-              "04 HUNTERXHUNTER": "unavailable",
-              "05 STREET FIGHTER 2": "unavailable",
-              "06 STREET FIGHTER 1": "unavailable"
             }
           }
         },
@@ -4766,18 +4739,6 @@
               "04 THE ASPIRANTS": "unavailable",
               "05 STREET FIGHTER 2": "https://github.com/injctr/large/raw/main/Guinevere/Street%20Fighter%202/Guinevere%20Street%20Fighter%202%20-%20Aspirants.zip",
               "06 STREET FIGHTER 1": "https://github.com/injctr/large/raw/main/Guinevere/Street%20Fighter%201/Guinevere%20Street%20Fighter%201%20-%20Aspirants.zip"
-            }
-          },
-          "12 STREET FIGHTER 2": {
-            "img1": "https://github.com/injctr/IMAGES/raw/main/STREET%20GUINEVERE%2099.png",
-            "type1": "Street Fighter 2",
-            "type_links": {
-              "01 KOF": "unavailable",
-              "02 LUCKYBOX": "unavailable",
-              "03 LEGEND": "unavailable",
-              "04 THE ASPIRANTS": "unavailable",
-              "05 STREET FIGHTER 2": "unavailable",
-              "06 STREET FIGHTER 1": "unavailable"
             }
           }
         },
