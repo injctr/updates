@@ -1,14 +1,11 @@
-[
-  {
-    "live": "ye",
-    "live_link": "https://vt.tiktok.com/ZSHo3c5r845pa-YQAkr/",
-    "notice": "no",
-    "notice_title": "New App",
-    "notice_message": "New app will available soon in Play Store. If you want early access, message me on Tiktok.",
-    "show_task": "ye",
-    "version": "1.46",
-    "allow": "unallow",
-    "link": "https://play.google.com/store/apps/details?id=com.scripttools",
-    "message": "New app is now available in Play Store."
-  }
-]
+{
+  "allow": "no",
+  "version": "2.0",
+  "message": "mess",
+  "link": "",
+  "live": "no",
+  "live_link": "",
+  "notice": "no",
+  "notice_title": "",
+  "notice_message": ""
+}
