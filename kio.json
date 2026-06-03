@@ -9649,18 +9649,6 @@
               "05 STREET FIGHTER 2": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%202/Paquito%20Street%20Fighter%202%20-%20Champion.zip",
               "06 STREET FIGHTER 1": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%201/Paquito%20Street%20Fighter%201%20-%20FMVP.zip"
             }
-          },
-          "10 STREET FIGHTER 2": {
-            "img1": "https://github.com/injctr/IMAGES/raw/main/STREET%20PAQUITO.png",
-            "type1": "Street Fighter 2",
-            "type_links": {
-              "01 MANNY PACQUIAO": "unavailable",
-              "02 COLLECTOR": "unavailable",
-              "03 KOF": "unavailable",
-              "04 FMVP": "unavailable",
-              "05 STREET FIGHTER 2": "unavailable",
-              "06 STREET FIGHTER 1": "unavailable"
-            }
           }
         },
         "Skins": {
