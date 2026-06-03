@@ -13482,7 +13482,7 @@
         "key": "Obsidia"
       }
     },
-    "Version": {
+    "Version": [{
       "allow": "no",
       "version": "2.0",
       "message": "Added",
@@ -13492,6 +13492,6 @@
       "notice": "no",
       "notice_title": "App Maintenance",
       "notice_message": "Maintenance Message"
-    }
+    }]
   }
 ]
