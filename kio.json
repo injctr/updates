@@ -1046,28 +1046,28 @@
             }
           },
           "02 BASIC": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Aulus_%28Berserker%29.jpg/revision/latest/scale-to-width-down/1000?cb=20260423025240",
+            "img1": "https://github.com/injctr/IMAGES/raw/main/Aulus%20Basic.png",
             "type1": "Basic",
             "type_links": {
               "01 SPECIAL": "https://github.com/injctr/large/raw/main/Aulus/Special/Aulus%20Special%20-%20Basic.zip"
             }
           },
           "03 ELITE": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Aulus_%28Barren_Pioneer%29.jpg/revision/latest/scale-to-width-down/1000?cb=20260423024430",
+            "img1": "https://github.com/injctr/IMAGES/raw/main/Aulus%20Elite.png",
             "type1": "Elite",
             "type_links": {
               "01 SPECIAL": "unavailable"
             }
           },
           "04 SPECIAL": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/c/c3/Aulus_%28War_Lion%29.jpg/revision/latest/scale-to-width-down/1000?cb=20260423024731",
+            "img1": "https://github.com/injctr/IMAGES/raw/main/Aulus%20Special.png",
             "type1": "Special",
             "type_links": {
               "01 SPECIAL": "unavailable"
             }
           },
           "05 SEASON 34": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Aulus_%28Ironmane_Reaver%29.jpg/revision/latest/scale-to-width-down/1000?cb=20260423024605",
+            "img1": "https://github.com/injctr/IMAGES/raw/main/Aulus%20Season.png",
             "type1": "Season 34",
             "type_links": {
               "01 SPECIAL": "unavailable"
@@ -1076,7 +1076,7 @@
         },
         "Skins": {
           "01 SPECIAL": {
-            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c3/Aulus_%28War_Lion%29.jpg/revision/latest/scale-to-width-down/1000?cb=20260423024731",
+            "img2": "https://github.com/injctr/IMAGES/raw/main/Aulus%20Special.png",
             "type2": "Special"
           }
         }
