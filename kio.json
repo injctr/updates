@@ -12306,7 +12306,7 @@
     },
     "Effects": {
       "Recall": {
-        "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Classic_Recall_Effect.png/revision/latest?cb=20211204090007",
+        "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Recall/TLPH.jpeg",
         "name": "Recall",
         "01 CLASSIC": {
           "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Recall/Replacements/Classic.jpeg",
@@ -13101,7 +13101,7 @@
         }
       },
       "Emote": {
-        "img": "https://i.imgur.com/SEyWZOU.png",
+        "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Emote/Gojo%20Saturo.jpeg",
         "name": "Emote",
         "01 GENIUS": {
           "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Emote/Genuis.png",
@@ -13254,146 +13254,146 @@
         }
       },
       "Trail": {
-        "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Classic_Trail_Effect.png/revision/latest?cb=20211203174006",
+        "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Trail/Franco%20Legend.jpeg",
         "name": "Trail",
         "01 CLASSIC": {
-          "img": "",
+          "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Trail/Classic%20Trail.png",
           "name": "Classic",
           "01 GORD LEGEND": {
-            "img": "https://i.imgur.com/ESFqBmE.jpeg",
+            "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Trail/Gord%20Legend.jpeg",
             "name": "Gord Legend",
             "link": "https://github.com/injctr/TR4IL/raw/main/1%20Gord%20Legend.zip"
           },
           "02 ALUCARD LEGEND": {
-            "img": "https://i.imgur.com/k78Ildq.jpeg",
+            "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Trail/Alucard%20Legend.jpeg",
             "name": "Alucard Legend",
             "link": "https://github.com/injctr/TR4IL/raw/main/2%20Alucard%20Legend.zip"
           },
           "03 VALIR LEGEND": {
-            "img": "https://i.imgur.com/9vPYwO6.jpeg",
+            "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Trail/Valir%20Legend.jpeg",
             "name": "Valir Legend",
             "link": "https://github.com/injctr/TR4IL/raw/main/3%20Valir%20Legends.zip"
           },
           "04 GUSION LEGEND": {
-            "img": "https://i.imgur.com/jFuFNBY.jpeg",
+            "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Trail/Gusion%20Legend.jpeg",
             "name": "Gusion Legend",
             "link": "https://github.com/injctr/TR4IL/raw/main/4%20Gusion%20Legend.zip"
           },
           "05 FRANCO LEGEND": {
-            "img": "https://i.imgur.com/DZgUB0A.jpeg",
+            "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Trail/Franco%20Legend.jpeg",
             "name": "Franco Legend",
             "link": "https://github.com/injctr/TR4IL/raw/main/5%20Franco%20Legend.zip"
           },
           "06 SABER LEGEND": {
-            "img": "https://i.imgur.com/lz8gPSY.jpeg",
+            "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Trail/Saber%20Legend.jpeg",
             "name": "Saber Legend",
             "link": "https://github.com/injctr/TR4IL/raw/main/6%20Saber%20Legend.zip"
           },
           "07 ROGER PRIME": {
-            "img": "https://i.imgur.com/wvtMdVp.jpeg",
+            "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Trail/Roger%20Prime.jpeg",
             "name": "Roger Prime",
             "link": "https://github.com/injctr/TR4IL/raw/main/9%20Roger%20Prime.zip"
           },
           "08 ROGER M3": {
-            "img": "https://i.imgur.com/EsitAms.jpeg",
+            "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Trail/Roger%20M%EF%BC%93.jpeg",
             "name": "Roger M3",
             "link": "https://github.com/injctr/TR4IL/raw/main/10%20Roger%20M3.zip"
           },
           "09 BEATRIX PRIME": {
-            "img": "https://i.imgur.com/mHKArhQ.jpeg",
+            "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Trail/Beatrix%20Prime.jpeg",
             "name": "Beatrix Prime",
             "link": "https://github.com/injctr/TR4IL/raw/main/11%20Beatrix%20Prime.zip"
           },
           "10 YU ZHONG PRIME": {
-            "img": "https://i.imgur.com/tMRMfZf.jpeg",
+            "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Trail/Yu%20Zhong%20Prime.jpeg",
             "name": "Yu Zhong Prime",
             "link": "https://github.com/injctr/TR4IL/raw/main/7%20Yu%20Zhong%20Prime.zip"
           },
           "11 YU ZHONG M5": {
-            "img": "https://i.imgur.com/DZyuX4A.jpeg",
+            "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Trail/Yu%20Zhong%20M%EF%BC%95.jpeg",
             "name": "Yu Zhong M5",
             "link": "https://github.com/injctr/TR4IL/raw/main/8%20Yu%20Zhong%20M5.zip"
           },
           "12 THAMUS STARLIGHT": {
-            "img": "https://i.imgur.com/eORdjaB.jpeg",
+            "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Trail/Thamus%20Starlight.jpeg",
             "name": "Thamus Starlight",
             "link": "https://github.com/injctr/TR4IL/raw/main/12%20Thamus%20Star.zip"
           },
           "13 EDITH STARLIGHT": {
-            "img": "https://i.imgur.com/NkB6EIV.jpeg",
+            "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Trail/Edith%20Starlight.jpeg",
             "name": "Edith Starlight",
             "link": "https://github.com/injctr/TR4IL/raw/main/13%20Edith%20Star.zip"
           },
           "14 LAYLA STARLIGHT": {
-            "img": "https://i.imgur.com/O5koSUf.jpeg",
+            "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Trail/Layla%20Starlight.jpeg",
             "name": "Layla Starlight",
             "link": "https://github.com/injctr/TR4IL/raw/main/14%20Layla%20Star.zip"
           },
           "15 MELISSA STARLIGHT": {
-            "img": "https://i.imgur.com/UlO0cZb.jpeg",
+            "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Trail/Melissa%20Starlight.jpeg",
             "name": "Melissa Starlight",
             "link": "https://github.com/injctr/TR4IL/raw/main/15%20Melissa%20Star.zip"
           },
           "16 ARLOTT STARLIGHT": {
-            "img": "https://i.imgur.com/8CE6x1t.jpeg",
+            "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Trail/Arlott%20Starlight.jpeg",
             "name": "Arlott Starlight",
             "link": "https://github.com/injctr/TR4IL/raw/main/16%20Arlott%20Star.zip"
           },
           "17 MINSITTHAR STARLIGHT": {
-            "img": "https://i.imgur.com/hodgJ4n.jpeg",
+            "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Trail/Minsitthar%20Starlight.jpeg",
             "name": "Minsitthar Starlight",
             "link": "https://github.com/injctr/TR4IL/raw/main/17%20Minsitthar%20Star.zip"
           },
           "18 CLAUDE PRIME": {
-            "img": "https://i.imgur.com/lXPuHOF.jpeg",
+            "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Trail/Claude%20Prime.jpeg",
             "name": "Claude Prime",
             "link": "https://github.com/injctr/TR4IL/raw/main/Trail%20Claude%20Prime%20-%20Classic.zip"
           },
           "19 JOHNSON LEGEND": {
-            "img": "https://i.imgur.com/prNxYGm.jpeg",
+            "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Trail/Johnson%20Legend.jpeg",
             "name": "Johnson Legend",
             "link": "https://github.com/injctr/TR4IL/raw/main/Trail%20Johnson%20Legend%20-%20Classic.zip"
           }
         }
       },
       "Elimination": {
-        "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Classic_Elimination_Effect.png/revision/latest?cb=20211204075319",
+        "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Elimination/KOF'%EF%BC%99%EF%BC%97.jpeg",
         "name": "Elimination",
         "01 CLASSIC": {
-          "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Classic_Elimination_Effect.png/revision/latest?cb=20211204075319",
+          "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Elimination/Classic%20Elimination.png",
           "name": "Classic",
           "01 CRASH": {
-            "img": "https://i.imgur.com/NVgTL2a.jpeg",
+            "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Elimination/Crash.jpeg",
             "name": "Crash",
             "link": "https://github.com/injctr/EL1M1N4TI0N/raw/main/Classic%20-%20Crash.zip"
           },
           "02 KOF'97": {
-            "img": "https://i.imgur.com/Fs4Thm9.jpeg",
+            "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Elimination/KOF'%EF%BC%99%EF%BC%97.jpeg",
             "name": "KOF'97",
             "link": "https://github.com/injctr/EL1M1N4TI0N/raw/main/Classic%20-%20K.O%2097'kof.zip"
           },
           "03 K.O": {
-            "img": "https://i.imgur.com/EB2UhUa.jpeg",
+            "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Elimination/K.O.jpeg",
             "name": "K.O",
             "link": "https://github.com/injctr/EL1M1N4TI0N/raw/main/Classic%20-%20K.O%20Starlight.zip"
           },
           "04 TRANSFORMERS": {
-            "img": "https://i.imgur.com/qdJVjbJ.jpeg",
+            "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Elimination/Transformers.jpeg",
             "name": "Transformers",
             "link": "https://github.com/injctr/EL1M1N4TI0N/raw/main/Classic%20-%20K.O%20Transformers.zip"
           },
           "05 MISTBENDER": {
-            "img": "https://i.imgur.com/QfSY6B4.jpeg",
+            "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Elimination/Mistbender.jpeg",
             "name": "Mistbender",
             "link": "https://github.com/injctr/EL1M1N4TI0N/raw/main/Classic%20-%20Mistbender.zip"
           },
           "06 SANRIO": {
-            "img": "https://i.imgur.com/WlgKU5S.jpeg",
+            "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Elimination/Sanrio.jpeg",
             "name": "Sanrio",
             "link": "https://github.com/injctr/EL1M1N4TI0N/raw/main/Classic%20-%20Sanrio.zip"
           },
           "07 ONIC": {
-            "img": "https://i.imgur.com/AIcWbsM.jpeg",
+            "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Elimination/Onic.jpeg",
             "name": "Onic",
             "link": "https://github.com/injctr/EL1M1N4TI0N/raw/main/Classic%20Onic%202024.zip"
           }
