@@ -200,7 +200,8 @@
               "01 BLAZING BOUNTIES": "https://github.com/injctr/large/raw/main/Aldous/Blazing/Aldous%20Blazing%20-%20Default.zip",
               "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Aldous/Collector/Aldous%20Collector%20-%20Default.zip",
               "03 TRANSFORMERS": "https://github.com/injctr/large/raw/main/Aldous/Transformers/Aldous%20Transformers%20-%20Default.zip",
-              "04 MISBENDER": "https://github.com/injctr/large/raw/main/Aldous/Misbenders/Aldous%20Mistbenders%20-%20Default.zip"
+              "04 MISBENDER": "https://github.com/injctr/large/raw/main/Aldous/Misbenders/Aldous%20Mistbenders%20-%20Default.zip",
+              "05 M1": "https://github.com/injctr/large/raw/main/Aldous/M1/Aldous%20M1%20-%20Default.zip"
             }
           },
           "02 BASIC": {
@@ -210,7 +211,8 @@
               "01 BLAZING BOUNTIES": "https://github.com/injctr/large/raw/main/Aldous/Blazing/Aldous%20Blazing%20-%20Basic.zip",
               "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Aldous/Collector/Aldous%20Collector%20-%20Basic.zip",
               "03 TRANSFORMERS": "https://github.com/injctr/large/raw/main/Aldous/Transformers/Aldous%20Transformers%20-%20Basic.zip",
-              "04 MISBENDER": "https://github.com/injctr/large/raw/main/Aldous/Misbenders/Aldous%20Mistbenders%20-%20Basic.zip"
+              "04 MISBENDER": "https://github.com/injctr/large/raw/main/Aldous/Misbenders/Aldous%20Mistbenders%20-%20Basic.zip",
+              "05 M1": "https://github.com/injctr/large/raw/main/Aldous/M1/Aldous%20M1%20-%20Basic.zip"
             }
           },
           "03 ELITE": {
@@ -220,7 +222,8 @@
               "01 BLAZING BOUNTIES": "unavailable",
               "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Aldous/Collector/Aldous%20Collector%20-%20Elite.zip",
               "03 TRANSFORMERS": "https://github.com/injctr/large/raw/main/Aldous/Transformers/Aldous%20Transformers%20-%20Elite.zip",
-              "04 MISBENDER": "https://github.com/injctr/large/raw/main/Aldous/Misbenders/Aldous%20Mistbenders%20-%20Elite.zip"
+              "04 MISBENDER": "https://github.com/injctr/large/raw/main/Aldous/Misbenders/Aldous%20Mistbenders%20-%20Elite.zip",
+              "05 M1": "https://github.com/injctr/large/raw/main/Aldous/M1/Aldous%20M1%20-%20Elite.zip"
             }
           },
           "04 STARLIGHT 2019": {
@@ -230,7 +233,8 @@
               "01 BLAZING BOUNTIES": "unavailable",
               "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Aldous/Collector/Aldous%20Collector%20-%20Starlight.zip",
               "03 TRANSFORMERS": "https://github.com/injctr/large/raw/main/Aldous/Transformers/Aldous%20Transformers%20-%20Starlight.zip",
-              "04 MISBENDER": "https://github.com/injctr/large/raw/main/Aldous/Misbenders/Aldous%20Mistbenders%20-%20Starlight.zip"
+              "04 MISBENDER": "https://github.com/injctr/large/raw/main/Aldous/Misbenders/Aldous%20Mistbenders%20-%20Starlight.zip",
+              "05 M1": "https://github.com/injctr/large/raw/main/Aldous/M1/Aldous%20M1%20-%20Starlight.zip"
             }
           },
           "05 BLAZING BOUNTIES": {
@@ -240,7 +244,8 @@
               "01 BLAZING BOUNTIES": "unavailable",
               "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Aldous/Collector/Aldous%20Collector%20-%20Blazing.zip",
               "03 TRANSFORMERS": "https://github.com/injctr/large/raw/main/Aldous/Transformers/Aldous%20Transformers%20-%20Blazing.zip",
-              "04 MISBENDER": "https://github.com/injctr/large/raw/main/Aldous/Misbenders/Aldous%20Mistbenders%20-%20Blazing.zip"
+              "04 MISBENDER": "https://github.com/injctr/large/raw/main/Aldous/Misbenders/Aldous%20Mistbenders%20-%20Blazing.zip",
+              "05 M1": "unavailable"
             }
           },
           "06 COLLECTOR": {
@@ -250,7 +255,8 @@
               "01 BLAZING BOUNTIES": "unavailable",
               "02 COLLECTOR": "unavailable",
               "03 TRANSFORMERS": "https://github.com/injctr/large/raw/main/Aldous/Transformers/Aldous%20Transformers%20-%20Collector.zip",
-              "04 MISBENDER": "https://github.com/injctr/large/raw/main/Aldous/Misbenders/Aldous%20Mistbenders%20-%20Collector.zip"
+              "04 MISBENDER": "https://github.com/injctr/large/raw/main/Aldous/Misbenders/Aldous%20Mistbenders%20-%20Collector.zip",
+              "05 M1": "unavailable"
             }
           },
           "07 TRANSFORMERS": {
@@ -260,7 +266,8 @@
               "01 BLAZING BOUNTIES": "unavailable",
               "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Aldous/Collector/Aldous%20Collector%20-%20Transformers.zip",
               "03 TRANSFORMERS": "unavailable",
-              "04 MISBENDER": "https://github.com/injctr/large/raw/main/Aldous/Misbenders/Aldous%20Mistbenders%20-%20Transformers.zip"
+              "04 MISBENDER": "https://github.com/injctr/large/raw/main/Aldous/Misbenders/Aldous%20Mistbenders%20-%20Transformers.zip",
+              "05 M1": "unavailable"
             }
           },
           "08 MISBENDER": {
@@ -270,7 +277,8 @@
               "01 BLAZING BOUNTIES": "unavailable",
               "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Aldous/Collector/Aldous%20Collector%20-%20Mistbenders.zip",
               "03 TRANSFORMERS": "unavailable",
-              "04 MISBENDER": "https://github.com/injctr/large/raw/main/Aldous/Transformers/Aldous%20Transformers%20-%20Misbenders.zip"
+              "04 MISBENDER": "https://github.com/injctr/large/raw/main/Aldous/Transformers/Aldous%20Transformers%20-%20Misbenders.zip",
+              "05 M1": "unavailable"
             }
           },
           "09 M1": {
@@ -280,7 +288,8 @@
               "01 BLAZING BOUNTIES": "unavailable",
               "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Aldous/Collector/Aldous%20Collector%20-%20M1.zip",
               "03 TRANSFORMERS": "https://github.com/injctr/large/raw/main/Aldous/Transformers/Aldous%20Transformers%20-%20M1.zip",
-              "04 MISBENDER": "https://github.com/injctr/large/raw/main/Aldous/Misbenders/Aldous%20Mistbenders%20-%20M1.zip"
+              "04 MISBENDER": "https://github.com/injctr/large/raw/main/Aldous/Misbenders/Aldous%20Mistbenders%20-%20M1.zip",
+              "05 M1": "unavailable"
             }
           },
           "10 SPECIAL": {
@@ -290,7 +299,8 @@
               "01 BLAZING BOUNTIES": "unavailable",
               "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Aldous/Collector/Aldous%20Collector%20-%20Special.zip",
               "03 TRANSFORMERS": "unavailable",
-              "04 MISBENDER": "unavailable"
+              "04 MISBENDER": "unavailable",
+              "05 M1": "unavailable"
             }
           }
         },
@@ -310,6 +320,10 @@
           "04 MISBENDER": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Hero649-icon.png/revision/latest?cb=20240322094759",
             "type2": "Misbender"
+          },
+          "05 M1": {
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero645-icon.png/revision/latest?cb=20260424022523",
+            "type2": "M1"
           }
         }
       },
