@@ -13495,6 +13495,22 @@
         "type2": "Starlight 2026",
         "key": "Obsidia"
       }
+    },
+    "CS-Categories": [
+      "3D Model",
+      "Customized Effects",
+      "Skin-Hero Replace"
+    ],
+    "Custom-Skins": {
+      "Terizla-cs": {
+        "category": "3D Model",
+        "name": "Terizla",
+        "img1": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Hero821-icon.png/revision/latest?cb=20250802150120",
+        "cs-name": "Super Mario",
+        "img2": "https",
+        "yt-link": "https",
+        "url": "https"
+      }
     }
   }
 ]
