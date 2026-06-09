@@ -13510,6 +13510,15 @@
         "img2": "h",
         "yt-link": "t",
         "url": "p"
+      },
+      "dfg": {
+        "category": "3D Model",
+        "name": "Aldous",
+        "img1": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Hero641-icon.png/revision/latest?cb=20241021145655",
+        "cs-name": "fgd",
+        "img2": "dfg",
+        "yt-link": "dgf",
+        "url": "raw"
       }
     }
   }
