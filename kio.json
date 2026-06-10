@@ -13502,6 +13502,15 @@
       "Skin-Hero Replace"
     ],
     "Custom-Skins": {
+      "CS3": {
+        "category": "Skin-Hero Replace",
+        "name": "Barats",
+        "img1": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero991-icon.png/revision/latest?cb=20241021153146",
+        "cs-name": "ere",
+        "img2": "rew",
+        "yt-link": "er",
+        "url": "raw"
+      },
       "Terizla": {
         "category": "3D Model",
         "name": "Terizla",
