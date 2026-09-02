@@ -1,0 +1,14 @@
+   name: Purge jsDelivr cache
+
+   on:
+     push:
+       branches: [main]
+       paths:
+         - 'kio.json'
+
+   jobs:
+     purge:
+       runs-on: ubuntu-latest
+       steps:
+         - name: Purge jsDelivr CDN
+           run: curl -s https://purge.jsdelivr.net/gh/injctr/updates@main/kio.json
