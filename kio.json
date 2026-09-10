@@ -17602,7 +17602,7 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero301-icon.png/revision/latest?cb=20241021145338",
             "type1": "Default",
             "type_links": {
-              "01 COLLECTOR": "https://www.dropbox.com/scl/fi/x2eh62kpma9jqs1w7m1dm/YSS-Collector-Default.zip?rlkey=k1jvvxfm67mtydp8cfph7juze&st=q38f34nt&dl=1"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/YSS/Collector/YSS%20Collector%20-%20Default.zip"
             },
             "second_link": {
               "01 COLLECTOR": "unavailable"
@@ -17612,7 +17612,7 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero302-icon.png/revision/latest?cb=20220126042021",
             "type1": "Basic",
             "type_links": {
-              "01 COLLECTOR": "https://www.dropbox.com/scl/fi/fg89s1ljuedcegc1dpz3a/YSS-Collector-Basic.zip?rlkey=m3g0yqcmzoqkhozszzm1jt2m6&st=3bre9g4s&dl=1"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/YSS/Collector/YSS%20Collector%20-%20Basic.zip"
             },
             "second_link": {
               "01 COLLECTOR": "unavailable"
@@ -17622,7 +17622,7 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Hero303-icon.png/revision/latest?cb=20240309054114",
             "type1": "Elite 1",
             "type_links": {
-              "01 COLLECTOR": "https://www.dropbox.com/scl/fi/wynjg7nj7w0045sni207d/YSS-Collector-Elite-Agent.zip?rlkey=6ne1lvry458ctu61a5o4b3yef&st=x5vzll15&dl=1"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/YSS/Collector/YSS%20Collector%20-%20Elite%20Agent.zip"
             },
             "second_link": {
               "01 COLLECTOR": "unavailable"
@@ -17632,7 +17632,7 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Hero304-icon.png/revision/latest?cb=20220126042011",
             "type1": "Elite 2",
             "type_links": {
-              "01 COLLECTOR": "https://www.dropbox.com/scl/fi/zod1px756icbic3yrkihn/YSS-Collector-Elite-Ranger.zip?rlkey=kw28ly7oa4riowrje9lqcue2d&st=byuc88eh&dl=1"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/YSS/Collector/YSS%20Collector%20-%20Elite%20Ranger.zip"
             },
             "second_link": {
               "01 COLLECTOR": "unavailable"
@@ -17652,7 +17652,7 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero306-icon.png/revision/latest?cb=20220126042007",
             "type1": "Starlight 2025",
             "type_links": {
-              "01 COLLECTOR": "https://www.dropbox.com/scl/fi/hcm8ebqqe15k9j4ud3btl/YSS-Collector-Starlight.zip?rlkey=tcngob971sb74vdxf2lhx9woz&st=y3nz7m1x&dl=1"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/YSS/Collector/YSS%20Collector%20-%20Starlight.zip"
             },
             "second_link": {
               "01 COLLECTOR": "unavailable"
@@ -17662,7 +17662,7 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero307-icon.png/revision/latest?cb=20220628175058",
             "type1": "Epic",
             "type_links": {
-              "01 COLLECTOR": "https://www.dropbox.com/scl/fi/igvvgdskoyq9mkyq4rgbt/YSS-Collector-Epic.zip?rlkey=pa814el2nsae00cdo199d50ct&st=2k7o8np3&dl=1"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/YSS/Collector/YSS%20Collector%20-%20Epic.zip"
             },
             "second_link": {
               "01 COLLECTOR": "unavailable"
@@ -17672,7 +17672,7 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/c/ce/Hero308-icon.png/revision/latest?cb=20240228064838",
             "type1": "Season 31",
             "type_links": {
-              "01 COLLECTOR": "https://www.dropbox.com/scl/fi/4fm8xy93rey3in1nf4rht/YSS-Collector-Season.zip?rlkey=r97mznga0spltzmrkxdcfeji6&st=ubmsit0w&dl=1"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/YSS/Collector/YSS%20Collector%20-%20Season.zip"
             },
             "second_link": {
               "01 COLLECTOR": "unavailable"
@@ -20105,6 +20105,16 @@
       }
     },
     "Latest": {
+      "Yi Sun-shin_01 COLLECTOR": {
+        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero305-icon.png/revision/latest?cb=20220126042009",
+        "type2": "Collector",
+        "key": "Yi Sun-shin"
+      },
+      "Zilong_04 CREATE": {
+        "img2": "https://cdn.jsdelivr.net/gh/injctr/IMAGES@main/Zilongs%20Create%20skin.jpg",
+        "type2": "Create",
+        "key": "Zilong"
+      },
       "Selena_08 ASPIRANTS": {
         "img2": "https://cdn.jsdelivr.net/gh/injctr/IMAGES@main/Selenas%20Aspirants.jpg",
         "type2": "Aspirants",
@@ -20144,11 +20154,6 @@
         "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero1086-icon.png/revision/latest?cb=20260710015145",
         "type2": "Starlight",
         "key": "Aulus"
-      },
-      "Yi Sun-shin_01 COLLECTOR": {
-        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero305-icon.png/revision/latest?cb=20220126042009",
-        "type2": "Collector",
-        "key": "Yi Sun-shin"
       },
       "Sun_04 COLLECTOR TITANS": {
         "img2": "https://github.com/injctr/IMAGES/raw/main/MECHA%20SUN.png",
