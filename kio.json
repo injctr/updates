@@ -6,12 +6,13 @@
       "version": "2.6",
       "message": "WHAT'S NEW\n\n- Nolan Epic\n- Alpha Epic\n- YSS Collector\n- Selena Aspirants\n- Obsidia Aspirants\n- Zilong Create\n- Layla 10th Collector\n- Hayabusa 11.11 Optimized\n- Hayabusa New Starlight\n- Kalea Starlight\n- Hanzo Starlight\n- Aulus Starlight",
       "link": "https://youtu.be/xbIvKsNt9oI",
-      "live": "yes",
+      "live": "no",
       "live_link": "",
-      "notice": "no",
-      "notice_title": "",
-      "notice_message": "",
-      "show_task": "no"
+      "notice": "yes",
+      "notice_title": "wews",
+      "notice_message": "hiii",
+      "show_task": "yes",
+      "task_link": "https://github.com/injctr/updates/blob/main/kio.json"
     },
     "Hero": {
       "Aamon": {
