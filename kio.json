@@ -4,7 +4,7 @@
       "unity_ads": "Interstitial_Android",
       "allow": "no",
       "version": "2.6",
-      "message": "WHAT'S NEW\n\n- Selena Aspirants\n- Obsidia Aspirants\n- Zilong Create\n- Layla 10th Collector\n- Hayabusa 11.11 Optimized\n- Hayabusa New Starlight\n- Kalea Starlight\n- Hanzo Starlight\n- Aulus Starlight",
+      "message": "WHAT'S NEW\n\n- Nolan Epic\n- Alpha Epic\n- YSS Collector\n- Selena Aspirants\n- Obsidia Aspirants\n- Zilong Create\n- Layla 10th Collector\n- Hayabusa 11.11 Optimized\n- Hayabusa New Starlight\n- Kalea Starlight\n- Hanzo Starlight\n- Aulus Starlight",
       "link": "https://youtu.be/xbIvKsNt9oI",
       "live": "yes",
       "live_link": "",
@@ -616,14 +616,16 @@
               "02 ABYSS": "https://github.com/injctr/large/raw/main/Alpha/Abyss/Alpha%20Abyss%20-%20Default.zip",
               "03 STARLIGHT 2023": "https://github.com/injctr/large/raw/main/Alpha/Starlight/Alpha%20Starlight%20-%20Default.zip",
               "04 COLLECTOR": "https://github.com/injctr/large/raw/main/Alpha/Collector/Alpha%20Collector%20-%20Default.zip",
-              "05 LEGEND": "https://github.com/injctr/large/raw/main/Alpha/Legend/Alpha%20Legend%20-%20Default.zip"
+              "05 LEGEND": "https://github.com/injctr/large/raw/main/Alpha/Legend/Alpha%20Legend%20-%20Default.zip",
+              "06 EPIC": "https://github.com/injctr/large/raw/main/Alpha/Epic/Alpha%20Epic%20-%20Default.zip"
             },
             "second_link": {
               "01 LUCKYBOX": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Luckybox/Alpha%20Luckybox%20-%20Default.zip",
               "02 ABYSS": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Abyss/Alpha%20Abyss%20-%20Default.zip",
               "03 STARLIGHT 2023": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Starlight/Alpha%20Starlight%20-%20Default.zip",
               "04 COLLECTOR": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Collector/Alpha%20Collector%20-%20Default.zip",
-              "05 LEGEND": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Legend/Alpha%20Legend%20-%20Default.zip"
+              "05 LEGEND": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Legend/Alpha%20Legend%20-%20Default.zip",
+              "06 EPIC": "unavailable"
             }
           },
           "02 LUCKYBOX": {
@@ -634,14 +636,16 @@
               "02 ABYSS": "https://github.com/injctr/large/raw/main/Alpha/Abyss/Alpha%20Abyss%20-%20Luckybox.zip",
               "03 STARLIGHT 2023": "unavailable",
               "04 COLLECTOR": "https://github.com/injctr/large/raw/main/Alpha/Collector/Alpha%20Collector%20-%20Luckybox.zip",
-              "05 LEGEND": "https://github.com/injctr/large/raw/main/Alpha/Legend/Alpha%20Legend%20-%20Luckybox.zip"
+              "05 LEGEND": "https://github.com/injctr/large/raw/main/Alpha/Legend/Alpha%20Legend%20-%20Luckybox.zip",
+              "06 EPIC": "https://github.com/injctr/large/raw/main/Alpha/Epic/Alpha%20Epic%20-%20Luckybox.zip"
             },
             "second_link": {
               "01 LUCKYBOX": "unavailable",
               "02 ABYSS": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Abyss/Alpha%20Abyss%20-%20Luckybox.zip",
               "03 STARLIGHT 2023": "unavailable",
               "04 COLLECTOR": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Collector/Alpha%20Collector%20-%20Luckybox.zip",
-              "05 LEGEND": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Legend/Alpha%20Legend%20-%20Luckybox.zip"
+              "05 LEGEND": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Legend/Alpha%20Legend%20-%20Luckybox.zip",
+              "06 EPIC": "unavailable"
             }
           },
           "03 BASIC": {
@@ -652,14 +656,16 @@
               "02 ABYSS": "https://github.com/injctr/large/raw/main/Alpha/Abyss/Alpha%20Abyss%20-%20Basic.zip",
               "03 STARLIGHT 2023": "https://github.com/injctr/large/raw/main/Alpha/Starlight/Alpha%20Starlight%20-%20Basic.zip",
               "04 COLLECTOR": "https://github.com/injctr/large/raw/main/Alpha/Collector/Alpha%20Collector%20-%20Basic.zip",
-              "05 LEGEND": "https://github.com/injctr/large/raw/main/Alpha/Legend/Alpha%20Legend%20-%20Basic.zip"
+              "05 LEGEND": "https://github.com/injctr/large/raw/main/Alpha/Legend/Alpha%20Legend%20-%20Basic.zip",
+              "06 EPIC": "https://github.com/injctr/large/raw/main/Alpha/Epic/Alpha%20Epic%20-%20Basic.zip"
             },
             "second_link": {
               "01 LUCKYBOX": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Luckybox/Alpha%20Luckybox%20-%20Basic.zip",
               "02 ABYSS": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Abyss/Alpha%20Abyss%20-%20Basic.zip",
               "03 STARLIGHT 2023": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Starlight/Alpha%20Starlight%20-%20Default.zip",
               "04 COLLECTOR": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Collector/Alpha%20Collector%20-%20Basic.zip",
-              "05 LEGEND": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Legend/Alpha%20Legend%20-%20Basic.zip"
+              "05 LEGEND": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Legend/Alpha%20Legend%20-%20Basic.zip",
+              "06 EPIC": "unavailable"
             }
           },
           "04 SEASON 6": {
@@ -670,14 +676,16 @@
               "02 ABYSS": "https://github.com/injctr/large/raw/main/Alpha/Abyss/Alpha%20Abyss%20-%20Season.zip",
               "03 STARLIGHT 2023": "unavailable",
               "04 COLLECTOR": "https://github.com/injctr/large/raw/main/Alpha/Collector/Alpha%20Collector%20-%20Season.zip",
-              "05 LEGEND": "https://github.com/injctr/large/raw/main/Alpha/Legend/Alpha%20Legend%20-%20Season.zip"
+              "05 LEGEND": "https://github.com/injctr/large/raw/main/Alpha/Legend/Alpha%20Legend%20-%20Season.zip",
+              "06 EPIC": "https://github.com/injctr/large/raw/main/Alpha/Epic/Alpha%20Epic%20-%20Season.zip"
             },
             "second_link": {
               "01 LUCKYBOX": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Luckybox/Alpha%20Luckybox%20-%20Season.zip",
               "02 ABYSS": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Abyss/Alpha%20Abyss%20-%20Season.zip",
               "03 STARLIGHT 2023": "unavailable",
               "04 COLLECTOR": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Collector/Alpha%20Collector%20-%20Season.zip",
-              "05 LEGEND": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Legend/Alpha%20Legend%20-%20Season.zip"
+              "05 LEGEND": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Legend/Alpha%20Legend%20-%20Season.zip",
+              "06 EPIC": "unavailable"
             }
           },
           "05 SPECIAL": {
@@ -688,14 +696,16 @@
               "02 ABYSS": "https://github.com/injctr/large/raw/main/Alpha/Abyss/Alpha%20Abyss%20-%20Special.zip",
               "03 STARLIGHT 2023": "unavailable",
               "04 COLLECTOR": "https://github.com/injctr/large/raw/main/Alpha/Collector/Alpha%20Collector%20-%20Special.zip",
-              "05 LEGEND": "https://github.com/injctr/large/raw/main/Alpha/Legend/Alpha%20Legend%20-%20Special.zip"
+              "05 LEGEND": "https://github.com/injctr/large/raw/main/Alpha/Legend/Alpha%20Legend%20-%20Special.zip",
+              "06 EPIC": "https://github.com/injctr/large/raw/main/Alpha/Epic/Alpha%20Epic%20-%20Special.zip"
             },
             "second_link": {
               "01 LUCKYBOX": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Luckybox/Alpha%20Luckybox%20-%20Special.zip",
               "02 ABYSS": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Abyss/Alpha%20Abyss%20-%20Special.zip",
               "03 STARLIGHT 2023": "unavailable",
               "04 COLLECTOR": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Collector/Alpha%20Collector%20-%20Special.zip",
-              "05 LEGEND": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Legend/Alpha%20Legend%20-%20Special.zip"
+              "05 LEGEND": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Legend/Alpha%20Legend%20-%20Special.zip",
+              "06 EPIC": "unavailable"
             }
           },
           "06 ABYSS": {
@@ -706,14 +716,16 @@
               "02 ABYSS": "unavailable",
               "03 STARLIGHT 2023": "unavailable",
               "04 COLLECTOR": "https://github.com/injctr/large/raw/main/Alpha/Collector/Alpha%20Collector%20-%20Abyss.zip",
-              "05 LEGEND": "https://github.com/injctr/large/raw/main/Alpha/Legend/Alpha%20Legend%20-%20Abyss.zip"
+              "05 LEGEND": "https://github.com/injctr/large/raw/main/Alpha/Legend/Alpha%20Legend%20-%20Abyss.zip",
+              "06 EPIC": "https://github.com/injctr/large/raw/main/Alpha/Epic/Alpha%20Epic%20-%20Abyss.zip"
             },
             "second_link": {
               "01 LUCKYBOX": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Luckybox/Alpha%20Luckybox%20-%20Abyss.zip",
               "02 ABYSS": "unavailable",
               "03 STARLIGHT 2023": "unavailable",
               "04 COLLECTOR": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Collector/Alpha%20Collector%20-%20Abyss.zip",
-              "05 LEGEND": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Legend/Alpha%20Legend%20-%20Abyss.zip"
+              "05 LEGEND": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Legend/Alpha%20Legend%20-%20Abyss.zip",
+              "06 EPIC": "unavailable"
             }
           },
           "07 STARLIGHT 2023": {
@@ -724,14 +736,16 @@
               "02 ABYSS": "https://github.com/injctr/large/raw/main/Alpha/Abyss/Alpha%20Abyss%20-%20Starlight.zip",
               "03 STARLIGHT 2023": "unavailable",
               "04 COLLECTOR": "https://github.com/injctr/large/raw/main/Alpha/Collector/Alpha%20Collector%20-%20Starlight.zip",
-              "05 LEGEND": "https://github.com/injctr/large/raw/main/Alpha/Legend/Alpha%20Legend%20-%20Starlight.zip"
+              "05 LEGEND": "https://github.com/injctr/large/raw/main/Alpha/Legend/Alpha%20Legend%20-%20Starlight.zip",
+              "06 EPIC": "https://github.com/injctr/large/raw/main/Alpha/Epic/Alpha%20Epic%20-%20Starlight.zip"
             },
             "second_link": {
               "01 LUCKYBOX": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Luckybox/Alpha%20Luckybox%20-%20Starlight.zip",
               "02 ABYSS": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Abyss/Alpha%20Abyss%20-%20Starlight.zip",
               "03 STARLIGHT 2023": "unavailable",
               "04 COLLECTOR": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Collector/Alpha%20Collector%20-%20Starlight.zip",
-              "05 LEGEND": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Legend/Alpha%20Legend%20-%20Starlight.zip"
+              "05 LEGEND": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Legend/Alpha%20Legend%20-%20Starlight.zip",
+              "06 EPIC": "unavailable"
             }
           },
           "08 COLLECTOR": {
@@ -742,14 +756,16 @@
               "02 ABYSS": "https://github.com/injctr/large/raw/main/Alpha/Abyss/Alpha%20Abyss%20-%20Collector.zip",
               "03 STARLIGHT 2023": "unavailable",
               "04 COLLECTOR": "unavailable",
-              "05 LEGEND": "https://github.com/injctr/large/raw/main/Alpha/Legend/Alpha%20Legend%20-%20Collector.zip"
+              "05 LEGEND": "https://github.com/injctr/large/raw/main/Alpha/Legend/Alpha%20Legend%20-%20Collector.zip",
+              "06 EPIC": "https://github.com/injctr/large/raw/main/Alpha/Epic/Alpha%20Epic%20-%20Collector.zip"
             },
             "second_link": {
               "01 LUCKYBOX": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Luckybox/Alpha%20Luckybox%20-%20Collector.ziphttps://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Luckybox/Alpha%20Luckybox%20-%20Collector.zip",
               "02 ABYSS": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Abyss/Alpha%20Abyss%20-%20Collector.zip",
               "03 STARLIGHT 2023": "unavailable",
               "04 COLLECTOR": "unavailable",
-              "05 LEGEND": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Legend/Alpha%20Legend%20-%20Collector.zip"
+              "05 LEGEND": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Legend/Alpha%20Legend%20-%20Collector.zip",
+              "06 EPIC": "unavailable"
             }
           },
           "09 LEGEND": {
@@ -760,14 +776,36 @@
               "02 ABYSS": "unavailable",
               "03 STARLIGHT 2023": "unavailable",
               "04 COLLECTOR": "unavailable",
-              "05 LEGEND": "unavailable"
+              "05 LEGEND": "unavailable",
+              "06 EPIC": "https://github.com/injctr/large/raw/main/Alpha/Epic/Alpha%20Epic%20-%20Legend.zip"
             },
             "second_link": {
               "01 LUCKYBOX": "unavailable",
               "02 ABYSS": "unavailable",
               "03 STARLIGHT 2023": "unavailable",
               "04 COLLECTOR": "unavailable",
-              "05 LEGEND": "unavailable"
+              "05 LEGEND": "unavailable",
+              "06 EPIC": "unavailable"
+            }
+          },
+          "10 EPIC": {
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero102810-icon.png/revision/latest?cb=20260423000720",
+            "type1": "Epic",
+            "type_links": {
+              "01 LUCKYBOX": "unavailable",
+              "02 ABYSS": "unavailable",
+              "03 STARLIGHT 2023": "unavailable",
+              "04 COLLECTOR": "unavailable",
+              "05 LEGEND": "unavailable",
+              "06 EPIC": "unavailable"
+            },
+            "second_link": {
+              "01 LUCKYBOX": "unavailable",
+              "02 ABYSS": "unavailable",
+              "03 STARLIGHT 2023": "unavailable",
+              "04 COLLECTOR": "unavailable",
+              "05 LEGEND": "unavailable",
+              "06 EPIC": "unavailable"
             }
           }
         },
@@ -791,6 +829,10 @@
           "05 LEGEND": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero289-icon.png/revision/latest?cb=20250301113842",
             "type2": "Legend"
+          },
+          "06 EPIC": {
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero102810-icon.png/revision/latest?cb=20260423000720",
+            "type2": "Epic"
           }
         }
       },
@@ -13723,11 +13765,13 @@
             "type1": "Default",
             "type_links": {
               "01 STRAIGHT 2024": "unavailable",
-              "02 11.11": "https://www.dropbox.com/scl/fi/ld1i2hfwhtw3woxbdkmka/Nolan-11.11-Default.zip?rlkey=tuuhpmi8vp11csq7hl30brjea&st=hog6ez0o&dl=1"
+              "02 11.11": "https://www.dropbox.com/scl/fi/ld1i2hfwhtw3woxbdkmka/Nolan-11.11-Default.zip?rlkey=tuuhpmi8vp11csq7hl30brjea&st=hog6ez0o&dl=1",
+              "03 EPIC": "https://github.com/injctr/large/raw/main/Nolan/Epic/Nolan%20Epic%20-%20Default.zip"
             },
             "second_link": {
               "01 STRAIGHT 2024": "unavailable",
-              "02 11.11": "unavailable"
+              "02 11.11": "unavailable",
+              "03 EPIC": "unavailable"
             }
           },
           "02 BASIC": {
@@ -13735,11 +13779,13 @@
             "type1": "Basic",
             "type_links": {
               "01 STRAIGHT 2024": "unavailable",
-              "02 11.11": "https://www.dropbox.com/scl/fi/z2jep1r1wadzajdv4womo/Nolan-11.11-Basic.zip?rlkey=ddu7gomcq368l6n55xapr3qch&st=bf2obyw1&dl=1"
+              "02 11.11": "https://www.dropbox.com/scl/fi/z2jep1r1wadzajdv4womo/Nolan-11.11-Basic.zip?rlkey=ddu7gomcq368l6n55xapr3qch&st=bf2obyw1&dl=1",
+              "03 EPIC": "https://github.com/injctr/large/raw/main/Nolan/Epic/Nolan%20Epic%20-%20Basic.zip"
             },
             "second_link": {
               "01 STRAIGHT 2024": "unavailable",
-              "02 11.11": "unavailable"
+              "02 11.11": "unavailable",
+              "03 EPIC": "unavailable"
             }
           },
           "03 STRAIGHT 2024": {
@@ -13747,11 +13793,13 @@
             "type1": "Straight 2024",
             "type_links": {
               "01 STRAIGHT 2024": "unavailable",
-              "02 11.11": "https://www.dropbox.com/scl/fi/voleppasmw7n3p6n9nikf/Nolan-11.11-Starlight.zip?rlkey=uc6w726uhhgwvbz8alpr5lhnw&st=qcrmmiyd&dl=1"
+              "02 11.11": "https://www.dropbox.com/scl/fi/voleppasmw7n3p6n9nikf/Nolan-11.11-Starlight.zip?rlkey=uc6w726uhhgwvbz8alpr5lhnw&st=qcrmmiyd&dl=1",
+              "03 EPIC": "https://github.com/injctr/large/raw/main/Nolan/Epic/Nolan%20Epic%20-%20Starlight.zip"
             },
             "second_link": {
               "01 STRAIGHT 2024": "unavailable",
-              "02 11.11": "unavailable"
+              "02 11.11": "unavailable",
+              "03 EPIC": "unavailable"
             }
           },
           "04 11.11": {
@@ -13759,11 +13807,27 @@
             "type1": "11.11",
             "type_links": {
               "01 STRAIGHT 2024": "unavailable",
-              "02 11.11": "unavailable"
+              "02 11.11": "unavailable",
+              "03 EPIC": "unavailable"
             },
             "second_link": {
               "01 STRAIGHT 2024": "unavailable",
-              "02 11.11": "unavailable"
+              "02 11.11": "unavailable",
+              "03 EPIC": "unavailable"
+            }
+          },
+          "05 EPIC": {
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero1225.png/revision/latest?cb=20260421223018",
+            "type1": "Epic",
+            "type_links": {
+              "01 STRAIGHT 2024": "unavailable",
+              "02 11.11": "unavailable",
+              "03 EPIC": "unavailable"
+            },
+            "second_link": {
+              "01 STRAIGHT 2024": "unavailable",
+              "02 11.11": "unavailable",
+              "03 EPIC": "unavailable"
             }
           }
         },
@@ -13775,6 +13839,10 @@
           "02 11.11": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Hero1224-icon.png/revision/latest?cb=20241013071710",
             "type2": "11.11"
+          },
+          "03 EPIC": {
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero1225.png/revision/latest?cb=20260421223018",
+            "type2": "Epic"
           }
         }
       },
@@ -20105,6 +20173,16 @@
       }
     },
     "Latest": {
+      "Nolan_03 EPIC": {
+        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero1225.png/revision/latest?cb=20260421223018",
+        "type2": "Epic",
+        "key": "Nolan"
+      },
+      "Alpha_06 EPIC": {
+        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero102810-icon.png/revision/latest?cb=20260423000720",
+        "type2": "Epic",
+        "key": "Alpha"
+      },
       "Yi Sun-shin_01 COLLECTOR": {
         "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero305-icon.png/revision/latest?cb=20220126042009",
         "type2": "Collector",
