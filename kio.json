@@ -12,11 +12,11 @@
       "notice_title": "wews",
       "notice_message": "hiii",
       "notice_cancellable": "no",
-      "show_task": "no",
+      "show_task": "yes",
       "task_title": "hey",
       "task_message": "bitch",
       "task_link": "https://github.com/injctr/updates/blob/main/kio.json",
-      "task_cancellable": "no"
+      "task_cancellable": "yes"
     },
     "Hero": {
       "Aamon": {
