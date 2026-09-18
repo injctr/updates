@@ -14780,7 +14780,7 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero944-icon.png/revision/latest?cb=20220526152952",
             "type1": "Starlight 2021",
             "type_links": {
-              "01 TRANSFORMERS": "unavailable",
+              "01 TRANSFORMERS": "https://www.dropbox.com/scl/fi/r921vscq76z3goe5leggl/Popol-Transformers-Starlight.zip?rlkey=5rsn41ts9zznx40wt7ntrsm6x&st=xk722q1x&dl=1",
               "02 COLLECTOR": "https://www.dropbox.com/scl/fi/0izdgy37m9sw7r4fm1zjd/Popol-Collector-Starlight.zip?rlkey=3dbnjvkyoiiudmsu3ts8n8twe&st=vjvjfua1&dl=1"
             },
             "second_link": {
@@ -14792,7 +14792,7 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero945-icon.png/revision/latest?cb=20220526153326",
             "type1": "Transformers",
             "type_links": {
-              "01 TRANSFORMERS": "https://www.dropbox.com/scl/fi/r921vscq76z3goe5leggl/Popol-Transformers-Starlight.zip?rlkey=5rsn41ts9zznx40wt7ntrsm6x&st=xk722q1x&dl=1",
+              "01 TRANSFORMERS": "unavailable",
               "02 COLLECTOR": "https://www.dropbox.com/scl/fi/ggl3b96yxue25fd91vfyu/Popol-Collector-Transformers.zip?rlkey=u8fmv3o8eyli32atbeiryawgn&st=5z2wocyj&dl=1"
             },
             "second_link": {
@@ -14804,8 +14804,8 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero946-icon.png/revision/latest?cb=20240403043209",
             "type1": "Collector",
             "type_links": {
-              "01 TRANSFORMERS": "unavailable",
-              "02 COLLECTOR": "https://www.dropbox.com/scl/fi/96r0bkixd0x60683nfrtx/Popol-Transformers-Collector.zip?rlkey=cn9zjeaktobi6uw0rx6lr12x9&st=edqen0i2&dl=1"
+              "01 TRANSFORMERS": "https://www.dropbox.com/scl/fi/96r0bkixd0x60683nfrtx/Popol-Transformers-Collector.zip?rlkey=cn9zjeaktobi6uw0rx6lr12x9&st=edqen0i2&dl=1",
+              "02 COLLECTOR": "unavailable"
             },
             "second_link": {
               "01 TRANSFORMERS": "unavailable",
