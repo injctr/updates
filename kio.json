@@ -13,7 +13,7 @@
       "notice_title": "wews",
       "notice_message": "hiii",
       "notice_cancellable": "no",
-      "show_task": "yes",
+      "show_task": "no",
       "task_title": "Dialy Task",
       "task_message": "Watch the video for at least 30 seconds to continue.",
       "task_link": "https://youtu.be/jDhV5bn-mQs",
