@@ -12,7 +12,7 @@
       "notice": "yes",
       "notice_title": "Notice to All Users",
       "notice_message": "The Earning Points Event will return on Tuesday, September 29.\n\nThank you for your continued support!💎",
-      "notice_cancellable": "no",
+      "notice_cancellable": "yes",
       "show_task": "no",
       "task_title": "Dialy Task",
       "task_message": "Watch the video for at least 30 seconds to continue.",
