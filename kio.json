@@ -5,7 +5,7 @@
       "allow": "no",
       "allow_earning_points": "no",
       "version": "2.8",
-      "message": "[New in v2.8]\n- Added earning points\n- Get free MLBB Diamonds\n- Fixed some bugs\n\n[RECENT SKIN UPDATE]\n- Nolan Epic\n- Alpha Epic\n- YSS Collector\n- Selena Aspirants\n- Obsidia Aspirants\n- Zilong Create\n- Layla 10th Collector\n- Hayabusa 11.11 Optimized\n- Hayabusa New Starlight\n- Kalea Starlight\n- Hanzo Starlight\n- Aulus Starlight",
+      "message": "[RECENT SKIN UPDATE]\n- Masha Skin\n- Paquito Skin\n- Clint Skin\n- Bruno Skin\n- Brody Skin\n- Badang Skin\n- Nolan Epic\n- Alpha Epic\n- YSS Collector\n- Selena Aspirants\n- Obsidia Aspirants\n- Zilong Create\n- Layla 10th Collector\n- Hayabusa 11.11 Optimized\n- Hayabusa New Starlight\n- Kalea Starlight\n- Hanzo Starlight\n- Aulus Starlight",
       "link": "https://youtu.be/xbIvKsNt9oI",
       "live": "no",
       "live_link": "",
@@ -1882,147 +1882,87 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero771-icon.png/revision/latest?cb=20241021152939",
             "type1": "Default",
             "type_links": {
-              "01 ZODIAC": "unavailable",
-              "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Badang/Collector/Badang%20Collector%20-%20Default.zip",
-              "03 SAINT SEIYA BRONZE": "https://github.com/injctr/large/raw/main/Badang/Saint%20Seiya%20Bronze/Badang%20Saint%20Bronze%20-%20Default.zip",
-              "04 SAINT SEIYA GOLD": "https://github.com/injctr/large/raw/main/Badang/Saint%20Seiya%20Gold/Badang%20Saint%20Gold%20-%20Default.zip"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Badang/Collector/Badang%20Collector%20-%20Default.zip"
             },
             "second_link": {
-              "01 ZODIAC": "unavailable",
-              "02 COLLECTOR": "unavailable",
-              "03 SAINT SEIYA BRONZE": "unavailable",
-              "04 SAINT SEIYA GOLD": "unavailable"
+              "01 COLLECTOR": "unavailable"
             }
           },
           "02 BASIC": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero772-icon.png/revision/latest?cb=20220126142138",
             "type1": "Basic",
             "type_links": {
-              "01 ZODIAC": "https://github.com/injctr/large/raw/main/Badang/Zodiac/Badang%20Zodiac%20-%20Basic.zip",
-              "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Badang/Collector/Badang%20Collector%20-%20Basic.zip",
-              "03 SAINT SEIYA BRONZE": "https://github.com/injctr/large/raw/main/Badang/Saint%20Seiya%20Bronze/Badang%20Saint%20Bronze%20-%20Basic.zip",
-              "04 SAINT SEIYA GOLD": "https://github.com/injctr/large/raw/main/Badang/Saint%20Seiya%20Gold/Badang%20Saint%20Gold%20-%20Basic.zip"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Badang/Collector/Badang%20Collector%20-%20Basic.zip"
             },
             "second_link": {
-              "01 ZODIAC": "unavailable",
-              "02 COLLECTOR": "unavailable",
-              "03 SAINT SEIYA BRONZE": "unavailable",
-              "04 SAINT SEIYA GOLD": "unavailable"
+              "01 COLLECTOR": "unavailable"
             }
           },
           "03 SPECIAL": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero773-icon.png/revision/latest?cb=20220126142141",
             "type1": "Special",
             "type_links": {
-              "01 ZODIAC": "MISSING",
-              "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Badang/Collector/Badang%20Collector%20-%20Special.zip",
-              "03 SAINT SEIYA BRONZE": "https://github.com/injctr/large/raw/main/Badang/Saint%20Seiya%20Bronze/Badang%20Saint%20Bronze%20-%20Special.zip",
-              "04 SAINT SEIYA GOLD": "https://github.com/injctr/large/raw/main/Badang/Saint%20Seiya%20Gold/Badang%20Saint%20Gold%20-%20Special.zip"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Badang/Collector/Badang%20Collector%20-%20Special%20Susanoo.zip"
             },
             "second_link": {
-              "01 ZODIAC": "unavailable",
-              "02 COLLECTOR": "unavailable",
-              "03 SAINT SEIYA BRONZE": "unavailable",
-              "04 SAINT SEIYA GOLD": "unavailable"
+              "01 COLLECTOR": "unavailable"
             }
           },
           "04 ZODIAC": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero774-icon.png/revision/latest?cb=20220118094847",
             "type1": "Zodiac",
             "type_links": {
-              "01 ZODIAC": "unavailable",
-              "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Badang/Collector/Badang%20Collector%20-%20Zodiac.zip",
-              "03 SAINT SEIYA BRONZE": "https://github.com/injctr/large/raw/main/Badang/Saint%20Seiya%20Bronze/Badang%20Saint%20Bronze%20-%20Zodiac.zip",
-              "04 SAINT SEIYA GOLD": "https://github.com/injctr/large/raw/main/Badang/Saint%20Seiya%20Gold/Badang%20Saint%20Gold%20-%20Zodiac.zip"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Badang/Collector/Badang%20Collector%20-%20Zodiac.zip"
             },
             "second_link": {
-              "01 ZODIAC": "unavailable",
-              "02 COLLECTOR": "unavailable",
-              "03 SAINT SEIYA BRONZE": "unavailable",
-              "04 SAINT SEIYA GOLD": "unavailable"
+              "01 COLLECTOR": "unavailable"
             }
           },
           "05 COLLECTOR": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/9/9b/Hero776-icon.png/revision/latest?cb=20260424022121",
             "type1": "Collector",
             "type_links": {
-              "01 ZODIAC": "https://github.com/injctr/large/raw/main/Badang/Zodiac/Badang%20Zodiac%20-%20Collector.zip",
-              "02 COLLECTOR": "unavailable",
-              "03 SAINT SEIYA BRONZE": "https://github.com/injctr/large/raw/main/Badang/Saint%20Seiya%20Bronze/Badang%20Saint%20Bronze%20-%20Collector.zip",
-              "04 SAINT SEIYA GOLD": "https://github.com/injctr/large/raw/main/Badang/Saint%20Seiya%20Gold/Badang%20Saint%20Gold%20-%20Collector.zip"
+              "01 COLLECTOR": "unavailable"
             },
             "second_link": {
-              "01 ZODIAC": "unavailable",
-              "02 COLLECTOR": "unavailable",
-              "03 SAINT SEIYA BRONZE": "unavailable",
-              "04 SAINT SEIYA GOLD": "unavailable"
+              "01 COLLECTOR": "unavailable"
             }
           },
           "06 SAINT SEIYA BRONZE": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero777-icon.png/revision/latest?cb=20220915134956",
             "type1": "Saint Seiya Bronze",
             "type_links": {
-              "01 ZODIAC": "https://github.com/injctr/large/raw/main/Badang/Zodiac/Badang%20Zodiac%20-%20Pegasus%20Seiya.zip",
-              "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Badang/Collector/Badang%20Collector%20-%20Saint%20Broze.zip",
-              "03 SAINT SEIYA BRONZE": "unavailable",
-              "04 SAINT SEIYA GOLD": "https://github.com/injctr/large/raw/main/Badang/Saint%20Seiya%20Gold/Badang%20Saint%20Gold%20-%20Saint%20Bronze.zip"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Badang/Collector/Badang%20Collector%20-%20Pegasus%20Seiya.zip"
             },
             "second_link": {
-              "01 ZODIAC": "unavailable",
-              "02 COLLECTOR": "unavailable",
-              "03 SAINT SEIYA BRONZE": "unavailable",
-              "04 SAINT SEIYA GOLD": "unavailable"
+              "01 COLLECTOR": "unavailable"
             }
           },
           "07 SAINT SEIYA GOLD": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero778-icon.png/revision/latest?cb=20220915134959",
             "type1": "Saint Seiya Gold",
             "type_links": {
-              "01 ZODIAC": "https://github.com/injctr/large/raw/main/Badang/Zodiac/Badang%20Zodiac%20-%20Sagittarius%20Seiya.zip",
-              "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Badang/Collector/Badang%20Collector%20-%20Saint%20Gold.zip",
-              "03 SAINT SEIYA BRONZE": "https://github.com/injctr/large/raw/main/Badang/Saint%20Seiya%20Bronze/Badang%20Saint%20Bronze%20-%20Saint%20Gold.zip",
-              "04 SAINT SEIYA GOLD": "unavailable"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Badang/Collector/Badang%20Collector%20-%20Sagittarius%20Seiya.zip"
             },
             "second_link": {
-              "01 ZODIAC": "unavailable",
-              "02 COLLECTOR": "unavailable",
-              "03 SAINT SEIYA BRONZE": "unavailable",
-              "04 SAINT SEIYA GOLD": "unavailable"
+              "01 COLLECTOR": "unavailable"
             }
           },
           "08 SPECIAL": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Hero775-icon.png/revision/latest?cb=20250703151402",
             "type1": "Special",
             "type_links": {
-              "01 ZODIAC": "unavailable",
-              "02 COLLECTOR": "unavailable",
-              "03 SAINT SEIYA BRONZE": "unavailable",
-              "04 SAINT SEIYA GOLD": "unavailable"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Badang/Collector/Badang%20Collector%20-%20Special%20Steel%20Arms.zip"
             },
             "second_link": {
-              "01 ZODIAC": "unavailable",
-              "02 COLLECTOR": "unavailable",
-              "03 SAINT SEIYA BRONZE": "unavailable",
-              "04 SAINT SEIYA GOLD": "unavailable"
+              "01 COLLECTOR": "unavailable"
             }
           }
         },
         "Skins": {
-          "01 ZODIAC": {
-            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero774-icon.png/revision/latest?cb=20220118094847",
-            "type2": "Zodiac"
-          },
-          "02 COLLECTOR": {
+          "01 COLLECTOR": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9b/Hero776-icon.png/revision/latest?cb=20260424022121",
             "type2": "Collector"
-          },
-          "03 SAINT SEIYA BRONZE": {
-            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero777-icon.png/revision/latest?cb=20220915134956",
-            "type2": "Saint Seiya Bronze"
-          },
-          "04 SAINT SEIYA GOLD": {
-            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero778-icon.png/revision/latest?cb=20220915134959",
-            "type2": "Saint Seiya Gold"
           }
         }
       },
@@ -2521,13 +2461,15 @@
               "01 M4": "https://github.com/injctr/large/raw/main/Beatrix/M4/Beatrix%20M4%20-%20Default.zip",
               "02 PRIME": "https://github.com/injctr/large/raw/main/Beatrix/Prime/Beatrix%20Prime%20-%20Default.zip",
               "03 FMVP": "https://github.com/injctr/large/raw/main/Beatrix/FMVP/Beatrix%20FMVP%20-%20Default.zip",
-              "04 PAINTED M4": "https://github.com/injctr/large/raw/main/Beatrix/M4/Beatrix%20M4%20Painted%20-%20Default.zip"
+              "04 PAINTED M4": "https://github.com/injctr/large/raw/main/Beatrix/M4/Beatrix%20M4%20Painted%20-%20Default.zip",
+              "05 STARLIGHT": "https://github.com/injctr/large/raw/main/Beatrix/Starlight/Beatrix%20Starlight%20-%20Default.zip"
             },
             "second_link": {
               "01 M4": "unavailable",
               "02 PRIME": "unavailable",
               "03 FMVP": "unavailable",
-              "04 PAINTED M4": "unavailable"
+              "04 PAINTED M4": "unavailable",
+              "05 STARLIGHT": "unavailable"
             }
           },
           "02 BASIC": {
@@ -2537,13 +2479,15 @@
               "01 M4": "https://github.com/injctr/large/raw/main/Beatrix/M4/Beatrix%20M4%20-%20Basic.zip",
               "02 PRIME": "https://github.com/injctr/large/raw/main/Beatrix/Prime/Beatrix%20Prime%20-%20Basic.zip",
               "03 FMVP": "https://github.com/injctr/large/raw/main/Beatrix/FMVP/Beatrix%20FMVP%20-%20Basic.zip",
-              "04 PAINTED M4": "https://github.com/injctr/large/raw/main/Beatrix/M4/Beatrix%20M4%20Painted%20-%20Basic.zip"
+              "04 PAINTED M4": "https://github.com/injctr/large/raw/main/Beatrix/M4/Beatrix%20M4%20Painted%20-%20Basic.zip",
+              "05 STARLIGHT": "https://github.com/injctr/large/raw/main/Beatrix/Starlight/Beatrix%20Starlight%20-%20Basic.zip"
             },
             "second_link": {
               "01 M4": "unavailable",
               "02 PRIME": "unavailable",
               "03 FMVP": "unavailable",
-              "04 PAINTED M4": "unavailable"
+              "04 PAINTED M4": "unavailable",
+              "05 STARLIGHT": "unavailable"
             }
           },
           "03 ELITE": {
@@ -2553,13 +2497,15 @@
               "01 M4": "https://github.com/injctr/large/raw/main/Beatrix/M4/Beatrix%20M4%20-%20Elite.zip",
               "02 PRIME": "https://github.com/injctr/large/raw/main/Beatrix/Prime/Beatrix%20Prime%20-%20Elite.zip",
               "03 FMVP": "https://github.com/injctr/large/raw/main/Beatrix/FMVP/Beatrix%20FMVP%20-%20Elite.zip",
-              "04 PAINTED M4": "unavailable"
+              "04 PAINTED M4": "unavailable",
+              "05 STARLIGHT": "https://github.com/injctr/large/raw/main/Beatrix/Starlight/Beatrix%20Starlight%20-%20Elite.zip"
             },
             "second_link": {
               "01 M4": "unavailable",
               "02 PRIME": "unavailable",
               "03 FMVP": "unavailable",
-              "04 PAINTED M4": "unavailable"
+              "04 PAINTED M4": "unavailable",
+              "05 STARLIGHT": "unavailable"
             }
           },
           "04 STARLIGHT 2022": {
@@ -2569,13 +2515,15 @@
               "01 M4": "https://github.com/injctr/large/raw/main/Beatrix/M4/Beatrix%20M4%20-%20Starlight.zip",
               "02 PRIME": "https://github.com/injctr/large/raw/main/Beatrix/Prime/Beatrix%20Prime%20-%20Starlight.zip",
               "03 FMVP": "https://github.com/injctr/large/raw/main/Beatrix/FMVP/Beatrix%20FMVP%20-%20Starlight.zip",
-              "04 PAINTED M4": "unavailable"
+              "04 PAINTED M4": "unavailable",
+              "05 STARLIGHT": "unavailable"
             },
             "second_link": {
               "01 M4": "unavailable",
               "02 PRIME": "unavailable",
               "03 FMVP": "unavailable",
-              "04 PAINTED M4": "unavailable"
+              "04 PAINTED M4": "unavailable",
+              "05 STARLIGHT": "unavailable"
             }
           },
           "05 M4": {
@@ -2585,13 +2533,15 @@
               "01 M4": "unavailable",
               "02 PRIME": "https://github.com/injctr/large/raw/main/Beatrix/Prime/Beatrix%20Prime%20-%20M4.zip",
               "03 FMVP": "https://github.com/injctr/large/raw/main/Beatrix/FMVP/Beatrix%20FMVP%20-%20M4.zip",
-              "04 PAINTED M4": "unavailable"
+              "04 PAINTED M4": "unavailable",
+              "05 STARLIGHT": "unavailable"
             },
             "second_link": {
               "01 M4": "unavailable",
               "02 PRIME": "unavailable",
               "03 FMVP": "unavailable",
-              "04 PAINTED M4": "unavailable"
+              "04 PAINTED M4": "unavailable",
+              "05 STARLIGHT": "unavailable"
             }
           },
           "06 PRIME": {
@@ -2601,13 +2551,15 @@
               "01 M4": "unavailable",
               "02 PRIME": "unavailable",
               "03 FMVP": "https://github.com/injctr/large/raw/main/Beatrix/FMVP/Beatrix%20FMVP%20-%20Prime.zip",
-              "04 PAINTED M4": "unavailable"
+              "04 PAINTED M4": "unavailable",
+              "05 STARLIGHT": "unavailable"
             },
             "second_link": {
               "01 M4": "unavailable",
               "02 PRIME": "unavailable",
               "03 FMVP": "unavailable",
-              "04 PAINTED M4": "unavailable"
+              "04 PAINTED M4": "unavailable",
+              "05 STARLIGHT": "unavailable"
             }
           },
           "07 SPECIAL": {
@@ -2617,13 +2569,15 @@
               "01 M4": "https://github.com/injctr/large/raw/main/Beatrix/M4/Beatrix%20M4%20-%20Special.zip",
               "02 PRIME": "https://github.com/injctr/large/raw/main/Beatrix/Prime/Beatrix%20Prime%20-%20Special.zip",
               "03 FMVP": "https://github.com/injctr/large/raw/main/Beatrix/FMVP/Beatrix%20FMVP%20-%20Special.zip",
-              "04 PAINTED M4": "unavailable"
+              "04 PAINTED M4": "unavailable",
+              "05 STARLIGHT": "unavailable"
             },
             "second_link": {
               "01 M4": "unavailable",
               "02 PRIME": "unavailable",
               "03 FMVP": "unavailable",
-              "04 PAINTED M4": "unavailable"
+              "04 PAINTED M4": "unavailable",
+              "05 STARLIGHT": "unavailable"
             }
           }
         },
@@ -2643,6 +2597,10 @@
           "04 PAINTED M4": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero1055-color01-icon.png/revision/latest?cb=20241013073218",
             "type2": "Painted M4"
+          },
+          "05 STARLIGHT": {
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero1054-icon.png/revision/latest?cb=20220218031012",
+            "type2": "Starlight"
           }
         }
       },
@@ -2929,15 +2887,11 @@
             "type1": "Default",
             "type_links": {
               "01 S.T.U.N.": "https://github.com/injctr/large/raw/main/Brody/STUN/Brody%20STUN%20-%20Default.zip",
-              "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Brody/Collector/Brody%20Collector%20-%20Default.zip",
-              "03 CHAMPION": "unavailable",
-              "04 NEOBEAST": "https://github.com/injctr/large/raw/main/Brody/Neobeast/Brody%20Neobeast%20-%20Default.zip"
+              "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Brody/Collector/Brody%20Collector%20-%20Default.zip"
             },
             "second_link": {
               "01 S.T.U.N.": "unavailable",
-              "02 COLLECTOR": "unavailable",
-              "03 CHAMPION": "unavailable",
-              "04 NEOBEAST": "unavailable"
+              "02 COLLECTOR": "unavailable"
             }
           },
           "02 BASIC": {
@@ -2945,15 +2899,11 @@
             "type1": "Basic",
             "type_links": {
               "01 S.T.U.N.": "https://github.com/injctr/large/raw/main/Brody/STUN/Brody%20STUN%20-%20Basic.zip",
-              "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Brody/Collector/Brody%20Collector%20-%20Basic.zip",
-              "03 CHAMPION": "unavailable",
-              "04 NEOBEAST": "https://github.com/injctr/large/raw/main/Brody/Neobeast/Brody%20Neobeast%20-%20Basic.zip"
+              "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Brody/Collector/Brody%20Collector%20-%20Basic.zip"
             },
             "second_link": {
               "01 S.T.U.N.": "unavailable",
-              "02 COLLECTOR": "unavailable",
-              "03 CHAMPION": "unavailable",
-              "04 NEOBEAST": "unavailable"
+              "02 COLLECTOR": "unavailable"
             }
           },
           "03 S.T.U.N.": {
@@ -2961,15 +2911,11 @@
             "type1": "S.T.U.N.",
             "type_links": {
               "01 S.T.U.N.": "unavailable",
-              "02 COLLECTOR": "unavailable",
-              "03 CHAMPION": "https://github.com/injctr/large/raw/main/Brody/Champion/Brody%20Champion%20-%20STUN.zip",
-              "04 NEOBEAST": "https://github.com/injctr/large/raw/main/Brody/Neobeast/Brody%20Neobeast%20-%20STUN.zip"
+              "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Brody/Collector/Brody%20Collector%20-%20STUN.zip"
             },
             "second_link": {
               "01 S.T.U.N.": "unavailable",
-              "02 COLLECTOR": "unavailable",
-              "03 CHAMPION": "unavailable",
-              "04 NEOBEAST": "unavailable"
+              "02 COLLECTOR": "unavailable"
             }
           },
           "04 STARLIGHT 2021": {
@@ -2977,15 +2923,11 @@
             "type1": "Starlight 2021",
             "type_links": {
               "01 S.T.U.N.": "https://github.com/injctr/large/raw/main/Brody/STUN/Brody%20STUN%20-%20Starlight.zip",
-              "02 COLLECTOR": "unavailable",
-              "03 CHAMPION": "https://github.com/injctr/large/raw/main/Brody/Champion/Brody%20Champion%20-%20Starlight.zip",
-              "04 NEOBEAST": "https://github.com/injctr/large/raw/main/Brody/Neobeast/Brody%20Neobeast%20-%20Starlight.zip"
+              "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Brody/Collector/Brody%20Collector%20-%20Straight.zip"
             },
             "second_link": {
               "01 S.T.U.N.": "unavailable",
-              "02 COLLECTOR": "unavailable",
-              "03 CHAMPION": "unavailable",
-              "04 NEOBEAST": "unavailable"
+              "02 COLLECTOR": "unavailable"
             }
           },
           "05 COLLECTOR": {
@@ -2993,15 +2935,11 @@
             "type1": "Collector",
             "type_links": {
               "01 S.T.U.N.": "https://github.com/injctr/large/raw/main/Brody/STUN/Brody%20STUN%20-%20Collector.zip",
-              "02 COLLECTOR": "unavailable",
-              "03 CHAMPION": "https://github.com/injctr/large/raw/main/Brody/Champion/Brody%20Champion%20-%20Collector.zip",
-              "04 NEOBEAST": "https://github.com/injctr/large/raw/main/Brody/Neobeast/Brody%20Neobeast%20-%20Collector.zip"
+              "02 COLLECTOR": "unavailable"
             },
             "second_link": {
               "01 S.T.U.N.": "unavailable",
-              "02 COLLECTOR": "unavailable",
-              "03 CHAMPION": "unavailable",
-              "04 NEOBEAST": "unavailable"
+              "02 COLLECTOR": "unavailable"
             }
           },
           "06 MPL": {
@@ -3009,15 +2947,11 @@
             "type1": "MPL",
             "type_links": {
               "01 S.T.U.N.": "https://github.com/injctr/large/raw/main/Brody/STUN/Brody%20STUN%20-%20MPL.zip",
-              "02 COLLECTOR": "unavailable",
-              "03 CHAMPION": "https://github.com/injctr/large/raw/main/Brody/Champion/Brody%20Champion%20-%20MPL.zip",
-              "04 NEOBEAST": "https://github.com/injctr/large/raw/main/Brody/Neobeast/Brody%20Neobeast%20-%20MPL.zip"
+              "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Brody/Collector/Brody%20Collector%20-%20MPL.zip"
             },
             "second_link": {
               "01 S.T.U.N.": "unavailable",
-              "02 COLLECTOR": "unavailable",
-              "03 CHAMPION": "unavailable",
-              "04 NEOBEAST": "unavailable"
+              "02 COLLECTOR": "unavailable"
             }
           },
           "07 CHAMPION": {
@@ -3025,15 +2959,11 @@
             "type1": "Champion",
             "type_links": {
               "01 S.T.U.N.": "https://github.com/injctr/large/raw/main/Brody/STUN/Brody%20STUN%20-%20Champion.zip",
-              "02 COLLECTOR": "unavailable",
-              "03 CHAMPION": "unavailable",
-              "04 NEOBEAST": "https://github.com/injctr/large/raw/main/Brody/Neobeast/Brody%20Neobeast%20-%20Champion.zip"
+              "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Brody/Collector/Brody%20Collector%20-%20Champion.zip"
             },
             "second_link": {
               "01 S.T.U.N.": "unavailable",
-              "02 COLLECTOR": "unavailable",
-              "03 CHAMPION": "unavailable",
-              "04 NEOBEAST": "unavailable"
+              "02 COLLECTOR": "unavailable"
             }
           },
           "08 NEOBEAST": {
@@ -3041,15 +2971,11 @@
             "type1": "Neobeast",
             "type_links": {
               "01 S.T.U.N.": "https://github.com/injctr/large/raw/main/Brody/STUN/Brody%20STUN%20-%20Neobeast.zip",
-              "02 COLLECTOR": "unavailable",
-              "03 CHAMPION": "https://github.com/injctr/large/raw/main/Brody/Champion/Brody%20Champion%20-%20Neobeast.zip",
-              "04 NEOBEAST": "unavailable"
+              "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Brody/Collector/Brody%20Collector%20-%20Neobeast.zip"
             },
             "second_link": {
               "01 S.T.U.N.": "unavailable",
-              "02 COLLECTOR": "unavailable",
-              "03 CHAMPION": "unavailable",
-              "04 NEOBEAST": "unavailable"
+              "02 COLLECTOR": "unavailable"
             }
           }
         },
@@ -3061,14 +2987,6 @@
           "02 COLLECTOR": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero1005-icon.png/revision/latest?cb=20220401091143",
             "type2": "Collector"
-          },
-          "03 CHAMPION": {
-            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero1007-icon.png/revision/latest?cb=20241013071655",
-            "type2": "Champion"
-          },
-          "04 NEOBEAST": {
-            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero1008-icon.png/revision/latest?cb=20250301113848",
-            "type2": "Neobeast"
           }
         }
       },
@@ -3078,100 +2996,120 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero121-icon.png/revision/latest?cb=20241021145152",
             "type1": "Default",
             "type_links": {
-              "01 DAWNING HERO": "https://github.com/injctr/large/raw/main/Bruno/Dawning/Bruno%20Dawning%20-%20Default.zip"
+              "01 DAWNING HERO": "https://github.com/injctr/large/raw/main/Bruno/Dawning/Bruno%20Dawning%20-%20Default.zip",
+              "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Bruno/Collector/Bruno%20Collector%20-%20Default.zip"
             },
             "second_link": {
-              "01 DAWNING HERO": "unavailable"
+              "01 DAWNING HERO": "unavailable",
+              "02 COLLECTOR": "unavailable"
             }
           },
           "02 ELITE 1": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero122-icon.png/revision/latest?cb=20220125063127",
             "type1": "Elite 1",
             "type_links": {
-              "01 DAWNING HERO": "https://github.com/injctr/large/raw/main/Bruno/Dawning/Bruno%20Dawning%20-%20Elite%20Vanguard.zip"
+              "01 DAWNING HERO": "https://github.com/injctr/large/raw/main/Bruno/Dawning/Bruno%20Dawning%20-%20Elite%20Vanguard.zip",
+              "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Bruno/Collector/Bruno%20Collector%20-%20Elite%20Vanguard.zip"
             },
             "second_link": {
-              "01 DAWNING HERO": "unavailable"
+              "01 DAWNING HERO": "unavailable",
+              "02 COLLECTOR": "unavailable"
             }
           },
           "03 SPECIAL 1": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero123-icon.png/revision/latest?cb=20260423012343",
             "type1": "Special 1",
             "type_links": {
-              "01 DAWNING HERO": "https://github.com/injctr/large/raw/main/Bruno/Dawning/Bruno%20Dawning%20-%20Special%20Best%20DJ.zip"
+              "01 DAWNING HERO": "https://github.com/injctr/large/raw/main/Bruno/Dawning/Bruno%20Dawning%20-%20Special%20Best%20DJ.zip",
+              "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Bruno/Collector/Bruno%20Collector%20-%20Special%20Best%20DJ.zip"
             },
             "second_link": {
-              "01 DAWNING HERO": "unavailable"
+              "01 DAWNING HERO": "unavailable",
+              "02 COLLECTOR": "unavailable"
             }
           },
           "04 ELITE 2": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero124-icon.png/revision/latest?cb=20220125063125",
             "type1": "Elite 2",
             "type_links": {
-              "01 DAWNING HERO": "https://github.com/injctr/large/raw/main/Bruno/Dawning/Bruno%20Dawning%20-%20Elite%20Street%20Football.zip"
+              "01 DAWNING HERO": "https://github.com/injctr/large/raw/main/Bruno/Dawning/Bruno%20Dawning%20-%20Elite%20Street%20Football.zip",
+              "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Bruno/Collector/Bruno%20Collector%20-%20Elite%20Street%20Football.zip"
             },
             "second_link": {
-              "01 DAWNING HERO": "unavailable"
+              "01 DAWNING HERO": "unavailable",
+              "02 COLLECTOR": "unavailable"
             }
           },
           "05 SPECIAL 2": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero125-icon.png/revision/latest?cb=20220125063124",
             "type1": "Special 2",
             "type_links": {
-              "01 DAWNING HERO": "https://github.com/injctr/large/raw/main/Bruno/Dawning/Bruno%20Dawning%20-%20Special%20The%20Falcon.zip"
+              "01 DAWNING HERO": "https://github.com/injctr/large/raw/main/Bruno/Dawning/Bruno%20Dawning%20-%20Special%20The%20Falcon.zip",
+              "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Bruno/Collector/Bruno%20Collector%20-%20Special%20The%20Falcon.zip"
             },
             "second_link": {
-              "01 DAWNING HERO": "unavailable"
+              "01 DAWNING HERO": "unavailable",
+              "02 COLLECTOR": "unavailable"
             }
           },
           "06 DAWNING HERO": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero126-icon.png/revision/latest?cb=20220118094846",
             "type1": "Dawning Hero",
             "type_links": {
-              "01 DAWNING HERO": "unavailable"
+              "01 DAWNING HERO": "unavailable",
+              "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Bruno/Collector/Bruno%20Collector%20-%20Dawning%20Stars.zip"
             },
             "second_link": {
-              "01 DAWNING HERO": "unavailable"
+              "01 DAWNING HERO": "unavailable",
+              "02 COLLECTOR": "unavailable"
             }
           },
           "07 STARLIGHT 2024": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero127-icon.png/revision/latest?cb=20240306070321",
             "type1": "Starlight 2024",
             "type_links": {
-              "01 DAWNING HERO": "https://github.com/injctr/large/raw/main/Bruno/Dawning/Bruno%20Dawning%20-%20Starlight.zip"
+              "01 DAWNING HERO": "https://github.com/injctr/large/raw/main/Bruno/Dawning/Bruno%20Dawning%20-%20Starlight.zip",
+              "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Bruno/Collector/Bruno%20Collector%20-%20Starlight.zip"
             },
             "second_link": {
-              "01 DAWNING HERO": "unavailable"
+              "01 DAWNING HERO": "unavailable",
+              "02 COLLECTOR": "unavailable"
             }
           },
           "08 NEYMAR JR 1": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero128-icon.png/revision/latest?cb=20240306070451",
             "type1": "Neymar Jr 1",
             "type_links": {
-              "01 DAWNING HERO": "https://github.com/injctr/large/raw/main/Bruno/Dawning/Bruno%20Dawning%20-%20Halo%20Striker.zip"
+              "01 DAWNING HERO": "https://github.com/injctr/large/raw/main/Bruno/Dawning/Bruno%20Dawning%20-%20Halo%20Striker.zip",
+              "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Bruno/Collector/Bruno%20Collector%20-%20Halo%20Striker.zip"
             },
             "second_link": {
-              "01 DAWNING HERO": "unavailable"
+              "01 DAWNING HERO": "unavailable",
+              "02 COLLECTOR": "unavailable"
             }
           },
           "09 NEYMAR JR 2": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Hero129-icon.png/revision/latest?cb=20221103135257",
             "type1": "Neymar Jr 2",
             "type_links": {
-              "01 DAWNING HERO": "https://github.com/injctr/large/raw/main/Bruno/Dawning/Bruno%20Dawning%20-%20Neymar%20Jr.zip"
+              "01 DAWNING HERO": "https://github.com/injctr/large/raw/main/Bruno/Dawning/Bruno%20Dawning%20-%20Neymar%20Jr.zip",
+              "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Bruno/Collector/Bruno%20Collector%20-%20Neymar%20Jr.zip"
             },
             "second_link": {
-              "01 DAWNING HERO": "unavailable"
+              "01 DAWNING HERO": "unavailable",
+              "02 COLLECTOR": "unavailable"
             }
           },
           "10 COLLECTOR": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero101210-portrait.png/revision/latest/scale-to-width-down/150?cb=20250522142819",
+            "img1": "https://cdn.jsdelivr.net/gh/injctr/IMAGES@main/Bruno%20collector.png",
             "type1": "Collector",
             "type_links": {
-              "01 DAWNING HERO": "unavailable"
+              "01 DAWNING HERO": "unavailable",
+              "02 COLLECTOR": "unavailable"
             },
             "second_link": {
-              "01 DAWNING HERO": "unavailable"
+              "01 DAWNING HERO": "unavailable",
+              "02 COLLECTOR": "unavailable"
             }
           }
         },
@@ -3179,6 +3117,10 @@
           "01 DAWNING HERO": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero126-icon.png/revision/latest?cb=20220118094846",
             "type2": "Dawning Hero"
+          },
+          "02 COLLECTOR": {
+            "img2": "https://cdn.jsdelivr.net/gh/injctr/IMAGES@main/Bruno%20collector.png",
+            "type2": "Collector"
           }
         }
       },
@@ -4296,143 +4238,143 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero131-icon.png/revision/latest?cb=20241021145158",
             "type1": "Default",
             "type_links": {
-              "01 M2": "https://github.com/injctr/large/raw/main/Clint/M2/Clint%20M2%20-%20Default.zip",
-              "02 SOUL VESSELS": "https://github.com/injctr/large/raw/main/Clint/Soul%20Vessels/Clint%20Soul%20Vessels%20-%20Default.zip"
+              "01 SOUL VESSELS": "https://github.com/injctr/large/raw/main/Clint/Soul%20Vessels/Clint%20Soul%20Vessels%20-%20Default.zip",
+              "02 COLECTOR": "https://github.com/injctr/large/raw/main/Clint/Collector/Clint%20Collector%20-%20Default.zip"
             },
             "second_link": {
-              "01 M2": "unavailable",
-              "02 SOUL VESSELS": "unavailable"
+              "01 SOUL VESSELS": "unavailable",
+              "02 COLECTOR": "unavailable"
             }
           },
           "02 SUMMER": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero132-icon.png/revision/latest?cb=20251001051251",
             "type1": "Summer",
             "type_links": {
-              "01 M2": "https://github.com/injctr/large/raw/main/Clint/M2/Clint%20M2%20-%20Summer.zip",
-              "02 SOUL VESSELS": "https://github.com/injctr/large/raw/main/Clint/Soul%20Vessels/Clint%20Soul%20Vessels%20-%20Summer.zip"
+              "01 SOUL VESSELS": "https://github.com/injctr/large/raw/main/Clint/Soul%20Vessels/Clint%20Soul%20Vessels%20-%20Summer.zip",
+              "02 COLECTOR": "https://github.com/injctr/large/raw/main/Clint/Collector/Clint%20Collector%20-%20Summer.zip"
             },
             "second_link": {
-              "01 M2": "unavailable",
-              "02 SOUL VESSELS": "unavailable"
+              "01 SOUL VESSELS": "unavailable",
+              "02 COLECTOR": "unavailable"
             }
           },
           "03 VALENTINE": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero133-icon.png/revision/latest?cb=20220119131850",
             "type1": "Valentine",
             "type_links": {
-              "01 M2": "https://github.com/injctr/large/raw/main/Clint/M2/Clint%20M2%20-%20Valentine.zip",
-              "02 SOUL VESSELS": "https://github.com/injctr/large/raw/main/Clint/Soul%20Vessels/Clint%20Soul%20Vessels%20-%20Valentine.zip"
+              "01 SOUL VESSELS": "https://github.com/injctr/large/raw/main/Clint/Soul%20Vessels/Clint%20Soul%20Vessels%20-%20Valentine.zip",
+              "02 COLECTOR": "unavailable"
             },
             "second_link": {
-              "01 M2": "unavailable",
-              "02 SOUL VESSELS": "unavailable"
+              "01 SOUL VESSELS": "unavailable",
+              "02 COLECTOR": "unavailable"
             }
           },
           "04 STARLIGHT 2017": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero134-icon.png/revision/latest?cb=20220125063112",
             "type1": "Starlight 2017",
             "type_links": {
-              "01 M2": "https://github.com/injctr/large/raw/main/Clint/M2/Clint%20M2%20-%20Starlight%20Rock%20And%20Roll.zip",
-              "02 SOUL VESSELS": "https://github.com/injctr/large/raw/main/Clint/Soul%20Vessels/Clint%20Soul%20Vessels%20-%20Old%20Starlight.zip"
+              "01 SOUL VESSELS": "https://github.com/injctr/large/raw/main/Clint/Soul%20Vessels/Clint%20Soul%20Vessels%20-%20Starlight%20Rock%20and%20Roll.zip",
+              "02 COLECTOR": "https://github.com/injctr/large/raw/main/Clint/Collector/Clint%20Collector%20-%20Starlight%20Rock%20and%20Roll.zip"
             },
             "second_link": {
-              "01 M2": "unavailable",
-              "02 SOUL VESSELS": "unavailable"
+              "01 SOUL VESSELS": "unavailable",
+              "02 COLECTOR": "unavailable"
             }
           },
           "05 SPECIAL": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero135-icon.png/revision/latest?cb=20220125063109",
             "type1": "Special",
             "type_links": {
-              "01 M2": "https://github.com/injctr/large/raw/main/Clint/M2/Clint%20M2%20-%20Special.zip",
-              "02 SOUL VESSELS": "https://github.com/injctr/large/raw/main/Clint/Soul%20Vessels/Clint%20Soul%20Vessels%20-%20Special.zip"
+              "01 SOUL VESSELS": "https://github.com/injctr/large/raw/main/Clint/Soul%20Vessels/Clint%20Soul%20Vessels%20-%20Special.zip",
+              "02 COLECTOR": "https://github.com/injctr/large/raw/main/Clint/Collector/Clint%20Collector%20-%20Special.zip"
             },
             "second_link": {
-              "01 M2": "unavailable",
-              "02 SOUL VESSELS": "unavailable"
+              "01 SOUL VESSELS": "unavailable",
+              "02 COLECTOR": "unavailable"
             }
           },
           "06 SEASON 15": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Hero136-icon.png/revision/latest?cb=20220125063107",
             "type1": "Season 15",
             "type_links": {
-              "01 M2": "https://github.com/injctr/large/raw/main/Clint/M2/Clint%20M2%20-%20Season.zip",
-              "02 SOUL VESSELS": "https://github.com/injctr/large/raw/main/Clint/Soul%20Vessels/Clint%20Soul%20Vessels%20-%20Season.zip"
+              "01 SOUL VESSELS": "https://github.com/injctr/large/raw/main/Clint/Soul%20Vessels/Clint%20Soul%20Vessels%20-%20Season.zip",
+              "02 COLECTOR": "https://github.com/injctr/large/raw/main/Clint/Collector/Clint%20Collector%20-%20Season.zip"
             },
             "second_link": {
-              "01 M2": "unavailable",
-              "02 SOUL VESSELS": "unavailable"
+              "01 SOUL VESSELS": "unavailable",
+              "02 COLECTOR": "unavailable"
             }
           },
           "07 M2": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero137-icon.png/revision/latest?cb=20260424023857",
             "type1": "M2",
             "type_links": {
-              "01 M2": "unavailable",
-              "02 SOUL VESSELS": "https://github.com/injctr/large/raw/main/Clint/Soul%20Vessels/Clint%20Soul%20Vessels%20-%20M2.zip"
+              "01 SOUL VESSELS": "https://github.com/injctr/large/raw/main/Clint/Soul%20Vessels/Clint%20Soul%20Vessels%20-%20M2.zip",
+              "02 COLECTOR": "https://github.com/injctr/large/raw/main/Clint/Collector/Clint%20Collector%20-%20M2.zip"
             },
             "second_link": {
-              "01 M2": "unavailable",
-              "02 SOUL VESSELS": "unavailable"
+              "01 SOUL VESSELS": "unavailable",
+              "02 COLECTOR": "unavailable"
             }
           },
           "08 STARLIGHT 2022": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero138-icon.png/revision/latest?cb=20220125063104",
             "type1": "Starlight 2022",
             "type_links": {
-              "01 M2": "https://github.com/injctr/large/raw/main/Clint/M2/Clint%20M2%20-%20Starlight%20Operator%20CL.zip",
-              "02 SOUL VESSELS": "https://github.com/injctr/large/raw/main/Clint/Soul%20Vessels/Clint%20Soul%20Vessels%20-%20New%20Starlight.zip"
+              "01 SOUL VESSELS": "https://github.com/injctr/large/raw/main/Clint/Soul%20Vessels/Clint%20Soul%20Vessels%20-%20Starlight%20Operator%20CL.zip",
+              "02 COLECTOR": "https://github.com/injctr/large/raw/main/Clint/Collector/Clint%20Collector%20-%20Starlight%20Operator%20CL.zip"
             },
             "second_link": {
-              "01 M2": "unavailable",
-              "02 SOUL VESSELS": "unavailable"
+              "01 SOUL VESSELS": "unavailable",
+              "02 COLECTOR": "unavailable"
             }
           },
           "09 COLLECTOR": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero139-icon.png/revision/latest?cb=20230317100337",
             "type1": "Collector",
             "type_links": {
-              "01 M2": "unavailable",
-              "02 SOUL VESSELS": "https://github.com/injctr/large/raw/main/Clint/Soul%20Vessels/Clint%20Soul%20Vessels%20-%20Collector.zip"
+              "01 SOUL VESSELS": "https://github.com/injctr/large/raw/main/Clint/Soul%20Vessels/Clint%20Soul%20Vessels%20-%20Collector.zip",
+              "02 COLECTOR": "unavailable"
             },
             "second_link": {
-              "01 M2": "unavailable",
-              "02 SOUL VESSELS": "unavailable"
+              "01 SOUL VESSELS": "unavailable",
+              "02 COLECTOR": "unavailable"
             }
           },
           "10 EPIC": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero101310-icon.png/revision/latest?cb=20241013071713",
             "type1": "Epic",
             "type_links": {
-              "01 M2": "unavailable",
-              "02 SOUL VESSELS": "https://github.com/injctr/large/raw/main/Clint/Soul%20Vessels/Clint%20Soul%20Vessels%20-%20Epic.zip"
+              "01 SOUL VESSELS": "https://github.com/injctr/large/raw/main/Clint/Soul%20Vessels/Clint%20Soul%20Vessels%20-%20Epic.zip",
+              "02 COLECTOR": "https://github.com/injctr/large/raw/main/Clint/Collector/Clint%20Collector%20-%20Epic.zip"
             },
             "second_link": {
-              "01 M2": "unavailable",
-              "02 SOUL VESSELS": "unavailable"
+              "01 SOUL VESSELS": "unavailable",
+              "02 COLECTOR": "unavailable"
             }
           },
           "11 MYTHIC 2024": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero101312-icon.png/revision/latest?cb=20241201053545",
             "type1": "Mythic 2024",
             "type_links": {
-              "01 M2": "unavailable",
-              "02 SOUL VESSELS": "unavailable"
+              "01 SOUL VESSELS": "https://github.com/injctr/large/raw/main/Clint/Soul%20Vessels/Clint%20Soul%20Vessels%20-%20Mythic.zip",
+              "02 COLECTOR": "https://github.com/injctr/large/raw/main/Clint/Collector/Clint%20Collector%20-%20Mythic.zip"
             },
             "second_link": {
-              "01 M2": "unavailable",
-              "02 SOUL VESSELS": "unavailable"
+              "01 SOUL VESSELS": "unavailable",
+              "02 COLECTOR": "unavailable"
             }
           }
         },
         "Skins": {
-          "01 M2": {
-            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero137-icon.png/revision/latest?cb=20260424023857",
-            "type2": "M2"
-          },
-          "02 SOUL VESSELS": {
+          "01 SOUL VESSELS": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Hero101313-icon.png/revision/latest?cb=20260420230912",
             "type2": "Soul Vessels"
+          },
+          "02 COLECTOR": {
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero139-icon.png/revision/latest?cb=20230317100337",
+            "type2": "Colector"
           }
         }
       },
@@ -6583,7 +6525,8 @@
               "03 TRANSFORMERS": "https://github.com/injctr/large/raw/main/Granger/Transformers/Granger%20Transformers%20-%20Default.zip",
               "04 EXORCIST": "https://github.com/injctr/large/raw/main/Granger/Exorcist/Granger%20Exorcist%20-%20Default.zip",
               "05 PRIME": "https://github.com/injctr/large/raw/main/Granger/Prime/Granger%20Prime%20-%20Default.zip",
-              "06 M7": "https://github.com/injctr/large/raw/main/Granger/M7/Granger%20M7%20-%20Default.zip"
+              "06 M7": "https://github.com/injctr/large/raw/main/Granger/M7/Granger%20M7%20-%20Default.zip",
+              "07 STARLIGHT 2020": "https://github.com/injctr/large/raw/main/Granger/Starlight/Granger%20Starlight%20-%20Default.zip"
             },
             "second_link": {
               "01 COLLECTOR": "unavailable",
@@ -6591,7 +6534,8 @@
               "03 TRANSFORMERS": "unavailable",
               "04 EXORCIST": "unavailable",
               "05 PRIME": "unavailable",
-              "06 M7": "unavailable"
+              "06 M7": "unavailable",
+              "07 STARLIGHT 2020": "unavailable"
             }
           },
           "02 BASIC": {
@@ -6603,7 +6547,8 @@
               "03 TRANSFORMERS": "https://github.com/injctr/large/raw/main/Granger/Transformers/Granger%20Transformers%20-%20Basic.zip",
               "04 EXORCIST": "https://github.com/injctr/large/raw/main/Granger/Exorcist/Granger%20Exorcist%20-%20Basic.zip",
               "05 PRIME": "https://github.com/injctr/large/raw/main/Granger/Prime/Granger%20Prime%20-%20Basic.zip",
-              "06 M7": "https://github.com/injctr/large/raw/main/Granger/M7/Granger%20M7%20-%20Basic.zip"
+              "06 M7": "https://github.com/injctr/large/raw/main/Granger/M7/Granger%20M7%20-%20Basic.zip",
+              "07 STARLIGHT 2020": "https://github.com/injctr/large/raw/main/Granger/Starlight/Granger%20Starlight%20-%20Basic.zip"
             },
             "second_link": {
               "01 COLLECTOR": "unavailable",
@@ -6611,7 +6556,8 @@
               "03 TRANSFORMERS": "unavailable",
               "04 EXORCIST": "unavailable",
               "05 PRIME": "unavailable",
-              "06 M7": "unavailable"
+              "06 M7": "unavailable",
+              "07 STARLIGHT 2020": "unavailable"
             }
           },
           "03 ELITE": {
@@ -6623,7 +6569,8 @@
               "03 TRANSFORMERS": "https://github.com/injctr/large/raw/main/Granger/Transformers/Granger%20Transformers%20-%20Elite.zip",
               "04 EXORCIST": "https://github.com/injctr/large/raw/main/Granger/Exorcist/Granger%20Exorcist%20-%20Elite.zip",
               "05 PRIME": "https://github.com/injctr/large/raw/main/Granger/Prime/Granger%20Prime%20-%20Elite.zip",
-              "06 M7": "https://github.com/injctr/large/raw/main/Granger/M7/Granger%20M7%20-%20Elite.zip"
+              "06 M7": "https://github.com/injctr/large/raw/main/Granger/M7/Granger%20M7%20-%20Elite.zip",
+              "07 STARLIGHT 2020": "https://github.com/injctr/large/raw/main/Granger/Starlight/Granger%20Starlight%20-%20Elite.zip"
             },
             "second_link": {
               "01 COLLECTOR": "unavailable",
@@ -6631,7 +6578,8 @@
               "03 TRANSFORMERS": "unavailable",
               "04 EXORCIST": "unavailable",
               "05 PRIME": "unavailable",
-              "06 M7": "unavailable"
+              "06 M7": "unavailable",
+              "07 STARLIGHT 2020": "unavailable"
             }
           },
           "04 STARLIGHT 2020": {
@@ -6643,7 +6591,8 @@
               "03 TRANSFORMERS": "https://github.com/injctr/large/raw/main/Granger/Transformers/Granger%20Transformers%20-%20Starlight.zip",
               "04 EXORCIST": "https://github.com/injctr/large/raw/main/Granger/Exorcist/Granger%20Exorcist%20-%20Starlight.zip",
               "05 PRIME": "https://github.com/injctr/large/raw/main/Granger/Prime/Granger%20Prime%20-%20Starlight.zip",
-              "06 M7": "https://github.com/injctr/large/raw/main/Granger/M7/Granger%20M7%20-%20Starlight.zip"
+              "06 M7": "https://github.com/injctr/large/raw/main/Granger/M7/Granger%20M7%20-%20Starlight.zip",
+              "07 STARLIGHT 2020": "unavailable"
             },
             "second_link": {
               "01 COLLECTOR": "unavailable",
@@ -6651,7 +6600,8 @@
               "03 TRANSFORMERS": "unavailable",
               "04 EXORCIST": "unavailable",
               "05 PRIME": "unavailable",
-              "06 M7": "unavailable"
+              "06 M7": "unavailable",
+              "07 STARLIGHT 2020": "unavailable"
             }
           },
           "05 LIGHTBORN": {
@@ -6663,7 +6613,8 @@
               "03 TRANSFORMERS": "https://github.com/injctr/large/raw/main/Granger/Transformers/Granger%20Transformers%20-%20Lightborn.zip",
               "04 EXORCIST": "https://github.com/injctr/large/raw/main/Granger/Exorcist/Granger%20Exorcist%20-%20Lightborn.zip",
               "05 PRIME": "https://github.com/injctr/large/raw/main/Granger/Prime/Granger%20Prime%20-%20Lightborn.zip",
-              "06 M7": "https://github.com/injctr/large/raw/main/Granger/M7/Granger%20M7%20-%20Lightborn.zip"
+              "06 M7": "https://github.com/injctr/large/raw/main/Granger/M7/Granger%20M7%20-%20Lightborn.zip",
+              "07 STARLIGHT 2020": "unavailable"
             },
             "second_link": {
               "01 COLLECTOR": "unavailable",
@@ -6671,7 +6622,8 @@
               "03 TRANSFORMERS": "unavailable",
               "04 EXORCIST": "unavailable",
               "05 PRIME": "unavailable",
-              "06 M7": "unavailable"
+              "06 M7": "unavailable",
+              "07 STARLIGHT 2020": "unavailable"
             }
           },
           "06 COLLECTOR": {
@@ -6683,7 +6635,8 @@
               "03 TRANSFORMERS": "https://github.com/injctr/large/raw/main/Granger/Transformers/Granger%20Transformers%20-%20Collector.zip",
               "04 EXORCIST": "https://github.com/injctr/large/raw/main/Granger/Exorcist/Granger%20Exorcist%20-%20Collector.zip",
               "05 PRIME": "https://github.com/injctr/large/raw/main/Granger/Prime/Granger%20Prime-%20Collector.zip",
-              "06 M7": "unavailable"
+              "06 M7": "unavailable",
+              "07 STARLIGHT 2020": "unavailable"
             },
             "second_link": {
               "01 COLLECTOR": "unavailable",
@@ -6691,7 +6644,8 @@
               "03 TRANSFORMERS": "unavailable",
               "04 EXORCIST": "unavailable",
               "05 PRIME": "unavailable",
-              "06 M7": "unavailable"
+              "06 M7": "unavailable",
+              "07 STARLIGHT 2020": "unavailable"
             }
           },
           "07 LEGEND": {
@@ -6703,7 +6657,8 @@
               "03 TRANSFORMERS": "https://github.com/injctr/large/raw/main/Granger/Transformers/Granger%20Transformers%20-%20Legend.zip",
               "04 EXORCIST": "https://github.com/injctr/large/raw/main/Granger/Exorcist/Granger%20Exorcist%20-%20Legend.zip",
               "05 PRIME": "https://github.com/injctr/large/raw/main/Granger/Prime/Granger%20Prime%20-%20Legend.zip",
-              "06 M7": "https://github.com/injctr/large/raw/main/Granger/M7/Granger%20M7%20-%20Legend.zip"
+              "06 M7": "https://github.com/injctr/large/raw/main/Granger/M7/Granger%20M7%20-%20Legend.zip",
+              "07 STARLIGHT 2020": "unavailable"
             },
             "second_link": {
               "01 COLLECTOR": "unavailable",
@@ -6711,7 +6666,8 @@
               "03 TRANSFORMERS": "unavailable",
               "04 EXORCIST": "unavailable",
               "05 PRIME": "unavailable",
-              "06 M7": "unavailable"
+              "06 M7": "unavailable",
+              "07 STARLIGHT 2020": "unavailable"
             }
           },
           "08 TRANSFORMERS": {
@@ -6723,7 +6679,8 @@
               "03 TRANSFORMERS": "unavailable",
               "04 EXORCIST": "unavailable",
               "05 PRIME": "https://github.com/injctr/large/raw/main/Granger/Prime/Granger%20Prime%20-%20Transformers.zip",
-              "06 M7": "https://github.com/injctr/large/raw/main/Granger/M7/Granger%20M7%20-%20Transformers.zip"
+              "06 M7": "https://github.com/injctr/large/raw/main/Granger/M7/Granger%20M7%20-%20Transformers.zip",
+              "07 STARLIGHT 2020": "unavailable"
             },
             "second_link": {
               "01 COLLECTOR": "unavailable",
@@ -6731,7 +6688,8 @@
               "03 TRANSFORMERS": "unavailable",
               "04 EXORCIST": "unavailable",
               "05 PRIME": "unavailable",
-              "06 M7": "unavailable"
+              "06 M7": "unavailable",
+              "07 STARLIGHT 2020": "unavailable"
             }
           },
           "09 CREATE": {
@@ -6743,7 +6701,8 @@
               "03 TRANSFORMERS": "https://github.com/injctr/large/raw/main/Granger/Transformers/Granger%20Transformers%20-%20Create.zip",
               "04 EXORCIST": "unavailable",
               "05 PRIME": "https://github.com/injctr/large/raw/main/Granger/Prime/Granger%20Prime%20-%20Special.zip",
-              "06 M7": "https://github.com/injctr/large/raw/main/Granger/M7/Granger%20M7%20-%20Create.zip"
+              "06 M7": "https://github.com/injctr/large/raw/main/Granger/M7/Granger%20M7%20-%20Create.zip",
+              "07 STARLIGHT 2020": "https://github.com/injctr/large/raw/main/Granger/Starlight/Granger%20Starlight%20-%20Create.zip"
             },
             "second_link": {
               "01 COLLECTOR": "unavailable",
@@ -6751,7 +6710,8 @@
               "03 TRANSFORMERS": "unavailable",
               "04 EXORCIST": "unavailable",
               "05 PRIME": "unavailable",
-              "06 M7": "unavailable"
+              "06 M7": "unavailable",
+              "07 STARLIGHT 2020": "unavailable"
             }
           },
           "10 EXORCIST": {
@@ -6763,7 +6723,8 @@
               "03 TRANSFORMERS": "https://github.com/injctr/large/raw/main/Granger/Transformers/Granger%20Transformers%20-%20Exorcist.zip",
               "04 EXORCIST": "unavailable",
               "05 PRIME": "https://github.com/injctr/large/raw/main/Granger/Prime/Granger%20Prime%20-%20Exorcist.zip",
-              "06 M7": "https://github.com/injctr/large/raw/main/Granger/M7/Granger%20M7%20-%20Exorcist.zip"
+              "06 M7": "https://github.com/injctr/large/raw/main/Granger/M7/Granger%20M7%20-%20Exorcist.zip",
+              "07 STARLIGHT 2020": "unavailable"
             },
             "second_link": {
               "01 COLLECTOR": "unavailable",
@@ -6771,7 +6732,8 @@
               "03 TRANSFORMERS": "unavailable",
               "04 EXORCIST": "unavailable",
               "05 PRIME": "unavailable",
-              "06 M7": "unavailable"
+              "06 M7": "unavailable",
+              "07 STARLIGHT 2020": "unavailable"
             }
           },
           "11 VALENTINE": {
@@ -6783,7 +6745,8 @@
               "03 TRANSFORMERS": "https://github.com/injctr/large/raw/main/Granger/Transformers/Granger%20Transformers%20-%20Valentine.zip",
               "04 EXORCIST": "unavailable",
               "05 PRIME": "https://github.com/injctr/large/raw/main/Granger/Prime/Granger%20Prime%20-%20Valentine.zip",
-              "06 M7": "unavailable"
+              "06 M7": "unavailable",
+              "07 STARLIGHT 2020": "unavailable"
             },
             "second_link": {
               "01 COLLECTOR": "unavailable",
@@ -6791,7 +6754,8 @@
               "03 TRANSFORMERS": "unavailable",
               "04 EXORCIST": "unavailable",
               "05 PRIME": "unavailable",
-              "06 M7": "unavailable"
+              "06 M7": "unavailable",
+              "07 STARLIGHT 2020": "unavailable"
             }
           }
         },
@@ -6819,6 +6783,10 @@
           "06 M7": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero107912-icon.png/revision/latest?cb=20260420231129",
             "type2": "M7"
+          },
+          "07 STARLIGHT 2020": {
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero794-icon.png/revision/latest?cb=20220126142719",
+            "type2": "Starlight 2020"
           }
         }
       },
@@ -10904,7 +10872,7 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero531-icon.png/revision/latest?cb=20241021145551",
             "type1": "Default",
             "type_links": {
-              "01 LUCKYBOX": "unavailable",
+              "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Lesley/Luckybox/Lesley%20Luckybox%20-%20Default.zip",
               "02 LEGEND": "https://github.com/injctr/large/raw/main/Lesley/Legend/Lesley%20Legend%20-%20Default.zip",
               "03 LEGEND": "https://github.com/injctr/large/raw/main/Lesley/Legend%202/Lesley%20Legend2%20-%20Default.zip",
               "04 COLLECTOR": "https://github.com/injctr/large/raw/main/Lesley/Collector/Lesley%20Collector%20-%20Default.zip",
@@ -10928,7 +10896,7 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Hero532-icon.png/revision/latest?cb=20220824141628",
             "type1": "Basic",
             "type_links": {
-              "01 LUCKYBOX": "unavailable",
+              "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Lesley/Luckybox/Lesley%20Luckybox%20-%20Basic.zip",
               "02 LEGEND": "https://github.com/injctr/large/raw/main/Lesley/Legend/Lesley%20Legend%20-%20Basic.zip",
               "03 LEGEND": "https://github.com/injctr/large/raw/main/Lesley/Legend%202/Lesley%20Legend2%20-%20Basic.zip",
               "04 COLLECTOR": "https://github.com/injctr/large/raw/main/Lesley/Collector/Lesley%20Collector%20-%20Basic.zip",
@@ -10952,7 +10920,7 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero533-icon.png/revision/latest?cb=20220126141701",
             "type1": "Elite",
             "type_links": {
-              "01 LUCKYBOX": "unavailable",
+              "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Lesley/Luckybox/Lesley%20Luckybox%20-%20Elite.zip",
               "02 LEGEND": "https://github.com/injctr/large/raw/main/Lesley/Legend/Lesley%20Legend%20-%20Elite.zip",
               "03 LEGEND": "https://github.com/injctr/large/raw/main/Lesley/Legend%202/Lesley%20Legend2%20-%20Elite.zip",
               "04 COLLECTOR": "https://github.com/injctr/large/raw/main/Lesley/Collector/Lesley%20Collector%20-%20Elite.zip",
@@ -11024,7 +10992,7 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Hero536-icon.png/revision/latest?cb=20220915134949",
             "type1": "Valentine",
             "type_links": {
-              "01 LUCKYBOX": "unavailable",
+              "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Lesley/Luckybox/Lesley%20Luckybox%20-%20Valentine.zip",
               "02 LEGEND": "https://github.com/injctr/large/raw/main/Lesley/Legend/Lesley%20Legend%20-%20Valentine.zip",
               "03 LEGEND": "https://github.com/injctr/large/raw/main/Lesley/Legend%202/Lesley%20Legend2%20-%20Valentine.zip",
               "04 COLLECTOR": "https://github.com/injctr/large/raw/main/Lesley/Collector/Lesley%20Collector%20-%20Valentine.zip",
@@ -12391,7 +12359,7 @@
             }
           },
           "02 BASIC": {
-            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero882-icon.png/revision/latest?cb=20220126142723",
+            "img1": "https://cdn.jsdelivr.net/gh/injctr/IMAGES@main/Masha%20Basic.png",
             "type1": "Basic",
             "type_links": {
               "01 KOF": "https://github.com/injctr/large/raw/main/Masha/KOF/Masha%20KOF%20-%20Basic.zip"
@@ -14258,229 +14226,163 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero1031-icon.png/revision/latest?cb=20241021153208",
             "type1": "Default",
             "type_links": {
-              "01 MANNY PACQUIAO": "unavailable",
-              "02 COLLECTOR": "https://www.dropbox.com/scl/fi/sa77frk6lkkf3lgw1l34r/Paquito-Collector-Default.zip?rlkey=rz9dnprklb9krlvwhy7h9vdu1&st=x1pezugh&dl=1",
-              "03 KOF": "https://www.dropbox.com/scl/fi/er7ovjzq41jsg3pm2undk/Paquito-KOF-Default.zip?rlkey=rgnouwkv4zvid7ndioy1wjbx4&st=2hjrl18h&dl=1",
-              "04 FMVP": "unavailable",
-              "05 STREET FIGHTER 2": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%202/Paquito%20Street%20Fighter%202%20-%20Default.zip",
-              "06 STREET FIGHTER 1": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%201/Paquito%20Street%20Fighter%201%20-%20Default.zip",
-              "07 EPIC": "https://github.com/injctr/large/raw/main/Paquito/Epic/Paquito%20Epic%20-%20Default.zip"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Paquito/Collector/Paquito%20Collector%20-%20Default.zip",
+              "02 KOF": "https://github.com/injctr/large/raw/main/Paquito/KOF/Paquito%20KOF%20-%20Default.zip",
+              "03 STREET FIGHTER 2": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%202/Paquito%20Ryu%20(Outfit%202)%20-%20Default.zip",
+              "04 STREET FIGHTER 1": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%201/Paquito%20Ryu%20(Outfit%201)%20-%20Default.zip"
             },
             "second_link": {
-              "01 MANNY PACQUIAO": "unavailable",
-              "02 COLLECTOR": "unavailable",
-              "03 KOF": "unavailable",
-              "04 FMVP": "unavailable",
-              "05 STREET FIGHTER 2": "unavailable",
-              "06 STREET FIGHTER 1": "unavailable",
-              "07 EPIC": "unavailable"
+              "01 COLLECTOR": "unavailable",
+              "02 KOF": "unavailable",
+              "03 STREET FIGHTER 2": "unavailable",
+              "04 STREET FIGHTER 1": "unavailable"
             }
           },
           "02 BASIC": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/4/48/Hero1032-icon.png/revision/latest?cb=20220126142318",
             "type1": "Basic",
             "type_links": {
-              "01 MANNY PACQUIAO": "unavailable",
-              "02 COLLECTOR": "https://www.dropbox.com/scl/fi/woyafrh4xux4qs7kgb4ew/Paquito-Collector-Basic.zip?rlkey=h7r3f36xcva1jpqoq9agupmzl&st=6oy1z011&dl=1",
-              "03 KOF": "https://www.dropbox.com/scl/fi/gpm8kqmb8jqoxnzgo0crg/Paquito-KOF-Basic.zip?rlkey=mgy68i0hyl9onpze154h855eu&st=r1n8bi8q&dl=1",
-              "04 FMVP": "unavailable",
-              "05 STREET FIGHTER 2": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%202/Paquito%20Street%20Fighter%202%20-%20Basic.zip",
-              "06 STREET FIGHTER 1": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%201/Paquito%20Street%20Fighter%201%20-%20Basic.zip",
-              "07 EPIC": "unavailable"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Paquito/Collector/Paquito%20Collector%20-%20Basic.zip",
+              "02 KOF": "https://github.com/injctr/large/raw/main/Paquito/KOF/Paquito%20KOF%20-%20Basic.zip",
+              "03 STREET FIGHTER 2": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%202/Paquito%20Ryu%20(Outfit%202)%20-%20Basic.zip",
+              "04 STREET FIGHTER 1": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%201/Paquito%20Ryu%20(Outfit%201)%20-%20Basic.zip"
             },
             "second_link": {
-              "01 MANNY PACQUIAO": "unavailable",
-              "02 COLLECTOR": "unavailable",
-              "03 KOF": "unavailable",
-              "04 FMVP": "unavailable",
-              "05 STREET FIGHTER 2": "unavailable",
-              "06 STREET FIGHTER 1": "unavailable",
-              "07 EPIC": "unavailable"
+              "01 COLLECTOR": "unavailable",
+              "02 KOF": "unavailable",
+              "03 STREET FIGHTER 2": "unavailable",
+              "04 STREET FIGHTER 1": "unavailable"
             }
           },
           "03 MANNY PACQUIAO": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero1033-icon.png/revision/latest?cb=20220612054917",
             "type1": "Manny Pacquiao",
             "type_links": {
-              "01 MANNY PACQUIAO": "unavailable",
-              "02 COLLECTOR": "https://www.dropbox.com/scl/fi/ljtbh8oz6424xfoorhkyw/Paquito-Collector-Manny-Pacquiao.zip?rlkey=bkbv7a5ujwgog4158rg1kswva&st=bqko0hi9&dl=1",
-              "03 KOF": "https://www.dropbox.com/scl/fi/jewjfkkb8pmrl5euz7o4p/Paquito-KOF-Manny-Pacquiao.zip?rlkey=gjrfluyay0me8bsxrjevc5t86&st=y2gkb9gl&dl=1",
-              "04 FMVP": "unavailable",
-              "05 STREET FIGHTER 2": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%202/Paquito%20Street%20Fighter%202%20-%20Manny%20Pacquiao.zip",
-              "06 STREET FIGHTER 1": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%201/Paquito%20Street%20Fighter%201%20-%20Manny%20Pacquiao.zip",
-              "07 EPIC": "https://github.com/injctr/large/raw/main/Paquito/Epic/Paquito%20Epic%20-%20Manny%20Pacquiao.zip"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Paquito/Collector/Paquito%20Collector%20-%20Manny%20Pacquiao.zip",
+              "02 KOF": "https://github.com/injctr/large/raw/main/Paquito/KOF/Paquito%20KOF%20-%20Manny%20Pacquiao.zip",
+              "03 STREET FIGHTER 2": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%202/Paquito%20Ryu%20(Outfit%202)%20-%20Manny%20Pacquiao.zip",
+              "04 STREET FIGHTER 1": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%201/Paquito%20Ryu%20(Outfit%201)%20-%20Manny%20Pacquiao.zip"
             },
             "second_link": {
-              "01 MANNY PACQUIAO": "unavailable",
-              "02 COLLECTOR": "unavailable",
-              "03 KOF": "unavailable",
-              "04 FMVP": "unavailable",
-              "05 STREET FIGHTER 2": "unavailable",
-              "06 STREET FIGHTER 1": "unavailable",
-              "07 EPIC": "unavailable"
+              "01 COLLECTOR": "unavailable",
+              "02 KOF": "unavailable",
+              "03 STREET FIGHTER 2": "unavailable",
+              "04 STREET FIGHTER 1": "unavailable"
             }
           },
           "04 SPECIAL 1": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero1034-icon.png/revision/latest?cb=20220126142819",
             "type1": "Special 1",
             "type_links": {
-              "01 MANNY PACQUIAO": "unavailable",
-              "02 COLLECTOR": "https://www.dropbox.com/scl/fi/jstabbgjkrveetp4fsnsi/Paquito-Collector-Special.zip?rlkey=f15hbas7crwrtu1gumj8mn6t0&st=friw07hh&dl=1",
-              "03 KOF": "https://www.dropbox.com/scl/fi/msl7r1vow9yxip07ejyav/Paquito-KOF-Special.zip?rlkey=z2evlhy9ygeti7fe75y8ceq3p&st=uph530kk&dl=1",
-              "04 FMVP": "unavailable",
-              "05 STREET FIGHTER 2": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%202/Paquito%20Street%20Fighter%202%20-%20Special.zip",
-              "06 STREET FIGHTER 1": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%201/Paquito%20Street%20Fighter%201%20-%20Special%20Underground%20Boxer.zip",
-              "07 EPIC": "https://github.com/injctr/large/raw/main/Paquito/Epic/Paquito%20Epic%20-%20Special%20Underground%20Boxer.zip"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Paquito/Collector/Paquito%20Collector%20-%20Special%20Underground.zip",
+              "02 KOF": "https://github.com/injctr/large/raw/main/Paquito/KOF/Paquito%20KOF%20-%20Special%20Underground.zip",
+              "03 STREET FIGHTER 2": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%202/Paquito%20Ryu%20(Outfit%202)%20-%20Special%20Underground.zip",
+              "04 STREET FIGHTER 1": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%201/Paquito%20Ryu%20(Outfit%201)%20-%20Special%20Underground.zip"
             },
             "second_link": {
-              "01 MANNY PACQUIAO": "unavailable",
-              "02 COLLECTOR": "unavailable",
-              "03 KOF": "unavailable",
-              "04 FMVP": "unavailable",
-              "05 STREET FIGHTER 2": "unavailable",
-              "06 STREET FIGHTER 1": "unavailable",
-              "07 EPIC": "unavailable"
+              "01 COLLECTOR": "unavailable",
+              "02 KOF": "unavailable",
+              "03 STREET FIGHTER 2": "unavailable",
+              "04 STREET FIGHTER 1": "unavailable"
             }
           },
           "05 STARLIGHT 2022": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero1035-icon.png/revision/latest?cb=20220612060009",
             "type1": "Starlight 2022",
             "type_links": {
-              "01 MANNY PACQUIAO": "unavailable",
-              "02 COLLECTOR": "https://www.dropbox.com/scl/fi/u4tqv3pq3r3f4o88xzlz2/Paquito-Collector-Starlight.zip?rlkey=7y6y97hun5ga79gjgpymbtd8g&st=tmxu45mr&dl=1",
-              "03 KOF": "https://www.dropbox.com/scl/fi/6ljaug5kohiykeehqru69/Paquito-KOF-Starlight.zip?rlkey=2c8wltf48dj7u16fwyv71vvdc&st=f8iqi9ae&dl=1",
-              "04 FMVP": "unavailable",
-              "05 STREET FIGHTER 2": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%202/Paquito%20Street%20Fighter%202%20-%20Starlight.zip",
-              "06 STREET FIGHTER 1": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%201/Paquito%20Street%20Fighter%201%20-%20Starlight.zip",
-              "07 EPIC": "unavailable"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Paquito/Collector/Paquito%20Collector%20-%20Starlight.zip",
+              "02 KOF": "https://github.com/injctr/large/raw/main/Paquito/KOF/Paquito%20KOF%20-%20Starlight.zip",
+              "03 STREET FIGHTER 2": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%202/Paquito%20Ryu%20(Outfit%202)%20-%20Starlight.zip",
+              "04 STREET FIGHTER 1": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%201/Paquito%20Ryu%20(Outfit%201)%20-%20Starlight.zip"
             },
             "second_link": {
-              "01 MANNY PACQUIAO": "unavailable",
-              "02 COLLECTOR": "unavailable",
-              "03 KOF": "unavailable",
-              "04 FMVP": "unavailable",
-              "05 STREET FIGHTER 2": "unavailable",
-              "06 STREET FIGHTER 1": "unavailable",
-              "07 EPIC": "unavailable"
+              "01 COLLECTOR": "unavailable",
+              "02 KOF": "unavailable",
+              "03 STREET FIGHTER 2": "unavailable",
+              "04 STREET FIGHTER 1": "unavailable"
             }
           },
           "06 SPECIAL 2": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero1036-icon.png/revision/latest?cb=20221223124540",
             "type1": "Special 2",
             "type_links": {
-              "01 MANNY PACQUIAO": "unavailable",
-              "02 COLLECTOR": "https://www.dropbox.com/scl/fi/0ie2y2dgkpohpvwp5cx93/Paquito-Collector-Special-MPass.zip?rlkey=0qjqer34k4xwd3tppwwo0lufd&st=9jeq4s32&dl=1",
-              "03 KOF": "https://www.dropbox.com/scl/fi/i29cz9kvd9zfaocff9q7g/Paquito-KOF-Special-MPass.zip?rlkey=nu6mpsyeuaybe3pp1eywz8etj&st=vmhaxf54&dl=1",
-              "04 FMVP": "unavailable",
-              "05 STREET FIGHTER 2": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%202/Paquito%20Street%20Fighter%202%20-%20Special%20MPL.zip",
-              "06 STREET FIGHTER 1": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%201/Paquito%20Street%20Fighter%201%20-%20Special%20Fist%20of%20Light.zip",
-              "07 EPIC": "https://github.com/injctr/large/raw/main/Paquito/Epic/Paquito%20Epic%20-%20Special%20Fists%20of%20Light.zip"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Paquito/Collector/Paquito%20Collector%20-%20Special%20Fist.zip",
+              "02 KOF": "https://github.com/injctr/large/raw/main/Paquito/KOF/Paquito%20KOF%20-%20Special%20Fist.zip",
+              "03 STREET FIGHTER 2": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%202/Paquito%20Ryu%20(Outfit%202)%20-%20Special%20Fist.zip",
+              "04 STREET FIGHTER 1": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%201/Paquito%20Ryu%20(Outfit%201)%20-%20Special%20Fist.zip"
             },
             "second_link": {
-              "01 MANNY PACQUIAO": "unavailable",
-              "02 COLLECTOR": "unavailable",
-              "03 KOF": "unavailable",
-              "04 FMVP": "unavailable",
-              "05 STREET FIGHTER 2": "unavailable",
-              "06 STREET FIGHTER 1": "unavailable",
-              "07 EPIC": "unavailable"
+              "01 COLLECTOR": "unavailable",
+              "02 KOF": "unavailable",
+              "03 STREET FIGHTER 2": "unavailable",
+              "04 STREET FIGHTER 1": "unavailable"
             }
           },
           "07 COLLECTOR": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero1037-icon.png/revision/latest?cb=20240404001454",
             "type1": "Collector",
             "type_links": {
-              "01 MANNY PACQUIAO": "unavailable",
-              "02 COLLECTOR": "unavailable",
-              "03 KOF": "https://www.dropbox.com/scl/fi/wfw0pgf8gtm6d6k7p3j8l/Paquito-KOF-Collector.zip?rlkey=57dk6dpfsh88sg0uk90t8ihy8&st=67nhxhaa&dl=1",
-              "04 FMVP": "unavailable",
-              "05 STREET FIGHTER 2": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%202/Paquito%20Street%20Fighter%202%20-%20Collector.zip",
-              "06 STREET FIGHTER 1": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%201/Paquito%20Street%20Fighter%201%20-%20Collector.zip",
-              "07 EPIC": "https://github.com/injctr/large/raw/main/Paquito/Epic/Paquito%20Epic%20-%20Collector.zip"
+              "01 COLLECTOR": "unavailable",
+              "02 KOF": "https://github.com/injctr/large/raw/main/Paquito/KOF/Paquito%20KOF%20-%20Collector.zip",
+              "03 STREET FIGHTER 2": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%202/Paquito%20Ryu%20(Outfit%202)%20-%20Collector.zip",
+              "04 STREET FIGHTER 1": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%201/Paquito%20Ryu%20(Outfit%201)%20-%20Collector.zip"
             },
             "second_link": {
-              "01 MANNY PACQUIAO": "unavailable",
-              "02 COLLECTOR": "unavailable",
-              "03 KOF": "unavailable",
-              "04 FMVP": "unavailable",
-              "05 STREET FIGHTER 2": "unavailable",
-              "06 STREET FIGHTER 1": "unavailable",
-              "07 EPIC": "unavailable"
+              "01 COLLECTOR": "unavailable",
+              "02 KOF": "unavailable",
+              "03 STREET FIGHTER 2": "unavailable",
+              "04 STREET FIGHTER 1": "unavailable"
             }
           },
           "08 KOF": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero1038-icon.png/revision/latest?cb=20240430025606",
             "type1": "KOF",
             "type_links": {
-              "01 MANNY PACQUIAO": "unavailable",
-              "02 COLLECTOR": "https://www.dropbox.com/scl/fi/e6nmj9kxayfvmkv32ycdb/Paquito-Collector-KOF.zip?rlkey=eblcjnse2dcbxgg1llezdheri&st=ycnkuwxp&dl=1",
-              "03 KOF": "unavailable",
-              "04 FMVP": "unavailable",
-              "05 STREET FIGHTER 2": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%202/Paquito%20Street%20Fighter%202%20-%20KOF.zip",
-              "06 STREET FIGHTER 1": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%201/Paquito%20Street%20Fighter%201%20-%20KOF.zip",
-              "07 EPIC": "https://github.com/injctr/large/raw/main/Paquito/Epic/Paquito%20Epic%20-%20KOF.zip"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Paquito/Collector/Paquito%20Collector%20-%20KOF.zip",
+              "02 KOF": "unavailable",
+              "03 STREET FIGHTER 2": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%202/Paquito%20Ryu%20(Outfit%202)%20-%20KOF.zip",
+              "04 STREET FIGHTER 1": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%201/Paquito%20Ryu%20(Outfit%201)%20-%20KOF.zip"
             },
             "second_link": {
-              "01 MANNY PACQUIAO": "unavailable",
-              "02 COLLECTOR": "unavailable",
-              "03 KOF": "unavailable",
-              "04 FMVP": "unavailable",
-              "05 STREET FIGHTER 2": "unavailable",
-              "06 STREET FIGHTER 1": "unavailable",
-              "07 EPIC": "unavailable"
+              "01 COLLECTOR": "unavailable",
+              "02 KOF": "unavailable",
+              "03 STREET FIGHTER 2": "unavailable",
+              "04 STREET FIGHTER 1": "unavailable"
             }
           },
           "09 FMVP": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero1039-icon.png/revision/latest?cb=20241013073216",
             "type1": "FMVP",
             "type_links": {
-              "01 MANNY PACQUIAO": "unavailable",
-              "02 COLLECTOR": "https://www.dropbox.com/scl/fi/mil9mdd9d0ny0i3z9it3e/Paquito-Collector-FMVP.zip?rlkey=vbkln7lqn654mf5pkc2n7e0fy&st=zst3bc0m&dl=1",
-              "03 KOF": "https://www.dropbox.com/scl/fi/o06bx9ief3nsu7mmh9tkf/Paquito-KOF-FMVP.zip?rlkey=7wybpzczn52xxmlgjuekhix1l&st=k7itwx45&dl=1",
-              "04 FMVP": "unavailable",
-              "05 STREET FIGHTER 2": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%202/Paquito%20Street%20Fighter%202%20-%20Champion.zip",
-              "06 STREET FIGHTER 1": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%201/Paquito%20Street%20Fighter%201%20-%20FMVP.zip",
-              "07 EPIC": "https://github.com/injctr/large/raw/main/Paquito/Epic/Paquito%20Epic%20-%20FMVP.zip"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Paquito/Collector/Paquito%20Collector%20-%20FMVP.zip",
+              "02 KOF": "https://github.com/injctr/large/raw/main/Paquito/KOF/Paquito%20KOF%20-%20FMVP.zip",
+              "03 STREET FIGHTER 2": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%202/Paquito%20Ryu%20(Outfit%202)%20-%20FMVP.zip",
+              "04 STREET FIGHTER 1": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%201/Paquito%20Ryu%20(Outfit%201)%20-%20FMVP.zip"
             },
             "second_link": {
-              "01 MANNY PACQUIAO": "unavailable",
-              "02 COLLECTOR": "unavailable",
-              "03 KOF": "unavailable",
-              "04 FMVP": "unavailable",
-              "05 STREET FIGHTER 2": "unavailable",
-              "06 STREET FIGHTER 1": "unavailable",
-              "07 EPIC": "unavailable"
+              "01 COLLECTOR": "unavailable",
+              "02 KOF": "unavailable",
+              "03 STREET FIGHTER 2": "unavailable",
+              "04 STREET FIGHTER 1": "unavailable"
             }
           }
         },
         "Skins": {
-          "01 MANNY PACQUIAO": {
-            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero1033-icon.png/revision/latest?cb=20220612054917",
-            "type2": "Manny Pacquiao"
-          },
-          "02 COLLECTOR": {
+          "01 COLLECTOR": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero1037-icon.png/revision/latest?cb=20240404001454",
             "type2": "Collector"
           },
-          "03 KOF": {
+          "02 KOF": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero1038-icon.png/revision/latest?cb=20240430025606",
             "type2": "KOF"
           },
-          "04 FMVP": {
-            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero1039-icon.png/revision/latest?cb=20241013073216",
-            "type2": "FMVP"
-          },
-          "05 STREET FIGHTER 2": {
+          "03 STREET FIGHTER 2": {
             "img2": "https://github.com/injctr/IMAGES/raw/main/STREET%20PAQUITO.png",
             "type2": "Street Fighter 2"
           },
-          "06 STREET FIGHTER 1": {
+          "04 STREET FIGHTER 1": {
             "img2": "https://github.com/injctr/IMAGES/raw/main/Paquito%20SF1.jpg",
             "type2": "Street Fighter 1"
-          },
-          "07 EPIC": {
-            "img2": "https://github.com/injctr/IMAGES/raw/main/Paquito%20skin%20Epic.png",
-            "type2": "Epic"
           }
         }
       },
@@ -20179,6 +20081,66 @@
       }
     },
     "Latest": {
+      "Masha_01 KOF": {
+        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero887-icon.png/revision/latest?cb=20240430024311",
+        "type2": "KOF",
+        "key": "Masha"
+      },
+      "Paquito_02 KOF": {
+        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero1038-icon.png/revision/latest?cb=20240430025606",
+        "type2": "KOF",
+        "key": "Paquito"
+      },
+      "Paquito_01 COLLECTOR": {
+        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero1037-icon.png/revision/latest?cb=20240404001454",
+        "type2": "Collector",
+        "key": "Paquito"
+      },
+      "Paquito_03 STREET FIGHTER 2": {
+        "img2": "https://github.com/injctr/IMAGES/raw/main/STREET%20PAQUITO.png",
+        "type2": "Street Fighter 2",
+        "key": "Paquito"
+      },
+      "Paquito_04 STREET FIGHTER 1": {
+        "img2": "https://github.com/injctr/IMAGES/raw/main/Paquito%20SF1.jpg",
+        "type2": "Street Fighter 1",
+        "key": "Paquito"
+      },
+      "Clint_01 SOUL VESSELS": {
+        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Hero101313-icon.png/revision/latest?cb=20260420230912",
+        "type2": "Soul Vessels",
+        "key": "Clint"
+      },
+      "Clint_02 COLECTOR": {
+        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero139-icon.png/revision/latest?cb=20230317100337",
+        "type2": "Colector",
+        "key": "Clint"
+      },
+      "Bruno_01 DAWNING HERO": {
+        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero126-icon.png/revision/latest?cb=20220118094846",
+        "type2": "Dawning Hero",
+        "key": "Bruno"
+      },
+      "Bruno_02 COLLECTOR": {
+        "img2": "https://cdn.jsdelivr.net/gh/injctr/IMAGES@main/Bruno%20collector.png",
+        "type2": "Collector",
+        "key": "Bruno"
+      },
+      "Brody_01 S.T.U.N.": {
+        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Hero1003-icon.png/revision/latest?cb=20220126142650",
+        "type2": "S.T.U.N.",
+        "key": "Brody"
+      },
+      "Brody_02 COLLECTOR": {
+        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero1005-icon.png/revision/latest?cb=20220401091143",
+        "type2": "Collector",
+        "key": "Brody"
+      },
+      "Badang_01 COLLECTOR": {
+        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9b/Hero776-icon.png/revision/latest?cb=20260424022121",
+        "type2": "Collector",
+        "key": "Badang"
+      },
       "Nolan_03 EPIC": {
         "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero1225.png/revision/latest?cb=20260421223018",
         "type2": "Epic",
@@ -20253,41 +20215,6 @@
         "img2": "https://github.com/injctr/IMAGES/raw/main/Balmond%20skin%20Collector%20Titans.png",
         "type2": "Collector Titans",
         "key": "Balmond"
-      },
-      "Yin_06 JJK SKILL1 BLACK FLASH": {
-        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero1134-icon.png/revision/latest?cb=20230212040131",
-        "type2": "JJK Skill1 Black Flash",
-        "key": "Yin"
-      },
-      "Yin_05 JUJUTSU KAISEN": {
-        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero1134-icon.png/revision/latest?cb=20230212040131",
-        "type2": "Jujutsu Kaisen",
-        "key": "Yin"
-      },
-      "Xavier_01 JUJUTSU KAISEN": {
-        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero1153-icon.png/revision/latest?cb=20230212040133",
-        "type2": "Jujutsu Kaisen",
-        "key": "Xavier"
-      },
-      "Julian_01 JUJUTSU KAISEN": {
-        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Hero1163-icon.png/revision/latest?cb=20230212040135",
-        "type2": "Jujutsu Kaisen",
-        "key": "Julian"
-      },
-      "Melissa_01 JUJUTSU KAISEN": {
-        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero1143-icon.png/revision/latest?cb=20230212040132",
-        "type2": "Jujutsu Kaisen",
-        "key": "Melissa"
-      },
-      "Atlas_04 EPIC": {
-        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero937-icon.png/revision/latest?cb=20251001064156",
-        "type2": "Epic",
-        "key": "Atlas"
-      },
-      "Minotaur_02 EPIC": {
-        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero197-icon.png/revision/latest?cb=20250619142203",
-        "type2": "Epic",
-        "key": "Minotaur"
       }
     },
     "CS-Categories": [
