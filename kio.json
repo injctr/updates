@@ -9,15 +9,15 @@
       "link": "https://youtu.be/xbIvKsNt9oI",
       "live": "no",
       "live_link": "",
-      "notice": "no",
+      "notice": "yes",
       "notice_title": "Notice to All Users",
-      "notice_message": "The Earning Points Event will return on Tuesday, September 29.\n\nThank you for your continued support!💎",
+      "notice_message": "You can how close daily watch task.\n\nThank you for your continued support! 💎",
       "notice_cancellable": "yes",
       "show_task": "yes",
       "task_title": "Dialy Task",
       "task_message": "Watch the video for at least 30 seconds to continue.",
       "task_link": "https://youtu.be/38CWhwy21d8",
-      "task_cancellable": "no"
+      "task_cancellable": "yes"
     },
     "Hero": {
       "Aamon": {
