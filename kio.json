@@ -17,7 +17,7 @@
       "task_title": "Dialy Task",
       "task_message": "Watch the video for at least 30 seconds to continue.",
       "task_link": "https://youtu.be/AaqK2ZEaHbs",
-      "task_cancellable": "no"
+      "task_cancellable": "yes"
     },
     "Hero": {
       "Aamon": {
