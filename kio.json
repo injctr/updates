@@ -1,11 +1,11 @@
 [
   {
     "version": {
-      "unity_ads": "Interstitial_Android",
+      "unity_ads": "Rewarded_Android",
       "allow": "no",
       "allow_earning_points": "yes",
       "version": "3.0",
-      "message": "[RECENT SKIN UPDATE]\n- Masha Skin\n- Paquito Skin\n- Clint Skin\n- Bruno Skin\n- Brody Skin\n- Badang Skin\n- Nolan Epic\n- Alpha Epic\n- YSS Collector\n- Selena Aspirants\n- Obsidia Aspirants\n- Zilong Create\n- Layla 10th Collector\n- Hayabusa 11.11 Optimized\n- Hayabusa New Starlight\n- Kalea Starlight\n- Hanzo Starlight\n- Aulus Starlight",
+      "message": "[RECENT SKIN UPDATE]\n- Selena Aspirants Update\n- Obsidia Aspirants Update\n- Kagura Legend\n- Lylia Collector\n- Lapu-Lapu M7 Champion\n- Grock FMVP\n- Valentina Mythic 2026\n- Aldous Annual Starlight",
       "link": "https://youtu.be/xbIvKsNt9oI",
       "live": "no",
       "live_link": "",
@@ -15,7 +15,7 @@
       "notice_cancellable": "yes",
       "show_task": "yes",
       "task_title": "Dialy Task",
-      "task_message": "Watch the video for at least 30 seconds to continue.",
+      "task_message": "Watch the video for at least 30 seconds to claim.",
       "task_link": "https://youtu.be/AaqK2ZEaHbs",
       "task_cancellable": "yes"
     },
@@ -306,14 +306,16 @@
               "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Aldous/Collector/Aldous%20Collector%20-%20Default.zip",
               "03 TRANSFORMERS": "https://github.com/injctr/large/raw/main/Aldous/Transformers/Aldous%20Transformers%20-%20Default.zip",
               "04 MISBENDER": "https://github.com/injctr/large/raw/main/Aldous/Misbenders/Aldous%20Mistbenders%20-%20Default.zip",
-              "05 M1": "https://github.com/injctr/large/raw/main/Aldous/M1/Aldous%20M1%20-%20Default.zip"
+              "05 M1": "https://github.com/injctr/large/raw/main/Aldous/M1/Aldous%20M1%20-%20Default.zip",
+              "06 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Aldous/Annual%20Starlight/Aldous%20Annual%20Star%20-%20Default.zip"
             },
             "second_link": {
               "01 BLAZING BOUNTIES": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Blazing/Aldous%20Blazing%20-%20Default.zip",
               "02 COLLECTOR": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Collector/Aldous%20Collector%20-%20Default.zip",
               "03 TRANSFORMERS": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Transformers/Aldous%20Transformers%20-%20Default.zip",
               "04 MISBENDER": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Misbenders/Aldous%20Mistbenders%20-%20Default.zip",
-              "05 M1": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/M1/Aldous%20M1%20-%20Default.zip"
+              "05 M1": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/M1/Aldous%20M1%20-%20Default.zip",
+              "06 ANNUAL STARLIGHT": "unavailable"
             }
           },
           "02 BASIC": {
@@ -324,14 +326,16 @@
               "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Aldous/Collector/Aldous%20Collector%20-%20Basic.zip",
               "03 TRANSFORMERS": "https://github.com/injctr/large/raw/main/Aldous/Transformers/Aldous%20Transformers%20-%20Basic.zip",
               "04 MISBENDER": "https://github.com/injctr/large/raw/main/Aldous/Misbenders/Aldous%20Mistbenders%20-%20Basic.zip",
-              "05 M1": "https://github.com/injctr/large/raw/main/Aldous/M1/Aldous%20M1%20-%20Basic.zip"
+              "05 M1": "https://github.com/injctr/large/raw/main/Aldous/M1/Aldous%20M1%20-%20Basic.zip",
+              "06 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Aldous/Annual%20Starlight/Aldous%20Annual%20Star%20-%20Basic.zip"
             },
             "second_link": {
               "01 BLAZING BOUNTIES": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Blazing/Aldous%20Blazing%20-%20Basic.zip",
               "02 COLLECTOR": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Collector/Aldous%20Collector%20-%20Basic.zip",
               "03 TRANSFORMERS": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Transformers/Aldous%20Transformers%20-%20Basic.zip",
               "04 MISBENDER": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Misbenders/Aldous%20Mistbenders%20-%20Basic.zip",
-              "05 M1": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/M1/Aldous%20M1%20-%20Basic.zip"
+              "05 M1": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/M1/Aldous%20M1%20-%20Basic.zip",
+              "06 ANNUAL STARLIGHT": "unavailable"
             }
           },
           "03 ELITE": {
@@ -342,14 +346,16 @@
               "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Aldous/Collector/Aldous%20Collector%20-%20Elite.zip",
               "03 TRANSFORMERS": "https://github.com/injctr/large/raw/main/Aldous/Transformers/Aldous%20Transformers%20-%20Elite.zip",
               "04 MISBENDER": "https://github.com/injctr/large/raw/main/Aldous/Misbenders/Aldous%20Mistbenders%20-%20Elite.zip",
-              "05 M1": "https://github.com/injctr/large/raw/main/Aldous/M1/Aldous%20M1%20-%20Elite.zip"
+              "05 M1": "https://github.com/injctr/large/raw/main/Aldous/M1/Aldous%20M1%20-%20Elite.zip",
+              "06 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Aldous/Annual%20Starlight/Aldous%20Annual%20Star%20-%20Elite.zip"
             },
             "second_link": {
               "01 BLAZING BOUNTIES": "unavailable",
               "02 COLLECTOR": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Collector/Aldous%20Collector%20-%20Elite.zip",
               "03 TRANSFORMERS": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Transformers/Aldous%20Transformers%20-%20Elite.zip",
               "04 MISBENDER": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Misbenders/Aldous%20Mistbenders%20-%20Elite.zip",
-              "05 M1": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/M1/Aldous%20M1%20-%20Elite.zip"
+              "05 M1": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/M1/Aldous%20M1%20-%20Elite.zip",
+              "06 ANNUAL STARLIGHT": "unavailable"
             }
           },
           "04 STARLIGHT 2019": {
@@ -360,14 +366,16 @@
               "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Aldous/Collector/Aldous%20Collector%20-%20Starlight.zip",
               "03 TRANSFORMERS": "https://github.com/injctr/large/raw/main/Aldous/Transformers/Aldous%20Transformers%20-%20Starlight.zip",
               "04 MISBENDER": "https://github.com/injctr/large/raw/main/Aldous/Misbenders/Aldous%20Mistbenders%20-%20Starlight.zip",
-              "05 M1": "https://github.com/injctr/large/raw/main/Aldous/M1/Aldous%20M1%20-%20Starlight.zip"
+              "05 M1": "https://github.com/injctr/large/raw/main/Aldous/M1/Aldous%20M1%20-%20Starlight.zip",
+              "06 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Aldous/Annual%20Starlight/Aldous%20Annual%20Star%20-%20Starlight.zip"
             },
             "second_link": {
               "01 BLAZING BOUNTIES": "unavailable",
               "02 COLLECTOR": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Collector/Aldous%20Collector%20-%20Starlight.zip",
               "03 TRANSFORMERS": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Transformers/Aldous%20Transformers%20-%20Starlight.zip",
               "04 MISBENDER": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Misbenders/Aldous%20Mistbenders%20-%20Starlight.zip",
-              "05 M1": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/M1/Aldous%20M1%20-%20Starlight.zip"
+              "05 M1": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/M1/Aldous%20M1%20-%20Starlight.zip",
+              "06 ANNUAL STARLIGHT": "unavailable"
             }
           },
           "05 BLAZING BOUNTIES": {
@@ -378,14 +386,16 @@
               "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Aldous/Collector/Aldous%20Collector%20-%20Blazing.zip",
               "03 TRANSFORMERS": "https://github.com/injctr/large/raw/main/Aldous/Transformers/Aldous%20Transformers%20-%20Blazing.zip",
               "04 MISBENDER": "https://github.com/injctr/large/raw/main/Aldous/Misbenders/Aldous%20Mistbenders%20-%20Blazing.zip",
-              "05 M1": "unavailable"
+              "05 M1": "unavailable",
+              "06 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Aldous/Annual%20Starlight/Aldous%20Annual%20Star%20-%20Blazing.zip"
             },
             "second_link": {
               "01 BLAZING BOUNTIES": "unavailable",
               "02 COLLECTOR": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Collector/Aldous%20Collector%20-%20Blazing.zip",
               "03 TRANSFORMERS": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Transformers/Aldous%20Transformers%20-%20Blazing.zip",
               "04 MISBENDER": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Misbenders/Aldous%20Mistbenders%20-%20Blazing.zip",
-              "05 M1": "unavailable"
+              "05 M1": "unavailable",
+              "06 ANNUAL STARLIGHT": "unavailable"
             }
           },
           "06 COLLECTOR": {
@@ -396,14 +406,16 @@
               "02 COLLECTOR": "unavailable",
               "03 TRANSFORMERS": "https://github.com/injctr/large/raw/main/Aldous/Transformers/Aldous%20Transformers%20-%20Collector.zip",
               "04 MISBENDER": "https://github.com/injctr/large/raw/main/Aldous/Misbenders/Aldous%20Mistbenders%20-%20Collector.zip",
-              "05 M1": "unavailable"
+              "05 M1": "unavailable",
+              "06 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Aldous/Annual%20Starlight/Aldous%20Annual%20Star%20-%20Collector.zip"
             },
             "second_link": {
               "01 BLAZING BOUNTIES": "unavailable",
               "02 COLLECTOR": "unavailable",
               "03 TRANSFORMERS": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Transformers/Aldous%20Transformers%20-%20Collector.zip",
               "04 MISBENDER": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Misbenders/Aldous%20Mistbenders%20-%20Collector.zip",
-              "05 M1": "unavailable"
+              "05 M1": "unavailable",
+              "06 ANNUAL STARLIGHT": "unavailable"
             }
           },
           "07 TRANSFORMERS": {
@@ -414,14 +426,16 @@
               "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Aldous/Collector/Aldous%20Collector%20-%20Transformers.zip",
               "03 TRANSFORMERS": "unavailable",
               "04 MISBENDER": "https://github.com/injctr/large/raw/main/Aldous/Misbenders/Aldous%20Mistbenders%20-%20Transformers.zip",
-              "05 M1": "unavailable"
+              "05 M1": "unavailable",
+              "06 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Aldous/Annual%20Starlight/Aldous%20Annual%20Star%20-%20Transformers.zip"
             },
             "second_link": {
               "01 BLAZING BOUNTIES": "unavailable",
               "02 COLLECTOR": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Collector/Aldous%20Collector%20-%20Transformers.zip",
               "03 TRANSFORMERS": "unavailable",
               "04 MISBENDER": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Misbenders/Aldous%20Mistbenders%20-%20Transformers.zip",
-              "05 M1": "unavailable"
+              "05 M1": "unavailable",
+              "06 ANNUAL STARLIGHT": "unavailable"
             }
           },
           "08 MISBENDER": {
@@ -432,14 +446,16 @@
               "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Aldous/Collector/Aldous%20Collector%20-%20Mistbenders.zip",
               "03 TRANSFORMERS": "https://github.com/injctr/large/raw/main/Aldous/Transformers/Aldous%20Transformers%20-%20Misbenders.zip",
               "04 MISBENDER": "unavailable",
-              "05 M1": "unavailable"
+              "05 M1": "unavailable",
+              "06 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Aldous/Annual%20Starlight/Aldous%20Annual%20Star%20-%20Mistbenders.zip"
             },
             "second_link": {
               "01 BLAZING BOUNTIES": "unavailable",
               "02 COLLECTOR": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Collector/Aldous%20Collector%20-%20Mistbenders.zip",
               "03 TRANSFORMERS": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Transformers/Aldous%20Transformers%20-%20Misbenders.zip",
               "04 MISBENDER": "unavailable",
-              "05 M1": "unavailable"
+              "05 M1": "unavailable",
+              "06 ANNUAL STARLIGHT": "unavailable"
             }
           },
           "09 M1": {
@@ -450,14 +466,16 @@
               "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Aldous/Collector/Aldous%20Collector%20-%20M1.zip",
               "03 TRANSFORMERS": "https://github.com/injctr/large/raw/main/Aldous/Transformers/Aldous%20Transformers%20-%20M1.zip",
               "04 MISBENDER": "https://github.com/injctr/large/raw/main/Aldous/Misbenders/Aldous%20Mistbenders%20-%20M1.zip",
-              "05 M1": "unavailable"
+              "05 M1": "unavailable",
+              "06 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Aldous/Annual%20Starlight/Aldous%20Annual%20Star%20-%20M1.zip"
             },
             "second_link": {
               "01 BLAZING BOUNTIES": "unavailable",
               "02 COLLECTOR": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Collector/Aldous%20Collector%20-%20M1.zip",
               "03 TRANSFORMERS": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Transformers/Aldous%20Transformers%20-%20M1.zip",
               "04 MISBENDER": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Misbenders/Aldous%20Mistbenders%20-%20M1.zip",
-              "05 M1": "unavailable"
+              "05 M1": "unavailable",
+              "06 ANNUAL STARLIGHT": "unavailable"
             }
           },
           "10 SPECIAL": {
@@ -468,14 +486,16 @@
               "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Aldous/Collector/Aldous%20Collector%20-%20Special.zip",
               "03 TRANSFORMERS": "unavailable",
               "04 MISBENDER": "unavailable",
-              "05 M1": "unavailable"
+              "05 M1": "unavailable",
+              "06 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Aldous/Annual%20Starlight/Aldous%20Annual%20Star%20-%20Special.zip"
             },
             "second_link": {
               "01 BLAZING BOUNTIES": "unavailable",
               "02 COLLECTOR": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Collector/Aldous%20Collector%20-%20Special.zip",
               "03 TRANSFORMERS": "unavailable",
               "04 MISBENDER": "unavailable",
-              "05 M1": "unavailable"
+              "05 M1": "unavailable",
+              "06 ANNUAL STARLIGHT": "unavailable"
             }
           }
         },
@@ -499,6 +519,10 @@
           "05 M1": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero645-icon.png/revision/latest?cb=20260424022523",
             "type2": "M1"
+          },
+          "06 ANNUAL STARLIGHT": {
+            "img2": "https://cdn.jsdelivr.net/gh/injctr/IMAGES@main/ANNUAL%20ALDOUS.png",
+            "type2": "Annual Starlight"
           }
         }
       },
@@ -6797,11 +6821,13 @@
             "type1": "Default",
             "type_links": {
               "01 EPIC": "https://github.com/injctr/large/raw/main/Grock/Epic/Grock%20Epic%20-%20Default.zip",
-              "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Grock/Collector/Grock%20Collector%20-%20Default.zip"
+              "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Grock/Collector/Grock%20Collector%20-%20Default.zip",
+              "03 FMVP": "https://github.com/injctr/large/raw/main/Grock/FMVP/Grock%20FMVP%20-%20Default.zip"
             },
             "second_link": {
               "01 EPIC": "unavailable",
-              "02 COLLECTOR": "unavailable"
+              "02 COLLECTOR": "unavailable",
+              "03 FMVP": "unavailable"
             }
           },
           "02 BASIC": {
@@ -6809,11 +6835,13 @@
             "type1": "Basic",
             "type_links": {
               "01 EPIC": "https://github.com/injctr/large/raw/main/Grock/Epic/Grock%20Epic%20-%20Basic.zip",
-              "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Grock/Collector/Grock%20Collector%20-%20Basic.zip"
+              "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Grock/Collector/Grock%20Collector%20-%20Basic.zip",
+              "03 FMVP": "https://github.com/injctr/large/raw/main/Grock/FMVP/Grock%20FMVP%20-%20Basic.zip"
             },
             "second_link": {
               "01 EPIC": "unavailable",
-              "02 COLLECTOR": "unavailable"
+              "02 COLLECTOR": "unavailable",
+              "03 FMVP": "unavailable"
             }
           },
           "03 ELITE": {
@@ -6821,11 +6849,13 @@
             "type1": "Elite",
             "type_links": {
               "01 EPIC": "https://github.com/injctr/large/raw/main/Grock/Epic/Grock%20Epic%20-%20Elite.zip",
-              "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Grock/Collector/Grock%20Collector%20-%20Elite.zip"
+              "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Grock/Collector/Grock%20Collector%20-%20Elite.zip",
+              "03 FMVP": "unavailable"
             },
             "second_link": {
               "01 EPIC": "unavailable",
-              "02 COLLECTOR": "unavailable"
+              "02 COLLECTOR": "unavailable",
+              "03 FMVP": "unavailable"
             }
           },
           "04 V.E.N.O.M.": {
@@ -6833,11 +6863,13 @@
             "type1": "V.E.N.O.M.",
             "type_links": {
               "01 EPIC": "unavailable",
-              "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Grock/Collector/Grock%20Collector%20-%20VENOM.zip"
+              "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Grock/Collector/Grock%20Collector%20-%20VENOM.zip",
+              "03 FMVP": "https://github.com/injctr/large/raw/main/Grock/FMVP/Grock%20FMVP%20-%20VENOM.zip"
             },
             "second_link": {
               "01 EPIC": "unavailable",
-              "02 COLLECTOR": "unavailable"
+              "02 COLLECTOR": "unavailable",
+              "03 FMVP": "unavailable"
             }
           },
           "05 STARLIGHT 2019": {
@@ -6845,11 +6877,13 @@
             "type1": "Starlight 2019",
             "type_links": {
               "01 EPIC": "https://github.com/injctr/large/raw/main/Grock/Epic/Grock%20Epic%20-%20Starlight.zip",
-              "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Grock/Collector/Grock%20Collector%20-%20Starlight.zip"
+              "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Grock/Collector/Grock%20Collector%20-%20Starlight.zip",
+              "03 FMVP": "https://github.com/injctr/large/raw/main/Grock/FMVP/Grock%20FMVP%20-%20Starlight.zip"
             },
             "second_link": {
               "01 EPIC": "unavailable",
-              "02 COLLECTOR": "unavailable"
+              "02 COLLECTOR": "unavailable",
+              "03 FMVP": "unavailable"
             }
           },
           "06 EPIC": {
@@ -6857,11 +6891,13 @@
             "type1": "Epic",
             "type_links": {
               "01 EPIC": "unavailable",
-              "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Grock/Collector/Grock%20Collector%20-%20Epic.zip"
+              "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Grock/Collector/Grock%20Collector%20-%20Epic.zip",
+              "03 FMVP": "https://github.com/injctr/large/raw/main/Grock/FMVP/Grock%20FMVP%20-%20Epic.zip"
             },
             "second_link": {
               "01 EPIC": "unavailable",
-              "02 COLLECTOR": "unavailable"
+              "02 COLLECTOR": "unavailable",
+              "03 FMVP": "unavailable"
             }
           },
           "07 SEASON 24": {
@@ -6869,11 +6905,13 @@
             "type1": "Season 24",
             "type_links": {
               "01 EPIC": "https://github.com/injctr/large/raw/main/Grock/Epic/Grock%20Epic%20-%20Season.zip",
-              "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Grock/Collector/Grock%20Collector%20-%20Season.zip"
+              "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Grock/Collector/Grock%20Collector%20-%20Season.zip",
+              "03 FMVP": "https://github.com/injctr/large/raw/main/Grock/FMVP/Grock%20FMVP%20-%20Season.zip"
             },
             "second_link": {
               "01 EPIC": "unavailable",
-              "02 COLLECTOR": "unavailable"
+              "02 COLLECTOR": "unavailable",
+              "03 FMVP": "unavailable"
             }
           },
           "08 SPECIAL": {
@@ -6881,11 +6919,13 @@
             "type1": "Special",
             "type_links": {
               "01 EPIC": "https://github.com/injctr/large/raw/main/Grock/Epic/Grock%20Epic%20-%20Special.zip",
-              "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Grock/Collector/Grock%20Collector%20-%20Special.zip"
+              "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Grock/Collector/Grock%20Collector%20-%20Special.zip",
+              "03 FMVP": "https://github.com/injctr/large/raw/main/Grock/FMVP/Grock%20FMVP%20-%20Special.zip"
             },
             "second_link": {
               "01 EPIC": "unavailable",
-              "02 COLLECTOR": "unavailable"
+              "02 COLLECTOR": "unavailable",
+              "03 FMVP": "unavailable"
             }
           }
         },
@@ -6897,6 +6937,10 @@
           "02 COLLECTOR": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Hero449-icon.png/revision/latest?cb=20260421220704",
             "type2": "Collector"
+          },
+          "03 FMVP": {
+            "img2": "https://cdn.jsdelivr.net/gh/injctr/IMAGES@main/FINALS%20MVP%20GROCK.png",
+            "type2": "FMVP"
           }
         }
       },
@@ -9156,14 +9200,16 @@
               "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20Default.zip",
               "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Kagura/Annual/Kagura%20Annual%20-%20Default.zip",
               "04 EXORCIST": "https://github.com/injctr/large/raw/main/Kagura/Exorcist/Kagura%20Exorcist%20-%20Default.zip",
-              "05 COULDS": "https://github.com/injctr/large/raw/main/Kagura/BTC/Kagura%20BTC%20-%20Default.zip"
+              "05 COULDS": "https://github.com/injctr/large/raw/main/Kagura/BTC/Kagura%20BTC%20-%20Default.zip",
+              "06 LEGEND": "https://github.com/injctr/large/raw/main/Kagura/Legend/Kagura%20Legend%20-%20Default.zip"
             },
             "second_link": {
               "01 LUCKYBOX": "unavailable",
               "02 LUCKYBOX": "unavailable",
               "03 ANNUAL STARLIGHT": "unavailable",
               "04 EXORCIST": "unavailable",
-              "05 COULDS": "unavailable"
+              "05 COULDS": "unavailable",
+              "06 LEGEND": "unavailable"
             }
           },
           "02 BASIC": {
@@ -9174,14 +9220,16 @@
               "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20Basic.zip",
               "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Kagura/Annual/Kagura%20Annual%20-%20Basic.zip",
               "04 EXORCIST": "https://github.com/injctr/large/raw/main/Kagura/Exorcist/Kagura%20Exorcist%20-%20Basic.zip",
-              "05 COULDS": "https://github.com/injctr/large/raw/main/Kagura/BTC/Kagura%20BTC%20-%20Basic.zip"
+              "05 COULDS": "https://github.com/injctr/large/raw/main/Kagura/BTC/Kagura%20BTC%20-%20Basic.zip",
+              "06 LEGEND": "https://github.com/injctr/large/raw/main/Kagura/Legend/Kagura%20Legend%20-%20Basic.zip"
             },
             "second_link": {
               "01 LUCKYBOX": "unavailable",
               "02 LUCKYBOX": "unavailable",
               "03 ANNUAL STARLIGHT": "unavailable",
               "04 EXORCIST": "unavailable",
-              "05 COULDS": "unavailable"
+              "05 COULDS": "unavailable",
+              "06 LEGEND": "unavailable"
             }
           },
           "03 SPECIAL": {
@@ -9192,14 +9240,16 @@
               "02 LUCKYBOX": "https://www.dropbox.com/scl/fi/lbqe3omc9plgd4juo5cx7/Kagura-Luckybox-Special-Cherry-Witch.zip?rlkey=hw2xu5vr08ura1mf9fso1sqzq&st=a4jmj0e5&dl=1",
               "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Kagura/Annual/Kagura%20Annual%20-%20Special.zip",
               "04 EXORCIST": "https://github.com/injctr/large/raw/main/Kagura/Exorcist/Kagura%20Exorcist%20-%20Special%20Cherry.zip",
-              "05 COULDS": "https://github.com/injctr/large/raw/main/Kagura/BTC/Kagura%20BTC%20-%20Special.zip"
+              "05 COULDS": "https://github.com/injctr/large/raw/main/Kagura/BTC/Kagura%20BTC%20-%20Special.zip",
+              "06 LEGEND": "https://github.com/injctr/large/raw/main/Kagura/Legend/Kagura%20Legend%20-%20Special%20Cherry%20Witch.zip"
             },
             "second_link": {
               "01 LUCKYBOX": "unavailable",
               "02 LUCKYBOX": "unavailable",
               "03 ANNUAL STARLIGHT": "unavailable",
               "04 EXORCIST": "unavailable",
-              "05 COULDS": "unavailable"
+              "05 COULDS": "unavailable",
+              "06 LEGEND": "unavailable"
             }
           },
           "04 SUMMER": {
@@ -9210,14 +9260,16 @@
               "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20Summer.zip",
               "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Kagura/Annual/Kagura%20Annual%20-%20Summer.zip",
               "04 EXORCIST": "https://github.com/injctr/large/raw/main/Kagura/Exorcist/Kagura%20Exorcist%20-%20Summer.zip",
-              "05 COULDS": "https://github.com/injctr/large/raw/main/Kagura/BTC/Kagura%20BTC%20-%20Summer.zip"
+              "05 COULDS": "https://github.com/injctr/large/raw/main/Kagura/BTC/Kagura%20BTC%20-%20Summer.zip",
+              "06 LEGEND": "https://github.com/injctr/large/raw/main/Kagura/Legend/Kagura%20Legend%20-%20Summer.zip"
             },
             "second_link": {
               "01 LUCKYBOX": "unavailable",
               "02 LUCKYBOX": "unavailable",
               "03 ANNUAL STARLIGHT": "unavailable",
               "04 EXORCIST": "unavailable",
-              "05 COULDS": "unavailable"
+              "05 COULDS": "unavailable",
+              "06 LEGEND": "unavailable"
             }
           },
           "05 LUCKYBOX": {
@@ -9228,14 +9280,16 @@
               "02 LUCKYBOX": "unavailable",
               "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Kagura/Annual/Kagura%20Annual%20-%20Luckybox.zip",
               "04 EXORCIST": "https://github.com/injctr/large/raw/main/Kagura/Exorcist/Kagura%20Exorcist%20-%20Luckybox.zip",
-              "05 COULDS": "https://github.com/injctr/large/raw/main/Kagura/BTC/Kagura%20BTC%20-%20Luckybox.zip"
+              "05 COULDS": "https://github.com/injctr/large/raw/main/Kagura/BTC/Kagura%20BTC%20-%20Luckybox.zip",
+              "06 LEGEND": "https://github.com/injctr/large/raw/main/Kagura/Legend/Kagura%20Legend%20-%20Luckybox.zip"
             },
             "second_link": {
               "01 LUCKYBOX": "unavailable",
               "02 LUCKYBOX": "unavailable",
               "03 ANNUAL STARLIGHT": "unavailable",
               "04 EXORCIST": "unavailable",
-              "05 COULDS": "unavailable"
+              "05 COULDS": "unavailable",
+              "06 LEGEND": "unavailable"
             }
           },
           "06 STARLIGHT 2021": {
@@ -9246,14 +9300,16 @@
               "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20Starlight.zip",
               "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Kagura/Annual/Kagura%20Annual%20-%20Starlight.zip",
               "04 EXORCIST": "https://github.com/injctr/large/raw/main/Kagura/Exorcist/Kagura%20Exorcist%20-%20Starlight.zip",
-              "05 COULDS": "https://github.com/injctr/large/raw/main/Kagura/BTC/Kagura%20BTC%20-%20Starlight.zip"
+              "05 COULDS": "https://github.com/injctr/large/raw/main/Kagura/BTC/Kagura%20BTC%20-%20Starlight.zip",
+              "06 LEGEND": "https://github.com/injctr/large/raw/main/Kagura/Legend/Kagura%20Legend%20-%20Starlight.zip"
             },
             "second_link": {
               "01 LUCKYBOX": "unavailable",
               "02 LUCKYBOX": "unavailable",
               "03 ANNUAL STARLIGHT": "unavailable",
               "04 EXORCIST": "unavailable",
-              "05 COULDS": "unavailable"
+              "05 COULDS": "unavailable",
+              "06 LEGEND": "unavailable"
             }
           },
           "07 ANNUAL STARLIGHT": {
@@ -9264,14 +9320,16 @@
               "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20Annual%20Starlight.zip",
               "03 ANNUAL STARLIGHT": "unavailable",
               "04 EXORCIST": "https://github.com/injctr/large/raw/main/Kagura/Exorcist/Kagura%20Exorcist%20-%20Annual%20Star.zip",
-              "05 COULDS": "unavailable"
+              "05 COULDS": "unavailable",
+              "06 LEGEND": "https://github.com/injctr/large/raw/main/Kagura/Legend/Kagura%20Legend%20-%20Annual%20Star.zip"
             },
             "second_link": {
               "01 LUCKYBOX": "unavailable",
               "02 LUCKYBOX": "unavailable",
               "03 ANNUAL STARLIGHT": "unavailable",
               "04 EXORCIST": "unavailable",
-              "05 COULDS": "unavailable"
+              "05 COULDS": "unavailable",
+              "06 LEGEND": "unavailable"
             }
           },
           "08 EXORCIST": {
@@ -9282,14 +9340,16 @@
               "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20Exorcist.zip",
               "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Kagura/Annual/Kagura%20Annual%20-%20Exorcist.zip",
               "04 EXORCIST": "unavailable",
-              "05 COULDS": "https://github.com/injctr/large/raw/main/Kagura/BTC/Kagura%20BTC%20-%20Exorcist.zip"
+              "05 COULDS": "https://github.com/injctr/large/raw/main/Kagura/BTC/Kagura%20BTC%20-%20Exorcist.zip",
+              "06 LEGEND": "https://github.com/injctr/large/raw/main/Kagura/Legend/Kagura%20Legend%20-%20Exorcist.zip"
             },
             "second_link": {
               "01 LUCKYBOX": "unavailable",
               "02 LUCKYBOX": "unavailable",
               "03 ANNUAL STARLIGHT": "unavailable",
               "04 EXORCIST": "unavailable",
-              "05 COULDS": "unavailable"
+              "05 COULDS": "unavailable",
+              "06 LEGEND": "unavailable"
             }
           },
           "09 COULDS": {
@@ -9300,14 +9360,16 @@
               "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20BTC.zip",
               "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Kagura/Annual/Kagura%20Annual%20-%20BTC.zip",
               "04 EXORCIST": "https://github.com/injctr/large/raw/main/Kagura/Exorcist/Kagura%20Exorcist%20-%20BTC.zip",
-              "05 COULDS": "unavailable"
+              "05 COULDS": "unavailable",
+              "06 LEGEND": "https://github.com/injctr/large/raw/main/Kagura/Legend/Kagura%20Legend%20-%20BTC.zip"
             },
             "second_link": {
               "01 LUCKYBOX": "unavailable",
               "02 LUCKYBOX": "unavailable",
               "03 ANNUAL STARLIGHT": "unavailable",
               "04 EXORCIST": "unavailable",
-              "05 COULDS": "unavailable"
+              "05 COULDS": "unavailable",
+              "06 LEGEND": "unavailable"
             }
           },
           "10 EPIC": {
@@ -9318,14 +9380,16 @@
               "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20Epic.zip",
               "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Kagura/Annual/Kagura%20Annual%20-%20Epic.zip",
               "04 EXORCIST": "https://github.com/injctr/large/raw/main/Kagura/Exorcist/Kagura%20Exorcist%20-%20Epic.zip",
-              "05 COULDS": "https://github.com/injctr/large/raw/main/Kagura/BTC/Kagura%20BTC%20-%20Epic.zip"
+              "05 COULDS": "https://github.com/injctr/large/raw/main/Kagura/BTC/Kagura%20BTC%20-%20Epic.zip",
+              "06 LEGEND": "https://github.com/injctr/large/raw/main/Kagura/Legend/Kagura%20Legend%20-%20Epic.zip"
             },
             "second_link": {
               "01 LUCKYBOX": "unavailable",
               "02 LUCKYBOX": "unavailable",
               "03 ANNUAL STARLIGHT": "unavailable",
               "04 EXORCIST": "unavailable",
-              "05 COULDS": "unavailable"
+              "05 COULDS": "unavailable",
+              "06 LEGEND": "unavailable"
             }
           },
           "11 SPECIAL": {
@@ -9336,14 +9400,16 @@
               "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20Special.zip",
               "03 ANNUAL STARLIGHT": "unavailable",
               "04 EXORCIST": "unavailable",
-              "05 COULDS": "unavailable"
+              "05 COULDS": "unavailable",
+              "06 LEGEND": "https://github.com/injctr/large/raw/main/Kagura/Legend/Kagura%20Legend%20-%20Special%20Lady%20Parasol.zip"
             },
             "second_link": {
               "01 LUCKYBOX": "unavailable",
               "02 LUCKYBOX": "unavailable",
               "03 ANNUAL STARLIGHT": "unavailable",
               "04 EXORCIST": "unavailable",
-              "05 COULDS": "unavailable"
+              "05 COULDS": "unavailable",
+              "06 LEGEND": "unavailable"
             }
           }
         },
@@ -9367,6 +9433,10 @@
           "05 COULDS": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero259-icon.png/revision/latest?cb=20230805043931",
             "type2": "Coulds"
+          },
+          "06 LEGEND": {
+            "img2": "https://github.com/injctr/IMAGES/raw/main/LEGEND%20KAGURA.png",
+            "type2": "Legend"
           }
         }
       },
@@ -10412,70 +10482,84 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Hero371-icon.png/revision/latest?cb=20241021145417",
             "type1": "Default",
             "type_links": {
-              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Lapu-Lapu/Collector/Lapu-Lapu%20Collector%20-%20Default.zip"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Lapu-Lapu/Collector/Lapu-Lapu%20Collector%20-%20Default.zip",
+              "02 M7 CHAMPION": "https://github.com/injctr/large/raw/main/Lapu-Lapu/Champion/Lapu-Lapu%20Champion%20-%20Default.zip"
             },
             "second_link": {
-              "01 COLLECTOR": "unavailable"
+              "01 COLLECTOR": "unavailable",
+              "02 M7 CHAMPION": "unavailable"
             }
           },
           "02 BASIC": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Hero372-icon.png/revision/latest?cb=20240311080653",
             "type1": "Basic",
             "type_links": {
-              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Lapu-Lapu/Collector/Lapu-Lapu%20Collector%20-%20Basic.zip"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Lapu-Lapu/Collector/Lapu-Lapu%20Collector%20-%20Basic.zip",
+              "02 M7 CHAMPION": "https://github.com/injctr/large/raw/main/Lapu-Lapu/Champion/Lapu-Lapu%20Champion%20-%20Basic.zip"
             },
             "second_link": {
-              "01 COLLECTOR": "unavailable"
+              "01 COLLECTOR": "unavailable",
+              "02 M7 CHAMPION": "unavailable"
             }
           },
           "03 ELITE": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hero373-icon.png/revision/latest?cb=20220126041801",
             "type1": "Elite",
             "type_links": {
-              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Lapu-Lapu/Collector/Lapu-Lapu%20Collector%20-%20Elite.zip"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Lapu-Lapu/Collector/Lapu-Lapu%20Collector%20-%20Elite.zip",
+              "02 M7 CHAMPION": "https://github.com/injctr/large/raw/main/Lapu-Lapu/Champion/Lapu-Lapu%20Champion%20-%20Elite.zip"
             },
             "second_link": {
-              "01 COLLECTOR": "unavailable"
+              "01 COLLECTOR": "unavailable",
+              "02 M7 CHAMPION": "unavailable"
             }
           },
           "04 SPECIAL": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Hero374-icon.png/revision/latest?cb=20220126041759",
             "type1": "Special",
             "type_links": {
-              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Lapu-Lapu/Collector/Lapu-Lapu%20Collector%20-%20Special.zip"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Lapu-Lapu/Collector/Lapu-Lapu%20Collector%20-%20Special.zip",
+              "02 M7 CHAMPION": "https://github.com/injctr/large/raw/main/Lapu-Lapu/Champion/Lapu-Lapu%20Champion%20-%20Special.zip"
             },
             "second_link": {
-              "01 COLLECTOR": "unavailable"
+              "01 COLLECTOR": "unavailable",
+              "02 M7 CHAMPION": "unavailable"
             }
           },
           "05 STARLIGHT 2021": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/5/5f/Hero375-icon.png/revision/latest?cb=20220126041757",
             "type1": "Starlight 2021",
             "type_links": {
-              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Lapu-Lapu/Collector/Lapu-Lapu%20Collector%20-%20Starlight.zip"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Lapu-Lapu/Collector/Lapu-Lapu%20Collector%20-%20Starlight.zip",
+              "02 M7 CHAMPION": "https://github.com/injctr/large/raw/main/Lapu-Lapu/Champion/Lapu-Lapu%20Champion%20-%20Starlight.zip"
             },
             "second_link": {
-              "01 COLLECTOR": "unavailable"
+              "01 COLLECTOR": "unavailable",
+              "02 M7 CHAMPION": "unavailable"
             }
           },
           "06 SEASON 28": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero376-icon.png/revision/latest?cb=20230317102454",
             "type1": "Season 28",
             "type_links": {
-              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Lapu-Lapu/Collector/Lapu-Lapu%20Collector%20-%20Season.zip"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Lapu-Lapu/Collector/Lapu-Lapu%20Collector%20-%20Season.zip",
+              "02 M7 CHAMPION": "unavailable"
             },
             "second_link": {
-              "01 COLLECTOR": "unavailable"
+              "01 COLLECTOR": "unavailable",
+              "02 M7 CHAMPION": "unavailable"
             }
           },
           "07 COLLECTOR": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/b/b2/Hero377-icon.png/revision/latest?cb=20240311080705",
             "type1": "Collector",
             "type_links": {
-              "01 COLLECTOR": "unavailable"
+              "01 COLLECTOR": "unavailable",
+              "02 M7 CHAMPION": "https://github.com/injctr/large/raw/main/Lapu-Lapu/Champion/Lapu-Lapu%20Champion%20-%20Collector.zip"
             },
             "second_link": {
-              "01 COLLECTOR": "unavailable"
+              "01 COLLECTOR": "unavailable",
+              "02 M7 CHAMPION": "unavailable"
             }
           }
         },
@@ -10483,6 +10567,10 @@
           "01 COLLECTOR": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b2/Hero377-icon.png/revision/latest?cb=20240311080705",
             "type2": "Collector"
+          },
+          "02 M7 CHAMPION": {
+            "img2": "https://github.com/injctr/IMAGES/raw/main/M7%20CHAMPION%20LAPU-LAPU.png",
+            "type2": "M7 Champion"
           }
         }
       },
@@ -12043,11 +12131,13 @@
             "type1": "Default",
             "type_links": {
               "01 NEOBEAST": "https://github.com/injctr/large/raw/main/Lylia/Neobeast/Lylia%20Neobeast%20-%20Default.zip",
-              "02 COVENANT": "https://github.com/injctr/large/raw/main/Lylia/Covenant/Lylia%20Covenant%20-%20Default.zip"
+              "02 COVENANT": "https://github.com/injctr/large/raw/main/Lylia/Covenant/Lylia%20Covenant%20-%20Default.zip",
+              "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Lylia/Collector/Lylia%20Collector%20-%20Default.zip"
             },
             "second_link": {
               "01 NEOBEAST": "unavailable",
-              "02 COVENANT": "unavailable"
+              "02 COVENANT": "unavailable",
+              "03 COLLECTOR": "unavailable"
             }
           },
           "02 BASIC": {
@@ -12055,11 +12145,13 @@
             "type1": "Basic",
             "type_links": {
               "01 NEOBEAST": "https://github.com/injctr/large/raw/main/Lylia/Neobeast/Lylia%20Neobeast%20-%20Basic.zip",
-              "02 COVENANT": "https://github.com/injctr/large/raw/main/Lylia/Covenant/Lylia%20Covenant%20-%20Basic.zip"
+              "02 COVENANT": "https://github.com/injctr/large/raw/main/Lylia/Covenant/Lylia%20Covenant%20-%20Basic.zip",
+              "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Lylia/Collector/Lylia%20Collector%20-%20Basic.zip"
             },
             "second_link": {
               "01 NEOBEAST": "unavailable",
-              "02 COVENANT": "unavailable"
+              "02 COVENANT": "unavailable",
+              "03 COLLECTOR": "unavailable"
             }
           },
           "03 ELITE": {
@@ -12067,11 +12159,13 @@
             "type1": "Elite",
             "type_links": {
               "01 NEOBEAST": "https://github.com/injctr/large/raw/main/Lylia/Neobeast/Lylia%20Neobeast%20-%20Elite.zip",
-              "02 COVENANT": "https://github.com/injctr/large/raw/main/Lylia/Covenant/Lylia%20Covenant%20-%20Elite.zip"
+              "02 COVENANT": "https://github.com/injctr/large/raw/main/Lylia/Covenant/Lylia%20Covenant%20-%20Elite.zip",
+              "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Lylia/Collector/Lylia%20Collector%20-%20Elite.zip"
             },
             "second_link": {
               "01 NEOBEAST": "unavailable",
-              "02 COVENANT": "unavailable"
+              "02 COVENANT": "unavailable",
+              "03 COLLECTOR": "unavailable"
             }
           },
           "04 SPECIAL": {
@@ -12079,11 +12173,13 @@
             "type1": "Special",
             "type_links": {
               "01 NEOBEAST": "https://github.com/injctr/large/raw/main/Lylia/Neobeast/Lylia%20Neobeast%20-%20Special.zip",
-              "02 COVENANT": "https://github.com/injctr/large/raw/main/Lylia/Covenant/Lylia%20Covenant%20-%20515.zip"
+              "02 COVENANT": "https://github.com/injctr/large/raw/main/Lylia/Covenant/Lylia%20Covenant%20-%20515.zip",
+              "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Lylia/Collector/Lylia%20Collector%20-%20Special.zip"
             },
             "second_link": {
               "01 NEOBEAST": "unavailable",
-              "02 COVENANT": "unavailable"
+              "02 COVENANT": "unavailable",
+              "03 COLLECTOR": "unavailable"
             }
           },
           "05 HALLOWEEN": {
@@ -12091,11 +12187,13 @@
             "type1": "Halloween",
             "type_links": {
               "01 NEOBEAST": "https://github.com/injctr/large/raw/main/Lylia/Neobeast/Lylia%20Neobeast%20-%20Halloween.zip",
-              "02 COVENANT": "https://github.com/injctr/large/raw/main/Lylia/Covenant/Lylia%20Covenant%20-%20Halloween.zip"
+              "02 COVENANT": "https://github.com/injctr/large/raw/main/Lylia/Covenant/Lylia%20Covenant%20-%20Halloween.zip",
+              "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Lylia/Collector/Lylia%20Collector%20-%20Halloween.zip"
             },
             "second_link": {
               "01 NEOBEAST": "unavailable",
-              "02 COVENANT": "unavailable"
+              "02 COVENANT": "unavailable",
+              "03 COLLECTOR": "unavailable"
             }
           },
           "06 NEOBEAST": {
@@ -12103,11 +12201,13 @@
             "type1": "Neobeast",
             "type_links": {
               "01 NEOBEAST": "unavailable",
-              "02 COVENANT": "unavailable"
+              "02 COVENANT": "unavailable",
+              "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Lylia/Collector/Lylia%20Collector%20-%20Neobeast.zip"
             },
             "second_link": {
               "01 NEOBEAST": "unavailable",
-              "02 COVENANT": "unavailable"
+              "02 COVENANT": "unavailable",
+              "03 COLLECTOR": "unavailable"
             }
           },
           "07 STARLIGHT 2024": {
@@ -12115,11 +12215,13 @@
             "type1": "Starlight 2024",
             "type_links": {
               "01 NEOBEAST": "https://github.com/injctr/large/raw/main/Lylia/Neobeast/Lylia%20Neobeast%20-%20Starlight.zip",
-              "02 COVENANT": "https://github.com/injctr/large/raw/main/Lylia/Covenant/Lylia%20Covenant%20-%20Starlight.zip"
+              "02 COVENANT": "https://github.com/injctr/large/raw/main/Lylia/Covenant/Lylia%20Covenant%20-%20Starlight.zip",
+              "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Lylia/Collector/Lylia%20Collector%20-%20Starlight.zip"
             },
             "second_link": {
               "01 NEOBEAST": "unavailable",
-              "02 COVENANT": "unavailable"
+              "02 COVENANT": "unavailable",
+              "03 COLLECTOR": "unavailable"
             }
           }
         },
@@ -12131,6 +12233,10 @@
           "02 COVENANT": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero869-icon.png/revision/latest?cb=20251107123322",
             "type2": "Covenant"
+          },
+          "03 COLLECTOR": {
+            "img2": "https://github.com/injctr/IMAGES/raw/main/COLLECTOR%20LYLIA.png",
+            "type2": "Collector"
           }
         }
       },
@@ -13983,7 +14089,7 @@
             "type2": "Starlight 2026"
           },
           "02 ASPIRANTS": {
-            "img2": "https://cdn.jsdelivr.net/gh/injctr/IMAGES@main/Obsidias%20Aspirants.jpg",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6f/Hero1304-icon.png/revision/latest?cb=20260817033415",
             "type2": "Aspirants"
           }
         }
@@ -15707,7 +15813,7 @@
             "type2": "Epic"
           },
           "08 ASPIRANTS": {
-            "img2": "https://cdn.jsdelivr.net/gh/injctr/IMAGES@main/Selenas%20Aspirants.jpg",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero106312-icon.png/revision/latest?cb=20260817033717",
             "type2": "Aspirants"
           }
         }
@@ -16636,12 +16742,14 @@
             "type_links": {
               "01 STARLIGHT 2023": "unavailable",
               "02 COLLECTOR": "https://www.dropbox.com/scl/fi/v5zftlputreronaiikkid/Valentina-Collector-Default.zip?rlkey=5n79pl0awgr9vfgl35312m4ba&st=z8r1fwmu&dl=1",
-              "03 MSC 2024": "unavailable"
+              "03 MSC 2024": "unavailable",
+              "04 MYTHIC 2026": "https://github.com/injctr/large/raw/main/Valentina/Mythic/Valentina%20Mythic%20-%20Default.zip"
             },
             "second_link": {
               "01 STARLIGHT 2023": "unavailable",
               "02 COLLECTOR": "unavailable",
-              "03 MSC 2024": "unavailable"
+              "03 MSC 2024": "unavailable",
+              "04 MYTHIC 2026": "unavailable"
             }
           },
           "02 BASIC": {
@@ -16650,12 +16758,14 @@
             "type_links": {
               "01 STARLIGHT 2023": "unavailable",
               "02 COLLECTOR": "https://www.dropbox.com/scl/fi/g1al4s6lbqg8v868yekqe/Valentina-Collector-Basic.zip?rlkey=p8bnj837i05u5chl4j36cfwn2&st=s3eh9d9h&dl=1",
-              "03 MSC 2024": "unavailable"
+              "03 MSC 2024": "unavailable",
+              "04 MYTHIC 2026": "https://github.com/injctr/large/raw/main/Valentina/Mythic/Valentina%20Mythic%20-%20Basic.zip"
             },
             "second_link": {
               "01 STARLIGHT 2023": "unavailable",
               "02 COLLECTOR": "unavailable",
-              "03 MSC 2024": "unavailable"
+              "03 MSC 2024": "unavailable",
+              "04 MYTHIC 2026": "unavailable"
             }
           },
           "03 ELITE": {
@@ -16664,12 +16774,14 @@
             "type_links": {
               "01 STARLIGHT 2023": "unavailable",
               "02 COLLECTOR": "https://www.dropbox.com/scl/fi/m7dg8t9hxeyquqclnnmsw/Valentina-Collector-Elite.zip?rlkey=wt1vvs3kqvrzmhhq4cjfvsse1&st=0c1db28x&dl=1",
-              "03 MSC 2024": "unavailable"
+              "03 MSC 2024": "unavailable",
+              "04 MYTHIC 2026": "https://github.com/injctr/large/raw/main/Valentina/Mythic/Valentina%20Mythic%20-%20Elite.zip"
             },
             "second_link": {
               "01 STARLIGHT 2023": "unavailable",
               "02 COLLECTOR": "unavailable",
-              "03 MSC 2024": "unavailable"
+              "03 MSC 2024": "unavailable",
+              "04 MYTHIC 2026": "unavailable"
             }
           },
           "04 STARLIGHT 2023": {
@@ -16678,12 +16790,14 @@
             "type_links": {
               "01 STARLIGHT 2023": "unavailable",
               "02 COLLECTOR": "https://www.dropbox.com/scl/fi/km36jewib3f5ksvkiyyof/Valentina-Collector-Starlight.zip?rlkey=qbj8m0tnhcfcayrku78ff4v9n&st=ze9cmz4x&dl=1",
-              "03 MSC 2024": "unavailable"
+              "03 MSC 2024": "unavailable",
+              "04 MYTHIC 2026": "https://github.com/injctr/large/raw/main/Valentina/Mythic/Valentina%20Mythic%20-%20Starlight.zip"
             },
             "second_link": {
               "01 STARLIGHT 2023": "unavailable",
               "02 COLLECTOR": "unavailable",
-              "03 MSC 2024": "unavailable"
+              "03 MSC 2024": "unavailable",
+              "04 MYTHIC 2026": "unavailable"
             }
           },
           "05 COLLECTOR": {
@@ -16692,12 +16806,14 @@
             "type_links": {
               "01 STARLIGHT 2023": "unavailable",
               "02 COLLECTOR": "unavailable",
-              "03 MSC 2024": "unavailable"
+              "03 MSC 2024": "unavailable",
+              "04 MYTHIC 2026": "https://github.com/injctr/large/raw/main/Valentina/Mythic/Valentina%20Mythic%20-%20Collector.zip"
             },
             "second_link": {
               "01 STARLIGHT 2023": "unavailable",
               "02 COLLECTOR": "unavailable",
-              "03 MSC 2024": "unavailable"
+              "03 MSC 2024": "unavailable",
+              "04 MYTHIC 2026": "unavailable"
             }
           },
           "06 MSC 2024": {
@@ -16706,12 +16822,14 @@
             "type_links": {
               "01 STARLIGHT 2023": "unavailable",
               "02 COLLECTOR": "https://www.dropbox.com/scl/fi/acn2z1if05bvip4cs8p2o/Valentina-Collector-MSC.zip?rlkey=o3tjsfnlhud5ir71ycjazfuwn&st=gu8zavwa&dl=1",
-              "03 MSC 2024": "unavailable"
+              "03 MSC 2024": "unavailable",
+              "04 MYTHIC 2026": "https://github.com/injctr/large/raw/main/Valentina/Mythic/Valentina%20Mythic%20-%20MSC.zip"
             },
             "second_link": {
               "01 STARLIGHT 2023": "unavailable",
               "02 COLLECTOR": "unavailable",
-              "03 MSC 2024": "unavailable"
+              "03 MSC 2024": "unavailable",
+              "04 MYTHIC 2026": "unavailable"
             }
           },
           "07 SEASON 38": {
@@ -16720,12 +16838,14 @@
             "type_links": {
               "01 STARLIGHT 2023": "unavailable",
               "02 COLLECTOR": "unavailable",
-              "03 MSC 2024": "unavailable"
+              "03 MSC 2024": "unavailable",
+              "04 MYTHIC 2026": "https://github.com/injctr/large/raw/main/Valentina/Mythic/Valentina%20Mythic%20-%20Season.zip"
             },
             "second_link": {
               "01 STARLIGHT 2023": "unavailable",
               "02 COLLECTOR": "unavailable",
-              "03 MSC 2024": "unavailable"
+              "03 MSC 2024": "unavailable",
+              "04 MYTHIC 2026": "unavailable"
             }
           }
         },
@@ -16739,8 +16859,12 @@
             "type2": "Collector"
           },
           "03 MSC 2024": {
-            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Hero1106-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619180532",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero1106-icon.png/revision/latest?cb=20241013071701",
             "type2": "MSC 2024"
+          },
+          "04 MYTHIC 2026": {
+            "img2": "https://cdn.jsdelivr.net/gh/injctr/IMAGES@main/MYTHIC%20VALENTINA.png",
+            "type2": "Mythic 2026"
           }
         }
       },
@@ -20081,6 +20205,46 @@
       }
     },
     "Latest": {
+      "Selena_08 ASPIRANTS": {
+        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero106312-icon.png/revision/latest?cb=20260817033717",
+        "type2": "Aspirants",
+        "key": "Selena"
+      },
+      "Obsidia_02 ASPIRANTS": {
+        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6f/Hero1304-icon.png/revision/latest?cb=20260817033415",
+        "type2": "Aspirants",
+        "key": "Obsidia"
+      },
+      "Kagura_06 LEGEND": {
+        "img2": "https://github.com/injctr/IMAGES/raw/main/LEGEND%20KAGURA.png",
+        "type2": "Legend",
+        "key": "Kagura"
+      },
+      "Lylia_03 COLLECTOR": {
+        "img2": "https://github.com/injctr/IMAGES/raw/main/COLLECTOR%20LYLIA.png",
+        "type2": "Collector",
+        "key": "Lylia"
+      },
+      "Lapu-Lapu_02 M7 CHAMPION": {
+        "img2": "https://github.com/injctr/IMAGES/raw/main/M7%20CHAMPION%20LAPU-LAPU.png",
+        "type2": "M7 Champion",
+        "key": "Lapu-Lapu"
+      },
+      "Grock_03 FMVP": {
+        "img2": "https://cdn.jsdelivr.net/gh/injctr/IMAGES@main/FINALS%20MVP%20GROCK.png",
+        "type2": "FMVP",
+        "key": "Grock"
+      },
+      "Valentina_04 MYTHIC 2026": {
+        "img2": "https://cdn.jsdelivr.net/gh/injctr/IMAGES@main/MYTHIC%20VALENTINA.png",
+        "type2": "Mythic 2026",
+        "key": "Valentina"
+      },
+      "Aldous_06 ANNUAL STARLIGHT": {
+        "img2": "https://cdn.jsdelivr.net/gh/injctr/IMAGES@main/ANNUAL%20ALDOUS.png",
+        "type2": "Annual Starlight",
+        "key": "Aldous"
+      },
       "Masha_01 KOF": {
         "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero887-icon.png/revision/latest?cb=20240430024311",
         "type2": "KOF",
@@ -20160,16 +20324,6 @@
         "img2": "https://cdn.jsdelivr.net/gh/injctr/IMAGES@main/Zilongs%20Create%20skin.jpg",
         "type2": "Create",
         "key": "Zilong"
-      },
-      "Selena_08 ASPIRANTS": {
-        "img2": "https://cdn.jsdelivr.net/gh/injctr/IMAGES@main/Selenas%20Aspirants.jpg",
-        "type2": "Aspirants",
-        "key": "Selena"
-      },
-      "Obsidia_02 ASPIRANTS": {
-        "img2": "https://cdn.jsdelivr.net/gh/injctr/IMAGES@main/Obsidias%20Aspirants.jpg",
-        "type2": "Aspirants",
-        "key": "Obsidia"
       },
       "Layla_04 10TH COLLECTOR": {
         "img2": "https://cdn.jsdelivr.net/gh/injctr/IMAGES@main/Layla%2010th.jpg",
