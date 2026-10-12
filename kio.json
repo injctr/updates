@@ -5,7 +5,7 @@
       "allow": "no",
       "allow_earning_points": "yes",
       "version": "3.0",
-      "message": "[RECENT SKIN UPDATE]\n- Selena Aspirants Update\n- Obsidia Aspirants Update\n- Kagura Legend\n- Lylia Collector\n- Lapu-Lapu M7 Champion\n- Grock FMVP\n- Valentina Mythic 2026\n- Aldous Annual Starlight",
+      "message": "[RECENT SKIN UPDATE]\n- Kagura Legend\n- Selena Aspirants Update\n- Obsidia Aspirants Update\n- Lylia Collector\n- Lapu-Lapu M7 Champion\n- Grock FMVP\n- Valentina Mythic 2026\n- Aldous Annual Starlight",
       "link": "https://youtu.be/xbIvKsNt9oI",
       "live": "no",
       "live_link": "",
@@ -9281,7 +9281,7 @@
               "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Kagura/Annual/Kagura%20Annual%20-%20Luckybox.zip",
               "04 EXORCIST": "https://github.com/injctr/large/raw/main/Kagura/Exorcist/Kagura%20Exorcist%20-%20Luckybox.zip",
               "05 COULDS": "https://github.com/injctr/large/raw/main/Kagura/BTC/Kagura%20BTC%20-%20Luckybox.zip",
-              "06 LEGEND": "https://github.com/injctr/large/raw/main/Kagura/Legend/Kagura%20Legend%20-%20Luckybox.zip"
+              "06 LEGEND": "unavailable"
             },
             "second_link": {
               "01 LUCKYBOX": "unavailable",
@@ -9341,7 +9341,7 @@
               "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Kagura/Annual/Kagura%20Annual%20-%20Exorcist.zip",
               "04 EXORCIST": "unavailable",
               "05 COULDS": "https://github.com/injctr/large/raw/main/Kagura/BTC/Kagura%20BTC%20-%20Exorcist.zip",
-              "06 LEGEND": "https://github.com/injctr/large/raw/main/Kagura/Legend/Kagura%20Legend%20-%20Exorcist.zip"
+              "06 LEGEND": "unavailable"
             },
             "second_link": {
               "01 LUCKYBOX": "unavailable",
@@ -9381,7 +9381,7 @@
               "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Kagura/Annual/Kagura%20Annual%20-%20Epic.zip",
               "04 EXORCIST": "https://github.com/injctr/large/raw/main/Kagura/Exorcist/Kagura%20Exorcist%20-%20Epic.zip",
               "05 COULDS": "https://github.com/injctr/large/raw/main/Kagura/BTC/Kagura%20BTC%20-%20Epic.zip",
-              "06 LEGEND": "https://github.com/injctr/large/raw/main/Kagura/Legend/Kagura%20Legend%20-%20Epic.zip"
+              "06 LEGEND": "unavailable"
             },
             "second_link": {
               "01 LUCKYBOX": "unavailable",
@@ -20205,6 +20205,11 @@
       }
     },
     "Latest": {
+      "Kagura_06 LEGEND": {
+        "img2": "https://github.com/injctr/IMAGES/raw/main/LEGEND%20KAGURA.png",
+        "type2": "Legend",
+        "key": "Kagura"
+      },
       "Selena_08 ASPIRANTS": {
         "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero106312-icon.png/revision/latest?cb=20260817033717",
         "type2": "Aspirants",
@@ -20214,11 +20219,6 @@
         "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6f/Hero1304-icon.png/revision/latest?cb=20260817033415",
         "type2": "Aspirants",
         "key": "Obsidia"
-      },
-      "Kagura_06 LEGEND": {
-        "img2": "https://github.com/injctr/IMAGES/raw/main/LEGEND%20KAGURA.png",
-        "type2": "Legend",
-        "key": "Kagura"
       },
       "Lylia_03 COLLECTOR": {
         "img2": "https://github.com/injctr/IMAGES/raw/main/COLLECTOR%20LYLIA.png",
