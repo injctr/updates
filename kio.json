@@ -17,7 +17,7 @@
       "task_title": "Dialy Task",
       "task_message": "Watch the video for at least 30 seconds to claim.",
       "task_link": "https://youtu.be/P20vL4JQ0Kk",
-      "task_cancellable": "no"
+      "task_cancellable": "yes"
     },
     "Hero": {
       "Aamon": {
