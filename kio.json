@@ -5,7 +5,7 @@
       "allow": "no",
       "allow_earning_points": "yes",
       "version": "3.0",
-      "message": "[RECENT SKIN UPDATE]\n- Kagura Legend\n- Selena Aspirants Update\n- Obsidia Aspirants Update\n- Lylia Collector\n- Lapu-Lapu M7 Champion\n- Grock FMVP\n- Valentina Mythic 2026\n- Aldous Annual Starlight",
+      "message": "[RECENT SKIN UPDATE]\n- Bane Mr. Crabs\n- Suyou Starlight\n- Kagura Legend\n- Selena Aspirants Update\n- Obsidia Aspirants Update\n- Lylia Collector\n- Lapu-Lapu M7 Champion\n- Grock FMVP\n- Valentina Mythic 2026\n- Aldous Annual Starlight",
       "link": "https://youtu.be/xbIvKsNt9oI",
       "live": "no",
       "live_link": "",
@@ -2132,12 +2132,14 @@
             "type_links": {
               "01 EPIC CASTLE MASTER": "https://github.com/injctr/large/raw/main/Bane/Epic%20Castle/Bane%20Epic%20Castle%20-%20Default.zip",
               "02 EPIC SOUL DEFILER": "https://github.com/injctr/large/raw/main/Bane/Epic%20Soul/Bane%20Epic%20Soul%20-%20Default.zip",
-              "03 STARLIGHT": "https://github.com/injctr/large/raw/main/Bane/Starlight/Bane%20Starlight%20-%20Default.zip"
+              "03 STARLIGHT": "https://github.com/injctr/large/raw/main/Bane/Starlight/Bane%20Starlight%20-%20Default.zip",
+              "04 MR. CRABS": "https://github.com/injctr/large/raw/main/Bane/Mr%20Crabs/Bane%20Mr.%20Krabs%20-%20Default.zip"
             },
             "second_link": {
               "01 EPIC CASTLE MASTER": "unavailable",
               "02 EPIC SOUL DEFILER": "unavailable",
-              "03 STARLIGHT": "unavailable"
+              "03 STARLIGHT": "unavailable",
+              "04 MR. CRABS": "unavailable"
             }
           },
           "02 BASIC": {
@@ -2146,12 +2148,14 @@
             "type_links": {
               "01 EPIC CASTLE MASTER": "https://github.com/injctr/large/raw/main/Bane/Epic%20Castle/Bane%20Epic%20Castle%20-%20Basic.zip",
               "02 EPIC SOUL DEFILER": "https://github.com/injctr/large/raw/main/Bane/Epic%20Soul/Bane%20Epic%20Soul%20-%20Basic.zip",
-              "03 STARLIGHT": "https://github.com/injctr/large/raw/main/Bane/Starlight/Bane%20Starlight%20-%20Basic.zip"
+              "03 STARLIGHT": "https://github.com/injctr/large/raw/main/Bane/Starlight/Bane%20Starlight%20-%20Basic.zip",
+              "04 MR. CRABS": "https://github.com/injctr/large/raw/main/Bane/Mr%20Crabs/Bane%20Mr.%20Krabs%20-%20Basic.zip"
             },
             "second_link": {
               "01 EPIC CASTLE MASTER": "unavailable",
               "02 EPIC SOUL DEFILER": "unavailable",
-              "03 STARLIGHT": "unavailable"
+              "03 STARLIGHT": "unavailable",
+              "04 MR. CRABS": "unavailable"
             }
           },
           "03 SEASON 11": {
@@ -2160,12 +2164,14 @@
             "type_links": {
               "01 EPIC CASTLE MASTER": "https://github.com/injctr/large/raw/main/Bane/Epic%20Castle/Bane%20Epic%20Castle%20-%20Season.zip",
               "02 EPIC SOUL DEFILER": "https://github.com/injctr/large/raw/main/Bane/Epic%20Soul/Bane%20Epic%20Soul%20-%20Season.zip",
-              "03 STARLIGHT": "https://github.com/injctr/large/raw/main/Bane/Starlight/Bane%20Starlight%20-%20Season.zip"
+              "03 STARLIGHT": "https://github.com/injctr/large/raw/main/Bane/Starlight/Bane%20Starlight%20-%20Season.zip",
+              "04 MR. CRABS": "https://github.com/injctr/large/raw/main/Bane/Mr%20Crabs/Bane%20Mr.%20Krabs%20-%20Season.zip"
             },
             "second_link": {
               "01 EPIC CASTLE MASTER": "unavailable",
               "02 EPIC SOUL DEFILER": "unavailable",
-              "03 STARLIGHT": "unavailable"
+              "03 STARLIGHT": "unavailable",
+              "04 MR. CRABS": "unavailable"
             }
           },
           "04 ELITE": {
@@ -2174,12 +2180,14 @@
             "type_links": {
               "01 EPIC CASTLE MASTER": "https://github.com/injctr/large/raw/main/Bane/Epic%20Castle/Bane%20Epic%20Castle%20-%20Elite.zip",
               "02 EPIC SOUL DEFILER": "https://github.com/injctr/large/raw/main/Bane/Epic%20Soul/Bane%20Epic%20Soul%20-%20Elite.zip",
-              "03 STARLIGHT": "https://github.com/injctr/large/raw/main/Bane/Starlight/Bane%20Starlight%20-%20Elite.zip"
+              "03 STARLIGHT": "https://github.com/injctr/large/raw/main/Bane/Starlight/Bane%20Starlight%20-%20Elite.zip",
+              "04 MR. CRABS": "https://github.com/injctr/large/raw/main/Bane/Mr%20Crabs/Bane%20Mr.%20Krabs%20-%20Elite.zip"
             },
             "second_link": {
               "01 EPIC CASTLE MASTER": "unavailable",
               "02 EPIC SOUL DEFILER": "unavailable",
-              "03 STARLIGHT": "unavailable"
+              "03 STARLIGHT": "unavailable",
+              "04 MR. CRABS": "unavailable"
             }
           },
           "05 EPIC 1": {
@@ -2188,12 +2196,14 @@
             "type_links": {
               "01 EPIC CASTLE MASTER": "unavailable",
               "02 EPIC SOUL DEFILER": "https://github.com/injctr/large/raw/main/Bane/Epic%20Soul/Bane%20Epic%20Soul%20-%20Epic%20Castle.zip",
-              "03 STARLIGHT": "https://github.com/injctr/large/raw/main/Bane/Starlight/Bane%20Starlight%20-%20Epic%20Castle.zip"
+              "03 STARLIGHT": "https://github.com/injctr/large/raw/main/Bane/Starlight/Bane%20Starlight%20-%20Epic%20Castle.zip",
+              "04 MR. CRABS": "https://github.com/injctr/large/raw/main/Bane/Mr%20Crabs/Bane%20Mr.%20Krabs%20-%20Epic%20Castle.zip"
             },
             "second_link": {
               "01 EPIC CASTLE MASTER": "unavailable",
               "02 EPIC SOUL DEFILER": "unavailable",
-              "03 STARLIGHT": "unavailable"
+              "03 STARLIGHT": "unavailable",
+              "04 MR. CRABS": "unavailable"
             }
           },
           "06 EPIC 2": {
@@ -2202,12 +2212,14 @@
             "type_links": {
               "01 EPIC CASTLE MASTER": "https://github.com/injctr/large/raw/main/Bane/Epic%20Castle/Bane%20Epic%20Castle%20-%20Epic%20Soul.zip",
               "02 EPIC SOUL DEFILER": "unavailable",
-              "03 STARLIGHT": "https://github.com/injctr/large/raw/main/Bane/Starlight/Bane%20Starlight%20-%20Epic%20Soul.zip"
+              "03 STARLIGHT": "https://github.com/injctr/large/raw/main/Bane/Starlight/Bane%20Starlight%20-%20Epic%20Soul.zip",
+              "04 MR. CRABS": "https://github.com/injctr/large/raw/main/Bane/Mr%20Crabs/Bane%20Mr.%20Krabs%20-%20Epic%20Soul.zip"
             },
             "second_link": {
               "01 EPIC CASTLE MASTER": "unavailable",
               "02 EPIC SOUL DEFILER": "unavailable",
-              "03 STARLIGHT": "unavailable"
+              "03 STARLIGHT": "unavailable",
+              "04 MR. CRABS": "unavailable"
             }
           },
           "07 STARLIGHT": {
@@ -2216,12 +2228,14 @@
             "type_links": {
               "01 EPIC CASTLE MASTER": "unavailable",
               "02 EPIC SOUL DEFILER": "unavailable",
-              "03 STARLIGHT": "unavailable"
+              "03 STARLIGHT": "unavailable",
+              "04 MR. CRABS": "https://github.com/injctr/large/raw/main/Bane/Mr%20Crabs/Bane%20Mr.%20Krabs%20-%20Starlight.zip"
             },
             "second_link": {
               "01 EPIC CASTLE MASTER": "unavailable",
               "02 EPIC SOUL DEFILER": "unavailable",
-              "03 STARLIGHT": "unavailable"
+              "03 STARLIGHT": "unavailable",
+              "04 MR. CRABS": "unavailable"
             }
           }
         },
@@ -2237,6 +2251,10 @@
           "03 STARLIGHT": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero117-icon.png/revision/latest?cb=20251001064155",
             "type2": "Starlight"
+          },
+          "04 MR. CRABS": {
+            "img2": "https://cdn.jsdelivr.net/gh/injctr/IMAGES@main/MR%20CRAB%20BANE.png",
+            "type2": "Mr. Crabs"
           }
         }
       },
@@ -16178,30 +16196,36 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero1261-icon.png/revision/latest?cb=20241021153421",
             "type1": "Default",
             "type_links": {
-              "01 NARUTO": "https://www.dropbox.com/scl/fi/m1hmam1atq68jh363gvhm/Suyou-Sasuke-Default.zip?rlkey=b08dds55n3n1otkt54jsqfis0&st=mczmjk4n&dl=1"
+              "01 NARUTO": "https://www.dropbox.com/scl/fi/m1hmam1atq68jh363gvhm/Suyou-Sasuke-Default.zip?rlkey=b08dds55n3n1otkt54jsqfis0&st=mczmjk4n&dl=1",
+              "02 STARLIGHT 2026": "https://github.com/injctr/large/raw/main/Suyou/Starlight/Suyou%20Starlight%20-%20Default.zip"
             },
             "second_link": {
-              "01 NARUTO": "unavailable"
+              "01 NARUTO": "unavailable",
+              "02 STARLIGHT 2026": "unavailable"
             }
           },
           "02 BASIC": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero1262-icon.png/revision/latest?cb=20240928232825",
             "type1": "Basic",
             "type_links": {
-              "01 NARUTO": "https://www.dropbox.com/scl/fi/okczdszhabd3asjyr1als/Suyou-Sasuke-Basic.zip?rlkey=juwhhxqaxtvb5d4w5g285753d&st=e4z6uido&dl=1"
+              "01 NARUTO": "https://www.dropbox.com/scl/fi/okczdszhabd3asjyr1als/Suyou-Sasuke-Basic.zip?rlkey=juwhhxqaxtvb5d4w5g285753d&st=e4z6uido&dl=1",
+              "02 STARLIGHT 2026": "https://github.com/injctr/large/raw/main/Suyou/Starlight/Suyou%20Starlight%20-%20Basic.zip"
             },
             "second_link": {
-              "01 NARUTO": "unavailable"
+              "01 NARUTO": "unavailable",
+              "02 STARLIGHT 2026": "unavailable"
             }
           },
           "03 NARUTO": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/6/6f/Hero1263-icon.png/revision/latest?cb=20250411100951",
             "type1": "Naruto",
             "type_links": {
-              "01 NARUTO": "unavailable"
+              "01 NARUTO": "unavailable",
+              "02 STARLIGHT 2026": "https://github.com/injctr/large/raw/main/Suyou/Starlight/Suyou%20Starlight%20-%20Sasuke.zip"
             },
             "second_link": {
-              "01 NARUTO": "unavailable"
+              "01 NARUTO": "unavailable",
+              "02 STARLIGHT 2026": "unavailable"
             }
           }
         },
@@ -16209,6 +16233,10 @@
           "01 NARUTO": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6f/Hero1263-icon.png/revision/latest?cb=20250411100951",
             "type2": "Naruto"
+          },
+          "02 STARLIGHT 2026": {
+            "img2": "https://cdn.jsdelivr.net/gh/injctr/IMAGES@main/STARLIGHT%20SUYOU.png",
+            "type2": "Starlight 2026"
           }
         }
       },
@@ -18559,7 +18587,7 @@
             "type2": "Lunar Fest"
           },
           "04 CREATE": {
-            "img2": "https://cdn.jsdelivr.net/gh/injctr/IMAGES@main/Zilongs%20Create%20skin.jpg",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero101613-icon.png/revision/latest?cb=20260923044022",
             "type2": "Create"
           }
         }
@@ -20205,6 +20233,21 @@
       }
     },
     "Latest": {
+      "Bane_04 MR. CRABS": {
+        "img2": "https://cdn.jsdelivr.net/gh/injctr/IMAGES@main/MR%20CRAB%20BANE.png",
+        "type2": "Mr. Crabs",
+        "key": "Bane"
+      },
+      "Suyou_02 STARLIGHT 2026": {
+        "img2": "https://cdn.jsdelivr.net/gh/injctr/IMAGES@main/STARLIGHT%20SUYOU.png",
+        "type2": "Starlight 2026",
+        "key": "Suyou"
+      },
+      "Zilong_04 CREATE": {
+        "img2": "https://cdn.jsdelivr.net/gh/injctr/IMAGES@main/Zilongs%20Create%20skin.jpg",
+        "type2": "Create",
+        "key": "Zilong"
+      },
       "Kagura_06 LEGEND": {
         "img2": "https://github.com/injctr/IMAGES/raw/main/LEGEND%20KAGURA.png",
         "type2": "Legend",
@@ -20319,11 +20362,6 @@
         "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero305-icon.png/revision/latest?cb=20220126042009",
         "type2": "Collector",
         "key": "Yi Sun-shin"
-      },
-      "Zilong_04 CREATE": {
-        "img2": "https://cdn.jsdelivr.net/gh/injctr/IMAGES@main/Zilongs%20Create%20skin.jpg",
-        "type2": "Create",
-        "key": "Zilong"
       },
       "Layla_04 10TH COLLECTOR": {
         "img2": "https://cdn.jsdelivr.net/gh/injctr/IMAGES@main/Layla%2010th.jpg",
