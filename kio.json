@@ -8622,8 +8622,8 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Hero1211-icon.png/revision/latest?cb=20241021153350",
             "type1": "Default",
             "type_links": {
-              "01 STARLIGHT 2024": "https://www.dropbox.com/scl/fi/mmkrt6rosdirct8pp0kv8/Ixia-Starlight-Default.zip?rlkey=58fbb45j9bysdbvjijxwhu3g0&st=mf9jymjt&dl=1",
-              "02 NETRO ZERO": "https://www.dropbox.com/scl/fi/ckrbf4h9fv54z1lo2unqj/Ixia-Metro-Zero-Default.zip?rlkey=8hj32wo4hv8y7un883g97ald1&st=p8c050ch&dl=1"
+              "01 STARLIGHT 2024": "https://github.com/injctr/large/raw/main/Ixia/Starlight/Ixia%20Starlight%20-%20Default.zip",
+              "02 NETRO ZERO": "https://github.com/injctr/large/raw/main/Ixia/Metro%20Zero/Ixia%20Metro%20Zero%20-%20Default.zip"
             },
             "second_link": {
               "01 STARLIGHT 2024": "unavailable",
@@ -8634,8 +8634,8 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero1212-icon.png/revision/latest?cb=20230623131011",
             "type1": "Basic",
             "type_links": {
-              "01 STARLIGHT 2024": "https://www.dropbox.com/scl/fi/rltgo1onl6veohjntisxa/Ixia-Starlight-Basic.zip?rlkey=ukvf30k5d7prc0mpecmth47ob&st=3irlgcjg&dl=1",
-              "02 NETRO ZERO": "https://www.dropbox.com/scl/fi/dwjv5spxxs27co759tj65/Ixia-Metro-Zero-Basic.zip?rlkey=neevqxeglq9cfgcwvyo17kiwh&st=7wcg8k2o&dl=1"
+              "01 STARLIGHT 2024": "https://github.com/injctr/large/raw/main/Ixia/Starlight/Ixia%20Starlight%20-%20Basic.zip",
+              "02 NETRO ZERO": "https://github.com/injctr/large/raw/main/Ixia/Metro%20Zero/Ixia%20Metro%20Zero%20-%20Basic.zip"
             },
             "second_link": {
               "01 STARLIGHT 2024": "unavailable",
@@ -8647,7 +8647,7 @@
             "type1": "Starlight 2024",
             "type_links": {
               "01 STARLIGHT 2024": "unavailable",
-              "02 NETRO ZERO": "https://www.dropbox.com/scl/fi/l53an7khlhz0povqks17r/Ixia-Metro-Zero-Starlight.zip?rlkey=gnw3ydjhodsl7fnvnpx7dg58c&st=jf7xrzxi&dl=1"
+              "02 NETRO ZERO": "https://github.com/injctr/large/raw/main/Ixia/Metro%20Zero/Ixia%20Metro%20Zero%20-%20Starlight.zip"
             },
             "second_link": {
               "01 STARLIGHT 2024": "unavailable",
@@ -9215,7 +9215,7 @@
             "type1": "Default",
             "type_links": {
               "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20Default.zip",
-              "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20Default.zip",
+              "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/New%20Luckybox/Kagura%20Luckybox%20-%20Default.zip",
               "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Kagura/Annual/Kagura%20Annual%20-%20Default.zip",
               "04 EXORCIST": "https://github.com/injctr/large/raw/main/Kagura/Exorcist/Kagura%20Exorcist%20-%20Default.zip",
               "05 COULDS": "https://github.com/injctr/large/raw/main/Kagura/BTC/Kagura%20BTC%20-%20Default.zip",
@@ -9235,7 +9235,7 @@
             "type1": "Basic",
             "type_links": {
               "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20Basic.zip",
-              "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20Basic.zip",
+              "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/New%20Luckybox/Kagura%20Luckybox%20-%20Basic.zip",
               "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Kagura/Annual/Kagura%20Annual%20-%20Basic.zip",
               "04 EXORCIST": "https://github.com/injctr/large/raw/main/Kagura/Exorcist/Kagura%20Exorcist%20-%20Basic.zip",
               "05 COULDS": "https://github.com/injctr/large/raw/main/Kagura/BTC/Kagura%20BTC%20-%20Basic.zip",
@@ -9255,7 +9255,7 @@
             "type1": "Special",
             "type_links": {
               "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20Special.zip",
-              "02 LUCKYBOX": "https://www.dropbox.com/scl/fi/lbqe3omc9plgd4juo5cx7/Kagura-Luckybox-Special-Cherry-Witch.zip?rlkey=hw2xu5vr08ura1mf9fso1sqzq&st=a4jmj0e5&dl=1",
+              "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/New%20Luckybox/Kagura%20Luckybox%20-%20Special%20Cherry%20Witch.zip",
               "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Kagura/Annual/Kagura%20Annual%20-%20Special.zip",
               "04 EXORCIST": "https://github.com/injctr/large/raw/main/Kagura/Exorcist/Kagura%20Exorcist%20-%20Special%20Cherry.zip",
               "05 COULDS": "https://github.com/injctr/large/raw/main/Kagura/BTC/Kagura%20BTC%20-%20Special.zip",
@@ -9275,7 +9275,7 @@
             "type1": "Summer",
             "type_links": {
               "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20Summer.zip",
-              "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20Summer.zip",
+              "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/New%20Luckybox/Kagura%20Luckybox%20-%20Summer.zip",
               "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Kagura/Annual/Kagura%20Annual%20-%20Summer.zip",
               "04 EXORCIST": "https://github.com/injctr/large/raw/main/Kagura/Exorcist/Kagura%20Exorcist%20-%20Summer.zip",
               "05 COULDS": "https://github.com/injctr/large/raw/main/Kagura/BTC/Kagura%20BTC%20-%20Summer.zip",
@@ -9315,7 +9315,7 @@
             "type1": "Starlight 2021",
             "type_links": {
               "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20Starlight.zip",
-              "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20Starlight.zip",
+              "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/New%20Luckybox/Kagura%20Luckybox%20-%20Starlight.zip",
               "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Kagura/Annual/Kagura%20Annual%20-%20Starlight.zip",
               "04 EXORCIST": "https://github.com/injctr/large/raw/main/Kagura/Exorcist/Kagura%20Exorcist%20-%20Starlight.zip",
               "05 COULDS": "https://github.com/injctr/large/raw/main/Kagura/BTC/Kagura%20BTC%20-%20Starlight.zip",
@@ -9335,7 +9335,7 @@
             "type1": "Annual Starlight",
             "type_links": {
               "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20Annual%20Starlight.zip",
-              "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20Annual%20Starlight.zip",
+              "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/New%20Luckybox/Kagura%20Luckybox%20-%20Annual%20Star.zip",
               "03 ANNUAL STARLIGHT": "unavailable",
               "04 EXORCIST": "https://github.com/injctr/large/raw/main/Kagura/Exorcist/Kagura%20Exorcist%20-%20Annual%20Star.zip",
               "05 COULDS": "unavailable",
@@ -9355,7 +9355,7 @@
             "type1": "Exorcist",
             "type_links": {
               "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20Exorcist.zip",
-              "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20Exorcist.zip",
+              "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/New%20Luckybox/Kagura%20Luckybox%20-%20Exorcists.zip",
               "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Kagura/Annual/Kagura%20Annual%20-%20Exorcist.zip",
               "04 EXORCIST": "unavailable",
               "05 COULDS": "https://github.com/injctr/large/raw/main/Kagura/BTC/Kagura%20BTC%20-%20Exorcist.zip",
@@ -9375,7 +9375,7 @@
             "type1": "Coulds",
             "type_links": {
               "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20BTC.zip",
-              "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20BTC.zip",
+              "02 LUCKYBOX": "unavailable",
               "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Kagura/Annual/Kagura%20Annual%20-%20BTC.zip",
               "04 EXORCIST": "https://github.com/injctr/large/raw/main/Kagura/Exorcist/Kagura%20Exorcist%20-%20BTC.zip",
               "05 COULDS": "unavailable",
@@ -9395,7 +9395,7 @@
             "type1": "Epic",
             "type_links": {
               "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20Epic.zip",
-              "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20Epic.zip",
+              "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/New%20Luckybox/Kagura%20Luckybox%20-%20Epic.zip",
               "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Kagura/Annual/Kagura%20Annual%20-%20Epic.zip",
               "04 EXORCIST": "https://github.com/injctr/large/raw/main/Kagura/Exorcist/Kagura%20Exorcist%20-%20Epic.zip",
               "05 COULDS": "https://github.com/injctr/large/raw/main/Kagura/BTC/Kagura%20BTC%20-%20Epic.zip",
@@ -9414,8 +9414,8 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero102511-icon.png/revision/latest?cb=20251001064157",
             "type1": "Special",
             "type_links": {
-              "01 LUCKYBOX": "unavailable",
-              "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20Special.zip",
+              "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20Special.zip",
+              "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/New%20Luckybox/Kagura%20Luckybox%20-%20Special%20Lady%20Parasol.zip",
               "03 ANNUAL STARLIGHT": "unavailable",
               "04 EXORCIST": "unavailable",
               "05 COULDS": "unavailable",
@@ -9434,7 +9434,7 @@
         "Skins": {
           "01 LUCKYBOX": {
             "img2": "https://i.pinimg.com/736x/dc/7f/df/dc7fdf5776e69048455ce1a275068dc7.jpg",
-            "type2": "Luckybox"
+            "type2": "Old Luckybox"
           },
           "02 LUCKYBOX": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/37/Hero255-icon.png/revision/latest?cb=20260424024306",
@@ -9724,7 +9724,7 @@
             "type_links": {
               "01 LUCKYBOX": "unavailable",
               "02 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Karrie/Annual%20Starlight/Karrie%20Annual%20-%20Default.zip",
-              "03 KISHIN DENSETSU": "https://www.dropbox.com/scl/fi/jmknt0rfru6z9f7tq0uxu/Karrie-Kishin-Default.zip?rlkey=h765uu1gpvvbzyixpiam452xx&st=cbzj9ip5&dl=1"
+              "03 KISHIN DENSETSU": "https://github.com/injctr/large/raw/main/Karrie/Kishin/Karrie%20Kishin%20-%20Default.zip"
             },
             "second_link": {
               "01 LUCKYBOX": "unavailable",
@@ -9738,7 +9738,7 @@
             "type_links": {
               "01 LUCKYBOX": "unavailable",
               "02 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Karrie/Annual%20Starlight/Karrie%20Annual%20-%20Basic.zip",
-              "03 KISHIN DENSETSU": "https://www.dropbox.com/scl/fi/mwlgm2ke14n30w4c3sgmn/Karrie-Kishin-Basic.zip?rlkey=8v3y71m67n2vxk39tzalfw42z&st=ymnp9ypf&dl=1"
+              "03 KISHIN DENSETSU": "https://github.com/injctr/large/raw/main/Karrie/Kishin/Karrie%20Kishin%20-%20Basic.zip"
             },
             "second_link": {
               "01 LUCKYBOX": "unavailable",
@@ -9752,7 +9752,7 @@
             "type_links": {
               "01 LUCKYBOX": "unavailable",
               "02 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Karrie/Annual%20Starlight/Karrie%20Annual%20-%20Elite.zip",
-              "03 KISHIN DENSETSU": "https://www.dropbox.com/scl/fi/55t618aey5fr8hlaznpxb/Karrie-Kishin-Elite.zip?rlkey=9ceqgw1h75vg45u5y7j4ddwpg&st=hgkeu6ok&dl=1"
+              "03 KISHIN DENSETSU": "https://github.com/injctr/large/raw/main/Karrie/Kishin/Karrie%20Kishin%20-%20Elite.zip"
             },
             "second_link": {
               "01 LUCKYBOX": "unavailable",
@@ -9766,7 +9766,7 @@
             "type_links": {
               "01 LUCKYBOX": "unavailable",
               "02 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Karrie/Annual%20Starlight/Karrie%20Annual%20-%20Starlight.zip",
-              "03 KISHIN DENSETSU": "https://www.dropbox.com/scl/fi/5zi91qvyau9as7ltd6vwf/Karrie-Kishin-Starlight.zip?rlkey=sbmeklxojxdwg1rxujdywxh08&st=1gb2bons&dl=1"
+              "03 KISHIN DENSETSU": "https://github.com/injctr/large/raw/main/Karrie/Kishin/Karrie%20Kishin%20-%20Starlight.zip"
             },
             "second_link": {
               "01 LUCKYBOX": "unavailable",
@@ -9780,7 +9780,7 @@
             "type_links": {
               "01 LUCKYBOX": "unavailable",
               "02 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Karrie/Annual%20Starlight/Karrie%20Annual%20-%20Halloween.zip",
-              "03 KISHIN DENSETSU": "https://www.dropbox.com/scl/fi/6rtu3pd4vhpmsq6cm6zzt/Karrie-Kishin-Special.zip?rlkey=blqbsqxrkib4a6pla08mh49rh&st=etpa8xrs&dl=1"
+              "03 KISHIN DENSETSU": "https://github.com/injctr/large/raw/main/Karrie/Kishin/Karrie%20Kishin%20-%20Special.zip"
             },
             "second_link": {
               "01 LUCKYBOX": "unavailable",
@@ -9794,7 +9794,7 @@
             "type_links": {
               "01 LUCKYBOX": "unavailable",
               "02 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Karrie/Annual%20Starlight/Karrie%20Annual%20-%20Luckybox.zip",
-              "03 KISHIN DENSETSU": "https://www.dropbox.com/scl/fi/ktu7pssh9czw5se35dvls/Karrie-Kishin-Luckybox.zip?rlkey=bqd1f3cus90br67p1uzm0q9il&st=06gn2trw&dl=1"
+              "03 KISHIN DENSETSU": "https://github.com/injctr/large/raw/main/Karrie/Kishin/Karrie%20Kishin%20-%20Luckybox.zip"
             },
             "second_link": {
               "01 LUCKYBOX": "unavailable",
@@ -9808,7 +9808,7 @@
             "type_links": {
               "01 LUCKYBOX": "unavailable",
               "02 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Karrie/Annual%20Starlight/Karrie%20Annual%20-%20Epic%20Gill%20Girl.zip",
-              "03 KISHIN DENSETSU": "https://www.dropbox.com/scl/fi/alwrpp0vgyzf0wynmeh27/Karrie-Kishin-Epic-Gill-Girl.zip?rlkey=w0yyezrkhr2t010sj58emvpzs&st=2mfqmf3d&dl=1"
+              "03 KISHIN DENSETSU": "https://github.com/injctr/large/raw/main/Karrie/Kishin/Karrie%20Kishin%20-%20Epic%20Gill-Girl.zip"
             },
             "second_link": {
               "01 LUCKYBOX": "unavailable",
@@ -9822,7 +9822,7 @@
             "type_links": {
               "01 LUCKYBOX": "unavailable",
               "02 ANNUAL STARLIGHT": "unavailable",
-              "03 KISHIN DENSETSU": "https://www.dropbox.com/scl/fi/jfks55w0xog750i8cguow/Karrie-Kishin-Annual-Star.zip?rlkey=p49na497ppufrq31jaao8rmvb&st=hlfbg1c9&dl=1"
+              "03 KISHIN DENSETSU": "https://github.com/injctr/large/raw/main/Karrie/Kishin/Karrie%20Kishin%20-%20Annual%20Star.zip"
             },
             "second_link": {
               "01 LUCKYBOX": "unavailable",
@@ -9836,7 +9836,7 @@
             "type_links": {
               "01 LUCKYBOX": "unavailable",
               "02 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Karrie/Annual%20Starlight/Karrie%20Annual%20-%20Elite%20Top%20up.zip",
-              "03 KISHIN DENSETSU": "https://www.dropbox.com/scl/fi/hiiyv3j8edz3bp43l8u5b/Karrie-Kishin-Elite-Top-Up.zip?rlkey=w6995qg56pbdrm2a2n07vo8ca&st=oa53an0i&dl=1"
+              "03 KISHIN DENSETSU": "https://github.com/injctr/large/raw/main/Karrie/Kishin/Karrie%20Kishin%20-%20Elite%20Top%20Up.zip"
             },
             "second_link": {
               "01 LUCKYBOX": "unavailable",
@@ -9850,7 +9850,7 @@
             "type_links": {
               "01 LUCKYBOX": "unavailable",
               "02 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Karrie/Annual%20Starlight/Karrie%20Annual%20-%20Epic%20Ice%20Talon.zip",
-              "03 KISHIN DENSETSU": "https://www.dropbox.com/scl/fi/2nbtp4mjntn627lxy3eux/Karrie-Kishin-Epic-Ice-Talon.zip?rlkey=7beyc1caej2xj2mxvdgf7dgjg&st=ls5yltwy&dl=1"
+              "03 KISHIN DENSETSU": "https://github.com/injctr/large/raw/main/Karrie/Kishin/Karrie%20Kishin%20-%20Epic%20Ice%20Talon.zip"
             },
             "second_link": {
               "01 LUCKYBOX": "unavailable",
@@ -10235,7 +10235,7 @@
               "03 DAWNING": "https://github.com/injctr/large/raw/main/Lancelot/Dawning/Lancelot%20Dawning%20-%20Default.zip",
               "04 CHAMPION": "https://github.com/injctr/large/raw/main/Lancelot/Champion/Lancelot%20Champion%20-%20Default.zip",
               "05 KISHIN DENSETSU": "https://github.com/injctr/large/raw/main/Lancelot/Kishin%20Densetsu/Lancelot%20Kishin%20-%20Default.zip",
-              "06 VALENTINE": "https://www.dropbox.com/scl/fi/jrjzg56gqtm5ox5fn9p0s/Lancelot-Valentine-Default.zip?rlkey=njo7obg5ggtf73dxn5scy4q3o&st=odjwi3wv&dl=1"
+              "06 VALENTINE": "https://github.com/injctr/large/raw/main/Lancelot/Valentine/Lancelot%20Valentine%20-%20Default.zip"
             },
             "second_link": {
               "01 LUCKYBOX": "unavailable",
@@ -10255,7 +10255,7 @@
               "03 DAWNING": "https://github.com/injctr/large/raw/main/Lancelot/Dawning/Lancelot%20Dawning%20-%20Basic.zip",
               "04 CHAMPION": "https://github.com/injctr/large/raw/main/Lancelot/Champion/Lancelot%20Champion%20-%20Basic.zip",
               "05 KISHIN DENSETSU": "https://github.com/injctr/large/raw/main/Lancelot/Kishin%20Densetsu/Lancelot%20Kishin%20-%20Basic.zip",
-              "06 VALENTINE": "https://www.dropbox.com/scl/fi/600qt2idiet62plq2wh2z/Lancelot-Valentine-Basic.zip?rlkey=5i1bpnq6s6391phje7xmfcx48&st=hk3k4jf1&dl=1"
+              "06 VALENTINE": "https://github.com/injctr/large/raw/main/Lancelot/Valentine/Lancelot%20Valentine%20-%20Basic.zip"
             },
             "second_link": {
               "01 LUCKYBOX": "unavailable",
@@ -10275,7 +10275,7 @@
               "03 DAWNING": "https://github.com/injctr/large/raw/main/Lancelot/Dawning/Lancelot%20Dawning%20-%20Christmas.zip",
               "04 CHAMPION": "https://github.com/injctr/large/raw/main/Lancelot/Champion/Lancelot%20Champion%20-%20Christmas.zip",
               "05 KISHIN DENSETSU": "https://github.com/injctr/large/raw/main/Lancelot/Kishin%20Densetsu/Lancelot%20Kishin%20-%20Christmas.zip",
-              "06 VALENTINE": "https://www.dropbox.com/scl/fi/n8yg7o6bgn55ghve73vi3/Lancelot-Valentine-Christmas.zip?rlkey=qglotd8e8gxkqu5f5q4ny7c54&st=3we9gdq3&dl=1"
+              "06 VALENTINE": "https://github.com/injctr/large/raw/main/Lancelot/Valentine/Lancelot%20Valentine%20-%20Christmas.zip"
             },
             "second_link": {
               "01 LUCKYBOX": "unavailable",
@@ -10295,7 +10295,7 @@
               "03 DAWNING": "https://github.com/injctr/large/raw/main/Lancelot/Dawning/Lancelot%20Dawning%20-%20Luckybox.zip",
               "04 CHAMPION": "https://github.com/injctr/large/raw/main/Lancelot/Champion/Lancelot%20Champion%20-%20Luckybox.zip",
               "05 KISHIN DENSETSU": "https://github.com/injctr/large/raw/main/Lancelot/Kishin%20Densetsu/Lancelot%20Kishin%20-%20Luckybox.zip",
-              "06 VALENTINE": "https://www.dropbox.com/scl/fi/sg336jiesg9ybfkpz6b2n/Lancelot-Valentine-Luckybox.zip?rlkey=fubn0gkufenjuvfxfjc4at703&st=ohv9tm6q&dl=1"
+              "06 VALENTINE": "https://github.com/injctr/large/raw/main/Lancelot/Valentine/Lancelot%20Valentine%20-%20Luckybox.zip"
             },
             "second_link": {
               "01 LUCKYBOX": "unavailable",
@@ -10315,7 +10315,7 @@
               "03 DAWNING": "https://github.com/injctr/large/raw/main/Lancelot/Dawning/Lancelot%20Dawning%20-%20Starlight.zip",
               "04 CHAMPION": "https://github.com/injctr/large/raw/main/Lancelot/Champion/Lancelot%20Champion%20-%20Starlight.zip",
               "05 KISHIN DENSETSU": "https://github.com/injctr/large/raw/main/Lancelot/Kishin%20Densetsu/Lancelot%20Kishin%20-%20Starlight.zip",
-              "06 VALENTINE": "https://www.dropbox.com/scl/fi/6oehe1qqkxyu5lenz7jyi/Lancelot-Valentine-Starlight.zip?rlkey=4odjx52uu4r2tk3x4t2osfex8&st=yr5a2xcu&dl=1"
+              "06 VALENTINE": "https://github.com/injctr/large/raw/main/Lancelot/Valentine/Lancelot%20Valentine%20-%20Starlight.zip"
             },
             "second_link": {
               "01 LUCKYBOX": "unavailable",
@@ -10335,7 +10335,7 @@
               "03 DAWNING": "https://github.com/injctr/large/raw/main/Lancelot/Dawning/Lancelot%20Dawning%20-%20Zodiac.zip",
               "04 CHAMPION": "https://github.com/injctr/large/raw/main/Lancelot/Champion/Lancelot%20Champion%20-%20Zodiac.zip",
               "05 KISHIN DENSETSU": "https://github.com/injctr/large/raw/main/Lancelot/Kishin%20Densetsu/Lancelot%20Kishin%20-%20Zodiac.zip",
-              "06 VALENTINE": "https://www.dropbox.com/scl/fi/nu26826s7yu106qxc1nmp/Lancelot-Valentine-Zodiac.zip?rlkey=te1n2lzlbb83f57qjdumw7pdj&st=3h082cmp&dl=1"
+              "06 VALENTINE": "https://github.com/injctr/large/raw/main/Lancelot/Valentine/Lancelot%20Valentine%20-%20Zodiac.zip"
             },
             "second_link": {
               "01 LUCKYBOX": "unavailable",
@@ -10355,7 +10355,7 @@
               "03 DAWNING": "https://github.com/injctr/large/raw/main/Lancelot/Dawning/Lancelot%20Dawning%20-%20Epic.zip",
               "04 CHAMPION": "https://github.com/injctr/large/raw/main/Lancelot/Champion/Lancelot%20Champion%20-%20Epic.zip",
               "05 KISHIN DENSETSU": "https://github.com/injctr/large/raw/main/Lancelot/Kishin%20Densetsu/Lancelot%20Kishin%20-%20Epic.zip",
-              "06 VALENTINE": "https://www.dropbox.com/scl/fi/o8ana0ys99iob57h29dg9/Lancelot-Valentine-Epic.zip?rlkey=ai02miqhqarsjmlwv0yec1l3o&st=438by2zc&dl=1"
+              "06 VALENTINE": "https://github.com/injctr/large/raw/main/Lancelot/Valentine/Lancelot%20Valentine%20-%20Epic.zip"
             },
             "second_link": {
               "01 LUCKYBOX": "unavailable",
@@ -10395,7 +10395,7 @@
               "03 DAWNING": "https://github.com/injctr/large/raw/main/Lancelot/Dawning/Lancelot%20Dawning%20-%20Champion.zip",
               "04 CHAMPION": "unavailable",
               "05 KISHIN DENSETSU": "https://github.com/injctr/large/raw/main/Lancelot/Kishin%20Densetsu/Lancelot%20Kishin%20-%20Champion.zip",
-              "06 VALENTINE": "https://www.dropbox.com/scl/fi/j0cq6pr9mie0nrpwp3b0h/Lancelot-Valentine-Champion.zip?rlkey=yi2g1x4j2w081mngmwj1n268h&st=gcsuzb5x&dl=1"
+              "06 VALENTINE": "https://github.com/injctr/large/raw/main/Lancelot/Valentine/Lancelot%20Valentine%20-%20Champion.zip"
             },
             "second_link": {
               "01 LUCKYBOX": "unavailable",
@@ -10415,7 +10415,7 @@
               "03 DAWNING": "https://github.com/injctr/large/raw/main/Lancelot/Dawning/Lancelot%20Dawning%20-%20Dragon%20Tamer.zip",
               "04 CHAMPION": "https://github.com/injctr/large/raw/main/Lancelot/Champion/Lancelot%20Champion%20-%20Dragon.zip",
               "05 KISHIN DENSETSU": "https://github.com/injctr/large/raw/main/Lancelot/Kishin%20Densetsu/Lancelot%20Kishin%20-%20Dragon%20Tamer.zip",
-              "06 VALENTINE": "https://www.dropbox.com/scl/fi/209drpegu53mepo755kbg/Lancelot-Valentine-Dragon.zip?rlkey=bwqxm9ilhb6q0ukjvxzgfmxpv&st=0dnbl1ri&dl=1"
+              "06 VALENTINE": "https://github.com/injctr/large/raw/main/Lancelot/Valentine/Lancelot%20Valentine%20-%20Dragon.zip"
             },
             "second_link": {
               "01 LUCKYBOX": "unavailable",
@@ -10435,7 +10435,7 @@
               "03 DAWNING": "https://github.com/injctr/large/raw/main/Lancelot/Dawning/Lancelot%20Dawning%20-%20Elite.zip",
               "04 CHAMPION": "https://github.com/injctr/large/raw/main/Lancelot/Champion/Lancelot%20Champion%20-%20Elite.zip",
               "05 KISHIN DENSETSU": "https://github.com/injctr/large/raw/main/Lancelot/Kishin%20Densetsu/Lancelot%20Kishin%20-%20Elite.zip",
-              "06 VALENTINE": "https://www.dropbox.com/scl/fi/aj72daec5ymjmmk8xw4qz/Lancelot-Valentine-Elite.zip?rlkey=1vpvhli7k7yceiro6i0t5nczc&st=13j7u62a&dl=1"
+              "06 VALENTINE": "https://github.com/injctr/large/raw/main/Lancelot/Valentine/Lancelot%20Valentine%20-%20Elite.zip"
             },
             "second_link": {
               "01 LUCKYBOX": "unavailable",
@@ -10599,7 +10599,7 @@
             "type1": "Default",
             "type_links": {
               "01 THE ASPIRANTS": "https://github.com/injctr/large/raw/main/Layla/Aspirants/Layla%20Aspirants%20-%20Default.zip",
-              "02 LEGEND": "https://www.dropbox.com/scl/fi/iyu61n8o9ujctpkxug1j0/Layla-Legend-Default.zip?rlkey=frc6ypxz409t0wtpnqm8d5at4&st=fogglglr&dl=1",
+              "02 LEGEND": "https://github.com/injctr/large/raw/main/Layla/Legend/Layla%20Legend%20-%20Default.zip",
               "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Layla/Collector/Layla%20Collector%20-%20Default.zip",
               "04 10TH COLLECTOR": "https://github.com/injctr/large/raw/main/Layla/10th%20Collector/Layla%2010th%20Collector%20-%20Default.zip"
             },
@@ -10615,7 +10615,7 @@
             "type1": "Basic 1",
             "type_links": {
               "01 THE ASPIRANTS": "https://github.com/injctr/large/raw/main/Layla/Aspirants/Layla%20Aspirants%20-%20Basic.zip",
-              "02 LEGEND": "https://www.dropbox.com/scl/fi/ijt8xjbp5jgzekmf3v4i8/Layla-Legend-Basic.zip?rlkey=louaf13fuql82owe58uu9s3ux&st=2tocto6k&dl=1",
+              "02 LEGEND": "https://github.com/injctr/large/raw/main/Layla/Legend/Layla%20Legend%20-%20Basic.zip",
               "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Layla/Collector/Layla%20Collector%20-%20Basic.zip",
               "04 10TH COLLECTOR": "https://github.com/injctr/large/raw/main/Layla/10th%20Collector/Layla%2010th%20Collector%20-%20Basic.zip"
             },
@@ -10631,7 +10631,7 @@
             "type1": "Starlight 2017",
             "type_links": {
               "01 THE ASPIRANTS": "https://github.com/injctr/large/raw/main/Layla/Aspirants/Layla%20Aspirants%20-%20Old%20Starlight.zip",
-              "02 LEGEND": "https://www.dropbox.com/scl/fi/xc5bzqem2nj24iothncn8/Layla-Legend-Old-Starlight.zip?rlkey=ydyx6hln879202vfnlcc4gxhp&st=80kwjb88&dl=1",
+              "02 LEGEND": "https://github.com/injctr/large/raw/main/Layla/Legend/Layla%20Legend%20-%20Old%20Starlight.zip",
               "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Layla/Collector/Layla%20Collector%20-%20Old%20Starlight.zip",
               "04 10TH COLLECTOR": "unavailable"
             },
@@ -10647,7 +10647,7 @@
             "type1": "Valentine",
             "type_links": {
               "01 THE ASPIRANTS": "https://github.com/injctr/large/raw/main/Layla/Aspirants/Layla%20Aspirants%20-%20Valentine.zip",
-              "02 LEGEND": "https://www.dropbox.com/scl/fi/njoe6536dtiptitzd3k2v/Layla-Legend-Valentine.zip?rlkey=1bw3fdqi09nzl5a06eb2wjaxv&st=gwqzponq&dl=1",
+              "02 LEGEND": "https://github.com/injctr/large/raw/main/Layla/Legend/Layla%20Legend%20-%20Valentine.zip",
               "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Layla/Collector/Layla%20Collector%20-%20Valentine.zip",
               "04 10TH COLLECTOR": "unavailable"
             },
@@ -10663,7 +10663,7 @@
             "type1": "Basic 2",
             "type_links": {
               "01 THE ASPIRANTS": "https://github.com/injctr/large/raw/main/Layla/Aspirants/Layla%20Aspirants%20-%20Blue%20Spectre.zip",
-              "02 LEGEND": "https://www.dropbox.com/scl/fi/kpdsqpdfw2cfaowpd4p4j/Layla-Legend-Blue-Specre.zip?rlkey=x6nld67ybc0smx70kkd63cls9&st=l87p2lc5&dl=1",
+              "02 LEGEND": "https://github.com/injctr/large/raw/main/Layla/Legend/Layla%20Legend%20-%20Blue%20Specre.zip",
               "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Layla/Collector/Layla%20Collector%20-%20Blue%20Spectre.zip",
               "04 10TH COLLECTOR": "unavailable"
             },
@@ -10679,7 +10679,7 @@
             "type1": "Basic 3",
             "type_links": {
               "01 THE ASPIRANTS": "https://github.com/injctr/large/raw/main/Layla/Aspirants/Layla%20Aspirants%20-%20Classic.zip",
-              "02 LEGEND": "https://www.dropbox.com/scl/fi/urq8hm1mxr04meuit92a4/Layla-Legend-Classic-Malefic.zip?rlkey=91ayqehwpxbvsea6vkd29ob5d&st=emkcrhg2&dl=1",
+              "02 LEGEND": "https://github.com/injctr/large/raw/main/Layla/Legend/Layla%20Legend%20-%20Classic%20Malefic.zip",
               "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Layla/Collector/Layla%20Collector%20-%20Classic.zip",
               "04 10TH COLLECTOR": "https://github.com/injctr/large/raw/main/Layla/10th%20Collector/Layla%2010th%20Collector%20-%20Classic%20Malefic.zip"
             },
@@ -10695,7 +10695,7 @@
             "type1": "S.A.B.E.R.",
             "type_links": {
               "01 THE ASPIRANTS": "https://github.com/injctr/large/raw/main/Layla/Aspirants/Layla%20Aspirants%20-%20SABER.zip",
-              "02 LEGEND": "https://www.dropbox.com/scl/fi/0fdjhs5jkjikof77p5oy4/Layla-Legend-S.A.B.E.R.zip?rlkey=jybqpl0zwdqp9rpziw55t4ggm&st=p0wrukfw&dl=1",
+              "02 LEGEND": "https://github.com/injctr/large/raw/main/Layla/Legend/Layla%20Legend%20-%20S.A.B.E.R.zip",
               "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Layla/Collector/Layla%20Collector%20-%20SABER.zip",
               "04 10TH COLLECTOR": "unavailable"
             },
@@ -10711,7 +10711,7 @@
             "type1": "Blazing Bounties",
             "type_links": {
               "01 THE ASPIRANTS": "unavailable",
-              "02 LEGEND": "https://www.dropbox.com/scl/fi/6jiimbkj0w357f7ba5inm/Layla-Legend-Blazing.zip?rlkey=wyt89r32keaq7sh2h72qsezwl&st=owfji92v&dl=1",
+              "02 LEGEND": "https://github.com/injctr/large/raw/main/Layla/Legend/Layla%20Legend%20-%20Blazing.zip",
               "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Layla/Collector/Layla%20Collector%20-%20Blazing.zip",
               "04 10TH COLLECTOR": "unavailable"
             },
@@ -10727,7 +10727,7 @@
             "type1": "The Aspirants",
             "type_links": {
               "01 THE ASPIRANTS": "unavailable",
-              "02 LEGEND": "https://www.dropbox.com/scl/fi/ejpsfo5x4eb7lrj2uw48n/Layla-Legend-Aspirants.zip?rlkey=fetxzo8qmnud3ckq773xkp35q&st=yc46i77i&dl=1",
+              "02 LEGEND": "https://github.com/injctr/large/raw/main/Layla/Legend/Layla%20Legend%20-%20Aspirants.zip",
               "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Layla/Collector/Layla%20Collector%20-%20Aspirants.zip",
               "04 10TH COLLECTOR": "unavailable"
             },
@@ -10743,7 +10743,7 @@
             "type1": "Starlight 2023",
             "type_links": {
               "01 THE ASPIRANTS": "https://github.com/injctr/large/raw/main/Layla/Aspirants/Layla%20Aspirants%20-%20New%20Starlight.zip",
-              "02 LEGEND": "https://www.dropbox.com/scl/fi/iht2r2wy6o19or8sxwtuy/Layla-Legend-New-Starlight.zip?rlkey=ak0d2qqpw42syyei0wnud2uf0&st=0ae3n7zb&dl=1",
+              "02 LEGEND": "https://github.com/injctr/large/raw/main/Layla/Legend/Layla%20Legend%20-%20New%20Starlight.zip",
               "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Layla/Collector/Layla%20Collector%20-%20New%20Starlight.zip",
               "04 10TH COLLECTOR": "unavailable"
             },
@@ -10759,7 +10759,7 @@
             "type1": "Collector",
             "type_links": {
               "01 THE ASPIRANTS": "https://github.com/injctr/large/raw/main/Layla/Aspirants/Layla%20Aspirants%20-%20Collector.zip",
-              "02 LEGEND": "https://www.dropbox.com/scl/fi/u5zmey8ggqepvxxo81ekr/Layla-Legend-Collector.zip?rlkey=o2e32sol50s77g7enhb3hc1tz&st=n213rca2&dl=1",
+              "02 LEGEND": "https://github.com/injctr/large/raw/main/Layla/Legend/Layla%20Legend%20-%20Collector.zip",
               "03 COLLECTOR": "unavailable",
               "04 10TH COLLECTOR": "unavailable"
             },
@@ -10983,7 +10983,7 @@
               "03 LEGEND": "https://github.com/injctr/large/raw/main/Lesley/Legend%202/Lesley%20Legend2%20-%20Default.zip",
               "04 COLLECTOR": "https://github.com/injctr/large/raw/main/Lesley/Collector/Lesley%20Collector%20-%20Default.zip",
               "05 ANUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Lesley/Annual%20Starlight/Lesley%20Annual%20-%20Default.zip",
-              "06 THE ASPIRANTS": "https://www.dropbox.com/scl/fi/hyafzgscp6w2fjrhan42o/Lesley-Aspirants-Default.zip?rlkey=3y08hi6zll8s6ddmfj37imqsc&st=otliqeow&dl=1",
+              "06 THE ASPIRANTS": "https://github.com/injctr/large/raw/main/Lesley/Aspirants/Lesley%20Aspirants%20-%20Default.zip",
               "07 MYTHIC MEOW": "unavailable",
               "08 COVENANT": "unavailable"
             },
@@ -11007,7 +11007,7 @@
               "03 LEGEND": "https://github.com/injctr/large/raw/main/Lesley/Legend%202/Lesley%20Legend2%20-%20Basic.zip",
               "04 COLLECTOR": "https://github.com/injctr/large/raw/main/Lesley/Collector/Lesley%20Collector%20-%20Basic.zip",
               "05 ANUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Lesley/Annual%20Starlight/Lesley%20Annual%20-%20Basic.zip",
-              "06 THE ASPIRANTS": "https://www.dropbox.com/scl/fi/s1uqjqht4p2c3kps71sd7/Lesley-Aspirants-Basic.zip?rlkey=c0jck3bi8dsm0c37y06s7gxhx&st=y79etpeb&dl=1",
+              "06 THE ASPIRANTS": "https://github.com/injctr/large/raw/main/Lesley/Aspirants/Lesley%20Aspirants%20-%20Basic.zip",
               "07 MYTHIC MEOW": "unavailable",
               "08 COVENANT": "unavailable"
             },
@@ -11031,7 +11031,7 @@
               "03 LEGEND": "https://github.com/injctr/large/raw/main/Lesley/Legend%202/Lesley%20Legend2%20-%20Elite.zip",
               "04 COLLECTOR": "https://github.com/injctr/large/raw/main/Lesley/Collector/Lesley%20Collector%20-%20Elite.zip",
               "05 ANUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Lesley/Annual%20Starlight/Lesley%20Annual%20-%20Elite.zip",
-              "06 THE ASPIRANTS": "https://www.dropbox.com/scl/fi/srcbk9vnl0wckvwx5gjf2/Lesley-Aspirants-Elite.zip?rlkey=xp88xn0imkxpj31vr5mf7117q&st=5kcqv6ur&dl=1",
+              "06 THE ASPIRANTS": "https://github.com/injctr/large/raw/main/Lesley/Aspirants/Lesley%20Aspirants%20-%20Elite.zip",
               "07 MYTHIC MEOW": "unavailable",
               "08 COVENANT": "unavailable"
             },
@@ -11055,7 +11055,7 @@
               "03 LEGEND": "https://github.com/injctr/large/raw/main/Lesley/Legend%202/Lesley%20Legend2%20-%20Special.zip",
               "04 COLLECTOR": "https://github.com/injctr/large/raw/main/Lesley/Collector/Lesley%20Collector%20-%20Special.zip",
               "05 ANUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Lesley/Annual%20Starlight/Lesley%20Annual%20-%20Special.zip",
-              "06 THE ASPIRANTS": "https://www.dropbox.com/scl/fi/4x1zqxa59zqgltoqoqez9/Lesley-Aspirants-Special.zip?rlkey=1ujsiqqr02wdn7bpe8nshq6g3&st=43awu6gt&dl=1",
+              "06 THE ASPIRANTS": "https://github.com/injctr/large/raw/main/Lesley/Aspirants/Lesley%20Aspirants%20-%20Special.zip",
               "07 MYTHIC MEOW": "unavailable",
               "08 COVENANT": "unavailable"
             },
@@ -11079,7 +11079,7 @@
               "03 LEGEND": "https://github.com/injctr/large/raw/main/Lesley/Legend%202/Lesley%20Legend2%20-%20Luckybox.zip",
               "04 COLLECTOR": "https://github.com/injctr/large/raw/main/Lesley/Collector/Lesley%20Collector%20-%20Luckybox.zip",
               "05 ANUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Lesley/Annual%20Starlight/Lesley%20Annual%20-%20Luckybox.zip",
-              "06 THE ASPIRANTS": "https://www.dropbox.com/scl/fi/i74qff4ocpkr4ro06ocae/Lesley-Aspirants-Luckybox.zip?rlkey=f4bdi385p67nwbl822ewq41fx&st=m54b89t6&dl=1",
+              "06 THE ASPIRANTS": "https://github.com/injctr/large/raw/main/Lesley/Aspirants/Lesley%20Aspirants%20-%20Luckybox.zip",
               "07 MYTHIC MEOW": "unavailable",
               "08 COVENANT": "unavailable"
             },
@@ -11103,7 +11103,7 @@
               "03 LEGEND": "https://github.com/injctr/large/raw/main/Lesley/Legend%202/Lesley%20Legend2%20-%20Valentine.zip",
               "04 COLLECTOR": "https://github.com/injctr/large/raw/main/Lesley/Collector/Lesley%20Collector%20-%20Valentine.zip",
               "05 ANUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Lesley/Annual%20Starlight/Lesley%20Annual%20-%20Valentine.zip",
-              "06 THE ASPIRANTS": "https://www.dropbox.com/scl/fi/65k7ahsjf4aape9vorgvv/Lesley-Aspirants-Valentine.zip?rlkey=9wbd0bsj7dy392zc2x351asg7&st=f2qcv4fr&dl=1",
+              "06 THE ASPIRANTS": "https://github.com/injctr/large/raw/main/Lesley/Aspirants/Lesley%20Aspirants%20-%20Valentine.zip",
               "07 MYTHIC MEOW": "unavailable",
               "08 COVENANT": "unavailable"
             },
@@ -11127,7 +11127,7 @@
               "03 LEGEND": "unavailable",
               "04 COLLECTOR": "https://github.com/injctr/large/raw/main/Lesley/Collector/Lesley%20Collector%20-%20Legend.zip",
               "05 ANUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Lesley/Annual%20Starlight/Lesley%20Annual%20-%20Legend.zip",
-              "06 THE ASPIRANTS": "https://www.dropbox.com/scl/fi/sgebupsgtcjeqwmbdmhnb/Lesley-Aspirants-Legend.zip?rlkey=tdttc2gphizn7ucobof0wrsbs&st=ho3qfvke&dl=1",
+              "06 THE ASPIRANTS": "https://github.com/injctr/large/raw/main/Lesley/Aspirants/Lesley%20Aspirants%20-%20Legend.zip",
               "07 MYTHIC MEOW": "unavailable",
               "08 COVENANT": "unavailable"
             },
@@ -11151,7 +11151,7 @@
               "03 LEGEND": "https://github.com/injctr/large/raw/main/Lesley/Legend%202/Lesley%20Legend2%20-%20Starlight.zip",
               "04 COLLECTOR": "https://github.com/injctr/large/raw/main/Lesley/Collector/Lesley%20Collector%20-%20Starlight.zip",
               "05 ANUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Lesley/Annual%20Starlight/Lesley%20Annual%20-%20Starlight.zip",
-              "06 THE ASPIRANTS": "https://www.dropbox.com/scl/fi/ie03ytjk3bgro2ot5mc17/Lesley-Aspirants-Starlight.zip?rlkey=61vs4yo7gb7a4bbp2i1yhlvn0&st=sjgnmdnx&dl=1",
+              "06 THE ASPIRANTS": "https://github.com/injctr/large/raw/main/Lesley/Aspirants/Lesley%20Aspirants%20-%20Starlight.zip",
               "07 MYTHIC MEOW": "unavailable",
               "08 COVENANT": "unavailable"
             },
@@ -11175,7 +11175,7 @@
               "03 LEGEND": "https://github.com/injctr/large/raw/main/Lesley/Legend%202/Lesley%20Legend2%20-%20Collector.zip",
               "04 COLLECTOR": "unavailable",
               "05 ANUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Lesley/Annual%20Starlight/Lesley%20Annual%20-%20Collector.zip",
-              "06 THE ASPIRANTS": "https://www.dropbox.com/scl/fi/7ss5wvuzqo32zh3aswv6g/Lesley-Aspirants-Collector.zip?rlkey=lfsaw9d9h0uk9irfyajnq0nyb&st=9gfpo4aa&dl=1",
+              "06 THE ASPIRANTS": "https://github.com/injctr/large/raw/main/Lesley/Aspirants/Lesley%20Aspirants%20-%20Collector.zip",
               "07 MYTHIC MEOW": "unavailable",
               "08 COVENANT": "unavailable"
             },
@@ -11199,7 +11199,7 @@
               "03 LEGEND": "https://github.com/injctr/large/raw/main/Lesley/Legend%202/Lesley%20Legend2%20-%20Annual.zip",
               "04 COLLECTOR": "https://github.com/injctr/large/raw/main/Lesley/Collector/Lesley%20Collector%20-%20Annual%20Star.zip",
               "05 ANUAL STARLIGHT": "unavailable",
-              "06 THE ASPIRANTS": "https://www.dropbox.com/scl/fi/ijr431j7jh60z53uxtv2f/Lesley-Aspirants-Annual-Star.zip?rlkey=ir8glxjx8j64kt8c50qp6sjs7&st=61ymedfv&dl=1",
+              "06 THE ASPIRANTS": "https://github.com/injctr/large/raw/main/Lesley/Aspirants/Lesley%20Aspirants%20-%20Annual%20Star.zip",
               "07 MYTHIC MEOW": "unavailable",
               "08 COVENANT": "unavailable"
             },
@@ -11271,7 +11271,7 @@
               "03 LEGEND": "https://github.com/injctr/large/raw/main/Lesley/Legend%202/Lesley%20Legend2%20-%20Covenant.zip",
               "04 COLLECTOR": "https://github.com/injctr/large/raw/main/Lesley/Collector/Lesley%20Collector%20-%20Covenant.zip",
               "05 ANUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Lesley/Annual%20Starlight/Lesley%20Annual%20-%20Covenant.zip",
-              "06 THE ASPIRANTS": "https://www.dropbox.com/scl/fi/flhnjtq1zjvwjliwhmgdu/Lesley-Aspirants-Covenant.zip?rlkey=cvy7vzyda316by1n4q4hj0zmy&st=qbh2p901&dl=1",
+              "06 THE ASPIRANTS": "https://github.com/injctr/large/raw/main/Lesley/Aspirants/Lesley%20Aspirants%20-%20Covenant.zip",
               "07 MYTHIC MEOW": "unavailable",
               "08 COVENANT": "unavailable"
             },
@@ -11332,7 +11332,7 @@
               "02 NEW COLLECTOR": "https://github.com/injctr/large/raw/main/Ling/New%20Collector/Ling%20Collector%20-%20Default.zip",
               "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Ling/Collector/Ling%20Collector%20-%20Default.zip",
               "04 M-WORLD": "https://github.com/injctr/large/raw/main/Ling/M-World/Ling%20M-World%20-%20Default.zip",
-              "05 KUNG FU PANDA": "https://www.dropbox.com/scl/fi/2mnwgmh4i5x7tw1jco8cx/Ling-Kungfu-Default.zip?rlkey=8suffzmc6g8pd1tnvqyclqd9k&st=7j9pp5tg&dl=1",
+              "05 KUNG FU PANDA": "https://github.com/injctr/large/raw/main/Ling/Kung%20Fu%20Panda/Ling%20Kungfu%20-%20Default.zip",
               "06 NEOBEAST": "https://github.com/injctr/large/raw/main/Ling/Neobeast/Ling%20Neobeast%20-%20Default.zip",
               "07 TIDES": "https://github.com/injctr/large/raw/main/Ling/Tides/Ling%20Tides%20-%20Default.zip"
             },
@@ -12841,7 +12841,7 @@
             "type1": "Elite",
             "type_links": {
               "01 STARLIGHT 2023": "unavailable",
-              "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Minsitthar/Collector/Minsitthar%20Collector%20-%20Elite%20Golden.zip"
+              "02 COLLECTOR": "unavailable"
             },
             "second_link": {
               "01 STARLIGHT 2023": "unavailable",
@@ -12889,7 +12889,7 @@
             "type1": "Elite",
             "type_links": {
               "01 STARLIGHT 2023": "unavailable",
-              "02 COLLECTOR": "unavailable"
+              "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Minsitthar/Collector/Minsitthar%20Collector%20-%20Elite%20Golden.zip"
             },
             "second_link": {
               "01 STARLIGHT 2023": "unavailable",
@@ -13224,10 +13224,10 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero311-icon.png/revision/latest?cb=20241021145343",
             "type1": "Default",
             "type_links": {
-              "01 ABYSS": "https://www.dropbox.com/scl/fi/gdgefau883cntk4suxjb4/Moskov-Abyss-Default.zip?rlkey=lbok9caiwlmq3y2iwiy0fwzlb&st=beug63r3&dl=1",
-              "02 ALL STAR": "https://www.dropbox.com/scl/fi/gejh6jdnyz21umjle6603/Moskov-Allstar-Default.zip?rlkey=zgqxohcl8e6i63wyhitimmx98&st=fim5i3g7&dl=1",
-              "03 LUCKYBOX": "https://www.dropbox.com/scl/fi/6rr3g73cj5j99dhbskddb/Moskov-Luckybox-Default.zip?rlkey=img5z12nhpqr77uo358dlx2mm&st=83vxgnqq&dl=1",
-              "04 COLLECTOR": "https://www.dropbox.com/scl/fi/35w9w5as7ycg2x63ut7h5/Moskov-Collector-Default.zip?rlkey=wougjfnbspew1bw230zrhv2u2&st=djhcwy86&dl=1"
+              "01 ABYSS": "https://github.com/injctr/large/raw/main/Moskov/Abyss/Moskov%20Abyss%20-%20Default.zip",
+              "02 ALL STAR": "https://github.com/injctr/large/raw/main/Moskov/Allstar/Moskov%20Allstar%20-%20Default.zip",
+              "03 LUCKYBOX": "https://github.com/injctr/large/raw/main/Moskov/Luckybox/Moskov%20Luckybox%20-%20Default.zip",
+              "04 COLLECTOR": "https://github.com/injctr/large/raw/main/Moskov/Collector/Moskov%20Collector%20-%20Default.zip"
             },
             "second_link": {
               "01 ABYSS": "unavailable",
@@ -13240,10 +13240,10 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Hero312-icon.png/revision/latest?cb=20241201053022",
             "type1": "Basic",
             "type_links": {
-              "01 ABYSS": "https://www.dropbox.com/scl/fi/ry1x7r6zbhlaevty3iee5/Moskov-Abyss-Basic.zip?rlkey=kuhcklx345c9x0y1myq7z81lg&st=k8ym7sst&dl=1",
-              "02 ALL STAR": "https://www.dropbox.com/scl/fi/gqx0w4mxsoe264je34gcp/Moskov-Allstar-Basic.zip?rlkey=egrdpi0n2fhebab6eg2fugdas&st=p3t65avg&dl=1",
-              "03 LUCKYBOX": "https://www.dropbox.com/scl/fi/qvnjhjgnunskoyoyqqioe/Moskov-Luckybox-Basic.zip?rlkey=dvej0f967969ogrk5za5r8ow7&st=1b961l4q&dl=1",
-              "04 COLLECTOR": "https://www.dropbox.com/scl/fi/5bwjl06s8oj026p2vw9yt/Moskov-Collector-Basic.zip?rlkey=rem6wc71afj4ezs14p2ra149b&st=6swsvhgx&dl=1"
+              "01 ABYSS": "https://github.com/injctr/large/raw/main/Moskov/Abyss/Moskov%20Abyss%20-%20Basic.zip",
+              "02 ALL STAR": "https://github.com/injctr/large/raw/main/Moskov/Allstar/Moskov%20Allstar%20-%20Basic.zip",
+              "03 LUCKYBOX": "https://github.com/injctr/large/raw/main/Moskov/Luckybox/Moskov%20Luckybox%20-%20Basic.zip",
+              "04 COLLECTOR": "https://github.com/injctr/large/raw/main/Moskov/Collector/Moskov%20Collector%20-%20Basic.zip"
             },
             "second_link": {
               "01 ABYSS": "unavailable",
@@ -13256,10 +13256,10 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero313-icon.png/revision/latest?cb=20220118094821",
             "type1": "Starlight 2017",
             "type_links": {
-              "01 ABYSS": "https://www.dropbox.com/scl/fi/j95roliy8asrijr2srusu/Moskov-Abyss-Starlight.zip?rlkey=uau2r59h550gpzbgsip17apix&st=5fi3bz6z&dl=1",
-              "02 ALL STAR": "https://www.dropbox.com/scl/fi/lgbuw62v590jjolnzljpe/Moskov-Allstar-Old-Starlight.zip?rlkey=4t87mhayc5ofkj2kiplgh745g&st=ycvzddqe&dl=1",
-              "03 LUCKYBOX": "https://www.dropbox.com/scl/fi/1bvxjsn3gzaxg6t2jq0by/Moskov-Luckybox-Old-Starlight.zip?rlkey=0ehtjrfbzdhma9ty3eooocyxt&st=jdbz7f82&dl=1",
-              "04 COLLECTOR": "https://www.dropbox.com/scl/fi/95acfeors62900bolj8y2/Moskov-Collector-Old-Starlight.zip?rlkey=vjz1skma2wy432g1bacr5rspd&st=r3idi2ik&dl=1"
+              "01 ABYSS": "https://github.com/injctr/large/raw/main/Moskov/Abyss/Moskov%20Abyss%20-%20Starlight.zip",
+              "02 ALL STAR": "https://github.com/injctr/large/raw/main/Moskov/Allstar/Moskov%20Allstar%20-%20Old%20Starlight.zip",
+              "03 LUCKYBOX": "https://github.com/injctr/large/raw/main/Moskov/Luckybox/Moskov%20Luckybox%20-%20Old%20Starlight.zip",
+              "04 COLLECTOR": "https://github.com/injctr/large/raw/main/Moskov/Collector/Moskov%20Collector%20-%20Old%20Starlight.zip"
             },
             "second_link": {
               "01 ABYSS": "unavailable",
@@ -13272,10 +13272,10 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero314-icon.png/revision/latest?cb=20220126041857",
             "type1": "Season 7",
             "type_links": {
-              "01 ABYSS": "https://www.dropbox.com/scl/fi/01dtj6l44drie69bcqfia/Moskov-Abyss-Season.zip?rlkey=s82gr6z1dkrlp8ld7qnj6vxxa&st=2llnehy5&dl=1",
-              "02 ALL STAR": "unavailable",
-              "03 LUCKYBOX": "https://www.dropbox.com/scl/fi/m11zui8pm2v179abenvd3/Moskov-Luckybox-Season.zip?rlkey=1jw0t1c6clfrjlv1umjrm5una&st=3luziem2&dl=1",
-              "04 COLLECTOR": "https://www.dropbox.com/scl/fi/6fmswii0tw03rwvw9yml6/Moskov-Collector-Season.zip?rlkey=ftfre5dq3sxzjkgftm4rmhx0y&st=n0a827ht&dl=1"
+              "01 ABYSS": "https://github.com/injctr/large/raw/main/Moskov/Abyss/Moskov%20Abyss%20-%20Season.zip",
+              "02 ALL STAR": "https://github.com/injctr/large/raw/main/Moskov/Allstar/Moskov%20Allstar%20-%20Season.zip",
+              "03 LUCKYBOX": "https://github.com/injctr/large/raw/main/Moskov/Luckybox/Moskov%20Luckybox%20-%20Season.zip",
+              "04 COLLECTOR": "https://github.com/injctr/large/raw/main/Moskov/Collector/Moskov%20Collector%20-%20Season.zip"
             },
             "second_link": {
               "01 ABYSS": "unavailable",
@@ -13288,10 +13288,10 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Hero315-icon.png/revision/latest?cb=20220126041905",
             "type1": "Special",
             "type_links": {
-              "01 ABYSS": "https://www.dropbox.com/scl/fi/b48itcsnl1pl9yx8yyokk/Moskov-Abyss-Special.zip?rlkey=6k3ldm55quaba3y79qwi5zox1&st=zrwt5nav&dl=1",
-              "02 ALL STAR": "https://www.dropbox.com/scl/fi/0sabzain5r5bpi03v1wmn/Moskov-Allstar-Special.zip?rlkey=2hrdnmck2joelmxa4pwwhrbr0&st=h5lviqh4&dl=1",
-              "03 LUCKYBOX": "https://www.dropbox.com/scl/fi/pbtc8hjayqasbrppm7tzx/Moskov-Luckybox-Special.zip?rlkey=utupu8zom8h2gbyvcvn0ep9ef&st=68hwo9zj&dl=1",
-              "04 COLLECTOR": "https://www.dropbox.com/scl/fi/ahj4fpezsvkwh0xha6kfv/Moskov-Collector-Special.zip?rlkey=tsxaoc1jlt07wm172i0cgxc84&st=i7e3ozcc&dl=1"
+              "01 ABYSS": "https://github.com/injctr/large/raw/main/Moskov/Abyss/Moskov%20Abyss%20-%20Special.zip",
+              "02 ALL STAR": "https://github.com/injctr/large/raw/main/Moskov/Allstar/Moskov%20Allstar%20-%20Special.zip",
+              "03 LUCKYBOX": "https://github.com/injctr/large/raw/main/Moskov/Luckybox/Moskov%20Luckybox%20-%20Special.zip",
+              "04 COLLECTOR": "https://github.com/injctr/large/raw/main/Moskov/Collector/Moskov%20Collector%20-%20Special.zip"
             },
             "second_link": {
               "01 ABYSS": "unavailable",
@@ -13304,10 +13304,10 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Hero317-icon.png/revision/latest?cb=20220126041901",
             "type1": "Elite",
             "type_links": {
-              "01 ABYSS": "https://www.dropbox.com/scl/fi/3t59lqdz68usueya8h070/Moskov-Abyss-Elite.zip?rlkey=34ijq339nlk3dkfnciej5sgqd&st=6ymdybfb&dl=1",
-              "02 ALL STAR": "https://www.dropbox.com/scl/fi/xtb3xjstp779wkvhnm31i/Moskov-Allstar-Elite.zip?rlkey=ztgqwpxt7fsf4znpbmg06fcz1&st=nc2vv7az&dl=1",
-              "03 LUCKYBOX": "https://www.dropbox.com/scl/fi/qu7ml70157p13q3a646d9/Moskov-Luckybox-Elite.zip?rlkey=vd236ad2h7cb33mgibbi84rm2&st=mjh16c7n&dl=1",
-              "04 COLLECTOR": "https://www.dropbox.com/scl/fi/a8ylats3y772na4e2ial1/Moskov-Collector-Elite.zip?rlkey=coajb08pffg2quyad8sdhgd38&st=n21yo9mz&dl=1"
+              "01 ABYSS": "https://github.com/injctr/large/raw/main/Moskov/Abyss/Moskov%20Abyss%20-%20Elite.zip",
+              "02 ALL STAR": "https://github.com/injctr/large/raw/main/Moskov/Allstar/Moskov%20Allstar%20-%20Elite.zip",
+              "03 LUCKYBOX": "https://github.com/injctr/large/raw/main/Moskov/Luckybox/Moskov%20Luckybox%20-%20Elite.zip",
+              "04 COLLECTOR": "https://github.com/injctr/large/raw/main/Moskov/Collector/Moskov%20Collector%20-%20Elite.zip"
             },
             "second_link": {
               "01 ABYSS": "unavailable",
@@ -13320,10 +13320,10 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Hero318-icon.png/revision/latest?cb=20220126041859",
             "type1": "Epic",
             "type_links": {
-              "01 ABYSS": "https://www.dropbox.com/scl/fi/6a0dsb9lyc1d0bhtbwu4v/Moskov-Abyss-Epic.zip?rlkey=94pirsa76zxql1g6ooddk0d3u&st=7wz3c7uo&dl=1",
-              "02 ALL STAR": "https://www.dropbox.com/scl/fi/vtdwcpxcedu5url89xn0i/Moskov-Allstar-Epic.zip?rlkey=6dct3445rxdxnynuaouv5xftl&st=lvsc6b1m&dl=1",
+              "01 ABYSS": "https://github.com/injctr/large/raw/main/Moskov/Abyss/Moskov%20Abyss%20-%20Epic.zip",
+              "02 ALL STAR": "https://github.com/injctr/large/raw/main/Moskov/Allstar/Moskov%20Allstar%20-%20Epic.zip",
               "03 LUCKYBOX": "unavailable",
-              "04 COLLECTOR": "https://www.dropbox.com/scl/fi/p2zc73piw6jlxbdv9123o/Moskov-Collector-Epic.zip?rlkey=1ipkv0ypbnl225kojr0o3jz46&st=m9o9jsuo&dl=1"
+              "04 COLLECTOR": "https://github.com/injctr/large/raw/main/Moskov/Collector/Moskov%20Collector%20-%20Epic.zip"
             },
             "second_link": {
               "01 ABYSS": "unavailable",
@@ -13337,9 +13337,9 @@
             "type1": "Abyss",
             "type_links": {
               "01 ABYSS": "unavailable",
-              "02 ALL STAR": "https://www.dropbox.com/scl/fi/6q9xj15940gfaig96fwep/Moskov-Allstar-Abyss.zip?rlkey=19kftvx2420k8x9urmuzt7lb5&st=ywrdz2pq&dl=1",
+              "02 ALL STAR": "https://github.com/injctr/large/raw/main/Moskov/Allstar/Moskov%20Allstar%20-%20Abyss.zip",
               "03 LUCKYBOX": "unavailable",
-              "04 COLLECTOR": "https://www.dropbox.com/scl/fi/gbcqrx22nix1qyju09pyb/Moskov-Collector-Abyss.zip?rlkey=zo3nvuasen8xyh1itqzx3wc3a&st=fuchk646&dl=1"
+              "04 COLLECTOR": "https://github.com/injctr/large/raw/main/Moskov/Collector/Moskov%20Collector%20-%20Abyss.zip"
             },
             "second_link": {
               "01 ABYSS": "unavailable",
@@ -13352,10 +13352,10 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Hero103110-icon.png/revision/latest?cb=20230317100417",
             "type1": "Starlight 2023",
             "type_links": {
-              "01 ABYSS": "https://www.dropbox.com/scl/fi/dxkvt32nw9tuu6oldbh7v/Moskov-Abyss-New-Starlight.zip?rlkey=wk5h09nvk44deja1dc7ib4j8c&st=ugy7qfd6&dl=1",
-              "02 ALL STAR": "https://www.dropbox.com/scl/fi/wjahblm6ofpg6wh0gbm7o/Moskov-Allstar-New-Starlight.zip?rlkey=mlfvkd30gpxo1ypeokq2g87fj&st=4iox5yos&dl=1",
+              "01 ABYSS": "https://github.com/injctr/large/raw/main/Moskov/Abyss/Moskov%20Abyss%20-%20New%20Starlight.zip",
+              "02 ALL STAR": "https://github.com/injctr/large/raw/main/Moskov/Allstar/Moskov%20Allstar%20-%20New%20Starlight.zip",
               "03 LUCKYBOX": "unavailable",
-              "04 COLLECTOR": "https://www.dropbox.com/scl/fi/qy9l1o55b7x9n5csz1s2s/Moskov-Collector-New-Starlight.zip?rlkey=jn3yrjomgvxsdoen8onsm2bdr&st=ogs5v951&dl=1"
+              "04 COLLECTOR": "https://github.com/injctr/large/raw/main/Moskov/Collector/Moskov%20Collector%20-%20New%20Starlight.zip"
             },
             "second_link": {
               "01 ABYSS": "unavailable",
@@ -13368,10 +13368,10 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Hero103111-icon.png/revision/latest?cb=20240416091838",
             "type1": "All Star",
             "type_links": {
-              "01 ABYSS": "https://www.dropbox.com/scl/fi/i2y5ohnuspyz6cj8p8xq9/Moskov-Abyss-Allstar.zip?rlkey=fpo375d8ku3tmlodrq02u0dbq&st=cvlrwcpt&dl=1",
-              "02 ALL STAR": "https://www.dropbox.com/scl/fi/6nugwr9qjzzy3a3j9btig/Moskov-Allstar-Season.zip?rlkey=n4kcrx8e66okpkdyvppvf9z93&st=9jcip7to&dl=1",
+              "01 ABYSS": "https://github.com/injctr/large/raw/main/Moskov/Abyss/Moskov%20Abyss%20-%20Allstar.zip",
+              "02 ALL STAR": "unavailable",
               "03 LUCKYBOX": "unavailable",
-              "04 COLLECTOR": "https://www.dropbox.com/scl/fi/ly9htmq9f7kmp1bp0tbmb/Moskov-Collector-Allstar.zip?rlkey=r01omglsemw18ec72lp4scixl&st=fg8x76tw&dl=1"
+              "04 COLLECTOR": "https://github.com/injctr/large/raw/main/Moskov/Collector/Moskov%20Collector%20-%20Allstar.zip"
             },
             "second_link": {
               "01 ABYSS": "unavailable",
@@ -13384,10 +13384,10 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero316-icon.png/revision/latest?cb=20260424021939",
             "type1": "Luckybox",
             "type_links": {
-              "01 ABYSS": "https://www.dropbox.com/scl/fi/8vqptx4h9zx20j0peham1/Moskov-Abyss-Luckybox.zip?rlkey=n8kzbx66t8d4ykfy90liwg2mv&st=wj46m7dw&dl=1",
-              "02 ALL STAR": "https://www.dropbox.com/scl/fi/oq04za7965zxe2bctp37l/Moskov-Allstar-Luckybox.zip?rlkey=rvhsvkoea7vvt0vi9r0rgxng1&st=c5cxo33u&dl=1",
+              "01 ABYSS": "https://github.com/injctr/large/raw/main/Moskov/Abyss/Moskov%20Abyss%20-%20Luckybox.zip",
+              "02 ALL STAR": "https://github.com/injctr/large/raw/main/Moskov/Allstar/Moskov%20Allstar%20-%20Luckybox.zip",
               "03 LUCKYBOX": "unavailable",
-              "04 COLLECTOR": "https://www.dropbox.com/scl/fi/5opyrzo5eov67agoih15t/Moskov-Collector-Luckybox.zip?rlkey=1yrqduu5z9e3ub2uvqa1wd1ze&st=l3sj3lhl&dl=1"
+              "04 COLLECTOR": "https://github.com/injctr/large/raw/main/Moskov/Collector/Moskov%20Collector%20-%20Luckybox.zip"
             },
             "second_link": {
               "01 ABYSS": "unavailable",
