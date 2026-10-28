@@ -1,11 +1,11 @@
 [
   {
     "version": {
-      "unity_ads": "Rewarded_Android",
+      "unity_ads": "Interstitial_Android",
       "allow": "no",
       "allow_earning_points": "yes",
-      "version": "3.0",
-      "message": "[RECENT SKIN UPDATE]\n- Bane Mr. Crabs\n- Suyou Starlight\n- Kagura Legend\n- Selena Aspirants Update\n- Obsidia Aspirants Update\n- Lylia Collector\n- Lapu-Lapu M7 Champion\n- Grock FMVP\n- Valentina Mythic 2026\n- Aldous Annual Starlight",
+      "version": "3.1",
+      "message": "- Improved Script Downloader & Manager\n- Fixed some bugs\n\n[RECENT SKIN UPDATE]\n- Bane Mr. Crabs\n- Suyou Starlight\n- Kagura Legend\n- Selena Aspirants Update\n- Obsidia Aspirants Update\n- Lylia Collector\n- Lapu-Lapu M7 Champion\n- Grock FMVP\n- Valentina Mythic 2026\n- Aldous Annual Starlight",
       "link": "https://youtu.be/xbIvKsNt9oI",
       "live": "no",
       "live_link": "",
