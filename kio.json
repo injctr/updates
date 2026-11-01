@@ -20374,9 +20374,109 @@
     "CS-Categories": [
       "Anime Model",
       "Customized Effects",
-      "Skin-Hero Replace"
+      "Skin-Hero Replace",
+      "Cartoon Model"
     ],
     "Custom-Skins": {
+      "CSMVXE61Q5": {
+        "category": "Customized Effects",
+        "name": "Chou",
+        "img1": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero261-icon.png/revision/latest?cb=20241021145315",
+        "cs-name": "Michael Jackson",
+        "img2": "https://github.com/injctr/IMAGES/raw/main/cs-skin/Chou%20x%20Michael%20Jackson.jpg",
+        "yt-link": "",
+        "url": "https://github.com/injctr/CS-SKIN/raw/main/Chou%20x%20Michael%20Jackson.zip"
+      },
+      "CSMVXE4PJ1": {
+        "category": "Anime Model",
+        "name": "Argus",
+        "img1": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero451-icon.png/revision/latest?cb=20241021145507",
+        "cs-name": "Denji Chainsaw Man",
+        "img2": "https://github.com/injctr/IMAGES/raw/main/cs-skin/Argus%20x%20Denji%20Chainsaw%20Man.jpg",
+        "yt-link": "",
+        "url": "https://github.com/injctr/CS-SKIN/raw/main/Argus%20x%20Denji%20Chainsaw%20Man.zip"
+      },
+      "CSMVXE3J66": {
+        "category": "Anime Model",
+        "name": "Argus",
+        "img1": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero451-icon.png/revision/latest?cb=20241021145507",
+        "cs-name": "Aizen Sōsuke",
+        "img2": "https://github.com/injctr/IMAGES/raw/main/cs-skin/Argus%20x%20Aizen.jpg",
+        "yt-link": "",
+        "url": "https://github.com/injctr/large/raw/main/Argus/Customized/Argus%20x%20Aizen.zip"
+      },
+      "CSMVXE01KD": {
+        "category": "Anime Model",
+        "name": "Argus",
+        "img1": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero451-icon.png/revision/latest?cb=20241021145507",
+        "cs-name": "Kenpachi Zaraki",
+        "img2": "https://github.com/injctr/IMAGES/raw/main/cs-skin/Argus%20x%20Kenpachi%20Zaraki.jpg",
+        "yt-link": "",
+        "url": "https://github.com/injctr/CS-SKIN/raw/main/Argus%20x%20Kenpachi%20Zaraki.zip"
+      },
+      "CSMVXDZBMT": {
+        "category": "Anime Model",
+        "name": "Argus",
+        "img1": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero451-icon.png/revision/latest?cb=20241021145507",
+        "cs-name": "Vergil",
+        "img2": "https://github.com/injctr/IMAGES/raw/main/cs-skin/Argus%20x%20Vergil.jpg",
+        "yt-link": "",
+        "url": "https://github.com/injctr/CS-SKIN/raw/main/Argus%20x%20Vergil.zip"
+      },
+      "CSMVXDXZ5I": {
+        "category": "Anime Model",
+        "name": "Badang",
+        "img1": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero771-icon.png/revision/latest?cb=20241021152939",
+        "cs-name": "Jotaro Kujo (White)",
+        "img2": "https://github.com/injctr/IMAGES/raw/main/cs-skin/Bandang%20x%20Jotaro%20(White).jpg",
+        "yt-link": "",
+        "url": "https://github.com/injctr/CS-SKIN/raw/main/Bandang%20x%20Jotaro%20(White).zip"
+      },
+      "CSMVXDW4RP": {
+        "category": "Anime Model",
+        "name": "Aulus",
+        "img1": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Hero1081-icon.png/revision/latest?cb=20260423095836",
+        "cs-name": "Tanjiro Kamado",
+        "img2": "https://github.com/injctr/IMAGES/raw/main/cs-skin/Aulus%20x%20Tanjiro.jpg",
+        "yt-link": "",
+        "url": "https://github.com/injctr/CS-SKIN/raw/main/Aulus%20x%20Tanjiro.zip"
+      },
+      "CSMVXDUWZY": {
+        "category": "Anime Model",
+        "name": "Bane",
+        "img1": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero111-icon.png/revision/latest?cb=20241021145146",
+        "cs-name": "Escanor",
+        "img2": "https://github.com/injctr/IMAGES/raw/main/cs-skin/Bane%20x%20Escanor.jpg",
+        "yt-link": "",
+        "url": "https://github.com/injctr/CS-SKIN/raw/main/Bane%20x%20Escanor.zip"
+      },
+      "CSMVXDS2HP": {
+        "category": "Anime Model",
+        "name": "Yin",
+        "img1": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Hero1131-icon.png/revision/latest?cb=20241021153303",
+        "cs-name": "Jiji Evil Eye",
+        "img2": "https://github.com/injctr/IMAGES/raw/main/cs-skin/Yin%20x%20Jiji%20Evil%20Eye.jpg",
+        "yt-link": "",
+        "url": "https://github.com/injctr/CS-SKIN/raw/main/Yin%20x%20Jiji%20Evil%20Eye.zip"
+      },
+      "CSMVXDP9NP": {
+        "category": "Skin-Hero Replace",
+        "name": "Yin",
+        "img1": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Hero1131-icon.png/revision/latest?cb=20241021153303",
+        "cs-name": "Satoru Gojo",
+        "img2": "https://github.com/injctr/IMAGES/raw/main/cs-skin/Yin%20x%20Gojo.jpg",
+        "yt-link": "",
+        "url": "https://github.com/injctr/CS-SKIN/raw/main/Yin%20x%20Gojo.zip"
+      },
+      "CSMVXDMQJI": {
+        "category": "Cartoon Model",
+        "name": "Yin",
+        "img1": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Hero1131-icon.png/revision/latest?cb=20241021153303",
+        "cs-name": "Oggy",
+        "img2": "https://github.com/injctr/IMAGES/raw/main/cs-skin/Yin%20x%20Oggy.jpg",
+        "yt-link": "",
+        "url": "https://github.com/injctr/CS-SKIN/raw/main/Yin%20X%20Oggy.zip"
+      },
       "CSMS2WC1G6": {
         "category": "Skin-Hero Replace",
         "name": "Chou",
